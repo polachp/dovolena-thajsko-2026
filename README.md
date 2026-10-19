@@ -16,6 +16,7 @@ Itinerář jižního Thajska ve směru Phuket → Bangkok (podle manuálu od Ane
 
 1. Zkopírovat poslední `verze/vN/` do `verze/vN+1/` a upravit tam `thajsko-phuket-bangkok.md`.
 2. Přidat záznam do `src/verze.json` (datum, název, seznam změn, hlavička).
-3. `python build.py`, commit, `git tag vN+1`, push včetně tagů.
+3. Commit textu verze, jeho hash zapsat do `commit` u nové verze v `src/verze.json` (slouží pro odkaz na rozdíl na GitHubu).
+4. `python build.py`, commit, push.
 
 Starší verze se neupravují.

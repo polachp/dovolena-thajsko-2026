@@ -9,7 +9,8 @@ window.THAJSKO_VERZE = [
       "Tabulky bodů pro Mapy, dopravy, pláží a rozpočtu přeřazeny podle nového pořadí fází.",
       "Úseky, které PDF popisuje jen v opačném směru, označeny jako neověřené.",
       "Sekce 0 s rozdíly proti PDF pro orientační termín polovina listopadu až druhá polovina prosince (počítáno 33–37 nocí)."
-    ]
+    ],
+    "commit": "4999080"
   },
   {
     "id": "v2",
@@ -22,6 +23,7 @@ window.THAJSKO_VERZE = [
       "Nová upozornění: Khao Sok 5.–9. 12. před otevřením všech stezek, nedělní trh na Phuketu vychází mimo plán, svátky 5. a 10. 12.",
       "Pojištění, očkování a příloha s porovnáním termínů upraveny na nový termín.",
       "Hlavička webu a trasa ukazují data místo rozpětí nocí."
-    ]
+    ],
+    "commit": "d50edcd"
   }
 ];

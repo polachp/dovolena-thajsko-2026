@@ -4,7 +4,7 @@ Itinerář Thajsko Phuket → Bangkok. Nejnovější verze nahoře.
 
 ## v2: Termín letenek 26. 11.–19. 12. (19. 10. 2026)
 
-[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v2/) · [Markdown](verze/v2/thajsko-phuket-bangkok.md) · [rozdíl proti v1](https://github.com/polachp/dovolena-thajsko-2026/compare/v1...v2)
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v2/) · [Markdown](verze/v2/thajsko-phuket-bangkok.md) · [rozdíl proti v1](https://github.com/polachp/dovolena-thajsko-2026/compare/4999080...d50edcd)
 
 - Sekce 0 přepsána: návrh 22 nocí po dnech, přílet na Phuket 27. 11., odlet z Bangkoku 19. 12.
 - Vízum: pobyt 23 dní se vejde do bezvízových 30 dní, prodloužení není potřeba (ve v1 vycházelo jako nutné).

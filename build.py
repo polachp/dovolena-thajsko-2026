@@ -43,7 +43,7 @@ def stranka(v: dict, base: str) -> str:
 
 
 def main():
-    verejne = [{k: v[k] for k in ("id", "datum", "nazev", "zmeny")} for v in VERZE]
+    verejne = [{k: v.get(k) for k in ("id", "datum", "nazev", "zmeny", "commit")} for v in VERZE]
     (ROOT / "verze.js").write_text(
         "// Generováno skriptem build.py ze src/verze.json.\nwindow.THAJSKO_VERZE = "
         + json.dumps(verejne, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
@@ -66,8 +66,8 @@ def main():
         radky += [f"## {v['id']}: {v['nazev']} ({v['datum']})", ""]
         odkazy = [f"[web](https://polachp.github.io/dovolena-thajsko-2026/verze/{v['id']}/)",
                   f"[Markdown](verze/{v['id']}/thajsko-phuket-bangkok.md)"]
-        if i > 0:
-            odkazy.append(f"[rozdíl proti {VERZE[i-1]['id']}](https://github.com/polachp/dovolena-thajsko-2026/compare/{VERZE[i-1]['id']}...{v['id']})")
+        if i > 0 and v.get("commit") and VERZE[i-1].get("commit"):
+            odkazy.append(f"[rozdíl proti {VERZE[i-1]['id']}](https://github.com/polachp/dovolena-thajsko-2026/compare/{VERZE[i-1]['commit']}...{v['commit']})")
         radky += [" · ".join(odkazy), ""] + [f"- {z}" for z in v["zmeny"]] + [""]
     (ROOT / "ZMENY.md").write_text("\n".join(radky), encoding="utf-8")
     print("Hotovo:", ", ".join(v["id"] for v in VERZE), "| aktuální:", posledni["id"])

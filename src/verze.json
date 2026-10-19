@@ -11,10 +11,38 @@
     ],
     "hlavicka": {
       "eyebrow": "Slow travel · jižní Thajsko · listopad–prosinec 2026",
-      "facts": [["Fáze", "9"], ["Nocí v manuálu", "17–27"], ["Váš termín", "cca 33–37 nocí"], ["Bezvízový pobyt ČR", "30 dní"]],
-      "route": ["1–2 noci", "2–4 noci", "2 noci", "2–3 noci", "3–5 nocí", "2–4 noci", "2–3 noci", "1 noc", "2–3 noci"],
+      "facts": [
+        [
+          "Fáze",
+          "9"
+        ],
+        [
+          "Nocí v manuálu",
+          "17–27"
+        ],
+        [
+          "Váš termín",
+          "cca 33–37 nocí"
+        ],
+        [
+          "Bezvízový pobyt ČR",
+          "30 dní"
+        ]
+      ],
+      "route": [
+        "1–2 noci",
+        "2–4 noci",
+        "2 noci",
+        "2–3 noci",
+        "3–5 nocí",
+        "2–4 noci",
+        "2–3 noci",
+        "1 noc",
+        "2–3 noci"
+      ],
       "faze6": "Koh Phayam / Ban Krut"
-    }
+    },
+    "commit": "4999080"
   },
   {
     "id": "v2",
@@ -30,9 +58,37 @@
     ],
     "hlavicka": {
       "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
-      "facts": [["Fáze", "9"], ["Nocí v Thajsku", "22"], ["Termín", "27. 11.–19. 12."], ["Bezvízový pobyt", "23 z 30 dní"]],
-      "route": ["27.–28. 11.", "28. 11.–1. 12.", "1.–3. 12.", "3.–5. 12.", "5.–9. 12.", "9.–12. 12.", "12.–15. 12.", "15.–16. 12.", "16.–19. 12."],
+      "facts": [
+        [
+          "Fáze",
+          "9"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–28. 11.",
+        "28. 11.–1. 12.",
+        "1.–3. 12.",
+        "3.–5. 12.",
+        "5.–9. 12.",
+        "9.–12. 12.",
+        "12.–15. 12.",
+        "15.–16. 12.",
+        "16.–19. 12."
+      ],
       "faze6": "Koh Phayam"
-    }
+    },
+    "commit": "d50edcd"
   }
 ]
