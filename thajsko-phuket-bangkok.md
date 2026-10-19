@@ -1,21 +1,37 @@
 # Thajsko: slow-travel itinerář Phuket → Bangkok
 
-Zdroj: „Kompletní thajský slow-travel manuál (18–25 dní)“, @Anezka, 14. 10. 2026. Tato verze má itinerář otočený: **přílet na Phuket, odlet z Bangkoku**. Plánovaný termín: polovina listopadu až druhá polovina prosince 2026.
+Zdroj: „Kompletní thajský slow-travel manuál (18–25 dní)“, @Anezka, 14. 10. 2026. Tato verze má itinerář otočený: **přílet na Phuket, odlet z Bangkoku**. Termín: 26. 11.–19. 12. 2026 (letenky).
 
 Itinerář je volný: berte ho jako osnovu, ne jako pevný rozvrh. U každého přesunu je orientační čas, u každé zastávky rozpětí nocí.
 
 > **Upozornění k otočení:** Časy a ceny přesunů jsou převzaté z původního směru (sever → jih). Délka jízdy bývá v obou směrech podobná, ale **odjezdové časy platí jen pro směr uvedený v PDF**. Kde PDF opačný směr nepopisuje, je to označené „neověřeno“.
 
-## 0. Váš termín: co z původního PDF nesedí
+## 0. Termín 26. 11.–19. 12. 2026 a návrh nocí
 
-- **Délka cesty:** Polovina listopadu až druhá polovina prosince je zhruba 33–37 nocí. Manuál počítá se 14–27 nocemi. Zbývajících asi 8–10 nocí rozložte do pomalých zastávek (Koh Yao Noi, Khao Lak, Koh Phayam, Prachuap Khiri Khan) nebo přidejte noc v Ranongu a obě noci v Krabi.
-- **Vízum (zásadní):** Podle sekce 13 platí od 15. 9. 2026 pro občany ČR bezvízový pobyt jen na 30 dní. Pobyt přes 30 dní vyžaduje prodloužení na imigračním úřadě (jednou o 30 dní, asi 1 900 THB), nebo vízum. Prodloužení musíte stihnout před koncem 30. dne. Kde na trase je imigrační úřad a zda se do 30 dní počítá i den příletu, nemám ověřeno. Ověřte na stránkách MZV a thajské imigrace ještě před koupí letenek.
-- **Počasí:** Manuál je psaný na prosinec a leden. Listopad je mokřejší (průměry z PDF: okolí Khao Sok 255 mm a 13,8 dne deště, andamanské pobřeží zhruba 120–200 mm, Prachuap 128 mm, Bangkok 45 mm). Přeháňky bývají krátké a hlavně odpoledne.
-- **Khao Sok:** Při startu v polovině listopadu do Khao Sok dorazíte zhruba koncem listopadu nebo začátkem prosince. Některé stezky bývají uzavřené do asi 14. 12. Jezero, kajaky, lodě a noční safari fungují.
-- **Lodě:** V listopadu se lodě na Andamanu za špatného počasí ruší častěji. Na Koh Yao Noi plánujte rezervu.
-- **Konec cesty:** Druhá polovina prosince padne na pobřeží Zálivu a Bangkok. Hlavní sezóna začíná asi 20. 12. Při odletu po 20. 12. rezervujte Bangkok a letenku předem.
-- **Svátky:** 5. 12. (so) Den otců, 10. 12. (čt) Den ústavy, 7. 12. může být náhradní volno. Víc Thajců na cestách, banky a úřady zavřené.
-- **Rozpočet:** Sekce 16 počítá s 19 nocemi. Pro 33–37 nocí počítejte s téměř dvojnásobkem u ubytování a jídla.
+Letenky: odlet z Prahy 26. 11., odlet z Bangkoku 19. 12. Návrh níže počítá s příletem na Phuket 27. 11. (běžný let s přestupem, čas příletu ověřte podle letenky). To je **22 nocí v Thajsku**, tedy střední počty nocí z manuálu. Termín je skoro shodný s variantou 26. 11.–18. 12., kterou PDF v sekci 18 doporučuje (směr Phuket → Bangkok).
+
+| Fáze | Kde | Noci | Data (noc z/na) |
+|---|---|---|---|
+| 1 | Phuket Town | 1 | 27.–28. 11. (pá) |
+| 2 | Koh Yao Noi | 3 | 28. 11.–1. 12. |
+| 3 | Krabi Town | 2 | 1.–3. 12. |
+| 4 | Khao Lak | 2 | 3.–5. 12. |
+| 5 | Khao Sok (z toho 1 noc na Cheow Lan) | 4 | 5.–9. 12. |
+| 6B | Koh Phayam | 3 | 9.–12. 12. |
+| 7 | Prachuap Khiri Khan a Kui Buri | 3 | 12.–15. 12. |
+| 8 | Sam Roi Yot | 1 | 15.–16. 12. |
+| 9 | Bangkok | 3 | 16.–19. 12., odlet 19. 12. |
+
+Je to návrh, ne závazný plán. Noci se dají přesouvat podle sekce 6.
+
+- **Vízum:** Pobyt 27. 11.–19. 12. je 23 dní, vejde se do bezvízových 30 dní (sekce 13). Prodloužení není potřeba. Pravidla si přesto ověřte krátce před odletem.
+- **Phuket v neděli:** Walking Street na Thalang Road je jen v neděli. 29. 11. budete podle návrhu na Koh Yao Noi. Kdo o trh stojí, zůstane na Phuketu do neděle 29. 11. a o noc zkrátí Koh Yao Noi.
+- **Počasí:** Konec listopadu je na Andamanu a v Khao Sok ještě mokřejší (průměry z PDF: okolí Khao Sok v listopadu 255 mm a 13,8 dne deště, v prosinci 170 mm). Přeháňky bývají krátké a hlavně odpoledne. Záliv (Prachuap, Bangkok) vyjde na sušší druhou polovinu prosince.
+- **Khao Sok 5.–9. 12.:** Některé stezky bývají uzavřené do asi 14. 12. Jezero, kajaky, lodě a noční safari fungují. U ubytování si ověřte, co je otevřené.
+- **Lodě:** Za špatného počasí se lodě na Andamanu ruší. Na Koh Yao Noi a Koh Phayam mějte v plánu rezervu.
+- **Svátky:** 5. 12. (so) Den otců (přesun Khao Lak → Khao Sok), 10. 12. (čt) Den ústavy (Koh Phayam), 7. 12. může být náhradní volno. Víc Thajců na cestách, banky a úřady zavřené.
+- **Hlavní sezóna** (asi 20. 12.–5. 1.) vás nezasáhne, odlétáte 19. 12.
+- **Rozpočet:** Sekce 16 počítá s 19 nocemi, vy máte 22. Ubytování a jídlo vyjdou zhruba o šestinu dráž.
 
 ## 1. Úvod do Thajska: kultura, historie a perličky
 
@@ -157,7 +173,7 @@ Trasa vede z jihu na sever a nikde se nevrací. Pevné jsou jen dva body: rezerv
 | 8 | Sam Roi Yot (Bang Pu) | 1 | Odvoz do Pranburi a minivan do Bangkoku (Mo Chit 2) |
 | 9 | Bangkok | 2–3 | Airport Rail Link na letiště BKK, odlet |
 
-Při nejkratších pobytech vychází trasa s Ban Krutem na 17 nocí a s Koh Phayam na 18, při nejdelších na 25 a 27. Na váš termín (33–37 nocí) přidejte noci do pomalých zastávek: Koh Yao Noi, Khao Lak, Koh Phayam, Prachuap.
+Při nejkratších pobytech vychází trasa s Ban Krutem na 17 nocí a s Koh Phayam na 18, při nejdelších na 25 a 27. Na váš termín (22 nocí) vychází návrh v sekci 0.
 
 **Slow tempo:** Žádná zastávka není povinná. Když je potřeba škrtat, škrtejte v tomto pořadí: Krabi Town, noc u Sam Roi Yot, Khao Lak.
 
@@ -202,7 +218,7 @@ Při nejkratších pobytech vychází trasa s Ban Krutem na 17 nocí a s Koh Pha
 - **Místo:** Národní park Khao Sok a jezero Cheow Lan.
 - **Zážitek:** Eco-lodge se sítěmi proti hmyzu, pádlování po řece Sok, procházky po stezkách u ředitelství parku. Volitelně noční safari s průvodcem (od asi 1 200 THB, dvě hodiny), na kterém potkáte i pavouky (sekce 14). Potom noc na jezeře Cheow Lan: plovoucí bungalov a ranní kajaky v mlze, s trochou štěstí za zpěvu gibonů.
 - **Prakticky:** Vstup 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený po 16:00 platí i další den. Na molu u jezera dalších 40 THB. Vodní aktivity (kánoe, vor, tubing) 400–950 THB, tubing podle hladiny řeky.
-- **Pozor na váš termín:** Některé stezky bývají do poloviny prosince (obvykle do 14. 12.) uzavřené a v listopadu tu prší nejvíc z celé trasy. U ubytování si ověřte, co je otevřené. Plovoucí bungalov rezervujte hned po koupi letenek.
+- **Pozor na váš termín (5.–9. 12.):** Některé stezky bývají do poloviny prosince (obvykle do 14. 12.) uzavřené a na přelomu listopadu a prosince tu prší nejvíc z celé trasy. U ubytování si ověřte, co je otevřené. Plovoucí bungalov rezervujte hned po koupi letenek.
 - **Volné dny:** Dvě stezky u ředitelství parku (i bez průvodce), tubing na řece Sok, pro zdatné celodenní výlet k vodopádu Than Sawan s průvodcem.
 - **Přesun dál:** Podle zvolené pláže (fáze 6). Varianta A: minibus do Surat Thani a vlak do Ban Krut, celý den (7–8 h). Varianta B: autobus nebo minivan do Ranongu (nejrychleji asi 2 h 50 min) a rychlá loď na Koh Phayam; poslední loď z Ranongu jede kolem 17:00 (řád z 2024). Po návratu z jezera kolem poledne loď už nemusíte stihnout, pak přespěte v Ranongu.
 
@@ -293,7 +309,7 @@ Poznámka: PDF uvádí pro Phuket v prosinci jednou „asi 80 mm“ (sekce 8) a 
 
 ### Váš termín a směr
 
-Směr Phuket → Bangkok doporučuje i původní PDF (sekce 18): andamanská strana vyjde před vánoční špičku a pobřeží Zálivu (v prosinci sušší) na druhou půlku cesty. Nevýhoda startu v polovině listopadu je mokřejší začátek na Andamanu a v Khao Sok (sekce 0).
+Směr Phuket → Bangkok doporučuje i původní PDF (sekce 18): andamanská strana vyjde před vánoční špičku a pobřeží Zálivu (v prosinci sušší) na druhou půlku cesty. Nevýhoda termínu 26. 11.–19. 12. je mokřejší začátek na Andamanu a v Khao Sok, výhoda je celá cesta před hlavní sezónou (sekce 0).
 
 ## 9. Jídlo, pití a bezpečné stravování
 
@@ -375,12 +391,12 @@ Pálivost si můžete zvolit, najíte se dobře i bez chilli.
 Pravidla vstupu se v září 2026 změnila, projděte to ještě před koupí letenek.
 
 1. **Cestovní pas:** platný aspoň 6 měsíců od data vstupu. Digitální kopie v telefonu.
-2. **Vstup bez víza:** Od 15. 9. 2026 mají občané ČR bezvízový pobyt na 30 dní, jen pro turistiku. Na imigračním úřadě ho lze jednou prodloužit o 30 dní (asi 1 900 THB). **Váš termín přesahuje 30 dní, prodloužení je nutné (sekce 0).** O vpuštění rozhoduje úředník: mějte letenku ven z Thajska a adresu prvního ubytování. Plánovaný vstupní poplatek (podle zpráv ze září 2026 jednotných 450 THB na osobu) zatím neplatí, vláda s ním počítá nejdříve v 1. čtvrtletí 2027. Aktuální podmínky ověřte na stránkách MZV.
+2. **Vstup bez víza:** Od 15. 9. 2026 mají občané ČR bezvízový pobyt na 30 dní, jen pro turistiku. Na imigračním úřadě ho lze jednou prodloužit o 30 dní (asi 1 900 THB). **Váš pobyt 27. 11.–19. 12. (23 dní) se do 30 dní vejde.** O vpuštění rozhoduje úředník: mějte letenku ven z Thajska a adresu prvního ubytování. Plánovaný vstupní poplatek (podle zpráv ze září 2026 jednotných 450 THB na osobu) zatím neplatí, vláda s ním počítá nejdříve v 1. čtvrtletí 2027. Aktuální podmínky ověřte na stránkách MZV.
 3. **Digitální příjezdová karta (TDAC):** Povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem na https://tdac.immigration.go.th. Je zdarma, používejte jen tuto stránku.
 4. **Řidičský průkaz a skútr:** Potřebujete skupinu A1, A2 nebo A, samotné B nestačí a pojišťovna při nehodě může odmítnout plnění. K tomu mezinárodní řidičský průkaz se skupinou motocyklů (obecní úřad obce s rozšířenou působností, osobně, obvykle na počkání; řidičák, doklad totožnosti, fotka 3,5 × 4,5 cm, 200 Kč). Thajsko je stranou Ženevské (1 rok) i Vídeňské úmluvy (3 roky).
 5. **Letenky:** Otevřená trasa: přílet na Phuket, odlet z Bangkoku. Při letence Bangkok–Bangkok přidejte vnitrostátní let Bangkok–Phuket na začátku.
 6. **Ubytování:** První 1–2 noci na Phuketu a plovoucí bungalov na Cheow Lan rezervujte hned. Zbytek pružně s bezplatným zrušením. Na dny po 20. 12. rezervujte předem i Bangkok.
-7. **Cestovní pojištění:** Musí krýt aktivní dovolenou, turistiku, vodní aktivity (kajak, šnorchlování), léčebné výlohy a převoz domů. Skútr jen s platným oprávněním. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou délku cesty (33–37 dní).
+7. **Cestovní pojištění:** Musí krýt aktivní dovolenou, turistiku, vodní aktivity (kajak, šnorchlování), léčebné výlohy a převoz domů. Skútr jen s platným oprávněním. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 8. **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem centrum cestovní medicíny (sekce 15).
 9. **Mobilní data:** eSIM přes Airalo nebo Nomad, nebo turistická SIM na letišti.
 10. **Finance:** Karty s limity pro zahraniční platby, drobná rezerva v USD nebo EUR, po příletu bahty z bankomatu. Na Cheow Lan jen hotově.
@@ -450,7 +466,7 @@ Velvyslanectví ČR: 71/6 Ruam Rudee Soi 2, Ploenchit Rd., Lumpini, Pathumwan, B
 
 ### Očkování a prevence
 
-Aspoň 4–6 týdnů před odletem centrum cestovní medicíny, řekněte celou trasu včetně Ranongu, Koh Phayam a Khao Lak. Podle CDC: běžná očkování (včetně spalniček), navíc hepatitida A, hepatitida B a tyfus. Japonská encefalitida při pobytu od jednoho měsíce nebo v lese a na venkově (váš pobyt přesahuje měsíc, proberte s lékařem). Vzteklinu CDC doporučuje hlavně rizikovým povoláním a lidem daleko od péče; kvůli makakům ji stojí za to probrat.
+Aspoň 4–6 týdnů před odletem centrum cestovní medicíny, řekněte celou trasu včetně Ranongu, Koh Phayam a Khao Lak. Podle CDC: běžná očkování (včetně spalniček), navíc hepatitida A, hepatitida B a tyfus. Japonská encefalitida při pobytu od jednoho měsíce nebo v lese a na venkově (váš pobyt je kratší než měsíc, ale Khao Sok a venkov jsou na trase, proberte s lékařem). Vzteklinu CDC doporučuje hlavně rizikovým povoláním a lidem daleko od péče; kvůli makakům ji stojí za to probrat.
 
 ### Komáři a nemoci
 
@@ -483,7 +499,7 @@ Rehydratační sáčky, náplasti a obvaz, dezinfekce, přípravek na spáleniny
 
 ## 16. Orientační rozpočet
 
-Pro dva na zhruba 19 nocí (trasa s Ban Krutem, střední počty nocí), bez letenek a pojištění. Varianta s Koh Phayam přidá hrubým odhadem 3 000–5 000 THB. Přepočet: × 0,65 Kč. **Pro váš termín (33–37 nocí) počítejte u ubytování a jídla zhruba s dvojnásobkem.**
+Pro dva na zhruba 19 nocí (trasa s Ban Krutem, střední počty nocí), bez letenek a pojištění. Varianta s Koh Phayam přidá hrubým odhadem 3 000–5 000 THB. Přepočet: × 0,65 Kč. **Pro váš termín (22 nocí) počítejte u ubytování a jídla zhruba o šestinu víc.**
 
 | Položka | Úsporně (THB) | Pohodlněji (THB) | Poznámka |
 |---|---|---|---|
@@ -580,7 +596,7 @@ Thajština je tónová, přepis je přibližný. Na konec zdvořilých vět muž
 
 ## Příloha: původní porovnání termínů z PDF (sekce 18)
 
-PDF porovnávalo tři termíny pro zadání „nízký rozpočet, klid, nic nerezervovat dopředu“. Váš termín (polovina listopadu až druhá polovina prosince) žádnému neodpovídá, nejblíž má k prvnímu.
+PDF porovnávalo tři termíny pro zadání „nízký rozpočet, klid, nic nerezervovat dopředu“. Váš termín 26. 11.–19. 12. odpovídá prvnímu z nich, jen o den delší.
 
 - **26. 11.–18. 12. (22 nocí):** celá cesta před hlavní sezónou, nejnižší ceny, ale nejmokřejší; v Khao Sok uzavřené stezky do asi 14. 12. Skoro všechno jde rezervovat na místě, kromě Koh Yao Noi a Cheow Lan. Doporučený směr: z Phuketu do Bangkoku.
 - **9.–31. 12. (22 nocí):** kompromis, posledních 11 dní ve vánoční špičce (ubytování o 30–50 % dražší). Phuket, Krabi, Koh Yao Noi a Cheow Lan na dny kolem 20.–31. 12. rezervovat hned. Návrat 31. 12. vychází na nejdražší dny.
