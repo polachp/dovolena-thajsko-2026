@@ -81,6 +81,16 @@ td{font-variant-numeric:tabular-nums}
 td:has(> .coord){white-space:nowrap}
 .copy{font-family:var(--mono);font-size:12px;border:1px solid var(--line);background:var(--bg);color:var(--accent);border-radius:4px;padding:2px 6px;cursor:pointer}
 .copy:focus-visible,a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.verbar{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin-top:16px;font-family:var(--mono);font-size:12px;color:var(--muted)}
+.verbar .cur{color:var(--ink)}
+.verbar a{color:var(--accent);text-underline-offset:2px}
+.verbar .pill{display:inline-block;padding:1px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.verbar .pill.old{background:var(--saffron-soft);color:var(--saffron)}
+.oldver{margin:0 0 24px;padding:12px 16px;border-radius:6px;background:var(--saffron-soft);border:1px solid var(--line)}
+.chlog h3{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}
+.chlog .meta{font-family:var(--mono);font-size:12px;color:var(--muted);font-weight:400}
+.chlog .lnk{font-family:var(--mono);font-size:13px;display:flex;flex-wrap:wrap;gap:4px 16px;margin:.2em 0 .6em}
+footer a{color:var(--accent)}
 footer{padding-block:24px 40px;border-top:1px solid var(--line);font-family:var(--mono);font-size:12px;color:var(--muted)}
 
 @media (max-width:860px){
@@ -105,6 +115,7 @@ footer{padding-block:24px 40px;border-top:1px solid var(--line);font-family:var(
     <div><span>Termín </span><b>27. 11.–19. 12.</b></div>
     <div><span>Bezvízový pobyt </span><b>23 z 30 dní</b></div>
   </div>
+  <div class="verbar" id="verbar"></div>
 </div></header>
 
 <div class="route"><div class="wrap">
@@ -130,8 +141,10 @@ footer{padding-block:24px 40px;border-top:1px solid var(--line);font-family:var(
   <article id="doc"><p>Obsah se načítá. Pokud se nezobrazí, zkontrolujte připojení k internetu. Text je i v souboru <a href="thajsko-phuket-bangkok.md">thajsko-phuket-bangkok.md</a>.</p></article>
 </div>
 
-<footer><div class="wrap">Zdroj: Kompletní thajský slow-travel manuál, @Anezka, 14. 10. 2026. Časy a ceny jsou orientační, ověřte před cestou.</div></footer>
+<footer><div class="wrap"><a href="#zmenovy-list">Změnový list</a> · Zdroj: Kompletní thajský slow-travel manuál, @Anezka, 14. 10. 2026. Časy a ceny jsou orientační, ověřte před cestou.</div></footer>
 
+<script>window.CFG={"id": "v2", "base": "./"};</script>
+<script src="./verze.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
 <script src="thajsko-obsah.js"></script>
 <script>
@@ -142,6 +155,30 @@ footer{padding-block:24px 40px;border-top:1px solid var(--line);font-family:var(
   doc.innerHTML=marked.parse(src);
   // drop the H1 and intro lines (header covers them)
   var h1=doc.querySelector('h1'); if(h1) h1.remove();
+  var CFG=window.CFG||{}, V=window.THAJSKO_VERZE||[], REPO='https://github.com/polachp/dovolena-thajsko-2026';
+  function esc(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+  var latest=V.length?V[V.length-1].id:CFG.id, me=V.filter(function(v){return v.id===CFG.id})[0];
+  var bar=document.getElementById('verbar');
+  if(bar&&me){
+    var isOld=CFG.id!==latest;
+    var others=V.slice().reverse().filter(function(v){return v.id!==CFG.id}).map(function(v){return '<a href="'+CFG.base+'verze/'+v.id+'/">'+v.id+(v.id===latest?' (aktuální)':'')+'</a>'}).join(' ');
+    bar.innerHTML='<span class="pill'+(isOld?' old':'')+'">'+esc(me.id)+(isOld?' starší verze':' aktuální')+'</span><span class="cur">'+esc(me.datum)+' · '+esc(me.nazev)+'</span>'+(others?'<span>Další verze: '+others+'</span>':'')+'<a href="#zmenovy-list">Změnový list</a>';
+  }
+  if(me&&CFG.id!==latest){
+    var w=document.createElement('p');w.className='oldver';
+    w.innerHTML='Prohlížíte starší verzi '+esc(me.id)+' ('+esc(me.datum)+'). Aktuální je <a href="'+CFG.base+'">'+esc(latest)+'</a>.';
+    doc.insertBefore(w,doc.firstChild);
+  }
+  if(V.length){
+    var c='<h2>Změnový list</h2><div class="chlog">';
+    V.slice().reverse().forEach(function(v,i,arr){
+      var prev=V[V.indexOf(v)-1];
+      c+='<h3>'+esc(v.id)+': '+esc(v.nazev)+' <span class="meta">'+esc(v.datum)+(v.id===latest?' · aktuální':'')+(v.id===CFG.id?' · právě zobrazená':'')+'</span></h3>';
+      c+='<div class="lnk"><a href="'+CFG.base+'verze/'+v.id+'/">web '+esc(v.id)+'</a><a href="'+CFG.base+'verze/'+v.id+'/thajsko-phuket-bangkok.md">Markdown</a>'+(prev?'<a href="'+REPO+'/compare/'+prev.id+'...'+v.id+'">rozdíl proti '+esc(prev.id)+' (GitHub)</a>':'')+'</div>';
+      c+='<ul>'+v.zmeny.map(function(z){return '<li>'+esc(z)+'</li>'}).join('')+'</ul>';
+    });
+    doc.insertAdjacentHTML('beforeend',c+'</div>');
+  }
   function slug(t){return t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60)}
   var used={};
   doc.querySelectorAll('h2,h3').forEach(function(h){

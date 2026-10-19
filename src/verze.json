@@ -1,0 +1,38 @@
+[
+  {
+    "id": "v1",
+    "datum": "19. 10. 2026",
+    "nazev": "Itinerář otočený na Phuket → Bangkok",
+    "zmeny": [
+      "Itinerář z manuálu od Anežky (14. 10. 2026) otočen na směr Phuket → Bangkok.",
+      "Tabulky bodů pro Mapy, dopravy, pláží a rozpočtu přeřazeny podle nového pořadí fází.",
+      "Úseky, které PDF popisuje jen v opačném směru, označeny jako neověřené.",
+      "Sekce 0 s rozdíly proti PDF pro orientační termín polovina listopadu až druhá polovina prosince (počítáno 33–37 nocí)."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · listopad–prosinec 2026",
+      "facts": [["Fáze", "9"], ["Nocí v manuálu", "17–27"], ["Váš termín", "cca 33–37 nocí"], ["Bezvízový pobyt ČR", "30 dní"]],
+      "route": ["1–2 noci", "2–4 noci", "2 noci", "2–3 noci", "3–5 nocí", "2–4 noci", "2–3 noci", "1 noc", "2–3 noci"],
+      "faze6": "Koh Phayam / Ban Krut"
+    }
+  },
+  {
+    "id": "v2",
+    "datum": "19. 10. 2026",
+    "nazev": "Termín letenek 26. 11.–19. 12.",
+    "zmeny": [
+      "Sekce 0 přepsána: návrh 22 nocí po dnech, přílet na Phuket 27. 11., odlet z Bangkoku 19. 12.",
+      "Vízum: pobyt 23 dní se vejde do bezvízových 30 dní, prodloužení není potřeba (ve v1 vycházelo jako nutné).",
+      "Rozpočet: oproti 19 nocím z manuálu zhruba o šestinu víc (ve v1 dvojnásobek).",
+      "Nová upozornění: Khao Sok 5.–9. 12. před otevřením všech stezek, nedělní trh na Phuketu vychází mimo plán, svátky 5. a 10. 12.",
+      "Pojištění, očkování a příloha s porovnáním termínů upraveny na nový termín.",
+      "Hlavička webu a trasa ukazují data místo rozpětí nocí."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [["Fáze", "9"], ["Nocí v Thajsku", "22"], ["Termín", "27. 11.–19. 12."], ["Bezvízový pobyt", "23 z 30 dní"]],
+      "route": ["27.–28. 11.", "28. 11.–1. 12.", "1.–3. 12.", "3.–5. 12.", "5.–9. 12.", "9.–12. 12.", "12.–15. 12.", "15.–16. 12.", "16.–19. 12."],
+      "faze6": "Koh Phayam"
+    }
+  }
+]
