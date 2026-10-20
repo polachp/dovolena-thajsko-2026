@@ -41,7 +41,7 @@ window.THAJSKO_VERZE = [
       "Doplněny drobnosti z PDF, které v v1 a v2 chyběly (například Ranong podle Bangkok Post, proč nekrmit zvířata, pavouci v chatkách v Khao Sok, výhled na krevetí farmy z Khao Daeng).",
       "Checklist, rozpis zážitků, tabulky a příloha přeřazeny a upraveny pro nový směr."
     ],
-    "commit": null,
+    "commit": "20bc89a",
     "md": "thajsko-bangkok-phuket.md"
   }
 ];

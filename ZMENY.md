@@ -4,7 +4,7 @@ Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nah
 
 ## v3: Směr Bangkok → Phuket (sever → jih) (21. 10. 2026)
 
-[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v3/) · [Markdown](verze/v3/thajsko-bangkok-phuket.md)
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v3/) · [Markdown](verze/v3/thajsko-bangkok-phuket.md) · [rozdíl proti v2](https://github.com/polachp/dovolena-thajsko-2026/compare/d50edcd...20bc89a)
 
 - Směr otočen zpět na Bangkok → Phuket podle levnějších letenek, fáze mají znovu číslování z PDF (1 Bangkok až 9 Phuket, pláž č. 1 jako 4A Ban Krut a 4B Koh Phayam).
 - Sekce 0: nový návrh 22 nocí po dnech, přílet do Bangkoku 27. 11., poslední noc na Phuketu, odlet 19. 12.
