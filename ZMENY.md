@@ -1,6 +1,18 @@
 # Změnový list
 
-Itinerář Thajsko Phuket → Bangkok. Nejnovější verze nahoře.
+Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
+
+## v3: Směr Bangkok → Phuket (sever → jih) (21. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v3/) · [Markdown](verze/v3/thajsko-bangkok-phuket.md)
+
+- Směr otočen zpět na Bangkok → Phuket podle levnějších letenek, fáze mají znovu číslování z PDF (1 Bangkok až 9 Phuket, pláž č. 1 jako 4A Ban Krut a 4B Koh Phayam).
+- Sekce 0: nový návrh 22 nocí po dnech, přílet do Bangkoku 27. 11., poslední noc na Phuketu, odlet 19. 12.
+- Odjezdové časy z PDF opět platí (rychlík č. 43 v 7:30, minivany Khao Lak → Krabi 8:00–17:30, lodě Tha Len 9:30, 13:00 a 16:00, Koh Yao Noi → Bang Rong 6:30–16:00), značky „neověřeno“ z v2 u nich odpadly.
+- Nic z itineráře není vyškrtnuté: obě varianty pláže č. 1, noc v Ranongu, všechny volitelné výlety. U návrhu nocí jsou popsané možnosti přesunu.
+- Upozornění pro nový směr: Záliv vychází na vlhčí konec listopadu, Khao Sok na 6.–10. 12. (část stezek zavřená), Andaman na druhou půlku prosince blízko špičky, nedělní trh na Phuketu v návrhu nevychází, Den ústavy 10. 12. připadá na přesun Khao Sok → Khao Lak.
+- Doplněny drobnosti z PDF, které v v1 a v2 chyběly (například Ranong podle Bangkok Post, proč nekrmit zvířata, pavouci v chatkách v Khao Sok, výhled na krevetí farmy z Khao Daeng).
+- Checklist, rozpis zážitků, tabulky a příloha přeřazeny a upraveny pro nový směr.
 
 ## v2: Termín letenek 26. 11.–19. 12. (19. 10. 2026)
 

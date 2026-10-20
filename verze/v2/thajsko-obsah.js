@@ -1,4 +1,4 @@
-// Generováno z thajsko-phuket-bangkok.md skriptem build.py, needitovat ručně.
+// Generováno z Markdownu verze skriptem build.py, needitovat ručně.
 window.THAJSKO_MD = `# Thajsko: slow-travel itinerář Phuket → Bangkok
 
 Zdroj: „Kompletní thajský slow-travel manuál (18–25 dní)“, @Anezka, 14. 10. 2026. Tato verze má itinerář otočený: **přílet na Phuket, odlet z Bangkoku**. Termín: 26. 11.–19. 12. 2026 (letenky).

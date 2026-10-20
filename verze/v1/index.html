@@ -174,7 +174,7 @@ footer{padding-block:24px 40px;border-top:1px solid var(--line);font-family:var(
     V.slice().reverse().forEach(function(v,i,arr){
       var prev=V[V.indexOf(v)-1];
       c+='<h3>'+esc(v.id)+': '+esc(v.nazev)+' <span class="meta">'+esc(v.datum)+(v.id===latest?' · aktuální':'')+(v.id===CFG.id?' · právě zobrazená':'')+'</span></h3>';
-      c+='<div class="lnk"><a href="'+CFG.base+'verze/'+v.id+'/">web '+esc(v.id)+'</a><a href="'+CFG.base+'verze/'+v.id+'/thajsko-phuket-bangkok.md">Markdown</a>'+(prev&&prev.commit&&v.commit?'<a href="'+REPO+'/compare/'+prev.commit+'...'+v.commit+'">rozdíl proti '+esc(prev.id)+' (GitHub)</a>':'')+'</div>';
+      c+='<div class="lnk"><a href="'+CFG.base+'verze/'+v.id+'/">web '+esc(v.id)+'</a><a href="'+CFG.base+'verze/'+v.id+'/'+(v.md||'thajsko-phuket-bangkok.md')+'">Markdown</a>'+(prev&&prev.commit&&v.commit?'<a href="'+REPO+'/compare/'+prev.commit+'...'+v.commit+'">rozdíl proti '+esc(prev.id)+' (GitHub)</a>':'')+'</div>';
       c+='<ul>'+v.zmeny.map(function(z){return '<li>'+esc(z)+'</li>'}).join('')+'</ul>';
     });
     doc.insertAdjacentHTML('beforeend',c+'</div>');
