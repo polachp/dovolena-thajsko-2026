@@ -13,6 +13,9 @@ ROOT = Path(__file__).parent
 SABLONA = (ROOT / "src/sablona.html").read_text(encoding="utf-8")
 VERZE = json.loads((ROOT / "src/verze.json").read_text(encoding="utf-8"))
 
+# Odlet z Prahy pro odpocet v hlavicce (ISO 8601 vcetne posunu, CET = +01:00).
+ODLET = "2026-11-26T00:00:00+01:00"
+
 MD_VYCHOZI = "thajsko-phuket-bangkok.md"
 SMER_VYCHOZI = ["Phuket", "Bangkok"]
 LEDE_VYCHOZI = "Anežčin manuál s itinerářem otočeným pro přílet na Phuket a odlet z Bangkoku. Osnova, ne rozvrh: počty nocí jsou rozpětí, škrtat se dá."
@@ -49,7 +52,7 @@ def stranka(v: dict, base: str) -> str:
     return (SABLONA.replace("{{TITLE}}", f"Thajsko {a}–{z}").replace("{{H1}}", f'{a} <span class="arrow">→</span> {z}')
             .replace("{{LEDE}}", v.get("lede", LEDE_VYCHOZI)).replace("{{MD}}", md_soubor(v))
             .replace("{{EYEBROW}}", h["eyebrow"]).replace("{{FACTS}}", facts)
-            .replace("{{ROUTE}}", "\n".join(route)).replace("{{CFG}}", cfg).replace("{{BASE}}", base))
+            .replace("{{ROUTE}}", "\n".join(route)).replace("{{CFG}}", cfg).replace("{{BASE}}", base).replace("{{ODLET}}", ODLET))
 
 
 def main():

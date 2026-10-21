@@ -32,6 +32,9 @@ h1 .arrow{color:var(--accent)}
 .lede{max-width:62ch;color:var(--muted);margin:0}
 .facts{display:flex;flex-wrap:wrap;gap:8px 24px;margin-top:18px;font-family:var(--mono);font-size:13px}
 .facts b{font-weight:500;color:var(--ink)} .facts span{color:var(--muted)}
+.odpocet{display:flex;align-items:baseline;flex-wrap:wrap;gap:4px 12px;width:max-content;max-width:100%;margin-top:18px;padding:10px 16px;border-radius:8px;background:var(--accent-soft)}
+.odpocet .num{font-family:var(--display);font-weight:700;font-size:clamp(1.35rem,3.6vw,2rem);line-height:1.1;color:var(--accent);font-variant-numeric:tabular-nums}
+.odpocet .det{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 
 /* route strip */
 .route{padding-block:22px 26px;border-bottom:1px solid var(--line);overflow-x:auto}
@@ -115,6 +118,10 @@ footer{padding-block:24px 40px;border-top:1px solid var(--line);font-family:var(
     <div><span>Termín </span><b>27. 11.–19. 12.</b></div>
     <div><span>Bezvízový pobyt </span><b>23 z 30 dní</b></div>
   </div>
+  <div class="odpocet" id="odpocet" hidden>
+    <span class="num" id="odpocetNum"></span>
+    <span class="det" id="odpocetDet"></span>
+  </div>
   <div class="verbar" id="verbar"></div>
 </div></header>
 
@@ -144,6 +151,24 @@ footer{padding-block:24px 40px;border-top:1px solid var(--line);font-family:var(
 <footer><div class="wrap"><a href="#zmenovy-list">Změnový list</a> · Zdroj: Kompletní thajský slow-travel manuál, @Anezka, 14. 10. 2026. Časy a ceny jsou orientační, ověřte před cestou.</div></footer>
 
 <script>window.CFG={"id": "v2", "base": "../../"};</script>
+<script>
+// Odpocet do odletu. Datum se nastavuje v build.py (konstanta ODLET).
+(function(){
+  var odlet=new Date('2026-11-26T00:00:00+01:00'), el=document.getElementById('odpocet');
+  if(!el||isNaN(odlet)) return;
+  var num=document.getElementById('odpocetNum'), det=document.getElementById('odpocetDet');
+  var datum=odlet.toLocaleDateString('cs-CZ',{day:'numeric',month:'numeric',year:'numeric'});
+  function sklon(n){return n===1?'den':(n>=2&&n<=4?'dny':'dní')}
+  function tik(){
+    var zbyva=odlet-new Date();
+    if(zbyva<=0){num.textContent='Letíme!';det.textContent='odlet '+datum;return}
+    var dny=Math.floor(zbyva/864e5), hod=Math.floor(zbyva/36e5)%24, min=Math.floor(zbyva/6e4)%60;
+    num.textContent=dny+' '+sklon(dny);
+    det.textContent='a '+hod+' h '+min+' min do odletu · '+datum;
+  }
+  tik(); el.hidden=false; setInterval(tik,10000);
+})();
+</script>
 <script src="../../verze.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
 <script src="thajsko-obsah.js"></script>
