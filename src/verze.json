@@ -808,5 +808,92 @@
       "faze6": "Khao Lak"
     },
     "commit": "4d9b12b"
+  },
+  {
+    "id": "v11",
+    "datum": "30. 10. 2026",
+    "nazev": "Koh Phayam: zářící plankton jako volitelný tip",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 4 (Koh Phayam): nový stručný praktický bod o zářícím planktonu u Ao Khao Kwai (kdy jít, co ho rozsvítí, nov měsíce 9. 12.). Je označený jako nezaručený.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v10."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "9"
+        ],
+        [
+          "Nocí k dispozici",
+          "22"
+        ],
+        [
+          "V plánu zatím",
+          "23 nocí"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–11. 12.",
+        "10.–13. 12. ?",
+        "13.–15. 12. ?",
+        "15.–18. 12. ?",
+        "18.–19. 12. ?"
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Khao Lak"
+        ],
+        [
+          null,
+          "Krabi Town"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "faze6": "Khao Lak"
+    },
+    "commit": "58e073e"
   }
 ]

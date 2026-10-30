@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v11: Koh Phayam: zářící plankton jako volitelný tip (30. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v11/) · [Markdown](verze/v11/thajsko-bangkok-phuket.md) · [rozdíl proti v10](https://github.com/polachp/dovolena-thajsko-2026/compare/4d9b12b...58e073e)
+
+- Fáze 4 (Koh Phayam): nový stručný praktický bod o zářícím planktonu u Ao Khao Kwai (kdy jít, co ho rozsvítí, nov měsíce 9. 12.). Je označený jako nezaručený.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v10.
+
 ## v10: Koh Phayam: kajak v mangrovech jako volitelná možnost (30. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v10/) · [Markdown](verze/v10/thajsko-bangkok-phuket.md) · [rozdíl proti v9](https://github.com/polachp/dovolena-thajsko-2026/compare/293db49...4d9b12b)

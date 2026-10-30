@@ -137,5 +137,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "4d9b12b",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v11",
+    "datum": "30. 10. 2026",
+    "nazev": "Koh Phayam: zářící plankton jako volitelný tip",
+    "zmeny": [
+      "Fáze 4 (Koh Phayam): nový stručný praktický bod o zářícím planktonu u Ao Khao Kwai (kdy jít, co ho rozsvítí, nov měsíce 9. 12.). Je označený jako nezaručený.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v10."
+    ],
+    "commit": "58e073e",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
