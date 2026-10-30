@@ -5,18 +5,54 @@ Itinerář jižního Thajska podle manuálu od Anežky. Aktuální verze: směr 
 - Web (aktuální verze): https://polachp.github.io/dovolena-thajsko-2026/
 - Starší verze: `verze/<id>/` (web i Markdown), přehled v [ZMENY.md](ZMENY.md)
 
+## Pravidlo číslo jedna: Markdown je zdroj, web se generuje
+
+Jediný soubor, který se edituje ručně, je Markdown poslední verze:
+
+```
+verze/v5/thajsko-bangkok-phuket.md
+```
+
+Poslední verze je poslední záznam v `src/verze.json`, název jejího Markdownu je v poli `md`.
+
+Z tohoto Markdownu se generuje všechno ostatní. Po každé změně textu se musí znovu spustit `python build.py`, jinak web ukazuje starý obsah.
+
+Generované soubory, do kterých se nikdy nepíše ručně (build je přepíše):
+
+- `index.html` a `verze/*/index.html`
+- `thajsko-obsah.js` a `verze/*/thajsko-obsah.js`
+- `verze.js`
+- `ZMENY.md`
+- `thajsko-bangkok-phuket.md` v kořeni repa (kopie Markdownu poslední verze, dělá ji `build.py` kvůli odkazu z webu)
+
+Editace kořenového `thajsko-bangkok-phuket.md` je typická chyba: soubor vypadá jako hlavní zdroj, ale je to kopie a příští build ji přepíše. Totéž platí pro editaci přes webové rozhraní GitHubu.
+
+Starší verze (`verze/v1` až `verze/v4`) se neupravují, slouží jako archiv.
+
 ## Struktura
 
-- `verze/vN/*.md`: zdrojový text verze N (jediné místo, kde se text edituje, název souboru je v poli `md` v `src/verze.json`)
+- `verze/vN/<md>`: zdrojový text verze N, jediné místo, kde se text edituje
 - `src/verze.json`: seznam verzí, změnový list a údaje do hlavičky webu
 - `src/sablona.html`: šablona stránky
-- `build.py`: vygeneruje `index.html`, `verze/*/index.html`, `thajsko-obsah.js`, `verze.js` a `ZMENY.md`
+- `build.py`: vygeneruje `index.html`, `verze/*/index.html`, `thajsko-obsah.js`, `verze.js`, `ZMENY.md` a kopii Markdownu v kořeni
+- `CLAUDE.md`: postup pro práci s repem v Claude session
 
-## Nová verze
+## Jak udělat změnu v itineráři
 
-1. Zkopírovat poslední `verze/vN/` do `verze/vN+1/` a upravit tam Markdown.
-2. Přidat záznam do `src/verze.json` (datum, název, seznam změn, hlavička).
-3. Commit textu verze, jeho hash zapsat do `commit` u nové verze v `src/verze.json` (slouží pro odkaz na rozdíl na GitHubu).
-4. `python build.py`, commit, push.
+Drobná oprava i velký zásah se řeší stejně: vznikne nová verze. Stará zůstane dostupná na webu i v repu.
 
-Starší verze se neupravují.
+1. Zkopírovat `verze/vN/` do `verze/vN+1/` (stačí Markdown, zbytek dogeneruje build).
+2. Upravit Markdown ve `verze/vN+1/`.
+3. Přidat záznam `vN+1` do `src/verze.json`: `id`, `datum`, `nazev`, `md`, `smer`, `lede`, `zmeny`, `hlavicka`.
+4. Commit textu verze. Hash tohoto commitu zapsat do pole `commit` u nové verze v `src/verze.json` (slouží pro odkaz na rozdíl proti předchozí verzi).
+5. `python build.py`, commit, push.
+
+Build vypíše seznam verzí a která je aktuální. Po pushi se web na GitHub Pages obnoví do pár desítek sekund.
+
+### Omezení build skriptu
+
+Markdown nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko. Vkládá se do JS template literálu a build v takovém případě skončí chybou.
+
+## Co je v itineráři rozpracované
+
+Stav k v5: fáze 1 až 4 odpovídají Anežčině aktualizaci z října 2026, fáze 5 až 9 mají data k přepočtu. Součet je 23 nocí, k dispozici jich je 22. Podrobnosti v sekci 0 Markdownu.
