@@ -43,5 +43,22 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "20bc89a",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v4",
+    "datum": "30. 10. 2026",
+    "nazev": "Aktualizace od Anežky: Ranong, auto v Hua Hin, Etihad",
+    "zmeny": [
+      "Fáze 1 až 4 přebrány z Anežčiny aktualizace (soubor s Ranongem), zbytek zůstává z v3.",
+      "Fáze 2 je nově Sam Roi Yot na 3 noci s autem z půjčovny v Hua Hin: mokřady Bueng Bua, jeskyně Phraya Nakhon, vyhlídka a chrám Khao Daeng a odpolední safari za slony v Kui Buri.",
+      "Fáze 3 je zkrácena na 1 noc v Prachuap Khiri Khan (Ao Manao s hulmany, ráno chrám s makaky), Kui Buri se přesunulo do fáze 2.",
+      "Fáze 4 je Ranong (1 noc, horké prameny Raksa Warin, volitelně vodopád Ngao) a Koh Phayam (3 noci). Varianta pláže č. 1 s Ban Krutem tím odpadá a zůstává k nahlédnutí ve v3.",
+      "Doplněny konkrétní časy vlaku č. 43 (Bangkok 7:30, Hua Hin 10:31, Prachuap 11:41), ceny vstupů a body pro Mapy ve fázích 1 až 4.",
+      "Nová sekce 18 o letech s Etihad Airways (tarif Comfort, zavazadla, jídlo, odbavení, vrácení peněz) a přepsaný checklist: bezvízový pobyt 30 dní od 15. 9. 2026, TDAC a mezinárodní řidičský průkaz kvůli autu.",
+      "Nedořešeno: fáze 1 až 9 dávají v součtu 23 nocí, k dispozici jich je 22. Data ve fázích 5 až 9 a v sekcích 8, 13 a 16 jsou proto zatím k přepočtu, podrobnosti v sekci 0.",
+      "Web rozdělen na dvě hlavní sekce, Itinerář a Informace, a předělán pro mobil (sticky přepínač, rozbalovací obsah, větší dotykové plochy)."
+    ],
+    "commit": "0d9e4f3",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
