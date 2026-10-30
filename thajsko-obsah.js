@@ -15,9 +15,9 @@ Tato verze přebírá Anežčinu aktualizaci pro fáze 1 až 4 včetně. Novinky
 - **Jízdní řád vlaku č. 43** (Bangkok 7:30, Hua Hin 10:31, Prachuap 11:41) a konkrétní ceny a vstupy u míst ve fázích 1 až 4.
 - **Nová sekce 18: Etihad Airways** (tarif Comfort, zavazadla, odbavení, vrácení peněz) a přepsaný checklist v sekci 13 (vstupní pravidla od 15. 9. 2026, TDAC, mezinárodní řidičský průkaz kvůli autu).
 
-Proti v4 přibyly odkazy do Google Maps u záchytných bodů (sekce 3), obsah itineráře je jinak stejný. Proti v5 je zapsané potvrzené ubytování ve fázích 1 až 4 (název, odkaz do Map, časy check-inu), jinak je itinerář stejný.
+Proti v4 přibyly odkazy do Google Maps u záchytných bodů (sekce 3), obsah itineráře je jinak stejný. Proti v5 je zapsané potvrzené ubytování ve fázích 1 až 4 (název, odkaz do Map, časy check-inu). Proti v6 je přepsaná fáze 5 (Khao Sok): data 8.–11. 12., možnosti noci na jezeře Cheow Lan a aktivity ve vesnici, konkrétní volba zatím není hotová. Zbytek itineráře je stejný.
 
-**Nedořešené: počet nocí ve fázích 5 až 9.** Noc navíc v Ranongu posunula konec trasy. Fáze 1 až 9 dávají v součtu 23 nocí, ale od 27. 11. do 19. 12. jich je k dispozici 22. Projeví se to překryvem: fáze 4 končí 8. 12., fáze 5 ale začíná 7. 12. Data ve fázích 5 až 9 a v sekcích 8, 13 a 16 proto zatím zůstávají v podobě před přidáním Ranongu a jsou k přepočtu. Jedna noc se musí ubrat (nabízí se Khao Lak, Koh Phayam nebo Krabi Town), nebo musí Ranong proběhnout bez noci navíc.
+**Nedořešené: počet nocí ve fázích 6 až 9.** Fáze 5 (Khao Sok) je od této verze posunutá na 8.–11. 12., aby navazovala na Koh Phayam. Fáze 1 až 9 ale pořád dávají v součtu 23 nocí, a od 27. 11. do 19. 12. jich je k dispozici 22. Projeví se to překryvem: fáze 5 končí 11. 12., fáze 6 (Khao Lak) ale začíná 10. 12. Data ve fázích 6 až 9 a v sekcích 8, 13 a 16 proto zatím zůstávají v podobě před přidáním Ranongu a jsou k přepočtu. Jedna noc se musí ubrat (nabízí se Khao Lak, Koh Phayam nebo Krabi Town), nebo musí Ranong proběhnout bez noci navíc.
 
 | Fáze | Kde | Nocí | Orientační datum | Stav |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ Proti v4 přibyly odkazy do Google Maps u záchytných bodů (sekce 3), obsah it
 | 2 | Sam Roi Yot (Sea Sight Resort), auto z Hua Hin | 3 | 30. 11.–3. 12. | aktualizováno |
 | 3 | Prachuap Khiri Khan | 1 | 3.–4. 12. | aktualizováno |
 | 4 | Ranong (1 noc) a Koh Phayam (3 noci) | 4 | 4.–8. 12. | aktualizováno |
-| 5 | Khao Sok a jezero Cheow Lan | 3 | 7.–10. 12. | k přepočtu |
+| 5 | Khao Sok a jezero Cheow Lan | 3 | 8.–11. 12. | aktualizováno |
 | 6 | Khao Lak | 3 | 10.–13. 12. | k přepočtu |
 | 7 | Krabi Town | 2 | 13.–15. 12. | k přepočtu |
 | 8 | Koh Yao Noi | 3 | 15.–18. 12. | k přepočtu |
@@ -107,6 +107,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 4 | Koh Phayam, ubytování Flower Power Village (Ao Khao Kwai) | [Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) | Potvrzeno 5.–8. 12., check-in od 13:00, check-out do 11:00 |
 | 4 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | [Ao Yai](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Beach%20Koh%20Phayam), [Ao Khao Kwai](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai%20Beach%20Koh%20Phayam) | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
 | 5 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
+| 5 | Khao Sok, vodopád Than Sawan (jiné psaní: Tan Sawan, Tarn Sawan) | [8.96678, 98.54116](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) | Celodenní túra od ředitelství parku. Souřadnice jsou z jednoho zdroje (neověřeno), pod názvem se místo v Mapách nenajde |
 | 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
 | 6 | Khao Lak, pláž Bang Sak | [Bang Sak Beach](https://www.google.com/maps/search/?api=1&query=Bang%20Sak%20Beach%20Khao%20Lak) | Pláž s málo lidmi i v sezóně |
 | 6 | Lam Ru National Park (hlavní vchod), Khao Lak | [Lam Ru National Park](https://www.google.com/maps/search/?api=1&query=Lam%20Ru%20National%20Park%20Khao%20Lak) | Začátek stezky k malé písečné pláži a vodopád Ton Chong Fa |
@@ -223,14 +224,26 @@ Trasa vede od severu na jih a nikde se nevrací. Berte ji jako osnovu: dny si po
 - **Chrám a šnorchlování:** U mola stojí chrám Wat Koh Phayam, jediný na ostrově, hodí se na krátkou zastávku po příjezdu. Šnorchlování tu moc nestojí za to, nechte ho na Koh Yao Noi (sekce 14). Popisy míst vycházejí z cestopisných blogů a na místě je nikdo neověřoval.
 - **Přesun dál:** 8. 12. (úterý) z ostrova lodí do Ranongu (rychlé lodě jedou hodinu po hodině) a odtud autobusem nebo minivanem do Khao Sok (142 km, nejrychleji asi 2 h 50 min, spoje zhruba 8:00–18:15), s lodí celkem asi 4–5 hodin.
 
-### Fáze 5: Deštný prales a smaragdové jezero (3 noci, data k přepočtu)
+### Fáze 5: Khao Sok a jezero Cheow Lan (3 noci, 8.–11. 12.)
 
-- **Místo:** Národní park Khao Sok a jezero Cheow Lan.
-- **Mapy:** [Khao Sok, ředitelství parku](https://www.google.com/maps/search/?api=1&query=8.9165,98.5281) · [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village) · [molo Ratchaprapha (Cheow Lan)](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier,%20Cheow%20Lan%20Lake)
-- **Zážitek:** Eco-lodge v korunách stromů (bezpečná, se sítěmi proti hmyzu), pádlování po řece Sok a procházky po stezkách u ředitelství parku. Volitelně noční safari s průvodcem (od asi 1 200 THB, dvě hodiny). Potkáte při něm i pavouky, takže je to na vás (sekce 14). Kdo se pavouků bojí, ať počítá s tím, že se v dřevěných chatkách v pralese nějaký objeví. Potom noc na jezeře Cheow Lan: plovoucí bungalov a ranní kajaky v mlze, s trochou štěstí za zpěvu gibonů.
-- **Prakticky:** Vstup do parku stojí 300 THB (některé zdroje uvádějí 320), platí 24 hodin a lístek koupený po 16:00 platí i další den. Na molu u jezera se platí ještě 40 THB. Vodní aktivity (kánoe, vor, tubing) stojí 400–950 THB. Tubing závisí na hladině řeky.
-- **Pozor na sezónu:** Na začátku prosince ještě doznívá období dešťů a některé stezky nebo jeskyně mohou být po silných deštích dočasně uzavřené (podle starších zpráv zhruba do 14. 12.). Park je otevřený celoročně, ale u ubytování nebo na vstupu si ověřte, co je zrovna přístupné. Jezero, řeka a kajaky fungují. Plovoucí bungalovy se na prosinec vyprodávají s předstihem, takže je rezervujte brzy.
-- **Volné dny:** Dvě stezky u ředitelství parku (jdou i bez průvodce), volitelně tubing na řece Sok (sekce 7) a pro zdatné vodopád Than Sawan na celý den, kde se doporučuje průvodce.
+- **Místo:** Vesnice Khao Sok u ředitelství národního parku je základna: ubytování, restaurace, stezky pěšky a agentury, které domlouvají výlety. Jezero Cheow Lan je od vesnice asi hodinu jízdy a hodinu lodí.
+- **Mapy:** [Khao Sok, ředitelství parku](https://www.google.com/maps/search/?api=1&query=8.9165,98.5281) · [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village) · [molo Ratchaprapha (Cheow Lan)](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier,%20Cheow%20Lan%20Lake) · [vodopád Than Sawan](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) (souřadnice z jednoho zdroje, pod názvem se v Mapách nenajde)
+- **Příjezd 8. 12.:** Z Koh Phayam přes Ranong asi 4 až 5 hodin (sekce 4). První večer jen večeře ve vesnici.
+- **Ubytování:** Zatím nevybrané. Doporučení: všechny 3 noci v jednom ubytování ve vesnici, věci tam zůstanou, když pojedete na jezero. Kvůli pavoukům spíš zděný bungalov než dřevěná chatka v džungli, nebo eco-lodge v korunách stromů se sítěmi proti hmyzu. Volné místo a cenu zjistit zprávou předem, ubytování se dá najít i na místě.
+- **Noc na jezeře (zatím nerozhodnuto), možnosti:**
+  - Balíček 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici: loď, jídla, kajaky a odvoz. Bambusový raft od asi 2 500 THB na osobu (společná koupelna). S vlastní koupelnou odhad 4 000 až 5 500 THB na osobu a noc (neověřeno).
+  - Přímo u raft housu: Praiwan (rodinný, deluxe pokoje mají vlastní koupelnu, praiwanrafthouse.com, +66 81 901 4908) nebo Keereewarin (střední třída, v balíčku kajaky, vstup do parku a pojištění, keereewarin.com, +66 83 064 6818). Poloha na jezeře a míra klidu jsou u obou neověřené, zeptat se.
+  - Jednodenní výlet longtailem na jezero bez noci na jezeře.
+  - V prosinci je na jezeře největší sezóna a jeden zdroj radí rezervovat s předstihem, u levnějších raftů to ale není ověřené. Poplatek za jezero je asi 300 THB a za molo 40 THB na osobu, platí se hotově.
+- **Zážitek na jezeře:** Ranní kajaky v mlze a s trochou štěstí zpěv gibonů (sekce 2).
+- **Ve vesnici (vybrat až na místě):**
+  - Dvě stezky u ředitelství parku, několik kilometrů, jdou i bez průvodce, mapu dá návštěvnické centrum.
+  - Tubing po řece Sok, asi 2 hodiny: cena podle zdrojů 300 až 950 THB. V prosinci může být hladina řeky příliš nízká, zeptat se na místě, jestli se plave. Prodává se ve vesnici, v ubytování nebo v agentuře.
+  - Kánoe nebo vor na řece: 400 až 950 THB na osobu.
+  - Vodopád Than Sawan: celý den, 6 až 7 km jedním směrem od ředitelství parku, brod přes potok. Strážci doporučují průvodce (půlden asi 600 THB, neověřeno).
+  - Noční safari: od asi 1 200 THB, 2 hodiny, obvykle od 19:00 do 20:00, objednává se ve vesnici. Pro lidi s fóbií z pavouků se nehodí (sekce 14), rozhodnout až na místě nebo vynechat.
+- **Prakticky:** Vstup do parku stojí 300 THB (některé zdroje uvádějí 320), platí 24 hodin a lístek koupený po 16:00 platí i další den. Vodní aktivity (kánoe, vor, tubing) stojí 400–950 THB.
+- **Pozor na sezónu:** Na začátku prosince ještě doznívá období dešťů a některé stezky nebo jeskyně mohou být po silných deštích dočasně uzavřené (podle starších zpráv zhruba do 14. 12.). Park je otevřený celoročně, ale u ubytování nebo na vstupu si ověřte, co je zrovna přístupné.
 - **Přesun dál:** Do Khao Lak jede minivan 1–2 h a spojů je během dne dost (první kolem 6:45). Po návratu z jezera kolem poledne tak většinou stihnete odpolední spoj, ale ověřte si to u organizátora balíčku. Do Krabi jedou minibusy zhruba od 7:30 do 16:30 (sekce 4).
 
 ### Fáze 6: Khao Lak, pláž a národní park (3 noci, data k přepočtu)

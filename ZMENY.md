@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v7: Khao Sok: data 8.–11. 12., možnosti noci na jezeře a aktivity ve vesnici (30. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v7/) · [Markdown](verze/v7/thajsko-bangkok-phuket.md) · [rozdíl proti v6](https://github.com/polachp/dovolena-thajsko-2026/compare/4ae85ff...5907b40)
+
+- Fáze 5 (Khao Sok a Cheow Lan) je posunutá na 8.–11. 12., aby navazovala na Koh Phayam, kam je ubytování potvrzené do 8. 12.
+- Fáze 5: rozepsané možnosti noci na jezeře Cheow Lan (balíček přes ubytování nebo agenturu, přímo Praiwan nebo Keereewarin, jednodenní výlet) s orientačními cenami. Konkrétní volba zatím není hotová.
+- Fáze 5: aktivity ve vesnici k výběru na místě (stezky u ředitelství, tubing, kánoe, vodopád Than Sawan se souřadnicemi, noční safari s upozorněním na pavouky). Than Sawan přibyl i do tabulky bodů v sekci 3.
+- Fáze 6 až 9 (včetně Khao Lak) mají původní data a s Khao Sok se překrývají o jednu noc. Přepočet nocí a rozhodnutí o Khao Lak zůstávají k dořešení.
+
 ## v6: Potvrzená ubytování ve fázích 1 až 4 (30. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v6/) · [Markdown](verze/v6/thajsko-bangkok-phuket.md) · [rozdíl proti v5](https://github.com/polachp/dovolena-thajsko-2026/compare/8359fa9...4ae85ff)

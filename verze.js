@@ -88,5 +88,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "4ae85ff",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v7",
+    "datum": "30. 10. 2026",
+    "nazev": "Khao Sok: data 8.–11. 12., možnosti noci na jezeře a aktivity ve vesnici",
+    "zmeny": [
+      "Fáze 5 (Khao Sok a Cheow Lan) je posunutá na 8.–11. 12., aby navazovala na Koh Phayam, kam je ubytování potvrzené do 8. 12.",
+      "Fáze 5: rozepsané možnosti noci na jezeře Cheow Lan (balíček přes ubytování nebo agenturu, přímo Praiwan nebo Keereewarin, jednodenní výlet) s orientačními cenami. Konkrétní volba zatím není hotová.",
+      "Fáze 5: aktivity ve vesnici k výběru na místě (stezky u ředitelství, tubing, kánoe, vodopád Than Sawan se souřadnicemi, noční safari s upozorněním na pavouky). Than Sawan přibyl i do tabulky bodů v sekci 3.",
+      "Fáze 6 až 9 (včetně Khao Lak) mají původní data a s Khao Sok se překrývají o jednu noc. Přepočet nocí a rozhodnutí o Khao Lak zůstávají k dořešení."
+    ],
+    "commit": "5907b40",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
