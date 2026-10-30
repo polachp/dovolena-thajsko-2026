@@ -62,3 +62,13 @@ Doptávej se jen na obsah: co přesně se má v itineráři změnit, když to z 
 Nevytvářej novou verzi pro změnu, kterou uživatel teprve rozmýšlí. Dokud se bavíte o tom, co a jak, nic neukládej; verzi zakládej, až je obsah dohodnutý.
 
 Jedna výjimka z automatického nahrávání: pokud by změna něco smazala nebo přepsala tak, že to nejde vrátit (zásah do starších verzí v `verze/v1` až `verze/v4`, přepsání cizí změny, smazání sekce bez náhrady), nejdřív se zeptej.
+
+## Autorství commitů
+
+Commity vzniklé v session s Anežkou (mobilní aplikace Claude) musí mít na konci zprávy, jako poslední řádek a oddělené prázdným řádkem, tento trailer:
+
+Co-authored-by: anezka-vibe <291587174+anezka-vibe@users.noreply.github.com>
+
+Bez něj se změny v historii i v přehledu přispěvatelů objevují jen pod identitou Claude. Trailer přidávej ke každému commitu, který vznikl na základě jejího zadání, včetně commitů s vygenerovanými soubory z `build.py`.
+
+U commitů ze session s Petrem trailer nepřidávej.
