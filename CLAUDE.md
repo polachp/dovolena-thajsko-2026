@@ -45,6 +45,20 @@ Fáze 1 až 4 odpovídají Anežčině aktualizaci z října 2026. Fáze 5 až 9
 
 ## Práce v session
 
-Když uživatel řekne něco jako „chci aktualizovat soubor v repu“ nebo „uprav itinerář“, znamená to postup výše: nová verze, úprava Markdownu, záznam v `src/verze.json`, build, push. Zeptej se jen na to, co z popisu změny opravdu nevyplývá. Nevytvářej novou verzi pro změnu, kterou uživatel teprve rozmýšlí; nejdřív se dohodněte na obsahu.
+S repem pracuje i Anežka, která nepoužívá git ani jeho názvosloví. Slova jako „aktualizuj“, „ulož to“, „dej to na web“, „zveřejni“, „hotovo“ nebo „aktualizace“ znamenají celý řetězec až do konce, bez doptávání na jednotlivé kroky:
 
-Před pushem ukaž, co se změnilo, a nech si push potvrdit. Repo je veřejné.
+1. založit novou verzi a upravit její Markdown,
+2. doplnit záznam do `src/verze.json`,
+3. commitnout text verze a zapsat jeho hash do pole `commit`,
+4. spustit `python build.py`,
+5. commitnout a pushnout na `main`.
+
+Hotovo je až tehdy, když je změna na webu https://polachp.github.io/dovolena-thajsko-2026/. Po pushi počkej, až se GitHub Pages obnoví (desítky sekund), a ověř, že se nová verze na webu opravdu ukazuje. Nehlas hotovo dřív.
+
+Nepoužívej v odpovědích slova commit, push, branch ani merge, pokud se na ně uživatel sám nezeptá. Stačí „uloženo a nahráno na web“.
+
+Doptávej se jen na obsah: co přesně se má v itineráři změnit, když to z popisu nevyplývá. Na technický postup se neptej, ten je popsaný tady.
+
+Nevytvářej novou verzi pro změnu, kterou uživatel teprve rozmýšlí. Dokud se bavíte o tom, co a jak, nic neukládej; verzi zakládej, až je obsah dohodnutý.
+
+Jedna výjimka z automatického nahrávání: pokud by změna něco smazala nebo přepsala tak, že to nejde vrátit (zásah do starších verzí v `verze/v1` až `verze/v4`, přepsání cizí změny, smazání sekce bez náhrady), nejdřív se zeptej.
