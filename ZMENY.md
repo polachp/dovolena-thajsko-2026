@@ -4,7 +4,7 @@ Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nah
 
 ## v4: Aktualizace od Anežky: Ranong, auto v Hua Hin, Etihad (30. 10. 2026)
 
-[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v4/) · [Markdown](verze/v4/thajsko-bangkok-phuket.md) · [rozdíl proti v3](https://github.com/polachp/dovolena-thajsko-2026/compare/20bc89a...0d9e4f3)
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v4/) · [Markdown](verze/v4/thajsko-bangkok-phuket.md) · [rozdíl proti v3](https://github.com/polachp/dovolena-thajsko-2026/compare/20bc89a...4680708)
 
 - Fáze 1 až 4 přebrány z Anežčiny aktualizace (soubor s Ranongem), zbytek zůstává z v3.
 - Fáze 2 je nově Sam Roi Yot na 3 noci s autem z půjčovny v Hua Hin: mokřady Bueng Bua, jeskyně Phraya Nakhon, vyhlídka a chrám Khao Daeng a odpolední safari za slony v Kui Buri.

@@ -58,7 +58,7 @@ window.THAJSKO_VERZE = [
       "Nedořešeno: fáze 1 až 9 dávají v součtu 23 nocí, k dispozici jich je 22. Data ve fázích 5 až 9 a v sekcích 8, 13 a 16 jsou proto zatím k přepočtu, podrobnosti v sekci 0.",
       "Web má nově stromovou navigaci místo jednoho dlouhého dokumentu: nadsekce Před cestou, Itinerář, Na místě a Verze, v každé rozcestník s dlaždicemi a pak už jen jedna krátká stránka (každá fáze zvlášť), s drobečkem, přechodem na předchozí a další a odkazy na kotvy, které samy otevřou správnou stránku."
     ],
-    "commit": "0d9e4f3",
+    "commit": "4680708",
     "md": "thajsko-bangkok-phuket.md"
   }
 ];
