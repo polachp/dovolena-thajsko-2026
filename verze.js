@@ -148,5 +148,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "58e073e",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v12",
+    "datum": "30. 10. 2026",
+    "nazev": "Odkaz na předpověď přílivu a odlivu",
+    "zmeny": [
+      "Sekce 10 (aplikace v mobilu): přibyl odkaz na web Tide-forecast.com s předpovědí přílivu a odlivu a návod, kterou stanici hledat (Ranong pro Koh Phayam, Phuket nebo Krabi pro Koh Yao Noi).",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v11."
+    ],
+    "commit": "b0e7d3d",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

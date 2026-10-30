@@ -15,7 +15,7 @@ Tato verze přebírá Anežčinu aktualizaci pro fáze 1 až 4 včetně. Novinky
 - **Jízdní řád vlaku č. 43** (Bangkok 7:30, Hua Hin 10:31, Prachuap 11:41) a konkrétní ceny a vstupy u míst ve fázích 1 až 4.
 - **Nová sekce 18: Etihad Airways** (tarif Comfort, zavazadla, odbavení, vrácení peněz) a přepsaný checklist v sekci 13 (vstupní pravidla od 15. 9. 2026, TDAC, mezinárodní řidičský průkaz kvůli autu).
 
-Proti v4 přibyly odkazy do Google Maps u záchytných bodů (sekce 3), obsah itineráře je jinak stejný. Proti v5 je zapsané potvrzené ubytování ve fázích 1 až 4 (název, odkaz do Map, časy check-inu). Proti v6 je přepsaná fáze 5 (Khao Sok): data 8.–11. 12., možnosti noci na jezeře Cheow Lan a aktivity ve vesnici, konkrétní volba zatím není hotová. Proti v9 přibyla ve fázi 4 volitelná možnost kajaku v mangrovech na Koh Phayam. Proti v10 přibyl ve fázi 4 stručný tip na zářící plankton. Zbytek itineráře je stejný.
+Proti v4 přibyly odkazy do Google Maps u záchytných bodů (sekce 3), obsah itineráře je jinak stejný. Proti v5 je zapsané potvrzené ubytování ve fázích 1 až 4 (název, odkaz do Map, časy check-inu). Proti v6 je přepsaná fáze 5 (Khao Sok): data 8.–11. 12., možnosti noci na jezeře Cheow Lan a aktivity ve vesnici, konkrétní volba zatím není hotová. Proti v9 přibyla ve fázi 4 volitelná možnost kajaku v mangrovech na Koh Phayam. Proti v10 přibyl ve fázi 4 stručný tip na zářící plankton. Proti v11 přibyl v sekci 10 odkaz na web s předpovědí přílivu. Zbytek itineráře je stejný.
 
 **Nedořešené: počet nocí ve fázích 6 až 9.** Fáze 5 (Khao Sok) je od této verze posunutá na 8.–11. 12., aby navazovala na Koh Phayam. Fáze 1 až 9 ale pořád dávají v součtu 23 nocí, a od 27. 11. do 19. 12. jich je k dispozici 22. Projeví se to překryvem: fáze 5 končí 11. 12., fáze 6 (Khao Lak) ale začíná 10. 12. Data ve fázích 6 až 9 a v sekcích 8, 13 a 16 proto zatím zůstávají v podobě před přidáním Ranongu a jsou k přepočtu. Jedna noc se musí ubrat (nabízí se Khao Lak, Koh Phayam nebo Krabi Town), nebo musí Ranong proběhnout bez noci navíc.
 
@@ -401,7 +401,7 @@ Pobalte se na lehko, drobnosti dokoupíte na místě. Tady je výběr věcí, kt
 - **Powerbanka:** Na plovoucích bungalovech běží elektřina z generátoru jen několik hodin denně. Do letadla patří do příručního zavazadla (sekce 18).
 - **Maska a šnorchl (volitelné):** Na výletech se půjčují, vlastní maska ale líp sedí a netěsní (sekce 14).
 - **Lehká mikina nebo šátek:** Klimatizace v letadlech, vlacích a minibusech bývá silná.
-- **Aplikace v mobilu:** 12Go.asia (vlaky, minibusy a lodě), Grab a Bolt (taxi), Agoda (ubytování), Google Translate (stáhněte si offline balíček thajštiny), Airalo (eSIM) a offline mapy v Google Maps.
+- **Aplikace v mobilu:** 12Go.asia (vlaky, minibusy a lodě), Grab a Bolt (taxi), Agoda (ubytování), Google Translate (stáhněte si offline balíček thajštiny), Airalo (eSIM) a offline mapy v Google Maps. Příliv a odliv: web [Tide-forecast.com](https://www.tide-forecast.com/) (zdarma, předpověď na 30 dní, stačí si dát záložku). Pro Koh Phayam hledejte stanici Ranong, pro Koh Yao Noi Phuket nebo Krabi (Koh Yao Noi ani Phang Nga tam nejsou). Je to předpověď pro nejbližší stanici, ne pro konkrétní zátoku, takže se na místě ještě zeptejte v ubytování. Příliv se hodí pro kajak v mangrovech i pro koupání na Koh Yao Noi.
 
 ## 11. Etiketa: jak nebýt za hloupé turisty
 

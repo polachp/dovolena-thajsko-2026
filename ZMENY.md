@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v12: Odkaz na předpověď přílivu a odlivu (30. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v12/) · [Markdown](verze/v12/thajsko-bangkok-phuket.md) · [rozdíl proti v11](https://github.com/polachp/dovolena-thajsko-2026/compare/58e073e...b0e7d3d)
+
+- Sekce 10 (aplikace v mobilu): přibyl odkaz na web Tide-forecast.com s předpovědí přílivu a odlivu a návod, kterou stanici hledat (Ranong pro Koh Phayam, Phuket nebo Krabi pro Koh Yao Noi).
+- Obsah itineráře, počty nocí a data jsou beze změny proti v11.
+
 ## v11: Koh Phayam: zářící plankton jako volitelný tip (30. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v11/) · [Markdown](verze/v11/thajsko-bangkok-phuket.md) · [rozdíl proti v10](https://github.com/polachp/dovolena-thajsko-2026/compare/4d9b12b...58e073e)
