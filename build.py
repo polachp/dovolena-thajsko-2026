@@ -53,7 +53,7 @@ def stranka(v: dict, base: str) -> str:
     sablona = SABLONA if lede else SABLONA.replace('  <p class="lede">{{LEDE}}</p>\n', "")
     return (sablona.replace("{{TITLE}}", f"Thajsko {a}–{z}").replace("{{H1}}", f'{a} <span class="arrow">→</span> {z}')
             .replace("{{LEDE}}", lede).replace("{{MD}}", md_soubor(v))
-            .replace("{{EYEBROW}}", h["eyebrow"]).replace("{{FACTS}}", facts)
+            .replace("{{EYEBROW}}", h["eyebrow"] + f' · verze {v["id"]} ({v["datum"]})').replace("{{FACTS}}", facts)
             .replace("{{ROUTE}}", "\n".join(route)).replace("{{CFG}}", cfg).replace("{{BASE}}", base).replace("{{ODLET}}", ODLET))
 
 
