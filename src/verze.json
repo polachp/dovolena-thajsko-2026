@@ -364,5 +364,96 @@
       "faze6": "Khao Lak"
     },
     "commit": "8359fa9"
+  },
+  {
+    "id": "v6",
+    "datum": "30. 10. 2026",
+    "nazev": "Potvrzená ubytování ve fázích 1 až 4",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Ubytování ve fázích 1 až 4 je potvrzené a zapsané s názvem, odkazem do Google Maps a časy check-inu a check-outu: Ti Thong Hostel (Bangkok), Sam Roi Yot Sea Sight Resort, Yuttichai Hotel (Prachuap), Tobedzz Hotel (Ranong) a Flower Power Village (Koh Phayam).",
+      "Sekce 3: u ubytování přibyly řádky s odkazem do Map, ověřeným přes Google Places.",
+      "Fáze 2: základna je vesnice Sam Roi Yot, asi 7 km vzdušnou čarou severně od Bang Pu. Texty o návratu do Bang Pu jsou přepsané na ubytování a k jeskyni Phraya Nakhon se z ubytování jede autem.",
+      "Fáze 3: Yuttichai Hotel je podle recenzí asi 5 minut pěšky od nádraží, ne hned u něj. Vlak dojede před začátkem check-inu, zavazadla se nechají na recepci.",
+      "Checklist a rezervace (sekce 8, 13): Bangkok, Sam Roi Yot, Prachuap, Ranong a Koh Phayam už se nezařizují, zbývá Cheow Lan a Koh Yao Noi.",
+      "Počty nocí a data jsou beze změny, nedořešený přepočet nocí ve fázích 5 až 9 trvá."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "9"
+        ],
+        [
+          "Nocí k dispozici",
+          "22"
+        ],
+        [
+          "V plánu zatím",
+          "23 nocí"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "7.–10. 12. ?",
+        "10.–13. 12. ?",
+        "13.–15. 12. ?",
+        "15.–18. 12. ?",
+        "18.–19. 12. ?"
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Khao Lak"
+        ],
+        [
+          null,
+          "Krabi Town"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "faze6": "Khao Lak"
+    },
+    "commit": "4ae85ff"
   }
 ]

@@ -73,5 +73,20 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "8359fa9",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v6",
+    "datum": "30. 10. 2026",
+    "nazev": "Potvrzená ubytování ve fázích 1 až 4",
+    "zmeny": [
+      "Ubytování ve fázích 1 až 4 je potvrzené a zapsané s názvem, odkazem do Google Maps a časy check-inu a check-outu: Ti Thong Hostel (Bangkok), Sam Roi Yot Sea Sight Resort, Yuttichai Hotel (Prachuap), Tobedzz Hotel (Ranong) a Flower Power Village (Koh Phayam).",
+      "Sekce 3: u ubytování přibyly řádky s odkazem do Map, ověřeným přes Google Places.",
+      "Fáze 2: základna je vesnice Sam Roi Yot, asi 7 km vzdušnou čarou severně od Bang Pu. Texty o návratu do Bang Pu jsou přepsané na ubytování a k jeskyni Phraya Nakhon se z ubytování jede autem.",
+      "Fáze 3: Yuttichai Hotel je podle recenzí asi 5 minut pěšky od nádraží, ne hned u něj. Vlak dojede před začátkem check-inu, zavazadla se nechají na recepci.",
+      "Checklist a rezervace (sekce 8, 13): Bangkok, Sam Roi Yot, Prachuap, Ranong a Koh Phayam už se nezařizují, zbývá Cheow Lan a Koh Yao Noi.",
+      "Počty nocí a data jsou beze změny, nedořešený přepočet nocí ve fázích 5 až 9 trvá."
+    ],
+    "commit": "4ae85ff",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
