@@ -60,5 +60,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "4680708",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v5",
+    "datum": "30. 10. 2026",
+    "nazev": "Odkazy do Google Maps u záchytných bodů",
+    "zmeny": [
+      "Sekce 3: u každého záchytného bodu je odkaz, který ho otevře v Google Maps.",
+      "Body se souřadnicemi míří přímo na místo, body bez souřadnic spouštějí vyhledávání podle názvu (názvy nejsou ověřené proti Mapám, výsledek je potřeba zkontrolovat).",
+      "Sloupec Souřadnice se jmenuje Odkaz do Map; u Khao Daeng, Ao Manao, Koh Phayam a Airport Rail Link jsou dva odkazy.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v4, nedořešený přepočet nocí ve fázích 5 až 9 trvá."
+    ],
+    "commit": "8359fa9",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

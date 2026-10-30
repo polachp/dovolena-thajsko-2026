@@ -275,5 +275,94 @@
       "faze6": "Khao Lak"
     },
     "commit": "4680708"
+  },
+  {
+    "id": "v5",
+    "datum": "30. 10. 2026",
+    "nazev": "Odkazy do Google Maps u záchytných bodů",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "Anežčin manuál, směr Bangkok → Phuket. Obsah jako ve v4, navíc odkaz do Map u každého záchytného bodu.",
+    "zmeny": [
+      "Sekce 3: u každého záchytného bodu je odkaz, který ho otevře v Google Maps.",
+      "Body se souřadnicemi míří přímo na místo, body bez souřadnic spouštějí vyhledávání podle názvu (názvy nejsou ověřené proti Mapám, výsledek je potřeba zkontrolovat).",
+      "Sloupec Souřadnice se jmenuje Odkaz do Map; u Khao Daeng, Ao Manao, Koh Phayam a Airport Rail Link jsou dva odkazy.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v4, nedořešený přepočet nocí ve fázích 5 až 9 trvá."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "9"
+        ],
+        [
+          "Nocí k dispozici",
+          "22"
+        ],
+        [
+          "V plánu zatím",
+          "23 nocí"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "7.–10. 12. ?",
+        "10.–13. 12. ?",
+        "13.–15. 12. ?",
+        "15.–18. 12. ?",
+        "18.–19. 12. ?"
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Khao Lak"
+        ],
+        [
+          null,
+          "Krabi Town"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "faze6": "Khao Lak"
+    },
+    "commit": "8359fa9"
   }
 ]

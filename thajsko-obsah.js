@@ -15,6 +15,8 @@ Tato verze přebírá Anežčinu aktualizaci pro fáze 1 až 4 včetně. Novinky
 - **Jízdní řád vlaku č. 43** (Bangkok 7:30, Hua Hin 10:31, Prachuap 11:41) a konkrétní ceny a vstupy u míst ve fázích 1 až 4.
 - **Nová sekce 18: Etihad Airways** (tarif Comfort, zavazadla, odbavení, vrácení peněz) a přepsaný checklist v sekci 13 (vstupní pravidla od 15. 9. 2026, TDAC, mezinárodní řidičský průkaz kvůli autu).
 
+Proti v4 přibyly odkazy do Google Maps u záchytných bodů (sekce 3), obsah itineráře je jinak stejný.
+
 **Nedořešené: počet nocí ve fázích 5 až 9.** Noc navíc v Ranongu posunula konec trasy. Fáze 1 až 9 dávají v součtu 23 nocí, ale od 27. 11. do 19. 12. jich je k dispozici 22. Projeví se to překryvem: fáze 4 končí 8. 12., fáze 5 ale začíná 7. 12. Data ve fázích 5 až 9 a v sekcích 8, 13 a 16 proto zatím zůstávají v podobě před přidáním Ranongu a jsou k přepočtu. Jedna noc se musí ubrat (nabízí se Khao Lak, Koh Phayam nebo Krabi Town), nebo musí Ranong proběhnout bez noci navíc.
 
 | Fáze | Kde | Nocí | Orientační datum | Stav |
@@ -77,42 +79,42 @@ Na trase uvidíte divoké slony, tři druhy opic, gibony i zoborožce. Všechno 
 
 ## 3. Záchytné body pro Google Maps (v pořadí trasy)
 
-Dvojici čísel zkopírujte do vyhledávání v Mapách a před cestou si body uložte do offline map. U míst bez souřadnic hledejte podle uvedeného názvu.
+Každý řádek má odkaz, který bod otevře v Google Maps, a body si před cestou uložte do offline map. Odkazy se souřadnicemi míří přímo na místo. Odkazy s názvem jen spouštějí vyhledávání, takže výsledek si vždy zkontrolujte (názvy nejsou ověřené proti Mapám, některé se mohou trefit vedle).
 
-| Fáze | Místo | Souřadnice | K čemu slouží |
+| Fáze | Místo | Odkaz do Map | K čemu slouží |
 |---|---|---|---|
-| 1 | Bangkok, Wat Pho | 13.7465, 100.4933 | Začátek aklimatizace a prohlídky chrámů u řeky |
-| 1 | Bangkok, Airport Rail Link (Phaya Thai, Makkasan) | hledejte podle názvu | Přestup na skytrain BTS a metro MRT po příletu na letiště BKK |
-| 1 | Bangkok, Krung Thep Aphiwat Central Terminal | hledejte podle názvu | Nádraží, ze kterého odjíždějí vlaky na jih |
-| 1 | Bangkok, Wat Paknam Phasi Charoen (metro Bang Phai, východ 1) | hledejte podle názvu | Obří Buddha a skleněná stupa, nejlépe hned po otevření v 8:00 |
-| 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | hledejte podle názvu | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
-| 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | hledejte podle názvu | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
-| 2 | Bang Pu (Sam Roi Yot), pláž a molo | hledejte podle názvu | Výchozí bod k pláži Laem Sala a jeskyni Phraya Nakhon |
-| 2 | Khao Daeng, vesnický chrám u mola a vyhlídka | hledejte podle názvu (Wat Khao Daeng, Khao Daeng Viewpoint) | Chrám pod skalami a kamenitá stezka na vyhlídku |
-| 2 | Phra Prathun Cave | hledejte podle názvu | Volitelná netopýří jeskyně, vede mnich (otevírací dobu neznáme) |
-| 2 | Kui Buri, Elephant Observatory Site | 12.1385, 99.6467 | Výchozí bod odpoledního safari za divokými slony |
-| 3 | Prachuap Khiri Khan, nádraží | hledejte podle názvu | Ve středu města, k zálivu je to 5 až 10 minut pěšky |
-| 3 | Khao Chong Krachok (Wat Thammikaram) | 11.8165, 99.7981 | Chrámový kopec s 396 schody, výhled na záliv a makaky |
-| 3 | Ao Manao a Khao Lom Muak | hledejte podle názvu | Pláž a kopec s hulmany v areálu základny Wing 5 |
-| 4 | Ranong, autobusové nádraží (44 Ruangrat Road, Khao Niwet) | hledejte podle názvu | Sem většinou vyloží minivan z Chumphonu, do centra asi 1 km |
-| 4 | Ranong, molo rychlých lodí na Koh Phayam | hledejte podle názvu | Z autobusového nádraží je to tuk-tukem asi 10–15 minut |
-| 4 | Ranong, horké prameny Raksa Warin | Khao Niwet, Mueang Ranong | Večerní koupání v horkých pramenech, asi 2 km východně od centra |
-| 4 | Ranong, vodopád Ngao (Namtok Ngao National Park) | 9.8558, 98.6290 | Volitelné dopoledne, asi 13 km jižně od města u silnice č. 4 |
-| 4 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | hledejte podle názvu | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
-| 5 | Khao Sok, ředitelství parku | 8.9165, 98.5281 | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
-| 5 | Cheow Lan, molo u přehrady Ratchaprapha | hledejte podle názvu | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
-| 6 | Khao Lak, pláž Bang Sak | hledejte podle názvu | Pláž s málo lidmi i v sezóně |
-| 6 | Lam Ru National Park (hlavní vchod), Khao Lak | hledejte podle názvu | Začátek stezky k malé písečné pláži a vodopád Ton Chong Fa |
-| 6 | Little Amazon (Sang Ne), Takua Pa | hledejte podle názvu | Kajaky v mangrovech, asi 30 minut autem od Khao Lak (volitelně) |
-| 7 | Ao Thalane, molo Tha Len | 8.1452, 98.7484 | Lodě na Koh Yao Noi; na kajaky vás vyzvednou z hotelu |
-| 7 | Wat Tham Suea (Tiger Cave Temple), Krabi | 8.1240, 98.9251 | Schodiště s 1 260 schody a výhledem |
-| 7 | Tha Pom Klong Song Nam, Krabi | hledejte podle názvu, thajsky ท่าปอม คลองสองน้ำ | Dřevěná lávka mangrovem, asi 35 km od Krabi Town (volitelně) |
-| 7 | Ao Nang, kiosky Ao Nang Boat Club | hledejte podle názvu | Lodě na Railay, lístek kupujte v kiosku, ne u lodníků |
-| 8 | Koh Yao Noi, molo Manoh | 8.0979, 98.5879 | Hlavní přístav rychlých lodí z Krabi a Phuketu |
-| 9 | Phuket, molo Bang Rong | 8.0496, 98.4159 | Nejvytíženější molo pro lodě na Koh Yao Noi |
-| 9 | Phuket Old Town, Thalang Road | 7.8848, 98.3890 | Historické centrum s architekturou, v neděli večer s trhem |
+| 1 | Bangkok, Wat Pho | [13.7465, 100.4933](https://www.google.com/maps/search/?api=1&query=13.7465%2C100.4933) | Začátek aklimatizace a prohlídky chrámů u řeky |
+| 1 | Bangkok, Airport Rail Link (Phaya Thai, Makkasan) | [Phaya Thai](https://www.google.com/maps/search/?api=1&query=Phaya%20Thai%20Airport%20Rail%20Link%20Station%20Bangkok), [Makkasan](https://www.google.com/maps/search/?api=1&query=Makkasan%20Airport%20Rail%20Link%20Station%20Bangkok) | Přestup na skytrain BTS a metro MRT po příletu na letiště BKK |
+| 1 | Bangkok, Krung Thep Aphiwat Central Terminal | [Krung Thep Aphiwat Central Terminal](https://www.google.com/maps/search/?api=1&query=Krung%20Thep%20Aphiwat%20Central%20Terminal) | Nádraží, ze kterého odjíždějí vlaky na jih |
+| 1 | Bangkok, Wat Paknam Phasi Charoen (metro Bang Phai, východ 1) | [Wat Paknam Phasi Charoen](https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen%20Bangkok) | Obří Buddha a skleněná stupa, nejlépe hned po otevření v 8:00 |
+| 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
+| 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | [Bueng Bua Thung Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot) | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
+| 2 | Bang Pu (Sam Roi Yot), pláž a molo | [Bang Pu Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bang%20Pu%20Village%20Sam%20Roi%20Yot%20Prachuap%20Khiri%20Khan) | Výchozí bod k pláži Laem Sala a jeskyni Phraya Nakhon |
+| 2 | Khao Daeng, vesnický chrám u mola a vyhlídka | [Wat Khao Daeng](https://www.google.com/maps/search/?api=1&query=Wat%20Khao%20Daeng%20Sam%20Roi%20Yot), [Khao Daeng Viewpoint](https://www.google.com/maps/search/?api=1&query=Khao%20Daeng%20Viewpoint%20Sam%20Roi%20Yot) | Chrám pod skalami a kamenitá stezka na vyhlídku |
+| 2 | Phra Prathun Cave | [Phra Prathun Cave](https://www.google.com/maps/search/?api=1&query=Phra%20Prathun%20Cave%20Sam%20Roi%20Yot) | Volitelná netopýří jeskyně, vede mnich (otevírací dobu neznáme) |
+| 2 | Kui Buri, Elephant Observatory Site | [12.1385, 99.6467](https://www.google.com/maps/search/?api=1&query=12.1385%2C99.6467) | Výchozí bod odpoledního safari za divokými slony |
+| 3 | Prachuap Khiri Khan, nádraží | [Prachuap Khiri Khan Railway Station](https://www.google.com/maps/search/?api=1&query=Prachuap%20Khiri%20Khan%20Railway%20Station) | Ve středu města, k zálivu je to 5 až 10 minut pěšky |
+| 3 | Khao Chong Krachok (Wat Thammikaram) | [11.8165, 99.7981](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) | Chrámový kopec s 396 schody, výhled na záliv a makaky |
+| 3 | Ao Manao a Khao Lom Muak | [Ao Manao](https://www.google.com/maps/search/?api=1&query=Ao%20Manao%20Beach%20Prachuap%20Khiri%20Khan), [Khao Lom Muak](https://www.google.com/maps/search/?api=1&query=Khao%20Lom%20Muak%20Prachuap%20Khiri%20Khan) | Pláž a kopec s hulmany v areálu základny Wing 5 |
+| 4 | Ranong, autobusové nádraží (44 Ruangrat Road, Khao Niwet) | [Ranong Bus Terminal](https://www.google.com/maps/search/?api=1&query=Ranong%20Bus%20Terminal) | Sem většinou vyloží minivan z Chumphonu, do centra asi 1 km |
+| 4 | Ranong, molo rychlých lodí na Koh Phayam | [Ranong Pier (Koh Phayam)](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier%20Koh%20Phayam%20ferry) | Z autobusového nádraží je to tuk-tukem asi 10–15 minut |
+| 4 | Ranong, horké prameny Raksa Warin | [Raksawarin Hot Springs](https://www.google.com/maps/search/?api=1&query=Raksawarin%20Hot%20Springs%20Ranong) | Večerní koupání v horkých pramenech, asi 2 km východně od centra |
+| 4 | Ranong, vodopád Ngao (Namtok Ngao National Park) | [9.8558, 98.6290](https://www.google.com/maps/search/?api=1&query=9.8558%2C98.6290) | Volitelné dopoledne, asi 13 km jižně od města u silnice č. 4 |
+| 4 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | [Ao Yai](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Beach%20Koh%20Phayam), [Ao Khao Kwai](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai%20Beach%20Koh%20Phayam) | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
+| 5 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
+| 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
+| 6 | Khao Lak, pláž Bang Sak | [Bang Sak Beach](https://www.google.com/maps/search/?api=1&query=Bang%20Sak%20Beach%20Khao%20Lak) | Pláž s málo lidmi i v sezóně |
+| 6 | Lam Ru National Park (hlavní vchod), Khao Lak | [Lam Ru National Park](https://www.google.com/maps/search/?api=1&query=Lam%20Ru%20National%20Park%20Khao%20Lak) | Začátek stezky k malé písečné pláži a vodopád Ton Chong Fa |
+| 6 | Little Amazon (Sang Ne), Takua Pa | [Little Amazon Takua Pa](https://www.google.com/maps/search/?api=1&query=Little%20Amazon%20Takua%20Pa%20Phang%20Nga) | Kajaky v mangrovech, asi 30 minut autem od Khao Lak (volitelně) |
+| 7 | Ao Thalane, molo Tha Len | [8.1452, 98.7484](https://www.google.com/maps/search/?api=1&query=8.1452%2C98.7484) | Lodě na Koh Yao Noi; na kajaky vás vyzvednou z hotelu |
+| 7 | Wat Tham Suea (Tiger Cave Temple), Krabi | [8.1240, 98.9251](https://www.google.com/maps/search/?api=1&query=8.1240%2C98.9251) | Schodiště s 1 260 schody a výhledem |
+| 7 | Tha Pom Klong Song Nam, Krabi | [Tha Pom Klong Song Nam](https://www.google.com/maps/search/?api=1&query=Tha%20Pom%20Klong%20Song%20Nam%20Krabi), thajsky ท่าปอม คลองสองน้ำ | Dřevěná lávka mangrovem, asi 35 km od Krabi Town (volitelně) |
+| 7 | Ao Nang, kiosky Ao Nang Boat Club | [Ao Nang Boat Club](https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Boat%20Club%20Krabi) | Lodě na Railay, lístek kupujte v kiosku, ne u lodníků |
+| 8 | Koh Yao Noi, molo Manoh | [8.0979, 98.5879](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) | Hlavní přístav rychlých lodí z Krabi a Phuketu |
+| 9 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi |
+| 9 | Phuket Old Town, Thalang Road | [7.8848, 98.3890](https://www.google.com/maps/search/?api=1&query=7.8848%2C98.3890) | Historické centrum s architekturou, v neděli večer s trhem |
 
-**Pozor na Kui Buri:** Když zadáte jen „Kui Buri National Park“, navigace vás zavede k ředitelství parku (12.0516, 99.6240), ne k místu, odkud se vyráží na safari. Zadejte „Elephant Observatory Site“ nebo souřadnice z tabulky.
+**Pozor na Kui Buri:** Když zadáte jen „Kui Buri National Park“, navigace vás zavede k ředitelství parku (12.0516, 99.6240), ne k místu, odkud se vyráží na safari. Použijte odkaz z tabulky, nebo zadejte „Elephant Observatory Site“.
 
 ## 4. Detailní přehled dopravy
 

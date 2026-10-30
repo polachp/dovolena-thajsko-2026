@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v5: Odkazy do Google Maps u záchytných bodů (30. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v5/) · [Markdown](verze/v5/thajsko-bangkok-phuket.md) · [rozdíl proti v4](https://github.com/polachp/dovolena-thajsko-2026/compare/4680708...8359fa9)
+
+- Sekce 3: u každého záchytného bodu je odkaz, který ho otevře v Google Maps.
+- Body se souřadnicemi míří přímo na místo, body bez souřadnic spouštějí vyhledávání podle názvu (názvy nejsou ověřené proti Mapám, výsledek je potřeba zkontrolovat).
+- Sloupec Souřadnice se jmenuje Odkaz do Map; u Khao Daeng, Ao Manao, Koh Phayam a Airport Rail Link jsou dva odkazy.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v4, nedořešený přepočet nocí ve fázích 5 až 9 trvá.
+
 ## v4: Aktualizace od Anežky: Ranong, auto v Hua Hin, Etihad (30. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v4/) · [Markdown](verze/v4/thajsko-bangkok-phuket.md) · [rozdíl proti v3](https://github.com/polachp/dovolena-thajsko-2026/compare/20bc89a...4680708)
