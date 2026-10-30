@@ -632,5 +632,93 @@
       "faze6": "Khao Lak"
     },
     "commit": "c1cb395"
+  },
+  {
+    "id": "v9",
+    "datum": "30. 10. 2026",
+    "nazev": "Vstupní poplatek opraven na 300 THB",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Sekce 13: plánovaný vstupní poplatek pro turisty opraven z 450 THB na 300 THB (u příletů letecky), podle zpráv z roku 2026. Odstraněn nepřesný údaj o schválení v prvním čtvrtletí 2027.",
+      "Doplněno, že se poplatek zatím nevybírá a má se platit nejspíš zabalený do ceny letenky, ne na přepážce.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v8."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "9"
+        ],
+        [
+          "Nocí k dispozici",
+          "22"
+        ],
+        [
+          "V plánu zatím",
+          "23 nocí"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–11. 12.",
+        "10.–13. 12. ?",
+        "13.–15. 12. ?",
+        "15.–18. 12. ?",
+        "18.–19. 12. ?"
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Khao Lak"
+        ],
+        [
+          null,
+          "Krabi Town"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "faze6": "Khao Lak"
+    },
+    "commit": ""
   }
 ]
