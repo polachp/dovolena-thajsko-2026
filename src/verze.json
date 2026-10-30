@@ -544,5 +544,93 @@
       "faze6": "Khao Lak"
     },
     "commit": "5907b40"
+  },
+  {
+    "id": "v8",
+    "datum": "30. 10. 2026",
+    "nazev": "Lékárnička: loperamid proti průjmu a probiotika",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Sekce 15 (lékárnička): doplněn lék proti průjmu s loperamidem (například Loperon) a probiotika (biokultury) na podporu střevní mikroflóry.",
+      "Sekce 9: u zásad pro zdravé bříško doplněn loperamid na akutní potíže na cestě (ne při horečce nebo krvi ve stolici) a poznámka, že probiotika se dají nasadit už pár dní před odletem.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v7."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "9"
+        ],
+        [
+          "Nocí k dispozici",
+          "22"
+        ],
+        [
+          "V plánu zatím",
+          "23 nocí"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–11. 12.",
+        "10.–13. 12. ?",
+        "13.–15. 12. ?",
+        "15.–18. 12. ?",
+        "18.–19. 12. ?"
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Khao Lak"
+        ],
+        [
+          null,
+          "Krabi Town"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "faze6": "Khao Lak"
+    },
+    "commit": ""
   }
 ]
