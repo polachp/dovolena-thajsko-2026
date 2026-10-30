@@ -49,8 +49,10 @@ def stranka(v: dict, base: str) -> str:
         )
     cfg = json.dumps({"id": v["id"], "base": base}, ensure_ascii=False)
     a, z = v.get("smer", SMER_VYCHOZI)
-    return (SABLONA.replace("{{TITLE}}", f"Thajsko {a}–{z}").replace("{{H1}}", f'{a} <span class="arrow">→</span> {z}')
-            .replace("{{LEDE}}", v.get("lede", LEDE_VYCHOZI)).replace("{{MD}}", md_soubor(v))
+    lede = v.get("lede", LEDE_VYCHOZI)
+    sablona = SABLONA if lede else SABLONA.replace('  <p class="lede">{{LEDE}}</p>\n', "")
+    return (sablona.replace("{{TITLE}}", f"Thajsko {a}–{z}").replace("{{H1}}", f'{a} <span class="arrow">→</span> {z}')
+            .replace("{{LEDE}}", lede).replace("{{MD}}", md_soubor(v))
             .replace("{{EYEBROW}}", h["eyebrow"]).replace("{{FACTS}}", facts)
             .replace("{{ROUTE}}", "\n".join(route)).replace("{{CFG}}", cfg).replace("{{BASE}}", base).replace("{{ODLET}}", ODLET))
 
