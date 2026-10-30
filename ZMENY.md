@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v10: Koh Phayam: kajak v mangrovech jako volitelná možnost (30. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v10/) · [Markdown](verze/v10/thajsko-bangkok-phuket.md) · [rozdíl proti v9](https://github.com/polachp/dovolena-thajsko-2026/compare/293db49...4d9b12b)
+
+- Fáze 4 (Koh Phayam): nový stručný praktický bod o kajaku v mangrovech u zátoky Ao Khao Kwai (kde, půjčení, příliv, co vzít). Cena není uvedená.
+- Poloha mangrovů zpřesněna na jihozápadní roh zátoky, půjčovna ani příliv nejsou ověřené a zjistí se na místě.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v9.
+
 ## v9: Vstupní poplatek opraven na 300 THB (30. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v9/) · [Markdown](verze/v9/thajsko-bangkok-phuket.md) · [rozdíl proti v8](https://github.com/polachp/dovolena-thajsko-2026/compare/c1cb395...293db49)

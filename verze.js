@@ -125,5 +125,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "293db49",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v10",
+    "datum": "30. 10. 2026",
+    "nazev": "Koh Phayam: kajak v mangrovech jako volitelná možnost",
+    "zmeny": [
+      "Fáze 4 (Koh Phayam): nový stručný praktický bod o kajaku v mangrovech u zátoky Ao Khao Kwai (kde, půjčení, příliv, co vzít). Cena není uvedená.",
+      "Poloha mangrovů zpřesněna na jihozápadní roh zátoky, půjčovna ani příliv nejsou ověřené a zjistí se na místě.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v9."
+    ],
+    "commit": "4d9b12b",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
