@@ -113,5 +113,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c1cb395",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v9",
+    "datum": "30. 10. 2026",
+    "nazev": "Vstupní poplatek opraven na 300 THB",
+    "zmeny": [
+      "Sekce 13: plánovaný vstupní poplatek pro turisty opraven z 450 THB na 300 THB (u příletů letecky), podle zpráv z roku 2026. Odstraněn nepřesný údaj o schválení v prvním čtvrtletí 2027.",
+      "Doplněno, že se poplatek zatím nevybírá a má se platit nejspíš zabalený do ceny letenky, ne na přepážce.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v8."
+    ],
+    "commit": "293db49",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

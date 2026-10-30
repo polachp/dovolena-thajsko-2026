@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v9: Vstupní poplatek opraven na 300 THB (30. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v9/) · [Markdown](verze/v9/thajsko-bangkok-phuket.md) · [rozdíl proti v8](https://github.com/polachp/dovolena-thajsko-2026/compare/c1cb395...293db49)
+
+- Sekce 13: plánovaný vstupní poplatek pro turisty opraven z 450 THB na 300 THB (u příletů letecky), podle zpráv z roku 2026. Odstraněn nepřesný údaj o schválení v prvním čtvrtletí 2027.
+- Doplněno, že se poplatek zatím nevybírá a má se platit nejspíš zabalený do ceny letenky, ne na přepážce.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v8.
+
 ## v8: Lékárnička: loperamid proti průjmu a probiotika (30. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v8/) · [Markdown](verze/v8/thajsko-bangkok-phuket.md) · [rozdíl proti v7](https://github.com/polachp/dovolena-thajsko-2026/compare/5907b40...c1cb395)
