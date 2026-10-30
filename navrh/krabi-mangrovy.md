@@ -1,39 +1,35 @@
-# Návrh: Krabi bez noci a mangrovové kajaky
+# Návrh: Krabi na Tygří chrám, mangrovy na Koh Yao Noi
 
-Stav: návrh k rozmyšlení, zatím nic změněného v itineráři. Trasa je adaptivní, tohle je jen doporučení, jak naložit s oblastí kolem Krabi.
+Stav: návrh k potvrzení, zatím nic změněného v itineráři. Trasa je adaptivní, tohle je doporučení, jak rozdělit oblast kolem Krabi a Koh Yao Noi.
 
-## O co jde
+## Rozhodnutí, ze kterého vycházíme
 
-Petr s Anežkou chtějí spíš neokoukaná místa a baví je nápad pádlovat na kajaku mangrovovými meandry mezi skalami. Zároveň zvažujeme, jestli vynechat Krabi Town. Otázka: jak si nechat ten zážitek s mangrovy a přitom se vyhnout jedinému davovému uzlu na trase.
+- V Krabi chceme na **Tygří chrám** (Wat Tham Suea, těch asi 1 260 schodů s vyhlídkou). Chce ho Anežka, takže Krabi zůstává jako zastávka.
+- **Mangrovové kajaky** nebudeme dělat u Krabi, ale až na **Koh Yao Noi**.
 
-## Hlavní myšlenka
+Tím padá starší nápad vynechat Krabi úplně. Krabi necháváme, jen s jiným hlavním programem.
 
-Krabi Town, Ao Nang a Railay jsou nejvíc turistické místo na celé trase. Jako základnu je lze vynechat, aniž bychom o mangrovové kajaky přišli. Nejhezčí a nejklidnější mangrovové pádlování je totiž dostupné odjinud.
+## Fáze 7 (Krabi): Tygří chrám
 
-## Co navrhuji (nic se nemaže, jen přibývá varianta)
+- Hlavní tah je Wat Tham Suea. Vstup zdarma, 1 260 schodů, převýšení asi 309 metrů, nahoře zlatý Buddha a kruhový výhled.
+- Jít brzy ráno. Areál otevírá kolem 6. hodiny, od poloviny schodiště není stín a po desáté je vedro. Druhá možnost je pozdní odpoledne kolem 16. hodiny na západ slunce.
+- Výstup trvá většině lidí 30 až 60 minut, na celou návštěvu počítat 2 až 3 hodiny. Jsou tam zábradlí a odpočívadla.
+- Z Krabi Town je to asi 8 až 9 km, songthaew kolem 50 THB na osobu.
+- Je to činný klášter: zakrytá ramena a kolena. Pozor na makaky, berou jídlo i věci, batoh zavřený.
+- Volitelně navíc v Krabi: Dragon Crest (náročný výšlap), Tha Pom Klong Song Nam (klidná lávka mangrovem), etické sloní útočiště Following Giant.
 
-- **Fáze 7 (Krabi):** přidat variantu "bez noci v Krabi". Kajaky Ao Thalane se dají sjet ráno v den přesunu a hned odpoledne nasednout na loď na Koh Yao Noi. Vyplouvá se ze stejného mola.
-- **Fáze 8 (Koh Yao Noi):** rozšířit o kajaky na sever zálivu Phang Nga. Odtud se jezdí do nejklidnější části zálivu (mangrovové soutěsky, skryté laguny v jeskyních zvaných hongy), mimo davy od James Bond Island. Tohle je ta nejneokoukanější varianta a bydlíme přímo tam.
+## Fáze 8 (Koh Yao Noi): mangrovy a kajaky
 
-## Proč to dává smysl
-
-- Vyhneme se jedinému davovému uzlu trasy a ušetříme jednu noc.
-- Mangrovy máme pokryté hned několikrát: Ao Thalane cestou, sever zálivu z Koh Yao Noi, k tomu Little Amazon u Khao Lak a Klong Sangne u Khao Sok.
-- Těžiště zážitku se přesune na Koh Yao Noi, kde už tři noci jsme.
-
-## Logistika Ao Thalane, ověřeno
-
-- Molo Tha Len a molo Ao Thalane jsou totéž místo, takže kajaky i loď na Koh Yao Noi vyplouvají odtud.
-- Ranní kajak: vyzvednutí z hotelu kolem 8 až 9 hodin, pádlování asi 4,5 hodiny, konec brzy odpoledne.
-- Loď na Koh Yao Noi ze stejného mola: rychlá asi 300 THB za 20 minut, longtail asi 200 THB za 45 minut, odjezdy až do zhruba 17 hodin.
-- Zavazadla: vzít s sebou v autě túry nebo nechat na základně operátora. Předem říct, ať nás vysadí na molu s báglem, ne zpátky v hotelu.
+- Sem dáme ten zážitek s mangrovy. Z Koh Yao Noi se jezdí do nejklidnější, severní části zálivu Phang Nga.
+- Self-paddle výlety (sami pádlujete) vedou mangrovovými soutěskami a přes přílivové jeskyně (hongy) do skrytých lagun, mimo davy od James Bond Island. Makakové, varani, orli.
+- Je to nejneokoukanější mangrovová varianta na trase a bydlíme přímo tam, takže není třeba nikam dojíždět.
 
 ## Na co pozor
 
-- Příliv. Ao Thalane i hongy se pádlují nejlíp podle přílivu, čas výletu tomu podřídit.
-- Na Koh Yao Noi mířit na sever zálivu, ne na James Bond nebo Koh Hong v poledne, tam bývají davy.
-- Časy lodí se mění podle sezóny a počasí, ověřit den předem.
+- Tygří chrám: horko na schodech, proto brzy ráno nebo pozdě odpoledne. Dost vody, pevná obuv, dress code.
+- Kajaky: hongy i mangrovy se pádlují nejlíp podle přílivu, čas výletu tomu podřídit. Mířit na sever zálivu, ne na James Bond nebo Koh Hong v poledne, tam bývají davy.
+- Časy lodí na Koh Yao Noi a z něj se mění podle sezóny a počasí, ověřit den předem.
 
 ## Otázka pro Anežku
 
-Souhlasíš, abychom to takhle zapsali do itineráře jako variantu vedle stávající fáze 7 a 8 (nic nemazat)? Nebo chceš Krabi Town nechat jako noc?
+Souhlasíš s tímhle rozdělením (Krabi na Tygří chrám, mangrovové kajaky až na Koh Yao Noi)? Pokud ano, zapíšu to do itineráře jako novou verzi: fáze 7 s důrazem na chrám, fáze 8 rozšířená o kajaky na sever zálivu.
