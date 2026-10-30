@@ -382,8 +382,8 @@ Thajská kuchyně není jen pálivá. Pálivost si můžete zvolit, a když to v
 - Pijte výhradně balenou vodu a používejte ji i při čištění zubů.
 - Jezte jídlo, které je čerstvě a důkladně tepelně upravené přímo před vámi na woku.
 - Před jídlem si myjte ruce nebo používejte dezinfekci.
-- Probiotika si vzít můžete, důkazy o jejich účinku proti cestovatelskému průjmu jsou ale slabé. Důležitější je hygiena a opatrnost při výběru jídla.
-- Při průjmu hodně pijte (v lékárně koupíte rehydratační sáčky). Při horečce, krvi ve stolici nebo potížích, které nepřecházejí, vyhledejte lékaře (sekce 15).
+- Probiotika (biokultury) si můžete nasadit už pár dní před odletem na podporu střevní mikroflóry, důkazy o jejich účinku proti cestovatelskému průjmu jsou ale slabé. Důležitější je hygiena a opatrnost při výběru jídla.
+- Při průjmu hodně pijte (v lékárně koupíte rehydratační sáčky). Na akutní potíže na cestě pomůže lék s loperamidem (například Loperon), neužívejte ho ale při horečce nebo krvi ve stolici. Při horečce, krvi ve stolici nebo potížích, které nepřecházejí, vyhledejte lékaře (sekce 15).
 
 ## 10. Seznam povinného vybavení
 
@@ -534,7 +534,7 @@ Průkaz evropského zdravotního pojištění v Thajsku neplatí. Při vážněj
 
 ### Malá lékárnička
 
-Rehydratační sáčky, náplasti a obvaz, dezinfekce, přípravek na spáleniny a štípance, léky na bolest a horečku a vaše pravidelné léky v originálním balení. Další léky, například na průjem, probere s vámi lékař.
+Rehydratační sáčky, náplasti a obvaz, dezinfekce, přípravek na spáleniny a štípance, léky na bolest a horečku a vaše pravidelné léky v originálním balení. Lék proti průjmu s loperamidem (například Loperon) na akutní potíže na cestě, ale neužívejte ho při horečce nebo krvi ve stolici. Probiotika (biokultury) na podporu střevní mikroflóry, nejlépe nasazená pár dní před odletem. Další léky proberte s lékařem.
 
 ## 16. Orientační rozpočet
 

@@ -101,5 +101,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "5907b40",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v8",
+    "datum": "30. 10. 2026",
+    "nazev": "Lékárnička: loperamid proti průjmu a probiotika",
+    "zmeny": [
+      "Sekce 15 (lékárnička): doplněn lék proti průjmu s loperamidem (například Loperon) a probiotika (biokultury) na podporu střevní mikroflóry.",
+      "Sekce 9: u zásad pro zdravé bříško doplněn loperamid na akutní potíže na cestě (ne při horečce nebo krvi ve stolici) a poznámka, že probiotika se dají nasadit už pár dní před odletem.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v7."
+    ],
+    "commit": "c1cb395",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

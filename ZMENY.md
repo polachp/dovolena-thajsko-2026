@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v8: Lékárnička: loperamid proti průjmu a probiotika (30. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v8/) · [Markdown](verze/v8/thajsko-bangkok-phuket.md) · [rozdíl proti v7](https://github.com/polachp/dovolena-thajsko-2026/compare/5907b40...c1cb395)
+
+- Sekce 15 (lékárnička): doplněn lék proti průjmu s loperamidem (například Loperon) a probiotika (biokultury) na podporu střevní mikroflóry.
+- Sekce 9: u zásad pro zdravé bříško doplněn loperamid na akutní potíže na cestě (ne při horečce nebo krvi ve stolici) a poznámka, že probiotika se dají nasadit už pár dní před odletem.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v7.
+
 ## v7: Khao Sok: data 8.–11. 12., možnosti noci na jezeře a aktivity ve vesnici (30. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v7/) · [Markdown](verze/v7/thajsko-bangkok-phuket.md) · [rozdíl proti v6](https://github.com/polachp/dovolena-thajsko-2026/compare/4ae85ff...5907b40)
