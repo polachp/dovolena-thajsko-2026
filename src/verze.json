@@ -201,7 +201,7 @@
       "Doplněny konkrétní časy vlaku č. 43 (Bangkok 7:30, Hua Hin 10:31, Prachuap 11:41), ceny vstupů a body pro Mapy ve fázích 1 až 4.",
       "Nová sekce 18 o letech s Etihad Airways (tarif Comfort, zavazadla, jídlo, odbavení, vrácení peněz) a přepsaný checklist: bezvízový pobyt 30 dní od 15. 9. 2026, TDAC a mezinárodní řidičský průkaz kvůli autu.",
       "Nedořešeno: fáze 1 až 9 dávají v součtu 23 nocí, k dispozici jich je 22. Data ve fázích 5 až 9 a v sekcích 8, 13 a 16 jsou proto zatím k přepočtu, podrobnosti v sekci 0.",
-      "Web rozdělen na dvě hlavní sekce, Itinerář a Informace, a předělán pro mobil (sticky přepínač, rozbalovací obsah, větší dotykové plochy)."
+      "Web má nově stromovou navigaci místo jednoho dlouhého dokumentu: nadsekce Před cestou, Itinerář, Na místě a Verze, v každé rozcestník s dlaždicemi a pak už jen jedna krátká stránka (každá fáze zvlášť), s drobečkem, přechodem na předchozí a další a odkazy na kotvy, které samy otevřou správnou stránku."
     ],
     "hlavicka": {
       "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
