@@ -10,7 +10,7 @@ Itinerář jižního Thajska podle manuálu od Anežky. Aktuální verze: směr 
 Jediný soubor, který se edituje ručně, je Markdown poslední verze:
 
 ```
-verze/v5/thajsko-bangkok-phuket.md
+verze/v13/thajsko-bangkok-phuket.md
 ```
 
 Poslední verze je poslední záznam v `src/verze.json`, název jejího Markdownu je v poli `md`.
@@ -27,7 +27,7 @@ Generované soubory, do kterých se nikdy nepíše ručně (build je přepíše)
 
 Editace kořenového `thajsko-bangkok-phuket.md` je typická chyba: soubor vypadá jako hlavní zdroj, ale je to kopie a příští build ji přepíše. Totéž platí pro editaci přes webové rozhraní GitHubu.
 
-Starší verze (`verze/v1` až `verze/v4`) se neupravují, slouží jako archiv.
+Starší verze (`verze/v1` až `verze/v12`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
 
 ## Struktura
 
@@ -35,6 +35,7 @@ Starší verze (`verze/v1` až `verze/v4`) se neupravují, slouží jako archiv.
 - `src/verze.json`: seznam verzí, změnový list a údaje do hlavičky webu
 - `src/sablona.html`: šablona stránky
 - `build.py`: vygeneruje `index.html`, `verze/*/index.html`, `thajsko-obsah.js`, `verze.js`, `ZMENY.md` a kopii Markdownu v kořeni
+- `varianty/`: vyřazené části itineráře uložené jako záložní varianty (build je nezpracovává), například [Khao Lak](varianty/khao-lak.md)
 - `CLAUDE.md`: postup pro práci s repem v Claude session
 
 ## Jak udělat změnu v itineráři
@@ -43,7 +44,7 @@ Drobná oprava i velký zásah se řeší stejně: vznikne nová verze. Stará z
 
 1. Zkopírovat `verze/vN/` do `verze/vN+1/` (stačí Markdown, zbytek dogeneruje build).
 2. Upravit Markdown ve `verze/vN+1/`.
-3. Přidat záznam `vN+1` do `src/verze.json`: `id`, `datum`, `nazev`, `md`, `smer`, `lede`, `zmeny`, `hlavicka`.
+3. Přidat záznam `vN+1` do `src/verze.json`: `id`, `datum`, `nazev`, `md`, `smer`, `lede`, `zmeny`, `hlavicka`. Přepsat číslo poslední verze a stav rozpracovaného v `README.md` a `CLAUDE.md`.
 4. Commit textu verze. Hash tohoto commitu zapsat do pole `commit` u nové verze v `src/verze.json` (slouží pro odkaz na rozdíl proti předchozí verzi).
 5. `python build.py`, commit, push.
 
@@ -55,4 +56,4 @@ Markdown nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko. Vklád�
 
 ## Co je v itineráři rozpracované
 
-Stav k v5: fáze 1 až 4 odpovídají Anežčině aktualizaci z října 2026, fáze 5 až 9 mají data k přepočtu. Součet je 23 nocí, k dispozici jich je 22. Podrobnosti v sekci 0 Markdownu.
+Stav k v13: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Nedořešená je noc na jezeře Cheow Lan, základna v Krabi a rezervace ubytování ve fázích 5 až 8. Podrobnosti v sekci 0 Markdownu.

@@ -8,13 +8,25 @@ Petr a Anežka plánují dovolenou v jižním Thajsku, 26. 11.–19. 12. 2026 (p
 
 Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa, minimum času stráveného přejezdy. Itinerář je osnova, ne pevný rozvrh. Původní podklad je manuál od Anežky (PDF), Markdown je jeho zpracovaná a doplněná podoba.
 
+## Aktuální stav (aktualizuj při každé nové verzi)
+
+- Poslední verze: **v13** (31. 10. 2026), zdroj `verze/v13/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v12`, neměnit.
+- Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 3 (8.–11. 12.), Krabi 4 (11.–15. 12.), Koh Yao Noi 3 (15.–18. 12.), Phuket Town 1 (18.–19. 12.).
+- Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
+- Vyřazené varianty: Ban Krut (zůstává ve v3), Khao Lak (soubor `varianty/khao-lak.md`, původně fáze 6 ve v3 až v12).
+
+Tenhle oddíl a oddíl „Co je rozpracované“ jsou součástí každé nové verze. Když se změní číslo verze, počet fází, noci nebo to, co je nedořešené, uprav je ve stejném kroku jako `src/verze.json` (krok 3 postupu níže). Stejné údaje drž i v `README.md` (cesta k Markdownu poslední verze, archiv, rozpracované).
+
 ## Zdroj pravdy
 
-Ruční editace patří výhradně do Markdownu poslední verze: `verze/vN/<md>`, kde `vN` je poslední záznam v `src/verze.json` a `<md>` je jeho pole `md`. K dnešku `verze/v5/thajsko-bangkok-phuket.md`.
+Ruční editace patří výhradně do Markdownu poslední verze: `verze/vN/<md>`, kde `vN` je poslední záznam v `src/verze.json` a `<md>` je jeho pole `md`. Číslo aktuální verze je v oddílu „Aktuální stav“ výše. Když se s `src/verze.json` neshoduje, platí `src/verze.json` a tento soubor oprav.
 
 Nikdy needituj: `index.html`, `verze/*/index.html`, `thajsko-obsah.js`, `verze.js`, `ZMENY.md` ani kořenový `thajsko-bangkok-phuket.md`. Všechno to generuje `build.py` a ruční změny se ztratí. Kořenový Markdown je kopie poslední verze, ne zdroj.
 
-Starší verze `verze/v1` až `verze/v4` jsou archiv, neměň je.
+Starší verze jsou archiv, neměň je.
+
+Složka `varianty/` drží vyřazené části itineráře, aby se informace neztratily. Build ji nezpracovává, na webu se neukazuje a odkazuje se na ni přes GitHub. Když se z itineráře něco vyřazuje, přesuň obsah sem do vlastního souboru a v sekci 0 na něj odkaž. Pokud se varianta vrací zpátky do itineráře, vezmi text odsud.
 
 ## Postup při každé změně obsahu
 
@@ -22,33 +34,40 @@ Každá změna, i jednořádková oprava, znamená novou verzi:
 
 1. `cp -r verze/vN verze/vN+1`, ve zkopírované složce nech jen Markdown (`index.html` a `thajsko-obsah.js` dogeneruje build).
 2. Uprav Markdown ve `verze/vN+1/`.
-3. Přidej záznam do `src/verze.json` na konec pole: `id`, `datum` (formát `30. 10. 2026`), `nazev`, `md`, `smer`, `lede`, `zmeny` (seznam vět, co se změnilo proti předchozí verzi), `hlavicka` (`eyebrow`, `facts`, `route`, `mista`, `faze6`). Pole `route` a `mista` musí mít 9 položek, po jedné na fázi.
-4. Commitni text verze a hash tohoto commitu zapiš do pole `commit` nové verze.
+3. Přidej záznam do `src/verze.json` na konec pole: `id`, `datum` (formát `30. 10. 2026`), `nazev`, `md`, `smer`, `lede`, `zmeny` (seznam vět, co se změnilo proti předchozí verzi), `hlavicka` (`eyebrow`, `facts`, `route`, `mista`). Počet položek v `route` a `mista` se rovná počtu fází. Ve stejném kroku uprav oddíly „Aktuální stav“ a „Co je rozpracované“ v tomto souboru a odpovídající místa v `README.md`.
+4. Commitni text verze (včetně CLAUDE.md a README.md) a hash tohoto commitu zapiš do pole `commit` nové verze.
 5. `python build.py`, zkontroluj výstup, commitni a pushni.
 
 Bez kroku 5 web ukazuje starý obsah. Build vypíše, která verze je aktuální.
 
-Markdown nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, build na tom spadne.
+Markdown verze nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, build na tom spadne.
 
 ## Jak psát obsah
 
 - Česky, věcně, bez marketingového tónu.
 - Bez emoji. Bez pomlčky `—` a `–` mimo číselné rozsahy (2020–2024), místo nich čárka, dvojtečka, závorka nebo dvě věty.
 - Struktura sekcí je zavedená (číslované `##` sekce 0 až 18 plus příloha), drž ji. Novou sekci zakládej jen když se obsah opravdu nevejde jinam.
+- Fáze jsou nadpisy `### Fáze N: ...` v sekci 6 a web z nich dělá samostatné stránky. Když se fáze přidá nebo vyřadí, přečísluj i všechny odkazy „fáze N“ v textu a tabulkách.
 - U míst v sekci 3 patří odkaz do Google Maps. Body se souřadnicemi míří přímo na místo, ostatní spouštějí vyhledávání podle názvu.
 - U každého přesunu uveď orientační čas, u každé zastávky počet nocí a orientační datum.
 - Co není ověřené (jízdní řády, ceny, otevírací doby), označ jako neověřené. Netvrď jistotu, kterou podklad nedává.
 
 ## Co je rozpracované
 
-Fáze 1 až 4 odpovídají Anežčině aktualizaci z října 2026. Fáze 5 až 9 mají data k přepočtu: součet fází je 23 nocí, k dispozici jich je 22, jedna se musí ubrat (kandidáti podle sekce 0: Khao Lak, Koh Phayam, Krabi Town) nebo musí Ranong proběhnout bez noci navíc. Pevné body jsou dva: rezervace plovoucího bungalovu na jezeře Cheow Lan a odlet z Phuketu 19. 12.
+Stav k v13. Noci jsou přepočtené a sedí na 22. Nedořešené zůstává:
+
+- Fáze 5: noc na jezeře Cheow Lan (balíček, konkrétní raft house, nebo jen jednodenní výlet). Rezervace bungalovu je jeden ze dvou pevných bodů.
+- Fáze 6: základna v Krabi (Krabi Town, nebo pláže Tub Kaek či Klong Muang u Dragon Crest) a případný přesun jedné noci z Krabi na Koh Yao Noi.
+- Ubytování ve fázích 5 až 8 není rezervované.
+
+Pevné body jsou dva: rezervace plovoucího bungalovu na jezeře Cheow Lan a odlet z Phuketu 19. 12.
 
 ## Práce v session
 
 S repem pracuje i Anežka, která nepoužívá git ani jeho názvosloví. Slova jako „aktualizuj“, „ulož to“, „dej to na web“, „zveřejni“, „hotovo“ nebo „aktualizace“ znamenají celý řetězec až do konce, bez doptávání na jednotlivé kroky:
 
 1. založit novou verzi a upravit její Markdown,
-2. doplnit záznam do `src/verze.json`,
+2. doplnit záznam do `src/verze.json` a oddíly „Aktuální stav“ a „Co je rozpracované“ v tomto souboru,
 3. commitnout text verze a zapsat jeho hash do pole `commit`,
 4. spustit `python build.py`,
 5. commitnout a pushnout na `main`.
@@ -61,7 +80,7 @@ Doptávej se jen na obsah: co přesně se má v itineráři změnit, když to z 
 
 Nevytvářej novou verzi pro změnu, kterou uživatel teprve rozmýšlí. Dokud se bavíte o tom, co a jak, nic neukládej; verzi zakládej, až je obsah dohodnutý.
 
-Jedna výjimka z automatického nahrávání: pokud by změna něco smazala nebo přepsala tak, že to nejde vrátit (zásah do starších verzí v `verze/v1` až `verze/v4`, přepsání cizí změny, smazání sekce bez náhrady), nejdřív se zeptej.
+Jedna výjimka z automatického nahrávání: pokud by změna něco smazala nebo přepsala tak, že to nejde vrátit (zásah do starších verzí, přepsání cizí změny, smazání sekce bez náhrady), nejdřív se zeptej.
 
 ## Autorství commitů
 

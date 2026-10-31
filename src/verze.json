@@ -982,5 +982,89 @@
       "faze6": "Khao Lak"
     },
     "commit": "b0e7d3d"
+  },
+  {
+    "id": "v13",
+    "datum": "31. 10. 2026",
+    "nazev": "Bez Khao Laku: 8 fází, 22 nocí, Krabi 4 noci kvůli Dragon Crest",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Khao Lak (dříve fáze 6) je vyřazený. Všechno o něm je uložené jako záložní varianta v souboru varianty/khao-lak.md, původní podoba zůstává ve v12.",
+      "Trasa má 8 fází a vychází přesně na 22 nocí, přepočet nocí je hotový: Krabi 11.–15. 12. (4 noci), Koh Yao Noi 15.–18. 12. (3 noci), Phuket Town 18.–19. 12. (1 noc).",
+      "Fáze se za Khao Sok posunuly o jedno číslo: Krabi je fáze 6, Koh Yao Noi fáze 7, Phuket Town fáze 8. Odkazy na fáze v celém textu jsou upravené.",
+      "Fáze 6 (Krabi): Dragon Crest je hlavní program místo volitelného, s doporučením jít první suché ráno. Nově popsaná volba základny: Krabi Town, nebo klidnější pláže Tub Kaek či Klong Muang u začátku stezky. Volba zatím není hotová.",
+      "Doprava: z Khao Sok se jede rovnou minivanem do Krabi (3–4 h), úseky přes Khao Lak odpadly. Přibyl úsek k začátku stezky Dragon Crest a bod Dragon Crest v sekci 3.",
+      "Khao Lak odstraněn i ze sekcí 3, 5, 8, 13, 15 a 16. Den ústavy 10. 12. teď připadá na pobyt v Khao Sok, ne na přesun."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–11. 12.",
+        "11.–15. 12.",
+        "15.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ]
+    }
   }
 ]
