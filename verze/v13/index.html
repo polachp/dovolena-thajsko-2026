@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Thajsko Bangkok–Phuket</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;600;700&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Mobile first, stromova navigace: nadsekce -> seznam polozek -> jedna stranka. */
+:root{
+  --bg:#f2f4f0; --surface:#ffffff; --ink:#1a2420; --muted:#5b6862; --line:#d7ddd7;
+  --accent:#0d6b67; --accent-soft:#dcecea; --saffron:#b9770b; --saffron-soft:#f6ead2;
+  --display:"Familjen Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --body:"Literata", Georgia, "Times New Roman", serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --pad:max(16px,env(safe-area-inset-left,0px));
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
+  --accent:#5cc2bb; --accent-soft:#16312f; --saffron:#e3a63d; --saffron-soft:#33280f; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
+  --accent:#5cc2bb; --accent-soft:#16312f; --saffron:#e3a63d; --saffron-soft:#33280f; color-scheme:dark}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6;overflow-wrap:break-word}
+.wrap{max-width:1180px;margin:0 auto;padding-left:var(--pad);padding-right:var(--pad)}
+
+/* hlavicka */
+header.top{padding-block:18px 14px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(1.5rem,7vw,3rem);line-height:1.05;margin:.25em 0 .2em;text-wrap:balance;letter-spacing:-.01em}
+h1 .arrow{color:var(--accent)}
+.lede{max-width:62ch;color:var(--muted);margin:0;font-size:.95rem}
+.facts{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:12px;font-family:var(--mono);font-size:12px}
+.facts b{font-weight:500;color:var(--ink)} .facts span{color:var(--muted)}
+.odpocet{display:flex;align-items:baseline;flex-wrap:wrap;gap:2px 10px;margin-top:12px;padding:10px 14px;border-radius:10px;background:var(--accent-soft)}
+.odpocet .num{font-family:var(--display);font-weight:700;font-size:clamp(1.25rem,5.5vw,1.8rem);line-height:1.1;color:var(--accent);font-variant-numeric:tabular-nums}
+.odpocet .det{font-family:var(--mono);font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.verbar{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;margin-top:12px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.verbar .cur{color:var(--ink)}
+.verbar a{color:var(--accent);text-underline-offset:2px}
+.verbar .pill{display:inline-block;padding:1px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.verbar .pill.old{background:var(--saffron-soft);color:var(--saffron)}
+details.hdr{margin-top:10px}
+details.hdr>summary{font-family:var(--display);font-size:13px;color:var(--accent);cursor:pointer;list-style:none;min-height:30px}
+details.hdr>summary::-webkit-details-marker{display:none}
+details.hdr>summary::after{content:" +"}
+details.hdr[open]>summary::after{content:" −"}
+
+/* nadsekce */
+.tabs{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line)}
+.tabs .wrap{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
+.tabs .wrap::-webkit-scrollbar{display:none}
+.tabs button{flex:0 0 auto;font-family:var(--display);font-weight:600;font-size:15px;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:12px 10px;cursor:pointer;min-height:46px;white-space:nowrap}
+.tabs button[aria-current="true"]{color:var(--accent);border-bottom-color:var(--accent)}
+
+/* pruh fazi (jen na rozcestniku itineráře) */
+.route{padding-block:14px;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none}
+.route::-webkit-scrollbar{display:none}
+.route ol{list-style:none;margin:0;padding:0;display:flex;gap:0;min-width:max-content}
+.route li{position:relative;display:flex;padding-right:18px}
+.route li::before{content:"";position:absolute;top:13px;left:26px;right:0;height:2px;background:var(--line)}
+.route li:last-child::before{display:none}
+.route a{position:relative;display:flex;flex-direction:column;gap:3px;text-decoration:none;color:var(--ink);min-width:92px}
+.dot{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;font-family:var(--mono);font-size:12px;font-weight:500;background:var(--surface);border:2px solid var(--accent);color:var(--accent)}
+.route a:hover .dot,.route a:focus-visible .dot{background:var(--accent);color:var(--bg)}
+.route .pl{font-family:var(--display);font-weight:600;font-size:13px;line-height:1.2}
+.route .n{font-family:var(--mono);font-size:10px;color:var(--muted)}
+.route .side{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--saffron)}
+
+.layout{display:block;padding-block:16px 60px}
+
+/* postranni rozcestnik (desktop) */
+nav.rail{display:none}
+@media (min-width:900px){
+  .layout{display:grid;grid-template-columns:270px minmax(0,1fr);gap:44px;padding-block:26px 80px;align-items:start}
+  nav.rail{display:block;position:sticky;top:76px;align-self:start;max-height:calc(100vh - 96px);overflow:auto}
+  nav.rail p.eyebrow{margin:0 0 8px}
+  nav.rail ul{list-style:none;margin:0;padding:0;border-left:1px solid var(--line)}
+  nav.rail a{display:block;padding:7px 0 7px 12px;margin-left:-1px;border-left:2px solid transparent;color:var(--muted);text-decoration:none;font-family:var(--display);font-size:14px;line-height:1.3}
+  nav.rail a:hover{color:var(--ink)}
+  nav.rail a[aria-current="true"]{color:var(--accent);border-left-color:var(--accent);font-weight:600}
+  nav.rail .sub{font-family:var(--mono);font-size:11px;color:var(--muted);display:block;font-weight:400}
+}
+
+/* rozcestnik: dlazdice */
+.cards{display:grid;grid-template-columns:1fr;gap:8px;margin:0 0 8px;padding:0;list-style:none}
+@media (min-width:600px){.cards{grid-template-columns:1fr 1fr}}
+.cards a{display:block;padding:13px 15px;border:1px solid var(--line);border-radius:12px;background:var(--surface);text-decoration:none;color:var(--ink);min-height:46px}
+.cards a:hover{border-color:var(--accent)}
+.cards .k{font-family:var(--mono);font-size:11px;color:var(--accent);letter-spacing:.04em}
+.cards .t{display:block;font-family:var(--display);font-weight:600;font-size:16px;line-height:1.25;margin:2px 0 2px}
+.cards .p{display:block;font-size:13px;color:var(--muted);line-height:1.4}
+.secintro{margin:0 0 14px;color:var(--muted);font-size:.95rem;max-width:62ch}
+
+/* stranka */
+.crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-family:var(--mono);font-size:12px;color:var(--muted);margin-bottom:10px}
+.crumbs a{color:var(--accent);text-decoration:none}
+.back{display:inline-flex;align-items:center;gap:8px;font-family:var(--display);font-weight:600;font-size:14px;color:var(--accent);background:none;border:0;padding:10px 0;min-height:44px;cursor:pointer}
+article{min-width:0;max-width:760px}
+article h2{font-family:var(--display);font-weight:700;font-size:1.45rem;line-height:1.2;margin:0 0 .5em;text-wrap:balance;scroll-margin-top:64px}
+article h3{font-family:var(--display);font-weight:600;font-size:1.1rem;margin:1.7em 0 .4em;text-wrap:balance;scroll-margin-top:64px}
+article h3.phase{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline;padding:10px 14px;background:var(--accent-soft);border-radius:8px}
+article h3.phase .tag{font-family:var(--mono);font-size:12px;font-weight:500;color:var(--accent);white-space:nowrap}
+article p,article li{max-width:68ch}
+article ul,article ol{padding-left:1.2em}
+article li{margin:.35em 0}
+article strong{font-weight:600}
+article a{color:var(--accent);text-underline-offset:2px}
+article.term{background:var(--saffron-soft);border:1px solid color-mix(in srgb,var(--saffron) 35%,transparent);border-radius:12px;padding:14px 16px}
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1em 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.4}
+th,td{text-align:left;vertical-align:top;padding:8px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--display);font-weight:600;font-size:13px;background:var(--bg);white-space:nowrap}
+tr:last-child td{border-bottom:0}
+td{font-variant-numeric:tabular-nums}
+td:has(> .coord){white-space:nowrap}
+.copy{font-family:var(--mono);font-size:12px;border:1px solid var(--line);background:var(--bg);color:var(--accent);border-radius:4px;padding:4px 8px;cursor:pointer}
+.copy:focus-visible,a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.prevnext{display:flex;flex-wrap:wrap;gap:8px;margin-top:28px;padding-top:16px;border-top:1px solid var(--line)}
+.prevnext a{flex:1 1 180px;display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);text-decoration:none;color:var(--ink);font-family:var(--display);font-weight:600;font-size:14px;min-height:46px}
+.prevnext .k{display:block;font-family:var(--mono);font-size:11px;color:var(--muted);font-weight:400}
+.oldver{margin:0 0 16px;padding:12px 16px;border-radius:10px;background:var(--saffron-soft);border:1px solid var(--line)}
+.chlog h3{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}
+.chlog .meta{font-family:var(--mono);font-size:12px;color:var(--muted);font-weight:400}
+.chlog .lnk{font-family:var(--mono);font-size:13px;display:flex;flex-wrap:wrap;gap:6px 16px;margin:.2em 0 .6em}
+footer{padding-block:20px 40px;border-top:1px solid var(--line);font-family:var(--mono);font-size:11px;color:var(--muted)}
+footer a{color:var(--accent)}
+.up{position:fixed;right:14px;bottom:14px;z-index:40;display:none;width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:var(--surface);color:var(--accent);font-size:18px;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.12)}
+.up.show{display:block}
+@media (min-width:900px){.up{display:none !important}article h2{font-size:1.7rem}}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+</style>
+</head>
+<body>
+
+<header class="top"><div class="wrap">
+  <div class="eyebrow">Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026 · verze v13 (31. 10. 2026)</div>
+  <h1>Bangkok <span class="arrow">→</span> Phuket</h1>
+  <div class="odpocet" id="odpocet" hidden>
+    <span class="num" id="odpocetNum"></span>
+    <span class="det" id="odpocetDet"></span>
+  </div>
+  <details class="hdr">
+    <summary>Fakta a verze</summary>
+    <div class="facts">
+    <div><span>Fáze </span><b>8</b></div>
+    <div><span>Nocí v Thajsku </span><b>22</b></div>
+    <div><span>Termín </span><b>27. 11.–19. 12.</b></div>
+    <div><span>Bezvízový pobyt </span><b>23 z 30 dní</b></div>
+    </div>
+    <div class="verbar" id="verbar"></div>
+  </details>
+</div></header>
+
+<div class="tabs"><div class="wrap" id="tabs" aria-label="Hlavní sekce"></div></div>
+
+<div class="route" id="route" hidden><div class="wrap">
+  <ol>
+    <li><a href="#faze-1"><span class="side">Město</span><span class="dot">1</span><span class="pl">Bangkok</span><span class="n">27.–30. 11.</span></a></li>
+    <li><a href="#faze-2"><span class="side">&nbsp;</span><span class="dot">2</span><span class="pl">Sam Roi Yot</span><span class="n">30. 11.–3. 12.</span></a></li>
+    <li><a href="#faze-3"><span class="side">Záliv</span><span class="dot">3</span><span class="pl">Prachuap</span><span class="n">3.–4. 12.</span></a></li>
+    <li><a href="#faze-4"><span class="side">&nbsp;</span><span class="dot">4</span><span class="pl">Ranong, Koh Phayam</span><span class="n">4.–8. 12.</span></a></li>
+    <li><a href="#faze-5"><span class="side">Prales</span><span class="dot">5</span><span class="pl">Khao Sok, Cheow Lan</span><span class="n">8.–11. 12.</span></a></li>
+    <li><a href="#faze-6"><span class="side">Andaman</span><span class="dot">6</span><span class="pl">Krabi</span><span class="n">11.–15. 12.</span></a></li>
+    <li><a href="#faze-7"><span class="side">&nbsp;</span><span class="dot">7</span><span class="pl">Koh Yao Noi</span><span class="n">15.–18. 12.</span></a></li>
+    <li><a href="#faze-8"><span class="side">&nbsp;</span><span class="dot">8</span><span class="pl">Phuket Town</span><span class="n">18.–19. 12.</span></a></li>
+  </ol>
+</div></div>
+
+<div class="wrap layout">
+  <nav class="rail" id="rail" aria-label="Položky sekce"></nav>
+  <div id="main">
+    <p>Obsah se načítá. Pokud se nezobrazí, zkontrolujte připojení k internetu. Text je i v souboru <a href="thajsko-bangkok-phuket.md">thajsko-bangkok-phuket.md</a>.</p>
+  </div>
+</div>
+
+<button class="up" id="up" type="button" aria-label="Nahoru">↑</button>
+
+<footer><div class="wrap">Zdroj: Kompletní thajský slow-travel manuál, @Anezka. Časy a ceny jsou orientační, ověřte před cestou. Celý text: <a href="thajsko-bangkok-phuket.md">thajsko-bangkok-phuket.md</a>.</div></footer>
+
+<script>window.CFG={"id": "v13", "base": "../../"};</script>
+<script>
+// Odpocet do odletu. Datum se nastavuje v build.py (konstanta ODLET).
+(function(){
+  var odlet=new Date('2026-11-26T00:00:00+01:00'), el=document.getElementById('odpocet');
+  if(!el||isNaN(odlet)) return;
+  var num=document.getElementById('odpocetNum'), det=document.getElementById('odpocetDet');
+  var datum=odlet.toLocaleDateString('cs-CZ',{day:'numeric',month:'numeric',year:'numeric'});
+  function sklon(n){return n===1?'den':(n>=2&&n<=4?'dny':'dní')}
+  function tik(){
+    var zbyva=odlet-new Date();
+    if(zbyva<=0){num.textContent='Letíme!';det.textContent='odlet '+datum;return}
+    var dny=Math.floor(zbyva/864e5), hod=Math.floor(zbyva/36e5)%24, min=Math.floor(zbyva/6e4)%60;
+    num.textContent=dny+' '+sklon(dny);
+    det.textContent='a '+hod+' h '+min+' min do odletu · '+datum;
+  }
+  tik(); el.hidden=false; setInterval(tik,10000);
+})();
+</script>
+<script src="../../verze.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="thajsko-obsah.js"></script>
+<script>
+(function(){
+  var main=document.getElementById('main');
+  if(!window.marked||!window.THAJSKO_MD) return;
+  var CFG=window.CFG||{}, V=window.THAJSKO_VERZE||[], REPO='https://github.com/polachp/dovolena-thajsko-2026';
+  function esc(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+
+  // ---- nadsekce ----
+  var SEKCE=[
+    {id:'pred',  nazev:'Před cestou', popis:'Co zařídit, kolik to stojí, co čekat od počasí a od letu.'},
+    {id:'itin',  nazev:'Itinerář',    popis:'Přehled trasy a jednotlivé fáze. Klepnutím otevřete detail fáze.'},
+    {id:'misto', nazev:'Na místě',    popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.'},
+    {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.'}
+  ];
+  // cislo sekce z manualu -> nadsekce
+  var KAM={0:'pred',5:'pred',8:'pred',10:'pred',13:'pred',15:'pred',16:'pred',18:'pred',
+           1:'misto',2:'misto',3:'misto',4:'misto',7:'misto',9:'misto',11:'misto',12:'misto',14:'misto',17:'misto'};
+
+  // ---- markdown ----
+  var tmp=document.createElement('div');
+  tmp.innerHTML=marked.parse(window.THAJSKO_MD);
+  var h1=tmp.querySelector('h1'); if(h1) h1.remove();
+  function slug(t){return t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60)}
+  var used={};
+  tmp.querySelectorAll('h2,h3').forEach(function(h){
+    var t=h.textContent.trim(), m=t.match(/^Fáze (\d+):\s*(.*)$/), id;
+    if(h.tagName==='H3'&&m){id='faze-'+m[1];h.dataset.faze=m[1];h.dataset.zbytek=m[2];}
+    else id=slug(t)||'s';
+    while(used[id]) id+='-x'; used[id]=1; h.id=id;
+  });
+
+  // ---- rozpad na stranky ----
+  var STRANKY=[], podleId={};
+  function pridej(s){STRANKY.push(s); return s}
+  function perex(uzly){
+    for(var i=0;i<uzly.length;i++){
+      var n=uzly[i];
+      if(n.nodeType===1&&(n.tagName==='P'||n.tagName==='UL')){
+        var t=n.textContent.replace(/\s+/g,' ').trim();
+        if(t.length>120) t=t.slice(0,117).replace(/[\s,;:.]+\S*$/,'')+'...';
+        return t;
+      }
+    }
+    return '';
+  }
+  var bloky=[], akt=null;
+  Array.prototype.slice.call(tmp.childNodes).forEach(function(n){
+    if(n.nodeType===1&&n.tagName==='H2'){akt={h:n,uzly:[n]};bloky.push(akt)}
+    else if(akt) akt.uzly.push(n);
+  });
+  bloky.forEach(function(b){
+    var t=b.h.textContent.trim(), m=t.match(/^(\d+)\.\s*(.*)$/);
+    var cislo=m?m[1]:null, nazev=m?m[2]:t;
+    var jeItin=(cislo==='6');
+    if(!jeItin){
+      pridej({id:b.h.id,top:KAM[cislo]||'misto',klic:cislo?'Sekce '+cislo:'',nazev:nazev,
+              kratky:nazev.split(/[:(]/)[0].trim(),uzly:b.uzly,perex:perex(b.uzly.slice(1))});
+      return;
+    }
+    // sekce 6: uvod jako prehled, kazdy H3 jako vlastni stranka
+    var uvod=[b.h], zbytek=[], akt3=null, deti=[];
+    b.uzly.slice(1).forEach(function(n){
+      if(n.nodeType===1&&n.tagName==='H3'){akt3={h:n,uzly:[n]};deti.push(akt3)}
+      else if(akt3) akt3.uzly.push(n);
+      else uvod.push(n);
+    });
+    pridej({id:'prehled-trasy',top:'itin',klic:'Přehled',nazev:'Přehled trasy a nocí',kratky:'Přehled trasy',
+            uzly:uvod,perex:perex(uvod.slice(1)),rozcestnik:true});
+    deti.forEach(function(c){
+      var f=c.h.dataset.faze;
+      if(f){
+        var zb=c.h.dataset.zbytek||'', mm=zb.match(/^(.*?)\s*\(([^)]*)\)\s*$/);
+        pridej({id:c.h.id,top:'itin',klic:'Fáze '+f,nazev:'Fáze '+f+': '+zb,
+                kratky:mm?mm[1]:zb,sub:mm?mm[2]:'',uzly:c.uzly,perex:perex(c.uzly.slice(1)),faze:+f});
+      } else {
+        var t3=c.h.textContent.trim();
+        pridej({id:c.h.id,top:'misto',klic:'Itinerář',nazev:t3,kratky:t3.split(/[:(]/)[0].trim(),
+                uzly:c.uzly,perex:perex(c.uzly.slice(1))});
+      }
+    });
+  });
+  // zmenovy list jako stranka
+  var latest=V.length?V[V.length-1].id:CFG.id, me=V.filter(function(v){return v.id===CFG.id})[0];
+  if(V.length){
+    var box=document.createElement('div'), c='<h2 id="zmenovy-list">Změnový list</h2><div class="chlog">';
+    V.slice().reverse().forEach(function(v){
+      var prev=V[V.indexOf(v)-1];
+      c+='<h3>'+esc(v.id)+': '+esc(v.nazev)+' <span class="meta">'+esc(v.datum)+(v.id===latest?' · aktuální':'')+(v.id===CFG.id?' · právě zobrazená':'')+'</span></h3>';
+      c+='<div class="lnk"><a href="'+CFG.base+'verze/'+v.id+'/">web '+esc(v.id)+'</a><a href="'+CFG.base+'verze/'+v.id+'/'+(v.md||'thajsko-phuket-bangkok.md')+'">Markdown</a>'+(prev&&prev.commit&&v.commit?'<a href="'+REPO+'/compare/'+prev.commit+'...'+v.commit+'">rozdíl proti '+esc(prev.id)+'</a>':'')+'</div>';
+      c+='<ul>'+v.zmeny.map(function(z){return '<li>'+esc(z)+'</li>'}).join('')+'</ul>';
+    });
+    box.innerHTML=c+'</div>';
+    pridej({id:'zmenovy-list',top:'verze',klic:'',nazev:'Změnový list',kratky:'Změnový list',
+            uzly:Array.prototype.slice.call(box.childNodes),perex:'Co se změnilo v jednotlivých verzích.'});
+  }
+  // index id -> stranka
+  STRANKY.forEach(function(s){
+    podleId[s.id]=s;
+    s.uzly.forEach(function(n){
+      if(n.nodeType!==1) return;
+      if(n.id) podleId[n.id]=s;
+      n.querySelectorAll&&n.querySelectorAll('[id]').forEach(function(e){podleId[e.id]=s});
+    });
+  });
+  function vSekci(top){return STRANKY.filter(function(s){return s.top===top})}
+
+  // ---- vykresleni ----
+  var tabs=document.getElementById('tabs'), rail=document.getElementById('rail'), route=document.getElementById('route');
+  SEKCE.forEach(function(s){
+    var b=document.createElement('button');
+    b.type='button'; b.textContent=s.nazev; b.dataset.top=s.id;
+    b.addEventListener('click',function(){jdi(s.id,null)});
+    tabs.appendChild(b);
+  });
+  var stav={top:'itin',page:null};
+  function titulek(s){return s.klic&&s.klic!=='Itinerář'?s.klic+': '+s.kratky:s.nazev}
+  function kartaHtml(s){
+    return '<li><a href="#'+s.id+'">'+(s.klic?'<span class="k">'+esc(s.klic)+(s.sub?' · '+esc(s.sub):'')+'</span>':'')+
+      '<span class="t">'+esc(s.kratky)+'</span>'+(s.perex?'<span class="p">'+esc(s.perex)+'</span>':'')+'</a></li>';
+  }
+  function rozcestnik(top){
+    var sek=SEKCE.filter(function(x){return x.id===top})[0], polozky=vSekci(top);
+    main.innerHTML='';
+    var h=document.createElement('div');
+    h.innerHTML='<h2>'+esc(sek.nazev)+'</h2><p class="secintro">'+esc(sek.popis)+'</p>'+
+                '<ul class="cards">'+polozky.map(kartaHtml).join('')+'</ul>';
+    main.appendChild(h);
+    route.hidden=(top!=='itin');
+  }
+  function stranka(s){
+    main.innerHTML='';
+    route.hidden=true;
+    var sek=SEKCE.filter(function(x){return x.id===s.top})[0];
+    var art=document.createElement('article');
+    if(s.id==='co-je-v-teto-verzi-nove-a-co-se-jeste-doresi'||/^0\./.test(s.uzly[0].textContent||'')) art.className='term';
+    var cr=document.createElement('div'); cr.className='crumbs';
+    cr.innerHTML='<a href="#/'+s.top+'">'+esc(sek.nazev)+'</a><span>›</span><span>'+esc(s.kratky)+'</span>';
+    main.appendChild(cr);
+    s.uzly.forEach(function(n){art.appendChild(n)});
+    var h2=art.querySelector('h2,h3');
+    if(h2&&h2.dataset&&h2.dataset.faze){
+      h2.classList.add('phase');
+      h2.innerHTML='<span class="tag">Fáze '+h2.dataset.faze+'</span><span>'+esc(h2.dataset.zbytek)+'</span>';
+    }
+    main.appendChild(art);
+    // predchozi a dalsi v ramci nadsekce
+    var polozky=vSekci(s.top), i=polozky.indexOf(s), pn=document.createElement('div'); pn.className='prevnext';
+    if(i>0) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i-1].id+'"><span class="k">Předchozí</span>'+esc(titulek(polozky[i-1]))+'</a>');
+    if(i<polozky.length-1) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i+1].id+'"><span class="k">Další</span>'+esc(titulek(polozky[i+1]))+'</a>');
+    pn.insertAdjacentHTML('beforeend','<a href="#/'+s.top+'"><span class="k">Zpět na</span>'+esc(sek.nazev)+'</a>');
+    main.appendChild(pn);
+    vylepsi(art);
+  }
+  function vylepsi(kam){
+    kam.querySelectorAll('table').forEach(function(t){
+      if(t.parentNode.classList.contains('tw')) return;
+      var w=document.createElement('div');w.className='tw';t.parentNode.insertBefore(w,t);w.appendChild(t);
+    });
+    kam.querySelectorAll('td').forEach(function(td){
+      var v=td.textContent.trim();
+      if(td.querySelector('.coord')) return;
+      if(/^\d{1,2}\.\d{3,5}, \d{2,3}\.\d{3,5}$/.test(v)){
+        td.innerHTML='<span class="coord">'+v+'</span> <button class="copy" type="button">kopírovat</button>';
+        td.querySelector('button').addEventListener('click',function(e){
+          var b=e.currentTarget, done=function(){b.textContent='zkopírováno';setTimeout(function(){b.textContent='kopírovat'},1500)};
+          try{navigator.clipboard.writeText(v).then(done,function(){sel(td)})}catch(_){sel(td)}
+        });
+      }
+    });
+  }
+  function sel(el){var r=document.createRange();r.selectNodeContents(el.querySelector('.coord'));var s=getSelection();s.removeAllRanges();s.addRange(r)}
+  function lista(){
+    var polozky=vSekci(stav.top), sek=SEKCE.filter(function(x){return x.id===stav.top})[0];
+    rail.innerHTML='<p class="eyebrow">'+esc(sek.nazev)+'</p><ul>'+
+      polozky.map(function(s){
+        return '<li><a href="#'+s.id+'"'+(stav.page===s.id?' aria-current="true"':'')+'>'+esc(s.kratky)+
+               (s.klic||s.sub?'<span class="sub">'+esc([s.klic,s.sub].filter(Boolean).join(' · '))+'</span>':'')+'</a></li>';
+      }).join('')+'</ul>';
+    Array.prototype.forEach.call(tabs.children,function(b){b.setAttribute('aria-current',String(b.dataset.top===stav.top))});
+  }
+  function jdi(top,pageId,kotva,bezHash){
+    stav.top=top; stav.page=pageId;
+    if(pageId&&podleId[pageId]) stranka(podleId[pageId]); else rozcestnik(top);
+    lista();
+    if(!bezHash) history.replaceState(null,'',pageId?'#'+pageId:'#/'+top);
+    if(kotva){var el=document.getElementById(kotva); if(el){el.scrollIntoView();return}}
+    window.scrollTo({top:0});
+  }
+  function zHashe(h,bezHash){
+    h=(h||'').replace(/^#/,'');
+    if(!h) return jdi('itin',null,null,bezHash);
+    if(h.charAt(0)==='/'){
+      var t=h.slice(1).split('/')[0];
+      if(SEKCE.some(function(s){return s.id===t})) return jdi(t,null,null,bezHash);
+      return jdi('itin',null,null,bezHash);
+    }
+    var s=podleId[h];
+    if(s) return jdi(s.top,s.id,s.id===h?null:h,bezHash);
+    jdi('itin',null,null,bezHash);
+  }
+  document.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('a[href^="#"]'); if(!a) return;
+    var h=a.getAttribute('href').slice(1); if(!h) return;
+    e.preventDefault(); location.hash=h; zHashe(h,true); history.replaceState(null,'','#'+h);
+  });
+  window.addEventListener('hashchange',function(){zHashe(location.hash,true)});
+
+  // verze v hlavicce
+  var bar=document.getElementById('verbar');
+  if(bar&&me){
+    var isOld=CFG.id!==latest;
+    var others=V.slice().reverse().filter(function(v){return v.id!==CFG.id}).map(function(v){return '<a href="'+CFG.base+'verze/'+v.id+'/">'+v.id+(v.id===latest?' (aktuální)':'')+'</a>'}).join(' ');
+    bar.innerHTML='<span class="pill'+(isOld?' old':'')+'">'+esc(me.id)+(isOld?' starší verze':' aktuální')+'</span><span class="cur">'+esc(me.datum)+' · '+esc(me.nazev)+'</span>'+(others?'<span>Další verze: '+others+'</span>':'');
+  }
+  if(me&&CFG.id!==latest){
+    var w=document.createElement('p');w.className='oldver';
+    w.innerHTML='Prohlížíte starší verzi '+esc(me.id)+' ('+esc(me.datum)+'). Aktuální je <a href="'+CFG.base+'">'+esc(latest)+'</a>.';
+    document.querySelector('header.top .wrap').appendChild(w);
+  }
+
+  zHashe(location.hash,true);
+
+  var up=document.getElementById('up');
+  up.addEventListener('click',function(){window.scrollTo({top:0})});
+  addEventListener('scroll',function(){up.classList.toggle('show',scrollY>600)},{passive:true});
+})();
+</script>
+
+</body>
+</html>

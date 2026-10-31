@@ -15,22 +15,23 @@ Tato verze přebírá Anežčinu aktualizaci pro fáze 1 až 4 včetně. Novinky
 - **Jízdní řád vlaku č. 43** (Bangkok 7:30, Hua Hin 10:31, Prachuap 11:41) a konkrétní ceny a vstupy u míst ve fázích 1 až 4.
 - **Nová sekce 18: Etihad Airways** (tarif Comfort, zavazadla, odbavení, vrácení peněz) a přepsaný checklist v sekci 13 (vstupní pravidla od 15. 9. 2026, TDAC, mezinárodní řidičský průkaz kvůli autu).
 
-Proti v4 přibyly odkazy do Google Maps u záchytných bodů (sekce 3), obsah itineráře je jinak stejný. Proti v5 je zapsané potvrzené ubytování ve fázích 1 až 4 (název, odkaz do Map, časy check-inu). Proti v6 je přepsaná fáze 5 (Khao Sok): data 8.–11. 12., možnosti noci na jezeře Cheow Lan a aktivity ve vesnici, konkrétní volba zatím není hotová. Proti v9 přibyla ve fázi 4 volitelná možnost kajaku v mangrovech na Koh Phayam. Proti v10 přibyl ve fázi 4 stručný tip na zářící plankton. Proti v11 přibyl v sekci 10 odkaz na web s předpovědí přílivu. Zbytek itineráře je stejný.
+Proti v4 přibyly odkazy do Google Maps u záchytných bodů (sekce 3), obsah itineráře je jinak stejný. Proti v5 je zapsané potvrzené ubytování ve fázích 1 až 4 (název, odkaz do Map, časy check-inu). Proti v6 je přepsaná fáze 5 (Khao Sok): data 8.–11. 12., možnosti noci na jezeře Cheow Lan a aktivity ve vesnici, konkrétní volba zatím není hotová. Proti v9 přibyla ve fázi 4 volitelná možnost kajaku v mangrovech na Koh Phayam. Proti v10 přibyl ve fázi 4 stručný tip na zářící plankton. Proti v11 přibyl v sekci 10 odkaz na web s předpovědí přílivu.
 
-**Nedořešené: počet nocí ve fázích 6 až 9.** Fáze 5 (Khao Sok) je od této verze posunutá na 8.–11. 12., aby navazovala na Koh Phayam. Fáze 1 až 9 ale pořád dávají v součtu 23 nocí, a od 27. 11. do 19. 12. jich je k dispozici 22. Projeví se to překryvem: fáze 5 končí 11. 12., fáze 6 (Khao Lak) ale začíná 10. 12. Data ve fázích 6 až 9 a v sekcích 8, 13 a 16 proto zatím zůstávají v podobě před přidáním Ranongu a jsou k přepočtu. Jedna noc se musí ubrat (nabízí se Khao Lak, Koh Phayam nebo Krabi Town), nebo musí Ranong proběhnout bez noci navíc.
+**Novinka ve v13: Khao Lak je vyřazený.** Trasa má 8 fází místo 9 a vychází přesně na 22 nocí. Uvolněné noci dostala oblast Krabi (4 noci místo 2), hlavně kvůli výšlapu na Dragon Crest a rezervě na počasí. Odpadl jeden přesun: z Khao Sok se jede rovnou minivanem do Krabi (3–4 h). Fáze za Khao Sok se posunuly o jedno číslo: Krabi je fáze 6, Koh Yao Noi fáze 7 a Phuket Town fáze 8. Všechno o Khao Laku zůstává jako záložní varianta v samostatném souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md) a v původní podobě ve [v12](../v12/).
 
 | Fáze | Kde | Nocí | Orientační datum | Stav |
 |---|---|---|---|---|
-| 1 | Bangkok | 3 | 27.–30. 11. | aktualizováno |
-| 2 | Sam Roi Yot (Sea Sight Resort), auto z Hua Hin | 3 | 30. 11.–3. 12. | aktualizováno |
-| 3 | Prachuap Khiri Khan | 1 | 3.–4. 12. | aktualizováno |
-| 4 | Ranong (1 noc) a Koh Phayam (3 noci) | 4 | 4.–8. 12. | aktualizováno |
-| 5 | Khao Sok a jezero Cheow Lan | 3 | 8.–11. 12. | aktualizováno |
-| 6 | Khao Lak | 3 | 10.–13. 12. | k přepočtu |
-| 7 | Krabi Town | 2 | 13.–15. 12. | k přepočtu |
-| 8 | Koh Yao Noi | 3 | 15.–18. 12. | k přepočtu |
-| 9 | Phuket Town | 1 | 18.–19. 12. | k přepočtu |
-| | Celkem | 23 (k dispozici 22) | 27. 11.–19. 12. | |
+| 1 | Bangkok | 3 | 27.–30. 11. | ubytování potvrzené |
+| 2 | Sam Roi Yot (Sea Sight Resort), auto z Hua Hin | 3 | 30. 11.–3. 12. | ubytování potvrzené |
+| 3 | Prachuap Khiri Khan | 1 | 3.–4. 12. | ubytování potvrzené |
+| 4 | Ranong (1 noc) a Koh Phayam (3 noci) | 4 | 4.–8. 12. | ubytování potvrzené |
+| 5 | Khao Sok a jezero Cheow Lan | 3 | 8.–11. 12. | noc na jezeře nevybraná |
+| 6 | Krabi | 4 | 11.–15. 12. | základna nevybraná |
+| 7 | Koh Yao Noi | 3 | 15.–18. 12. | nerezervováno |
+| 8 | Phuket Town | 1 | 18.–19. 12. | nerezervováno |
+| | Celkem | 22 | 27. 11.–19. 12. | |
+
+**Nedořešené:** základna v Krabi (Krabi Town, nebo klidnější pláže Tub Kaek či Klong Muang u Dragon Crest, viz fáze 6) a rozdělení 7 nocí mezi Krabi a Koh Yao Noi. Kdo chce na Koh Yao Noi víc nicnedělání, může přesunout jednu noc z Krabi (Krabi 3 noci do 14. 12., Koh Yao Noi 4 noci).
 
 Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Hodiny letů si ověřte v e-ticketu (sekce 18).
 
@@ -69,7 +70,7 @@ Na trase uvidíte divoké slony, tři druhy opic, gibony i zoborožce. Všechno 
 - **Makakové na Khao Chong Krachok (fáze 3).** Chrámový kopec s 396 schody a vyhlídkou nad zálivem obývají makakové dlouhoocasí. Berou jídlo, lahve i brýle, takže mějte tašku zavřenou a před sebou. Nahoru vyrazte před osmou hodinou, než se schodiště rozpálí.
 - **Giboni a zoborožci v Khao Sok (fáze 5).** V hlubokém pralese a na jezeře Cheow Lan uslyšíte brzy ráno téměř éterický zpěv gibonů (malých lidoopů, kteří skáčou v korunách stromů). S trochou štěstí spatříte i majestátní zoborožce, kteří v letu hlasitě mávají křídly. Nejvíc zvířat je vidět za ranního šera z lodi nebo z kajaku. Divoké slony na břehu jezera potkáte jen výjimečně a tygra prakticky nikdy.
 - **Noční obyvatelé Khao Sok (fáze 5).** Po setmění vylézají žáby, netopýři, cibetky, pavouci a s trochou štěstí outloň (sekce 14). Kdo se bojí pavouků, ať noční procházku vynechá.
-- **Makakové v mangrovech (Ao Thalane, fáze 7).** Při ranním pádlování na kajaku v kaňonech Ao Thalane vám ve větvích mangrovů často skáčou nad hlavou zvědaví makakové jávští. Občas se ukážou i vydry nebo velcí varani.
+- **Makakové v mangrovech (Ao Thalane, fáze 6).** Při ranním pádlování na kajaku v kaňonech Ao Thalane vám ve větvích mangrovů často skáčou nad hlavou zvědaví makakové jávští. Občas se ukážou i vydry nebo velcí varani.
 
 ### Pravidla pro pozorování zvířat
 
@@ -109,16 +110,14 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 5 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
 | 5 | Khao Sok, vodopád Than Sawan (jiné psaní: Tan Sawan, Tarn Sawan) | [8.96678, 98.54116](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) | Celodenní túra od ředitelství parku. Souřadnice jsou z jednoho zdroje (neověřeno), pod názvem se místo v Mapách nenajde |
 | 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
-| 6 | Khao Lak, pláž Bang Sak | [Bang Sak Beach](https://www.google.com/maps/search/?api=1&query=Bang%20Sak%20Beach%20Khao%20Lak) | Pláž s málo lidmi i v sezóně |
-| 6 | Lam Ru National Park (hlavní vchod), Khao Lak | [Lam Ru National Park](https://www.google.com/maps/search/?api=1&query=Lam%20Ru%20National%20Park%20Khao%20Lak) | Začátek stezky k malé písečné pláži a vodopád Ton Chong Fa |
-| 6 | Little Amazon (Sang Ne), Takua Pa | [Little Amazon Takua Pa](https://www.google.com/maps/search/?api=1&query=Little%20Amazon%20Takua%20Pa%20Phang%20Nga) | Kajaky v mangrovech, asi 30 minut autem od Khao Lak (volitelně) |
-| 7 | Ao Thalane, molo Tha Len | [8.1452, 98.7484](https://www.google.com/maps/search/?api=1&query=8.1452%2C98.7484) | Lodě na Koh Yao Noi; na kajaky vás vyzvednou z hotelu |
-| 7 | Wat Tham Suea (Tiger Cave Temple), Krabi | [8.1240, 98.9251](https://www.google.com/maps/search/?api=1&query=8.1240%2C98.9251) | Schodiště s 1 260 schody a výhledem |
-| 7 | Tha Pom Klong Song Nam, Krabi | [Tha Pom Klong Song Nam](https://www.google.com/maps/search/?api=1&query=Tha%20Pom%20Klong%20Song%20Nam%20Krabi), thajsky ท่าปอม คลองสองน้ำ | Dřevěná lávka mangrovem, asi 35 km od Krabi Town (volitelně) |
-| 7 | Ao Nang, kiosky Ao Nang Boat Club | [Ao Nang Boat Club](https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Boat%20Club%20Krabi) | Lodě na Railay, lístek kupujte v kiosku, ne u lodníků |
-| 8 | Koh Yao Noi, molo Manoh | [8.0979, 98.5879](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) | Hlavní přístav rychlých lodí z Krabi a Phuketu |
-| 9 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi |
-| 9 | Phuket Old Town, Thalang Road | [7.8848, 98.3890](https://www.google.com/maps/search/?api=1&query=7.8848%2C98.3890) | Historické centrum s architekturou, v neděli večer s trhem |
+| 6 | Dragon Crest (Khao Ngon Nak), začátek stezky v Tub Kaek | [Dragon Crest](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest%20Krabi) | Výšlap na vyhlídkovou skálu, začátek stezky je za hotelem Amari Vogue (podle jednoho zdroje) |
+| 6 | Ao Thalane, molo Tha Len | [8.1452, 98.7484](https://www.google.com/maps/search/?api=1&query=8.1452%2C98.7484) | Lodě na Koh Yao Noi; na kajaky vás vyzvednou z hotelu |
+| 6 | Wat Tham Suea (Tiger Cave Temple), Krabi | [8.1240, 98.9251](https://www.google.com/maps/search/?api=1&query=8.1240%2C98.9251) | Schodiště s 1 260 schody a výhledem |
+| 6 | Tha Pom Klong Song Nam, Krabi | [Tha Pom Klong Song Nam](https://www.google.com/maps/search/?api=1&query=Tha%20Pom%20Klong%20Song%20Nam%20Krabi), thajsky ท่าปอม คลองสองน้ำ | Dřevěná lávka mangrovem, asi 35 km od Krabi Town (volitelně) |
+| 6 | Ao Nang, kiosky Ao Nang Boat Club | [Ao Nang Boat Club](https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Boat%20Club%20Krabi) | Lodě na Railay, lístek kupujte v kiosku, ne u lodníků |
+| 7 | Koh Yao Noi, molo Manoh | [8.0979, 98.5879](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) | Hlavní přístav rychlých lodí z Krabi a Phuketu |
+| 8 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi |
+| 8 | Phuket Old Town, Thalang Road | [7.8848, 98.3890](https://www.google.com/maps/search/?api=1&query=7.8848%2C98.3890) | Historické centrum s architekturou, v neděli večer s trhem |
 
 **Pozor na Kui Buri:** Když zadáte jen „Kui Buri National Park“, navigace vás zavede k ředitelství parku (12.0516, 99.6240), ne k místu, odkud se vyráží na safari. Použijte odkaz z tabulky, nebo zadejte „Elephant Observatory Site“.
 
@@ -141,12 +140,11 @@ Většinu trasy zvládnete vlakem, minivany a loděmi. Nejdelší je přejezd z 
 | Ranong → Khao Sok | autobus nebo minivan | nejrychleji asi 2 h 50 min (142 km) | od asi 13 USD, spoje zhruba 8:00–18:15 |
 | Prachuap Khiri Khan → Khao Sok (bez zastávky) | vlak do Surat Thani, pak minibus | asi 8 h | 400–1 100 na osobu |
 | Prachuap Khiri Khan → Khao Sok (bez zastávky) | soukromé auto | 5,5–6,5 h | 4 500–11 000 za auto |
-| Khao Sok → Khao Lak | minivan | 1–2 h | od asi 8 USD |
-| Khao Lak → Krabi | minivan | 2–4 h | od asi 9 USD, první spoj kolem 8:00, poslední kolem 17:30 |
-| Khao Sok → Krabi (když vynecháte Khao Lak) | minivan | 3–4 h (někdy až 5) | 300–500, zhruba 7:30–16:30 |
+| Khao Sok → Krabi | minivan | 3–4 h (někdy až 5) | 300–500, zhruba 7:30–16:30 |
 | Krabi (molo Tha Len) → Koh Yao Noi | longtail nebo rychlá loď | 1 h, resp. 30 min | od 250, resp. od 300 |
 | Ao Nang (molo Nopparat Thara) → Koh Yao Noi | rychlá loď | 30–45 min | od 650 |
 | Ao Nang → Railay | longtail | 10–15 min | 100 jedním směrem |
+| Krabi Town → začátek stezky Dragon Crest | taxi, skútr | asi 40 min (30 km), z Ao Nang asi 30 min (17 km) | neověřeno, veřejná doprava nejede |
 | Koh Yao Noi → Phuket (molo Bang Rong) | rychlá loď | 30–50 min | 400–666 |
 | Molo Bang Rong → Phuket Town | taxi | asi 40 min | podle domluvy |
 | Phuket Town → letiště HKT | Grab, Bolt, taxi | neověřeno | neověřeno (manuál tento úsek neuvádí) |
@@ -167,11 +165,11 @@ Váš termín končí 19. 12., těsně před hlavní sezónou (zhruba 20. 12. a�
 - **Eco-lodge v korunách stromů (Khao Sok):** Dřevěné chatky v džungli, často na kůlech, s moskytiérami a sítěmi proti hmyzu. Celou noc slyšíte džungli a ráno často i gibony. Nejjednodušší jsou bungalovy a stany přímo v parku (asi 800–1 000 THB za bungalov, stany 150–600 THB).
 - **Plovoucí bungalovy na jezeře (Cheow Lan):** Jednoduché chatky přímo na vodní hladině. Elektřina běží často jen pár večerních hodin z generátoru, mobilní signál většinou není a na jezeře se platí hotově, takže si vezměte powerbanku a dost hotovosti. Bungalovy se na prosinec vyprodávají s předstihem, proto tuhle jednu rezervaci nenechávejte na poslední chvíli. Nejjednodušší je balíček na 2 dny a 1 noc (doprava, jídlo, kajaky a procházky v ceně, asi 2 500–4 500 THB na osobu, vstupné do parku bývá navíc).
 - **Resorty na ostrovech (Koh Yao Noi):** Klidné menší bungalovy nebo rodinné resorty vedené místními. Ceny sahají od jednoduchých bungalovů (příklady na Agoda: Cha Bungalow od asi 14 USD, Najjamee Bungalow od asi 28 USD, ceny z října 2026) po luxusní resorty za stovky dolarů. Ceny jsou nižší než o Vánocích, přesto ubytování zamluvte aspoň 1–2 týdny předem a s bezplatným zrušením.
-- **Koh Phayam a Khao Lak:** Na Koh Phayam vyjde jednoduchá chatka u pláže od asi 900 THB za noc. V Khao Lak najdete jednoduché guesthouse i větší resorty u pláže, ceny si ověřte při rezervaci.
+- **Koh Phayam:** Jednoduchá chatka u pláže vyjde od asi 900 THB za noc.
 
 ## 6. Itinerář rozepsaný po fázích
 
-Trasa vede od severu na jih a nikde se nevrací. Berte ji jako osnovu: dny si poskládáte podle počasí, nálady a kondice. Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Souhrnná tabulka fází a nocí je v sekci 0, včetně upozornění, že data ve fázích 5 až 9 se budou přepočítávat.
+Trasa vede od severu na jih a nikde se nevrací. Berte ji jako osnovu: dny si poskládáte podle počasí, nálady a kondice. Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Souhrnná tabulka fází a nocí je v sekci 0. Khao Lak, dříve fáze 6, je od v13 vyřazený a zůstává jako záložní varianta (sekce 0).
 
 ### Fáze 1: Bangkok, aklimatizace a klongy (3 noci, 27.–30. 11.)
 
@@ -220,7 +218,7 @@ Trasa vede od severu na jih a nikde se nevrací. Berte ji jako osnovu: dny si po
 - **Ubytování a hotovost:** [Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) u zátoky Ao Khao Kwai, 5.–8. 12., potvrzeno. Check-in od 13:00, check-out do 11:00. Podle recenzí je to asi 5 minut pěšky na pláž a 15 minut k Hippie Baru, na místě je bazén, restaurace s italskou a thajskou kuchyní a parkování pro skútry. Sobota 5. 12. je začátek dlouhého víkendu (sekce 8), takže bude na ostrově víc Thajců, ubytování už ale máte. Na ostrově jsou jen dva bankomaty, které podle zdroje z ledna 2024 účtovaly 220 THB za výběr, proto si hotovost vezměte z Ranongu.
 - **Ao Yai (Long Beach):** Hlavní a nejdelší pláž ostrova (asi 3 km), většinu dní skoro prázdná. Jeďte sem hlavně na západ slunce, je to nejlepší místo na ostrově. Vlny bývají větší, takže se koupejte opatrně a podle vlajek.
 - **Ao Khao Kwai (Buffalo Bay) a Hin Talu:** Zátoka s nejčistší vodou na ostrově a jemným bílým pískem, skály ji dělí na dvě pláže. Na severním konci je známý Hippie Bar a v jihozápadním rohu zátoky se dají projet kajakem mangrovy (viz níže). Prý se tu v noci třpytí zářící plankton, ale ten nikdo nezaručí. Na pobřeží je Hin Talu, skalní oblouky, jimiž se dá projít. Sestup je strmý a štěrkový, na skútru tam jeďte jen když jste na štěrku jistí, jinak dojděte pěšky.
-- **Kajak v mangrovech (volitelně):** Mangrovy jsou v jihozápadním rohu zátoky Ao Khao Kwai, kousek od ubytování. Je to klidné pádlování pro začátečníky bez průvodce, s ptáky a s trochou štěstí opicemi. Kajak se půjčuje na pláži nebo na ubytování, první den se zeptejte na recepci, kde přesně a jak se tam vyplouvá (žádný zdroj půjčovnu nejmenuje). Jeďte při vysoké vodě, při odlivu jsou kanály mělké, čas přílivu zjistěte na místě. Nezajíždějte hluboko, cesty nejsou značené. Vezměte klobouk, krém, repelent a dry bag na telefon. Skály a laguny tu nejsou, ty jsou na Koh Yao Noi (fáze 8). Poloha, půjčení a příliv jsou ze dvou zdrojů a neověřené.
+- **Kajak v mangrovech (volitelně):** Mangrovy jsou v jihozápadním rohu zátoky Ao Khao Kwai, kousek od ubytování. Je to klidné pádlování pro začátečníky bez průvodce, s ptáky a s trochou štěstí opicemi. Kajak se půjčuje na pláži nebo na ubytování, první den se zeptejte na recepci, kde přesně a jak se tam vyplouvá (žádný zdroj půjčovnu nejmenuje). Jeďte při vysoké vodě, při odlivu jsou kanály mělké, čas přílivu zjistěte na místě. Nezajíždějte hluboko, cesty nejsou značené. Vezměte klobouk, krém, repelent a dry bag na telefon. Skály a laguny tu nejsou, ty jsou na Koh Yao Noi (fáze 7). Poloha, půjčení a příliv jsou ze dvou zdrojů a neověřené.
 - **Zářící plankton (volitelně, není zaručený):** V noci se při pohybu vody může rozsvítit modrozeleně. Jeden cestopisný průvodce ho v prosinci viděl při brodění v příboji u Ao Khao Kwai, jde ale o jedinou zkušenost bez záruky. Jděte až po setmění, daleko od světel a bez lampy. Světlo se ukáže, jen když vodu rozhýbete, třeba při brodění v mělčině nebo máchnutím ruky. Nov měsíce je 9. 12., takže během pobytu (5.–8. 12.) je v noci tma. Na recepci se zeptejte, jestli se plankton v zátoce v poslední dny ukazuje. Nezaplouvejte daleko ve tmě.
 - **Ao Kwang Peeb (Monkey Bay):** Malá skrytá zátoka na severu u džungle, bez služeb, takže vezměte vodu a jídlo. Je to klidné místo na koupání a procházku, jen tu nezůstávejte do pozdního večera.
 - **Chrám a šnorchlování:** U mola stojí chrám Wat Koh Phayam, jediný na ostrově, hodí se na krátkou zastávku po příjezdu. Šnorchlování tu moc nestojí za to, nechte ho na Koh Yao Noi (sekce 14). Popisy míst vycházejí z cestopisných blogů a na místě je nikdo neověřoval.
@@ -246,31 +244,25 @@ Trasa vede od severu na jih a nikde se nevrací. Berte ji jako osnovu: dny si po
   - Noční safari: od asi 1 200 THB, 2 hodiny, obvykle od 19:00 do 20:00, objednává se ve vesnici. Pro lidi s fóbií z pavouků se nehodí (sekce 14), rozhodnout až na místě nebo vynechat.
 - **Prakticky:** Vstup do parku stojí 300 THB (některé zdroje uvádějí 320), platí 24 hodin a lístek koupený po 16:00 platí i další den. Vodní aktivity (kánoe, vor, tubing) stojí 400–950 THB.
 - **Pozor na sezónu:** Na začátku prosince ještě doznívá období dešťů a některé stezky nebo jeskyně mohou být po silných deštích dočasně uzavřené (podle starších zpráv zhruba do 14. 12.). Park je otevřený celoročně, ale u ubytování nebo na vstupu si ověřte, co je zrovna přístupné.
-- **Přesun dál:** Do Khao Lak jede minivan 1–2 h a spojů je během dne dost (první kolem 6:45). Po návratu z jezera kolem poledne tak většinou stihnete odpolední spoj, ale ověřte si to u organizátora balíčku. Do Krabi jedou minibusy zhruba od 7:30 do 16:30 (sekce 4).
+- **Přesun dál (11. 12.):** Minivan do Krabi, 3–4 h (někdy až 5), spoje zhruba od 7:30 do 16:30, v hlavní sezóně den předem rezervovat (sekce 4). Když bude noc na jezeře až ta poslední, po návratu kolem poledne by měl vyjít odpolední spoj, do Krabi pak dorazíte večer. Navazující minivan si ověřte u organizátora balíčku. Řidiči řekněte, kde v Krabi bydlíte, minivany obvykle rozvážejí po hotelech (neověřeno).
 
-### Fáze 6: Khao Lak, pláž a národní park (3 noci, data k přepočtu)
+### Fáze 6: Krabi, Dragon Crest, laguny a kajaky (4 noci, 11.–15. 12.)
 
-- **Místo:** Khao Lak. Vyberte si klidnější pláže: Bang Sak (velmi málo lidí i v sezóně), Pak Weep (méně lidí než v Bang Niang a Khuk Khak) nebo Sunset Beach (klidnější, s dobrým koupáním při klidném moři). Bang Niang a Khuk Khak jsou rušnější, nejvíc restaurací a barů má Bang Niang.
-- **Mapy:** [Khao Lak](https://www.google.com/maps/search/?api=1&query=Khao%20Lak) · [pláž Bang Sak](https://www.google.com/maps/search/?api=1&query=Bang%20Sak%20Beach,%20Khao%20Lak) · [Lam Ru National Park](https://www.google.com/maps/search/?api=1&query=Lam%20Ru%20National%20Park,%20Khao%20Lak) · [vodopád Ton Chong Fa](https://www.google.com/maps/search/?api=1&query=Ton%20Chong%20Fa%20Waterfall,%20Khao%20Lak) · [Little Amazon, Takua Pa](https://www.google.com/maps/search/?api=1&query=Little%20Amazon%20Sang%20Ne,%20Takua%20Pa)
-- **Zážitek:** Dva dny na pláži a jeden výlet do národního parku Lam Ru, asi 10 minut skútrem. Stezka je dlouhá asi 1,6 km (1–1,5 h jedním směrem) a vede k malé písečné pláži. Vstup stojí 200 THB, platí i na vodopád Ton Chong Fa, park je otevřený 8:00–16:30. Vezměte aspoň litr vody na osobu. Kdo chce jen pláž, jde zkratkou z brány Beach Gate (500 m, asi 10 minut).
-- **Moře:** V suché sezóně (listopad až duben) bývá moře klidnější. V parku se mohou objevit medúzy, proto se zeptejte místních a vezměte lycrové tričko. Na plážích se řiďte vlajkami: červená znamená nekoupat se.
-- **Little Amazon u Takua Pa (volitelně, půlden):** Mangrovový kanál asi 30 minut autem severně od Khao Lak. Průvodce vás hodinu veze v nafukovacím kajaku pod obřími kořeny banyánů a potkáte makaky, varany, zoborožce a ledňáčky, často i hady (krajty). O pavoucích zdroj nepíše. Podle jednoho blogu stojí výlet asi 500 THB za dva, cizinci bez rezervace prý platí 700–1 000 THB, proto si cenu předem potvrďte. Dojedete taxi, skútrem nebo s výletem z Khao Lak. U mola o zákazníky soupeří dvě firmy, jedna prý dotěrně. O víkendech a svátcích tu bývá plno Thajců, ve všední den je klid. Při velmi nízkém přílivu bývá voda na hodinu nebo dvě příliš mělká. Je to levnější a kratší obdoba kajaků v Ao Thalane (fáze 7), takže když Krabi Town škrtnete, tohle ho vynahradí.
-- **Volné dny:** Park Lam Ru a vodopády Ton Chong Fa. Podle jednoho zdroje mají první dva stupně tůňku na koupání a za druhým lidí ubývá, stav vody v prosinci autorka neověřila. Vstup do parku platí na obojí.
-- **Přesun dál:** Minivan do Krabi, 2–4 h (první spoj kolem 8:00, poslední kolem 17:30). Když Krabi Town vynecháte, jeďte přes Phuket na molo Bang Rong a odtud na Koh Yao Noi (spoje si ověřte).
-
-### Fáze 7: Krabi Town, tajné laguny a kajaky (2 noci, data k přepočtu)
-
-- **Místo:** Krabi Town jako základna, odtud výlet do Ao Thalane a na Wat Tham Suea (Tiger Cave). Dvě noci stačí na dvě až tři věci z nabídky níže, nic z toho není povinné.
-- **Mapy:** [Krabi Town](https://www.google.com/maps/search/?api=1&query=Krabi%20Town) · [Ao Thalane, molo Tha Len](https://www.google.com/maps/search/?api=1&query=8.1452,98.7484) · [Wat Tham Suea (Tiger Cave)](https://www.google.com/maps/search/?api=1&query=8.1240,98.9251) · [Dragon Crest (Khao Ngon Nak)](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest,%20Krabi) · [Ao Nang Boat Club](https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Boat%20Club,%20Krabi) · [Railay West](https://www.google.com/maps/search/?api=1&query=Railay%20West%20Beach,%20Krabi) · [Tha Pom Klong Song Nam](https://www.google.com/maps/search/?api=1&query=Tha%20Pom%20Klong%20Song%20Nam,%20Krabi)
+- **Místo:** Oblast Krabi. Čtyři noci dávají tři celé dny (so 12. až po 14. 12.): jeden na Dragon Crest, jeden na kajaky v Ao Thalane a jeden volný nebo na něco z nabídky níže. Dragon Crest si nechte na první ráno bez deště, proto ho nevažte na konkrétní den. Nic dalšího z nabídky není povinné.
+- **Základna (zatím nevybraná):**
+  - Krabi Town: město bez pláže, blízko Tiger Cave (15–20 minut), mola Tha Len a Tha Pom Klong Song Nam. Na Dragon Crest asi 40 minut taxi nebo skútrem.
+  - Pláže Tub Kaek nebo Klong Muang: stezka na Dragon Crest začíná v Tub Kaek za hotelem Amari Vogue (podle jednoho zdroje), takže je to pár minut. Pláže jsou podle cestopisů klidnější než Ao Nang a nahradily by pláž z vyřazeného Khao Laku, kvalita koupání v prosinci ale není ověřená. Na Koh Yao Noi jede rychlá loď z blízkého mola Nopparat Thara (sekce 4). Tiger Cave a Tha Pom Klong Song Nam jsou odtud dál (odhadem 45–60 minut, neověřeno).
+  - Ao Nang je rušné letovisko, jako základnu ho nedoporučujeme.
+- **Mapy:** [Krabi Town](https://www.google.com/maps/search/?api=1&query=Krabi%20Town) · [pláž Tub Kaek](https://www.google.com/maps/search/?api=1&query=Tubkaek%20Beach,%20Krabi) · [pláž Klong Muang](https://www.google.com/maps/search/?api=1&query=Klong%20Muang%20Beach,%20Krabi) · [Ao Thalane, molo Tha Len](https://www.google.com/maps/search/?api=1&query=8.1452,98.7484) · [Wat Tham Suea (Tiger Cave)](https://www.google.com/maps/search/?api=1&query=8.1240,98.9251) · [Dragon Crest (Khao Ngon Nak)](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest,%20Krabi) · [Ao Nang Boat Club](https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Boat%20Club,%20Krabi) · [Railay West](https://www.google.com/maps/search/?api=1&query=Railay%20West%20Beach,%20Krabi) · [Tha Pom Klong Song Nam](https://www.google.com/maps/search/?api=1&query=Tha%20Pom%20Klong%20Song%20Nam,%20Krabi)
 - **Kajaky v Ao Thalane:** Ranní půldenní výlet na mořských kajacích do kaňonů mezi mangrovy a ke skrytým lagunám. Trvá asi 4 hodiny a cena začíná zhruba na 37 USD; podle nabídky bývá v ceně vyzvednutí z hotelu, oběd i poplatky. Cestou potkáte makaky, vydry a varany.
-- **Tygří chrám (Wat Tham Suea):** Na 1 260 schodů s vyhlídkou a makaky vyrazte hned ráno, kolem 6. hodiny, dokud je chladněji. Vstup je zdarma a otevřeno bývá asi do 18:00. Z Krabi Town je to autem zhruba 15–20 minut.
-- **Dragon Crest (volitelně):** Náročný výšlap na hřeben Khao Ngon Nak, popis najdete v sekci 7. Vyrazte hned po otevření v 8:00.
+- **Dragon Crest (Khao Ngon Nak):** Hlavní důvod, proč má Krabi 4 noci. Náročný výšlap pralesem na vyhlídkovou skálu ve výšce 565 m, 3,7 km jedním směrem, asi 2,5 h nahoru a 1,5–2 h dolů. Vyrazte hned po otevření v 8:00, dokud je chladno a stezka ve stínu. Po silném dešti je stezka kluzká a místy teče jako potok, proto jděte až po suché noci. Za bouřky na vrcholu nezůstávejte. Vstup 200 THB jen hotově. Podrobnosti v sekci 7.
+- **Tygří chrám (Wat Tham Suea, volitelně):** Na 1 260 schodů s vyhlídkou a makaky vyrazte hned ráno, kolem 6. hodiny, dokud je chladněji. Vstup je zdarma a otevřeno bývá asi do 18:00. Z Krabi Town je to autem zhruba 15–20 minut. Po Dragon Crest ho klidně vynechte, dva náročné výstupy za sebou nejsou slow tempo.
 - **Railay (volitelně, půlden):** Poloostrov se skalami a plážemi dostupný jen lodí. Vyrazte brzy ráno a vraťte se před polednem, protože nejvíc lidí bývá mezi 9. a 11. hodinou. Z Krabi Town se jede do Ao Nang a odtud longtailem z pláže u kiosků Ao Nang Boat Club (100 THB jedním směrem, 10–15 minut, loď odjíždí, až je plno). Lístek kupte v kiosku, ne u lodníků. Přistává se do vody bez mola, takže vezměte sandály do vody. Z pláže Railay West se jde 10–15 minut po zpevněné stezce na pláž Phra Nang. Výšlap na vyhlídku a k laguně je strmý, blátivý a s lany, proto pevné boty. Poslední pravidelná loď zpět jede kolem 18:00. Ceny jsou z cestopisu, před cestou je ověřte.
 - **Tha Pom Klong Song Nam (volitelně, půlden):** Klidná dřevěná lávka mangrovem asi 35 km od Krabi Town, skútrem nebo taxi 40–45 minut. Popis je v oddíle „Pěšky a bez davů“.
 - **Etické sloní útočiště (volitelně):** Following Giant v Krabi, popis a cena v sekci 7.
-- **Přesun dál:** Po ranních schodech stihnete na Koh Yao Noi odpolední loď z Tha Len (longtail ve 13:00, rychlá loď v 16:00). Ráno jede rychlá loď v 9:30.
+- **Přesun dál (15. 12.):** Z Krabi Town lodí z Tha Len (rychlá loď v 9:30, longtail ve 13:00, rychlá loď v 16:00). Z pláží Tub Kaek nebo Klong Muang rychlou lodí z mola Nopparat Thara (30–45 minut, od 650 THB, odjezdy neověřené). Lístky aspoň den až 2 dny předem.
 
-### Fáze 8: Pomalý ostrov Koh Yao Noi (3 noci, data k přepočtu)
+### Fáze 7: Pomalý ostrov Koh Yao Noi (3 noci, 15.–18. 12.)
 
 - **Místo:** Koh Yao Noi. Úplně bez aut ostrov není, ale provoz je tu minimální a tempo velmi pomalé.
 - **Mapy:** [Koh Yao Noi](https://www.google.com/maps/search/?api=1&query=Koh%20Yao%20Noi) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay)
@@ -279,13 +271,13 @@ Trasa vede od severu na jih a nikde se nevrací. Berte ji jako osnovu: dny si po
 - **Pláže:** Koupání jen při přílivu, při odlivu se odhalí široké plochy dna.
 - **Přesun dál:** Rychlé lodě z mola Manoh do Bang Rong jezdí často (první kolem 6:30, poslední zhruba v 16:00, aktuální řád si ověřte). Za špatného počasí se ruší, proto s odletem nespěchejte.
 
-### Fáze 9: Phuket Town, historie, trhy a odlet (1 noc, data k přepočtu)
+### Fáze 8: Phuket Town, historie, trhy a odlet (1 noc, 18.–19. 12.)
 
 - **Místo:** Phuket Town (plážovým letoviskům se vyhněte).
 - **Mapy:** [Phuket Old Town, Thalang Road](https://www.google.com/maps/search/?api=1&query=7.8848,98.3890) · [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496,98.4159)
 - **Zážitek:** Čínsko-portugalská architektura kolem Thalang Road, kavárny a svatyně. V neděli (zhruba 16:00 až 22:00) se tu koná Walking Street s trhem. K večeři mookata, thajský stolní gril s vývarem, nebo mořské plody.
 - **Volitelně:** Phuket Elephant Sanctuary (bez jízd a triků), popis a cena v sekci 7.
-- **Odlet:** Poslední noc přespěte na Phuketu, protože se lodě za špatného počasí ruší a s odletem se nevyplatí riskovat. Odlétáte přímo z Phuketu 19. 12., vnitrostátní let do Bangkoku proto nepotřebujete. Walking Street bývá v neděli, v dosavadním rozvrhu na ni nevycházíte.
+- **Odlet:** Poslední noc přespěte na Phuketu, protože se lodě za špatného počasí ruší a s odletem se nevyplatí riskovat. Odlétáte přímo z Phuketu 19. 12., vnitrostátní let do Bangkoku proto nepotřebujete. Walking Street bývá v neděli, na Phuketu ale budete v pátek 18. 12., takže na ni nevycházíte.
 
 ### Pláže: kde se koupat a kde jen koukat
 
@@ -296,11 +288,10 @@ Koupat se vždy podle vlajek, proudů a medúz (sekce 14 a 15). Tabulka vycház�
 | Ao Manao (Prachuap, fáze 3) | Ano | Klidná mělká voda chráněná skalními výběžky. Pláž leží v areálu letecké základny: u brány se zapisuje pas (otevřeno asi 8–18 h) a platí se hotově |
 | Koh Phayam: Ao Yai a Ao Khao Kwai (fáze 4) | Ano | Ao Yai bývá většinu dní prázdná, Ao Khao Kwai je klidná zátoka. Ao Kwangpeeb na severu je dobrá na plavání, ale bez zázemí. Secret Beach při odlivu vynechte, jsou tam kameny |
 | Hin Talu (Koh Phayam, fáze 4) | Spíš na procházku | Skalní oblouky a při odlivu písečný nános |
-| Khao Lak (fáze 6): Bang Sak, Sunset Beach, Pak Weep | Ano | Nejlépe při klidném moři. Bang Sak má nejméně lidí, Bang Niang a Khuk Khak jsou rušnější |
-| Lam Ru (fáze 6), malá pláž za stezkou | Ano, opatrně | Mohou se tu objevit medúzy, zeptejte se místních |
-| Phra Nang (Railay, fáze 7) | Ano | Hezká pláž pod skalami, přes den bývá plno |
-| Koh Yao Noi (fáze 8) | Jen při přílivu | Při odlivu odhalí pláže široké plochy dna, vhodné spíš na procházku. Výhledy na skály v zálivu Phang Nga |
-| Krabi Town, Phuket Town (fáze 7 a 9) | Ne | Pláž tu není |
+| Tub Kaek a Klong Muang (Krabi, fáze 6) | Neověřeno | Podle cestopisů klidnější než Ao Nang, stav moře v prosinci zjistit na místě |
+| Phra Nang (Railay, fáze 6) | Ano | Hezká pláž pod skalami, přes den bývá plno |
+| Koh Yao Noi (fáze 7) | Jen při přílivu | Při odlivu odhalí pláže široké plochy dna, vhodné spíš na procházku. Výhledy na skály v zálivu Phang Nga |
+| Krabi Town, Phuket Town (fáze 6 a 8) | Ne | Pláž tu není |
 
 ### Pěšky a bez davů (volné dny)
 
@@ -309,18 +300,17 @@ Koupat se vždy podle vlajek, proudů a medúz (sekce 14 a 15). Tabulka vycház�
 - **Sam Roi Yot (fáze 2):** Vyhlídka Khao Daeng (157 m, 40–45 minut do kopce, výhled na hory a krevetí farmy) a pěšky k jeskyni Phraya Nakhon (z Bang Pu přes kopec asi 30 minut, pak asi 30 minut strmého stoupání). Pláž Hat Sam Phraya je podle jednoho autora klidná, s víc ptáky než lidmi.
 - **Koh Phayam (fáze 4):** Pláž Ao Kwangpeeb je asi 10 minut pěšky od místa, kde necháte skútr, a nejsou tam žádné služby, takže vezměte jídlo a vodu. Hin Talu má skalní oblouky a při odlivu písečný nános.
 - **Khao Sok (fáze 5):** Dvě stezky u ředitelství parku vedou několik kilometrů a jdou po nich i bez průvodce, mapy dá návštěvnické centrum. K vodopádu Than Sawan (jeden pád ze skály, 6–7 km jedním směrem přes řeku, celý den) strážci doporučují průvodce. Podle starší zprávy je pro vzdálenější vodopády povinný (600 THB za půlden), ověřte u vstupu.
-- **Lam Ru (Khao Lak, fáze 6):** Stezka lesem dlouhá asi 1,6 km (1–1,5 h jedním směrem) k malé písečné pláži. Trasa většinu lidí odradí. Vstup stojí 200 THB (platí i na vodopád Ton Chong Fa), otevřeno 8:00–16:30. Vezměte litr vody na osobu a pozor na medúzy.
-- **Krabi (fáze 7):** Z hřebene Dragon Crest podle jednoho místního provozovatele odbočuje postranní stezka podél potoka, kterou téměř nikdo nepoužívá.
-- **Tha Pom Klong Song Nam (Krabi, fáze 7, volitelně):** Dřevěná lávka dlouhá 700 m (asi 45 minut) rašelinným lesem a mangrovy, kde se sladká pramenitá a brakická voda stékají vedle sebe a mají dvě barvy. Vstup stojí 50 THB, otevřeno je denně 8:00–17:00 a podle jednoho zdroje tu není plno ani v poledne. Koupat se tu nesmí. Je to asi 35 km od Krabi Town po silnici 4 směrem na Ao Luek, skútrem nebo taxi 40–45 minut. Veřejná doprava tam nejezdí, řidiči ukažte thajský název ท่าปอม คลองสองน้ำ. Nejčistší voda bývá od listopadu do května. Vezměte boty s dobrou podrážkou, protože lávka bývá místy vlhká, a repelent. Kvůli hodině chůze je to půldenní výlet, proto jen když máte volný den.
-- **Koh Yao Noi (fáze 8):** Pěší stezky nebyly ověřeny, ostrov se prozkoumává hlavně na kole.
+- **Krabi (fáze 6):** Z hřebene Dragon Crest podle jednoho místního provozovatele odbočuje postranní stezka podél potoka, kterou téměř nikdo nepoužívá.
+- **Tha Pom Klong Song Nam (Krabi, fáze 6, volitelně):** Dřevěná lávka dlouhá 700 m (asi 45 minut) rašelinným lesem a mangrovy, kde se sladká pramenitá a brakická voda stékají vedle sebe a mají dvě barvy. Vstup stojí 50 THB, otevřeno je denně 8:00–17:00 a podle jednoho zdroje tu není plno ani v poledne. Koupat se tu nesmí. Je to asi 35 km od Krabi Town po silnici 4 směrem na Ao Luek, skútrem nebo taxi 40–45 minut. Veřejná doprava tam nejezdí, řidiči ukažte thajský název ท่าปอม คลองสองน้ำ. Nejčistší voda bývá od listopadu do května. Vezměte boty s dobrou podrážkou, protože lávka bývá místy vlhká, a repelent. Kvůli hodině chůze je to půldenní výlet, proto jen když máte volný den.
+- **Koh Yao Noi (fáze 7):** Pěší stezky nebyly ověřeny, ostrov se prozkoumává hlavně na kole.
 
 ## 7. Bonusové aktivity (když zbude čas a energie)
 
 U každé položky je číslo fáze, ke které patří.
 
 - **Sok River Tubing (fáze 5, Khao Sok):** Splavování řeky na velkých nafukovacích duších s průvodcem, asi 2 hodiny čisté zábavy. Patří mezi vodní aktivity za 400–950 THB. Závisí na hladině řeky, takže se na místě zeptejte, jestli se dnes plave.
-- **Dragon Crest (fáze 7, Khao Ngon Nak, Krabi):** Náročný výšlap pralesem na vyhlídkovou skálu ve výšce 565 m. Stezka měří 3,7 km jedním směrem, celou dobu stoupá a vede po kořenech, provazech a místy kluzkých schodech. Počítejte asi 2,5 hodiny nahoru a 1,5–2 hodiny dolů. Vstup stojí 200 THB (jen v hotovosti), otevřeno je od 8:00 do 18:00 a poslední vstup na stezku bývá ve 14:00, takže vyrazte hned po otevření, dokud je chladno. Veřejná doprava k začátku stezky nejezdí: od Ao Nang je to asi 17 km (30 minut), od Krabi Town asi 30 km (40 minut), takže vezměte taxi, skútr nebo se přidejte k výletu. S sebou 2 litry vody a pevnou obuv, ne žabky. Po dešti je stezka kluzká. Okraj útesu k fotografování je oplocený a vstup tam se podle zdrojů trestá pokutou 2 000 THB, respektujte to.
-- **Etické sloní útočiště (volitelně, fáze 7 nebo 9):** Pokud vám divocí sloni v Kui Buri nestačí, vybírejte jen místa, kde se na slonech nejezdí, nekoupou se s nimi turisté, nepředvádějí se tam triky a žádný slon není na řetězu. Nejlepší jsou programy „jen pozorujeme“: chodíte po boku slonů, ale nekrmíte je ani se jich nedotýkáte. Cestovní průvodci opakovaně zmiňují Following Giant v Krabi (přísný zákaz dotyků, krmení i koupání a malé denní počty návštěvníků) a Phuket Elephant Sanctuary (bez jízd, koupání a triků, procházky a pozorování). Půldenní program stojí u takových míst typicky 50–80 USD na osobu. Před rezervací si přečtěte čerstvé recenze a podmínky, protože slovo „sanctuary“ v názvu o ničem nerozhoduje.
+- **Dragon Crest (fáze 6, Khao Ngon Nak, Krabi):** Náročný výšlap pralesem na vyhlídkovou skálu ve výšce 565 m. Stezka měří 3,7 km jedním směrem, celou dobu stoupá a vede po kořenech, provazech a místy kluzkých schodech. Počítejte asi 2,5 hodiny nahoru a 1,5–2 hodiny dolů. Vstup stojí 200 THB (jen v hotovosti), otevřeno je od 8:00 do 18:00 a poslední vstup na stezku bývá ve 14:00, takže vyrazte hned po otevření, dokud je chladno. Veřejná doprava k začátku stezky nejezdí: od Ao Nang je to asi 17 km (30 minut), od Krabi Town asi 30 km (40 minut), takže vezměte taxi, skútr nebo se přidejte k výletu. S sebou 2 litry vody a pevnou obuv, ne žabky. Po dešti je stezka kluzká. Okraj útesu k fotografování je oplocený a vstup tam se podle zdrojů trestá pokutou 2 000 THB, respektujte to.
+- **Etické sloní útočiště (volitelně, fáze 6 nebo 8):** Pokud vám divocí sloni v Kui Buri nestačí, vybírejte jen místa, kde se na slonech nejezdí, nekoupou se s nimi turisté, nepředvádějí se tam triky a žádný slon není na řetězu. Nejlepší jsou programy „jen pozorujeme“: chodíte po boku slonů, ale nekrmíte je ani se jich nedotýkáte. Cestovní průvodci opakovaně zmiňují Following Giant v Krabi (přísný zákaz dotyků, krmení i koupání a malé denní počty návštěvníků) a Phuket Elephant Sanctuary (bez jízd, koupání a triků, procházky a pozorování). Půldenní program stojí u takových míst typicky 50–80 USD na osobu. Před rezervací si přečtěte čerstvé recenze a podmínky, protože slovo „sanctuary“ v názvu o ničem nerozhoduje.
 
 ## 8. Počasí, teploty a deště (listopad a první polovina prosince)
 
@@ -332,10 +322,10 @@ Cesta začíná koncem listopadu, kdy na straně Zálivu a v Khao Sok ještě do
 | Prachuap Khiri Khan | 31 °C | 21–22 °C | 128 mm (6 dní) | 24 mm (2 dny) |
 | Ranong a Koh Phayam | 31–32 °C | 23–24 °C | asi 130 mm (10 dní) | asi 59 mm (5 dní) |
 | Surat Thani (orientačně okolí Khao Sok) | 30–31 °C | 22–23 °C | 255 mm (14 dní) | 170 mm (10 dní) |
-| Phuket (orientačně i Khao Lak, Krabi a Koh Yao Noi) | 32–33 °C | 25 °C | asi 180–210 mm (zdroje se liší) | asi 70–80 mm |
+| Phuket (orientačně i Krabi a Koh Yao Noi) | 32–33 °C | 25 °C | asi 180–210 mm (zdroje se liší) | asi 70–80 mm |
 
 - **Teploty:** Přes den bývá 30–33 °C a večery jsou příjemně teplé. V noci teplota klesá na 21–25 °C, nejchladněji je v Prachuap a v Khao Sok.
-- **Deště:** Nejsušší je Bangkok a Prachuap, ale i tam může na začátku cesty zapršet. Chumphon leží dál na jih na straně zálivu a v prosinci tam může pršet víc než v Prachuap, přesná čísla nejsou ověřená. Khao Sok je deštný prales, počítejte s deštěm, zabalte si lehkou pláštěnku a věci chraňte v dry bagu. Andamanské pobřeží (Khao Lak, Krabi, Koh Yao Noi, Phuket) bývá v polovině prosince na začátku suché sezóny, přeháňka se ale občas objeví. Před cestou si zkontrolujte předpověď.
+- **Deště:** Nejsušší je Bangkok a Prachuap, ale i tam může na začátku cesty zapršet. Chumphon leží dál na jih na straně zálivu a v prosinci tam může pršet víc než v Prachuap, přesná čísla nejsou ověřená. Khao Sok je deštný prales, počítejte s deštěm, zabalte si lehkou pláštěnku a věci chraňte v dry bagu. Andamanské pobřeží (Krabi, Koh Yao Noi, Phuket) bývá v polovině prosince na začátku suché sezóny, přeháňka se ale občas objeví. Před cestou si zkontrolujte předpověď.
 - **Moře:** V suché sezóně (zhruba prosinec až duben) bývá andamanské moře klidné a lodě jezdí spolehlivěji. Při větru a vlnách se přesto ruší (sekce 4).
 - **Světlo:** Stmívá se už kolem 18. hodiny. Přesuny a výlety plánujte tak, abyste se nevraceli potmě, hlavně z Kui Buri a na skútru.
 
@@ -343,7 +333,7 @@ Cesta začíná koncem listopadu, kdy na straně Zálivu a v Khao Sok ještě do
 
 Z Prahy letíte 26. 11., do Bangkoku dorazíte 27. 11. a z Phuketu odlétáte 19. 12. Celá cesta tak končí den před začátkem hlavní sezóny (zhruba 20. 12. až 5. 1.), kdy jsou ceny i davy nejvyšší a plovoucí bungalovy vyprodané. Za to zaplatíte počasím: na začátku cesty ještě doznívá období dešťů a Andaman se zlepšuje až s druhou polovinou prosince.
 
-- **Svátky:** 5. 12. (sobota, Den otců) a případné náhradní volno v pondělí 7. 12. vytvoří dlouhý víkend, kdy jsou pláže u Zálivu plné Thajců. V té době budete na Koh Phayam, ubytování tam už máte potvrzené. 10. 12. (čtvrtek) je Den ústavy: zavřené banky a úřady a víc lidí na cestách. V dosavadním rozvrhu připadá na přesun Khao Sok → Khao Lak, po přepočtu nocí se to může posunout.
+- **Svátky:** 5. 12. (sobota, Den otců) a případné náhradní volno v pondělí 7. 12. vytvoří dlouhý víkend, kdy jsou pláže u Zálivu plné Thajců. V té době budete na Koh Phayam, ubytování tam už máte potvrzené. 10. 12. (čtvrtek) je Den ústavy: zavřené banky a úřady a víc lidí na cestách. Budete v Khao Sok (fáze 5), takže na přesun nepřipadá. Minivan do Krabi 11. 12. ale v hlavní sezóně stejně rezervujte den předem.
 - **Khao Sok:** Na začátku prosince počítejte s deštěm. Některé stezky nebo jeskyně mohou být po silných deštích dočasně zavřené, jezero, řeka a kajaky fungují (fáze 5).
 - **Rezervace:** Ubytování ve fázích 1 až 4 je už potvrzené (sekce 6). Dopředu stačí zařídit Cheow Lan, jízdenky na vlak č. 43, auto v Hua Hin a Koh Yao Noi (sekce 13). Zbytek se dá najít na místě, v ideálním případě s bezplatným zrušením.
 
@@ -433,7 +423,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
 - **Řidičský průkaz, auto a skútr:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Na skútr potřebujete oprávnění pro motocykly (skupina A1, A2 nebo A). Samotná skupina B nestačí a pojišťovny při nehodě mohou odmítnout plnění. Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce 18). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
-- **Ubytování:** Fáze 1 až 4 jsou už potvrzené: Ti Thong Hostel v Bangkoku (27.–30. 11.), Sam Roi Yot Sea Sight Resort (30. 11.–3. 12.), Yuttichai Hotel v Prachuap (3.–4. 12.), Tobedzz Hotel v Ranongu (4.–5. 12.) a Flower Power Village na Koh Phayam (5.–8. 12.). Zbývá plovoucí bungalov na Cheow Lan a Koh Yao Noi (těsně před špičkou, zamluvte aspoň několik dní až 2 týdny předem), ostatní zastávky jdou i na místě. Poslední noc na Phuketu zamluvte, jakmile znáte hodinu odletu. Data pro fáze 5 až 9 potvrďte až po přepočtu nocí (sekce 0).
+- **Ubytování:** Fáze 1 až 4 jsou už potvrzené: Ti Thong Hostel v Bangkoku (27.–30. 11.), Sam Roi Yot Sea Sight Resort (30. 11.–3. 12.), Yuttichai Hotel v Prachuap (3.–4. 12.), Tobedzz Hotel v Ranongu (4.–5. 12.) a Flower Power Village na Koh Phayam (5.–8. 12.). Zbývá plovoucí bungalov na Cheow Lan a Koh Yao Noi (15.–18. 12., těsně před špičkou, zamluvte aspoň několik dní až 2 týdny předem), ostatní zastávky jdou i na místě. Ubytování v Krabi (11.–15. 12.) zamluvte, až vyberete základnu (fáze 6). Poslední noc na Phuketu (18.–19. 12.) zamluvte, jakmile znáte hodinu odletu.
 - **Vlak č. 43 a auto:** Jízdenky na vlak č. 43 (30. 11. do Hua Hin a 3. 12. do Prachuap) kupte hned, jak se začnou prodávat (zhruba 30 dní předem, tedy od asi 31. 10.). Auto v Hua Hin zamluvte online předem na vyzvednutí 30. 11. a vrácení 3. 12. a před rezervací si přečtěte podmínky: kauci, spoluúčast a to, co je v ceně.
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Skútr je pojištěn jen při platném oprávnění. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 - **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 15).
@@ -447,7 +437,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 |---|---|
 | Co nejdřív | Plovoucí bungalov (nebo balíček na 2 dny a 1 noc) na Cheow Lan a cestovní pojištění (nejlépe hned, kvůli krytí storna) |
 | Aspoň 4–6 týdnů před odletem | Konzultace v centru cestovní medicíny, případné očkování a mezinárodní řidičský průkaz (pro auto v Hua Hin, případně i skútr) |
-| Týden až den předem | Vlak č. 43 do Hua Hin a do Prachuap Khiri Khan (jízdenky od asi 31. 10., vyšší třídy aspoň den předem), auto v Hua Hin online, telefonát do parku Kui Buri přes ubytování, minibusy Khao Sok–Khao Lak a Khao Lak–Krabi den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
+| Týden až den předem | Vlak č. 43 do Hua Hin a do Prachuap Khiri Khan (jízdenky od asi 31. 10., vyšší třídy aspoň den předem), auto v Hua Hin online, telefonát do parku Kui Buri přes ubytování, minivan Khao Sok–Krabi den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce 18) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
 
@@ -506,7 +496,7 @@ Velvyslanectví ČR sídlí na adrese 71/6 Ruam Rudee Soi 2, Ploenchit Rd., Lump
 
 ### Očkování a prevence
 
-Poraďte se aspoň 4–6 týdnů před odletem s lékařem v centru cestovní medicíny a řekněte mu celou trasu včetně Ranongu, Koh Phayam a Khao Lak. Podle amerického CDC mají cestovatelé do Thajska mít aktuální běžná očkování (včetně spalniček) a navíc se doporučuje očkování proti hepatitidě A, hepatitidě B a tyfu. Proti japonské encefalitidě se očkuje při pobytu od jednoho měsíce nebo při pobytu v lese a na venkově. Očkování proti vzteklině doporučuje CDC hlavně lidem v rizikových povoláních a těm, kdo budou daleko od zdravotní péče. Kvůli častým setkáním s makaky ho stojí za to s lékařem probrat: po předchozím očkování je ošetření po kousnutí jednodušší.
+Poraďte se aspoň 4–6 týdnů před odletem s lékařem v centru cestovní medicíny a řekněte mu celou trasu včetně Ranongu a Koh Phayam. Podle amerického CDC mají cestovatelé do Thajska mít aktuální běžná očkování (včetně spalniček) a navíc se doporučuje očkování proti hepatitidě A, hepatitidě B a tyfu. Proti japonské encefalitidě se očkuje při pobytu od jednoho měsíce nebo při pobytu v lese a na venkově. Očkování proti vzteklině doporučuje CDC hlavně lidem v rizikových povoláních a těm, kdo budou daleko od zdravotní péče. Kvůli častým setkáním s makaky ho stojí za to s lékařem probrat: po předchozím očkování je ošetření po kousnutí jednodušší.
 
 ### Komáři a nemoci
 
@@ -540,8 +530,7 @@ Rehydratační sáčky, náplasti a obvaz, dezinfekce, přípravek na spáleniny
 
 ## 16. Orientační rozpočet
 
-Rozpočet platí pro dva lidi na 22 nocí podle trasy s Koh Phayam a autem v Hua Hin, bez letenek a pojištění. Částky jsou v thajských bahtech. Pro přepočet je vynásobte 0,65: 100 THB je asi 65 Kč a 1 000 THB asi 650 Kč. Položky s poznámkou „odhad“ jsou hrubé odhady, ostatní vycházejí z cen uvedených výše. Před cestou ceny ověřte. Pokud zůstane 23 nocí, přidejte si jednu noc ubytování a jeden den jídla (sekce 0).
-
+Rozpočet platí pro dva lidi na 22 nocí podle trasy s Koh Phayam a autem v Hua Hin, bez letenek a pojištění. Částky jsou v thajských bahtech. Pro přepočet je vynásobte 0,65: 100 THB je asi 65 Kč a 1 000 THB asi 650 Kč. Položky s poznámkou „odhad“ jsou hrubé odhady, ostatní vycházejí z cen uvedených výše. Před cestou ceny ověřte.
 | Položka | Úsporně (THB) | Pohodlněji (THB) | Poznámka |
 |---|---|---|---|
 | Ubytování | 14 500 | 33 000 | odhad: 650–1 500 THB za noc za pokoj pro dva, 22 nocí |
@@ -568,8 +557,6 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Khao Sok, vstup do parku | 300–320 THB na osobu | platí 24 hodin |
 | Jezero Cheow Lan, balíček na 2 dny a 1 noc | 2 500–4 500 THB na osobu | doprava, jídlo, ubytování a kajaky |
 | Pádlování nebo tubing na řece Sok | 400–950 THB na osobu | tubing podle hladiny řeky |
-| Park Lam Ru (Khao Lak) | vstup 200 THB na osobu | platí i na vodopád Ton Chong Fa |
-| Little Amazon (Takua Pa, volitelně) | asi 500 THB za dva, bez rezervace 700–1 000 THB | kajak s průvodcem asi 1 hodinu |
 | Kajaky v Ao Thalane (půldenní) | od 37 USD na osobu | s vyzvednutím z hotelu, obědem a poplatky |
 | Tiger Cave | zdarma | |
 | Dragon Crest | 200 THB na osobu | jen hotově |

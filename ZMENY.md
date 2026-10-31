@@ -2,6 +2,17 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v13: Bez Khao Laku: 8 fází, 22 nocí, Krabi 4 noci kvůli Dragon Crest (31. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v13/) · [Markdown](verze/v13/thajsko-bangkok-phuket.md) · [rozdíl proti v12](https://github.com/polachp/dovolena-thajsko-2026/compare/b0e7d3d...5ff12af)
+
+- Khao Lak (dříve fáze 6) je vyřazený. Všechno o něm je uložené jako záložní varianta v souboru varianty/khao-lak.md, původní podoba zůstává ve v12.
+- Trasa má 8 fází a vychází přesně na 22 nocí, přepočet nocí je hotový: Krabi 11.–15. 12. (4 noci), Koh Yao Noi 15.–18. 12. (3 noci), Phuket Town 18.–19. 12. (1 noc).
+- Fáze se za Khao Sok posunuly o jedno číslo: Krabi je fáze 6, Koh Yao Noi fáze 7, Phuket Town fáze 8. Odkazy na fáze v celém textu jsou upravené.
+- Fáze 6 (Krabi): Dragon Crest je hlavní program místo volitelného, s doporučením jít první suché ráno. Nově popsaná volba základny: Krabi Town, nebo klidnější pláže Tub Kaek či Klong Muang u začátku stezky. Volba zatím není hotová.
+- Doprava: z Khao Sok se jede rovnou minivanem do Krabi (3–4 h), úseky přes Khao Lak odpadly. Přibyl úsek k začátku stezky Dragon Crest a bod Dragon Crest v sekci 3.
+- Khao Lak odstraněn i ze sekcí 3, 5, 8, 13, 15 a 16. Den ústavy 10. 12. teď připadá na pobyt v Khao Sok, ne na přesun.
+
 ## v12: Odkaz na předpověď přílivu a odlivu (30. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v12/) · [Markdown](verze/v12/thajsko-bangkok-phuket.md) · [rozdíl proti v11](https://github.com/polachp/dovolena-thajsko-2026/compare/58e073e...b0e7d3d)
