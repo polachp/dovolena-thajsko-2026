@@ -110,7 +110,12 @@ article ul,article ol{padding-left:1.2em}
 article li{margin:.35em 0}
 article strong{font-weight:600}
 article a{color:var(--accent);text-underline-offset:2px}
-article.term{background:var(--saffron-soft);border:1px solid color-mix(in srgb,var(--saffron) 35%,transparent);border-radius:12px;padding:14px 16px}
+article details.more{border:1px solid var(--line);border-radius:10px;background:var(--surface);margin:8px 0;padding:0 14px}
+article details.more[open]{padding-bottom:8px}
+article details.more>summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:10px;min-height:44px;padding:8px 0;font-family:var(--display);font-weight:600;font-size:15px}
+article details.more>summary::-webkit-details-marker{display:none}
+article details.more>summary::before{content:"+";font-family:var(--mono);color:var(--accent);width:1em;text-align:center}
+article details.more[open]>summary::before{content:"−"}article.term{background:var(--saffron-soft);border:1px solid color-mix(in srgb,var(--saffron) 35%,transparent);border-radius:12px;padding:14px 16px}
 .tw{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1em 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
 table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.4}
 th,td{text-align:left;vertical-align:top;padding:8px 12px;border-bottom:1px solid var(--line)}
@@ -210,7 +215,8 @@ footer a{color:var(--accent)}
     {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.'}
   ];
   // cislo sekce z manualu -> nadsekce
-  var KAM={0:'pred',5:'pred',8:'pred',10:'pred',13:'pred',15:'pred',16:'pred',18:'pred',
+  // verze muze mit vlastni rozrazeni (hlavicka.kam v src/verze.json), jinak plati cislovani do v13
+  var KAM=CFG.kam||{0:'pred',5:'pred',8:'pred',10:'pred',13:'pred',15:'pred',16:'pred',18:'pred',
            1:'misto',2:'misto',3:'misto',4:'misto',7:'misto',9:'misto',11:'misto',12:'misto',14:'misto',17:'misto'};
 
   // ---- markdown ----
@@ -228,7 +234,21 @@ footer a{color:var(--accent)}
 
   // ---- rozpad na stranky ----
   var STRANKY=[], podleId={};
-  function pridej(s){STRANKY.push(s); return s}
+  // nadpis 4. urovne a vse za nim az k dalsimu nadpisu se zabali do rozbalovaciho bloku
+  function sbal(uzly){
+    var out=[], det=null;
+    uzly.forEach(function(n){
+      if(n.nodeType===1&&/^H[1-3]$/.test(n.tagName)){det=null; out.push(n); return}
+      if(n.nodeType===1&&n.tagName==='H4'){
+        det=document.createElement('details'); det.className='more';
+        var su=document.createElement('summary'); su.innerHTML=n.innerHTML; det.appendChild(su);
+        out.push(det); return;
+      }
+      if(det) det.appendChild(n); else out.push(n);
+    });
+    return out;
+  }
+  function pridej(s){s.uzly=sbal(s.uzly); STRANKY.push(s); return s}
   function perex(uzly){
     for(var i=0;i<uzly.length;i++){
       var n=uzly[i];
@@ -248,7 +268,7 @@ footer a{color:var(--accent)}
   bloky.forEach(function(b){
     var t=b.h.textContent.trim(), m=t.match(/^(\d+)\.\s*(.*)$/);
     var cislo=m?m[1]:null, nazev=m?m[2]:t;
-    var jeItin=(cislo==='6');
+    var jeItin=b.uzly.some(function(n){return n.nodeType===1&&n.tagName==='H3'&&/^Fáze \d+:/.test(n.textContent.trim())});
     if(!jeItin){
       pridej({id:b.h.id,top:KAM[cislo]||'misto',klic:cislo?'Sekce '+cislo:'',nazev:nazev,
               kratky:nazev.split(/[:(]/)[0].trim(),uzly:b.uzly,perex:perex(b.uzly.slice(1))});
@@ -380,7 +400,7 @@ footer a{color:var(--accent)}
     if(pageId&&podleId[pageId]) stranka(podleId[pageId]); else rozcestnik(top);
     lista();
     if(!bezHash) history.replaceState(null,'',pageId?'#'+pageId:'#/'+top);
-    if(kotva){var el=document.getElementById(kotva); if(el){el.scrollIntoView();return}}
+    if(kotva){var el=document.getElementById(kotva); if(el){var d=el.closest&&el.closest('details'); if(d) d.open=true; el.scrollIntoView();return}}
     window.scrollTo({top:0});
   }
   function zHashe(h,bezHash){

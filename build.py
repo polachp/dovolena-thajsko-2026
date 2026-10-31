@@ -47,7 +47,10 @@ def stranka(v: dict, base: str) -> str:
             f'    <li><a href="#faze-{i}"><span class="side">{side or "&nbsp;"}</span>'
             f'<span class="dot">{i}</span><span class="pl">{misto}</span><span class="n">{noci}</span></a></li>'
         )
-    cfg = json.dumps({"id": v["id"], "base": base}, ensure_ascii=False)
+    cfg = {"id": v["id"], "base": base}
+    if h.get("kam"):
+        cfg["kam"] = h["kam"]  # cislo sekce -> zalozka webu (pred, misto), kdyz se cislovani sekci zmeni
+    cfg = json.dumps(cfg, ensure_ascii=False)
     a, z = v.get("smer", SMER_VYCHOZI)
     lede = v.get("lede", LEDE_VYCHOZI)
     sablona = SABLONA if lede else SABLONA.replace('  <p class="lede">{{LEDE}}</p>\n', "")

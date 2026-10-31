@@ -10,8 +10,9 @@ Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa
 
 ## Aktuální stav (aktualizuj při každé nové verzi)
 
-- Poslední verze: **v13** (31. 10. 2026), zdroj `verze/v13/thajsko-bangkok-phuket.md`.
-- Archiv: `verze/v1` až `verze/v12`, neměnit.
+- Poslední verze: **v14** (31. 10. 2026), zdroj `verze/v14/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v13`, neměnit.
+- Sekce 0 až 16, itinerář je sekce 5. Rozřazení sekcí do záložek webu je v `hlavicka.kam` poslední verze.
 - Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 3 (8.–11. 12.), Krabi 4 (11.–15. 12.), Koh Yao Noi 3 (15.–18. 12.), Phuket Town 1 (18.–19. 12.).
 - Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
 - Vyřazené varianty: Ban Krut (zůstává ve v3), Khao Lak (soubor `varianty/khao-lak.md`, původně fáze 6 ve v3 až v12).
@@ -34,7 +35,7 @@ Každá změna, i jednořádková oprava, znamená novou verzi:
 
 1. `cp -r verze/vN verze/vN+1`, ve zkopírované složce nech jen Markdown (`index.html` a `thajsko-obsah.js` dogeneruje build).
 2. Uprav Markdown ve `verze/vN+1/`.
-3. Přidej záznam do `src/verze.json` na konec pole: `id`, `datum` (formát `30. 10. 2026`), `nazev`, `md`, `smer`, `lede`, `zmeny` (seznam vět, co se změnilo proti předchozí verzi), `hlavicka` (`eyebrow`, `facts`, `route`, `mista`). Počet položek v `route` a `mista` se rovná počtu fází. Ve stejném kroku uprav oddíly „Aktuální stav“ a „Co je rozpracované“ v tomto souboru a odpovídající místa v `README.md`.
+3. Přidej záznam do `src/verze.json` na konec pole: `id`, `datum` (formát `30. 10. 2026`), `nazev`, `md`, `smer`, `lede`, `zmeny` (seznam vět, co se změnilo proti předchozí verzi), `hlavicka` (`eyebrow`, `facts`, `route`, `mista`, `kam`). Počet položek v `route` a `mista` se rovná počtu fází. `kam` přiřazuje číslo sekce záložce webu (`pred` = Před cestou, `misto` = Na místě); itinerář se pozná podle nadpisů fází a do `kam` nepatří. Když se sekce přečíslují, uprav `kam`, jinak ho zkopíruj z předchozí verze. Ve stejném kroku uprav oddíly „Aktuální stav“ a „Co je rozpracované“ v tomto souboru a odpovídající místa v `README.md`.
 4. Commitni text verze (včetně CLAUDE.md a README.md) a hash tohoto commitu zapiš do pole `commit` nové verze.
 5. `python build.py`, zkontroluj výstup, commitni a pushni.
 
@@ -46,15 +47,20 @@ Markdown verze nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, b
 
 - Česky, věcně, bez marketingového tónu.
 - Bez emoji. Bez pomlčky `—` a `–` mimo číselné rozsahy (2020–2024), místo nich čárka, dvojtečka, závorka nebo dvě věty.
-- Struktura sekcí je zavedená (číslované `##` sekce 0 až 18 plus příloha), drž ji. Novou sekci zakládej jen když se obsah opravdu nevejde jinam.
-- Fáze jsou nadpisy `### Fáze N: ...` v sekci 6 a web z nich dělá samostatné stránky. Když se fáze přidá nebo vyřadí, přečísluj i všechny odkazy „fáze N“ v textu a tabulkách.
-- U míst v sekci 3 patří odkaz do Google Maps. Body se souřadnicemi míří přímo na místo, ostatní spouštějí vyhledávání podle názvu.
+- Struktura sekcí je zavedená (číslované `##` sekce 0 až 16), drž ji. Novou sekci zakládej jen když se obsah opravdu nevejde jinam. Při přečíslování uprav všechny odkazy „sekce N“ a `hlavicka.kam`.
+- Každá informace patří na jedno místo. Co se týká konkrétní fáze (program, ceny, přesun, ubytování), patří do fáze, obecné sekce jen odkazují. Sekce 0 drží jen to, co je nedořešené, historie změn patří do `zmeny` v `src/verze.json`.
+- Fáze jsou nadpisy `### Fáze N: Název (X nocí, datum)` v sekci 5 a web z nich dělá samostatné stránky. Každá fáze má stejnou stavbu:
+  1. jeden až dva řádky popisu (web ho ukazuje i na kartě v přehledu),
+  2. seznam „co uvidíte“: `- **Místo:** jedna věta`, volitelné věci označené „(volitelně)“,
+  3. podrobnosti jako nadpisy `#### ...` (například Program po dnech, jednotlivá místa, Ubytování, Přesun dál, Mapy). Web každý `####` blok zobrazí sbalený a rozbalí ho až po klepnutí. Mapy jsou vždy poslední blok.
+- Když se fáze přidá nebo vyřadí, přečísluj i všechny odkazy „fáze N“ v textu a tabulkách.
+- U míst v sekci 3 a v bloku Mapy u fáze patří odkaz do Google Maps. Sekce 3 je souhrnný seznam na uložení do offline map, blok u fáze je pro použití na místě. Body se souřadnicemi míří přímo na místo, ostatní spouštějí vyhledávání podle názvu.
 - U každého přesunu uveď orientační čas, u každé zastávky počet nocí a orientační datum.
 - Co není ověřené (jízdní řády, ceny, otevírací doby), označ jako neověřené. Netvrď jistotu, kterou podklad nedává.
 
 ## Co je rozpracované
 
-Stav k v13. Noci jsou přepočtené a sedí na 22. Nedořešené zůstává:
+Stav k v14. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Nedořešené zůstává:
 
 - Fáze 5: noc na jezeře Cheow Lan (balíček, konkrétní raft house, nebo jen jednodenní výlet). Rezervace bungalovu je jeden ze dvou pevných bodů.
 - Fáze 6: základna v Krabi (Krabi Town, nebo pláže Tub Kaek či Klong Muang u Dragon Crest) a případný přesun jedné noci z Krabi na Koh Yao Noi.
