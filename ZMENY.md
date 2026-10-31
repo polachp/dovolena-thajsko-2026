@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v14: Přehlednější itinerář: přehled nahoře, podrobnosti rozbalovací (31. 10. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v14/) · [Markdown](verze/v14/thajsko-bangkok-phuket.md) · [rozdíl proti v13](https://github.com/polachp/dovolena-thajsko-2026/compare/5ff12af...d83c1ba)
+
+- Každá fáze začíná krátkým popisem a seznamem toho, co uvidíte. Program, ceny, ubytování, přesun a mapy jsou pod tím jako samostatné bloky, které se na webu rozbalí až po klepnutí.
+- Vyhozena sekce Typy ubytování. Konkrétní ubytování zůstává u jednotlivých fází.
+- Zrušeny duplicity: Bonusové aktivity, Pláže a Pěšky a bez davů jsou sloučené do fází, příloha s porovnáním termínů z PDF odpadla (letenky jsou koupené), sekce 0 už neopakuje historii změn ani tabulku nocí.
+- Sekce Doprava zkrácena na tabulku a obecné rady, podrobnosti k přesunům jsou jen u fází. Zkrácené duplicity i v checklistu, počasí, jídle, travel hackách a šnorchlování.
+- Sekce jsou přečíslované (0 až 16, itinerář je sekce 5) a odkazy na sekce v textu jsou upravené. Obsah fází, data a noci jsou beze změny proti v13.
+
 ## v13: Bez Khao Laku: 8 fází, 22 nocí, Krabi 4 noci kvůli Dragon Crest (31. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v13/) · [Markdown](verze/v13/thajsko-bangkok-phuket.md) · [rozdíl proti v12](https://github.com/polachp/dovolena-thajsko-2026/compare/b0e7d3d...5ff12af)
