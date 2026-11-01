@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v15: Ubytování ve fázích 1 až 4: rezervace přes Agodu a termíny zrušení zdarma (1. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v15/) · [Markdown](verze/v15/thajsko-bangkok-phuket.md) · [rozdíl proti v14](https://github.com/polachp/dovolena-thajsko-2026/compare/d83c1ba...b70b7ea)
+
+- Ubytování ve fázích 1 až 4 (Ti Thong Hostel, Sam Roi Yot Sea Sight Resort, Yuttichai Hotel, Tobedzz Hotel, Flower Power Village): u každého je napsáno, že je rezervované přes Agodu, a do kdy se dá zrušit zdarma. Termíny jsou od 22. 11. do 2. 12., vždy do 23:59 thajského času (v Česku v 17:59).
+- Sekce 11 (Předodletový checklist): u ubytování odkaz na tyto termíny.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v14.
+
 ## v14: Přehlednější itinerář: přehled nahoře, podrobnosti rozbalovací (31. 10. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v14/) · [Markdown](verze/v14/thajsko-bangkok-phuket.md) · [rozdíl proti v13](https://github.com/polachp/dovolena-thajsko-2026/compare/5ff12af...d83c1ba)

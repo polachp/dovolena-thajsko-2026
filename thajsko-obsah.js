@@ -168,7 +168,7 @@ Pomalý rozjezd po letu: chrámy po ránu, odpoledne pauza, večer street food. 
 
 #### Ubytování
 
-[Ti Thong Hostel](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY), 27.–30. 11., potvrzeno. Check-in od 14:00, check-out do 12:00.
+[Ti Thong Hostel](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY), 27.–30. 11., potvrzeno, rezervováno přes Agodu. Check-in od 14:00, check-out do 12:00. Zrušit zdarma do 22. 11. 23:59 thajského času (v Česku 22. 11. v 17:59).
 
 #### Přesun dál
 
@@ -208,7 +208,7 @@ Vstup do parku Khao Sam Roi Yot 200 THB na osobu a platí jen v den zakoupení. 
 
 #### Ubytování
 
-[Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs), 30. 11.–3. 12., potvrzeno. Check-in od 14:00, check-out do 12:00. Ve vesnici Sam Roi Yot asi 7 km vzdušnou čarou severně od Bang Pu, pár minut pěšky k pláži.
+[Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs), 30. 11.–3. 12., potvrzeno, rezervováno přes Agodu. Check-in od 14:00, check-out do 12:00. Zrušit zdarma do 28. 11. 23:59 thajského času (v Česku 28. 11. v 17:59). Ve vesnici Sam Roi Yot asi 7 km vzdušnou čarou severně od Bang Pu, pár minut pěšky k pláži.
 
 #### Přesun dál
 
@@ -233,7 +233,7 @@ Malé klidné město u zálivu s promenádou. Jedno odpoledne a jedno ráno se d
 
 #### Ubytování
 
-[Yuttichai Hotel](https://www.google.com/maps/search/?api=1&query=Yuttichai%20Hotel%20Prachuap%20Khiri%20Khan&query_place_id=ChIJkYnHKgqE_jARjzgNbF4eMUE) (v rezervaci Yutichai), 3.–4. 12., potvrzeno. Check-in od 13:00, check-out do 12:00, asi 5 minut pěšky od nádraží. Zavazadla nechte po příjezdu na recepci.
+[Yuttichai Hotel](https://www.google.com/maps/search/?api=1&query=Yuttichai%20Hotel%20Prachuap%20Khiri%20Khan&query_place_id=ChIJkYnHKgqE_jARjzgNbF4eMUE) (v rezervaci Yutichai), 3.–4. 12., potvrzeno, rezervováno přes Agodu. Check-in od 13:00, check-out do 12:00, asi 5 minut pěšky od nádraží. Zrušit zdarma do 25. 11. 23:59 thajského času (v Česku 25. 11. v 17:59). Zavazadla nechte po příjezdu na recepci.
 
 #### Přesun dál
 
@@ -255,7 +255,7 @@ Večer v horkých pramenech v Ranongu a pak tři dny lenošení na klidném ostr
 
 #### Ranong
 
-Do města dorazíte kolem 17:00, minivan staví u autobusového nádraží. Ubytování [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y), 4.–5. 12., potvrzeno, check-in od 14:00, check-out do 12:00, asi 4 minuty pěšky od nádraží. Kolem 18:00 taxi k pramenům Raksa Warin (asi 2 km, asi 100 THB, v Mapách „Khao Niwet, Mueang Ranong“). Přes 20 bazénků, veřejné zdarma, otevřeno podle jednoho zdroje 5:00–21:00. Hotovost na ostrov si vyberte tady (sekce 10).
+Do města dorazíte kolem 17:00, minivan staví u autobusového nádraží. Ubytování [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y), 4.–5. 12., potvrzeno, rezervováno přes Agodu, check-in od 14:00, check-out do 12:00, zrušit zdarma do 2. 12. 23:59 thajského času (v Česku 2. 12. v 17:59), asi 4 minuty pěšky od nádraží. Kolem 18:00 taxi k pramenům Raksa Warin (asi 2 km, asi 100 THB, v Mapách „Khao Niwet, Mueang Ranong“). Přes 20 bazénků, veřejné zdarma, otevřeno podle jednoho zdroje 5:00–21:00. Hotovost na ostrov si vyberte tady (sekce 10).
 
 #### Loď na ostrov (So 5. 12.)
 
@@ -289,7 +289,7 @@ Jeden průvodce ho v prosinci viděl při brodění u Ao Khao Kwai, záruka žá
 
 #### Ubytování
 
-[Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) u Ao Khao Kwai, 5.–8. 12., potvrzeno. Check-in od 13:00, check-out do 11:00, asi 5 minut pěšky na pláž, bazén a restaurace. Na ostrově jsou jen dva bankomaty s poplatkem asi 220 THB (údaj z ledna 2024). Víkend 5.–7. 12. je prodloužený, na ostrově bude víc Thajců (sekce 6).
+[Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) u Ao Khao Kwai, 5.–8. 12., potvrzeno, rezervováno přes Agodu. Check-in od 13:00, check-out do 11:00. Zrušit zdarma do 27. 11. 23:59 thajského času (v Česku 27. 11. v 17:59). Asi 5 minut pěšky na pláž, bazén a restaurace. Na ostrově jsou jen dva bankomaty s poplatkem asi 220 THB (údaj z ledna 2024). Víkend 5.–7. 12. je prodloužený, na ostrově bude víc Thajců (sekce 6).
 
 #### Přesun dál
 
@@ -548,7 +548,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
 - **Řidičský průkaz, auto a skútr:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Na skútr potřebujete oprávnění pro motocykly (skupina A1, A2 nebo A). Samotná skupina B nestačí a pojišťovny při nehodě mohou odmítnout plnění. Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce 16). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
-- **Ubytování:** Fáze 1 až 4 jsou potvrzené (podrobnosti u fází v sekci 5). Zbývá Cheow Lan (co nejdřív), Koh Yao Noi (aspoň 1–2 týdny předem), Krabi po výběru základny a poslední noc na Phuketu, jakmile znáte hodinu odletu. Khao Sok jde i na místě.
+- **Ubytování:** Fáze 1 až 4 jsou potvrzené a rezervované přes Agodu. Termíny zrušení zdarma (od 22. 11. do 2. 12.) jsou u ubytování ve fázích v sekci 5. Zbývá Cheow Lan (co nejdřív), Koh Yao Noi (aspoň 1–2 týdny předem), Krabi po výběru základny a poslední noc na Phuketu, jakmile znáte hodinu odletu. Khao Sok jde i na místě.
 - **Vlak č. 43 a auto:** Jízdenky na 30. 11. do Hua Hin a 3. 12. do Prachuap kupte hned, jak se začnou prodávat (od asi 31. 10.). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Skútr je pojištěn jen při platném oprávnění. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 - **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 13).

@@ -188,5 +188,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "d83c1ba",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v15",
+    "datum": "1. 11. 2026",
+    "nazev": "Ubytování ve fázích 1 až 4: rezervace přes Agodu a termíny zrušení zdarma",
+    "zmeny": [
+      "Ubytování ve fázích 1 až 4 (Ti Thong Hostel, Sam Roi Yot Sea Sight Resort, Yuttichai Hotel, Tobedzz Hotel, Flower Power Village): u každého je napsáno, že je rezervované přes Agodu, a do kdy se dá zrušit zdarma. Termíny jsou od 22. 11. do 2. 12., vždy do 23:59 thajského času (v Česku v 17:59).",
+      "Sekce 11 (Předodletový checklist): u ubytování odkaz na tyto termíny.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v14."
+    ],
+    "commit": "b70b7ea",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
