@@ -11,6 +11,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 
 - **Noc na jezeře Cheow Lan (fáze 5):** balíček, konkrétní raft house, nebo jen jednodenní výlet. Je to jediná rezervace, která spěchá.
 - **Základna v Krabi (fáze 6):** Krabi Town, nebo pláže Tub Kaek či Klong Muang u Dragon Crest. Případně jednu noc z Krabi přesunout na Koh Yao Noi.
+- **Prachuap (fáze 3):** na noc 3.–4. 12. jsou zarezervované dva hotely, Yuttichai Hotel (zrušit zdarma do 25. 11.) a Jungle Cafe and Guesthouse (zrušit zdarma do 29. 11.). Jeden z nich je potřeba včas zrušit.
 - **Ubytování ve fázích 5 až 8** zatím není rezervované. Fáze 1 až 4 jsou potvrzené.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
@@ -76,6 +77,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 2 | Phra Prathun Cave | [Phra Prathun Cave](https://www.google.com/maps/search/?api=1&query=Phra%20Prathun%20Cave%20Sam%20Roi%20Yot) | Volitelná netopýří jeskyně, vede mnich (otevírací dobu neznáme) |
 | 2 | Kui Buri, Elephant Observatory Site | [12.1385, 99.6467](https://www.google.com/maps/search/?api=1&query=12.1385%2C99.6467) | Výchozí bod odpoledního safari za divokými slony |
 | 3 | Prachuap Khiri Khan, ubytování Yuttichai Hotel | [Yuttichai Hotel](https://www.google.com/maps/search/?api=1&query=Yuttichai%20Hotel%20Prachuap%20Khiri%20Khan&query_place_id=ChIJkYnHKgqE_jARjzgNbF4eMUE) | Potvrzeno 3.–4. 12., check-in od 13:00, check-out do 12:00, asi 5 minut pěšky od nádraží |
+| 3 | Prachuap Khiri Khan, druhá rezervace Jungle Cafe and Guesthouse | [Jungle Cafe and Guesthouse](https://www.google.com/maps/search/?api=1&query=Jungle%20Cafe%20and%20Guesthouse%20Prachuap%20Khiri%20Khan) | Druhá rezervace na 3.–4. 12., check-in od 14:00, u moře, mnohem dál od nádraží než Yuttichai, zrušit zdarma do 29. 11. |
 | 3 | Prachuap Khiri Khan, nádraží | [Prachuap Khiri Khan Railway Station](https://www.google.com/maps/search/?api=1&query=Prachuap%20Khiri%20Khan%20Railway%20Station) | Ve středu města, k zálivu je to 5 až 10 minut pěšky |
 | 3 | Khao Chong Krachok (Wat Thammikaram) | [11.8165, 99.7981](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) | Chrámový kopec s 396 schody, výhled na záliv a makaky |
 | 3 | Ao Manao a Khao Lom Muak | [Ao Manao](https://www.google.com/maps/search/?api=1&query=Ao%20Manao%20Beach%20Prachuap%20Khiri%20Khan), [Khao Lom Muak](https://www.google.com/maps/search/?api=1&query=Khao%20Lom%20Muak%20Prachuap%20Khiri%20Khan) | Pláž a kopec s hulmany v areálu základny Wing 5 |
@@ -233,7 +235,7 @@ Malé klidné město u zálivu s promenádou. Jedno odpoledne a jedno ráno se d
 
 #### Ubytování
 
-[Yuttichai Hotel](https://www.google.com/maps/search/?api=1&query=Yuttichai%20Hotel%20Prachuap%20Khiri%20Khan&query_place_id=ChIJkYnHKgqE_jARjzgNbF4eMUE) (v rezervaci Yutichai), 3.–4. 12., potvrzeno, rezervováno přes Agodu. Check-in od 13:00, check-out do 12:00, asi 5 minut pěšky od nádraží. Zrušit zdarma do 25. 11. 23:59 thajského času (v Česku 25. 11. v 17:59). Zavazadla nechte po příjezdu na recepci.
+[Yuttichai Hotel](https://www.google.com/maps/search/?api=1&query=Yuttichai%20Hotel%20Prachuap%20Khiri%20Khan&query_place_id=ChIJkYnHKgqE_jARjzgNbF4eMUE) (v rezervaci Yutichai), 3.–4. 12., potvrzeno, rezervováno přes Agodu. Check-in od 13:00, check-out do 12:00, asi 5 minut pěšky od nádraží. Zrušit zdarma do 25. 11. 23:59 thajského času (v Česku 25. 11. v 17:59). Zavazadla nechte po příjezdu na recepci. Druhá rezervace na stejnou noc: [Jungle Cafe and Guesthouse](https://www.google.com/maps/search/?api=1&query=Jungle%20Cafe%20and%20Guesthouse%20Prachuap%20Khiri%20Khan), 3.–4. 12., rezervováno přes Agodu, check-in od 14:00. Je u moře, ale dražší a mnohem dál od nádraží než Yuttichai. Zrušit zdarma do 29. 11. 23:59 thajského času (v Česku 29. 11. v 17:59). Jednu z rezervací je potřeba včas zrušit, Yuttichai nejpozději 25. 11.
 
 #### Přesun dál
 
