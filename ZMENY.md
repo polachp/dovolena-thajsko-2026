@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v17: Prachuap: ubytování Jungle Cafe and Guesthouse místo Yuttichai (1. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v17/) · [Markdown](verze/v17/thajsko-bangkok-phuket.md) · [rozdíl proti v16](https://github.com/polachp/dovolena-thajsko-2026/compare/699f3e2...f56491a)
+
+- Fáze 3 (Prachuap): Yuttichai Hotel je zrušený. Ubytování na noc 3.–4. 12. je Jungle Cafe and Guesthouse (u moře, ale mnohem dál od nádraží), rezervováno přes Agodu, zrušit zdarma do 29. 11. 23:59 thajského času (v Česku v 17:59).
+- Sekce 0 (co se ještě dořeší) už o dvou rezervacích v Prachuap nepíše a sekce 3 (záchytné body) má jen Jungle Cafe.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v16.
+
 ## v16: Prachuap: druhá rezervace na noc 3.–4. 12. (1. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v16/) · [Markdown](verze/v16/thajsko-bangkok-phuket.md) · [rozdíl proti v15](https://github.com/polachp/dovolena-thajsko-2026/compare/b70b7ea...699f3e2)

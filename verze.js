@@ -212,5 +212,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "699f3e2",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v17",
+    "datum": "1. 11. 2026",
+    "nazev": "Prachuap: ubytování Jungle Cafe and Guesthouse místo Yuttichai",
+    "zmeny": [
+      "Fáze 3 (Prachuap): Yuttichai Hotel je zrušený. Ubytování na noc 3.–4. 12. je Jungle Cafe and Guesthouse (u moře, ale mnohem dál od nádraží), rezervováno přes Agodu, zrušit zdarma do 29. 11. 23:59 thajského času (v Česku v 17:59).",
+      "Sekce 0 (co se ještě dořeší) už o dvou rezervacích v Prachuap nepíše a sekce 3 (záchytné body) má jen Jungle Cafe.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v16."
+    ],
+    "commit": "f56491a",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
