@@ -10,7 +10,7 @@ Itinerář jižního Thajska podle manuálu od Anežky. Aktuální verze: směr 
 Jediný soubor, který se edituje ručně, je Markdown poslední verze:
 
 ```
-verze/v14/thajsko-bangkok-phuket.md
+verze/v15/thajsko-bangkok-phuket.md
 ```
 
 Poslední verze je poslední záznam v `src/verze.json`, název jejího Markdownu je v poli `md`.
@@ -27,7 +27,7 @@ Generované soubory, do kterých se nikdy nepíše ručně (build je přepíše)
 
 Editace kořenového `thajsko-bangkok-phuket.md` je typická chyba: soubor vypadá jako hlavní zdroj, ale je to kopie a příští build ji přepíše. Totéž platí pro editaci přes webové rozhraní GitHubu.
 
-Starší verze (`verze/v1` až `verze/v13`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
+Starší verze (`verze/v1` až `verze/v14`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
 
 ## Struktura
 
@@ -56,4 +56,4 @@ Markdown nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko. Vklád�
 
 ## Co je v itineráři rozpracované
 
-Stav k v14: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Itinerář má jednotnou stavbu fází: krátký popis, co uvidíte, podrobnosti jako nadpisy 4. úrovně, které web zobrazí sbalené (pravidla v `CLAUDE.md`). Nedořešená je noc na jezeře Cheow Lan, základna v Krabi a rezervace ubytování ve fázích 5 až 8. Podrobnosti v sekci 0 Markdownu.
+Stav k v15: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Itinerář má jednotnou stavbu fází: krátký popis, co uvidíte, podrobnosti jako nadpisy 4. úrovně, které web zobrazí sbalené (pravidla v `CLAUDE.md`). Nedořešená je noc na jezeře Cheow Lan, základna v Krabi a rezervace ubytování ve fázích 5 až 8 (fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází). Podrobnosti v sekci 0 Markdownu.
