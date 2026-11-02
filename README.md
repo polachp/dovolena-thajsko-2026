@@ -10,7 +10,7 @@ Itinerář jižního Thajska podle manuálu od Anežky. Aktuální verze: směr 
 Jediný soubor, který se edituje ručně, je Markdown poslední verze:
 
 ```
-verze/v18/thajsko-bangkok-phuket.md
+verze/v19/thajsko-bangkok-phuket.md
 ```
 
 Poslední verze je poslední záznam v `src/verze.json`, název jejího Markdownu je v poli `md`.
@@ -27,7 +27,7 @@ Generované soubory, do kterých se nikdy nepíše ručně (build je přepíše)
 
 Editace kořenového `thajsko-bangkok-phuket.md` je typická chyba: soubor vypadá jako hlavní zdroj, ale je to kopie a příští build ji přepíše. Totéž platí pro editaci přes webové rozhraní GitHubu.
 
-Starší verze (`verze/v1` až `verze/v17`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
+Starší verze (`verze/v1` až `verze/v18`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
 
 ## Struktura
 
@@ -56,4 +56,4 @@ Markdown nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko. Vklád�
 
 ## Co je v itineráři rozpracované
 
-Stav k v18: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Itinerář má jednotnou stavbu fází: krátký popis, co uvidíte, podrobnosti jako nadpisy 4. úrovně, které web zobrazí sbalené (pravidla v `CLAUDE.md`). Nedořešená je noc na jezeře Cheow Lan, základna v Krabi a rezervace ubytování ve fázích 5 až 8 (rezervovaná je jen první noc v Khao Sok, Flora Hostel KhaoSok, 8.–9. 12.; fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází). Podrobnosti v sekci 0 Markdownu.
+Stav k v19: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Itinerář má jednotnou stavbu fází: krátký popis, co uvidíte, podrobnosti jako nadpisy 4. úrovně, které web zobrazí sbalené (pravidla v `CLAUDE.md`). Khao Sok má 4 noci (8.–12. 12.) a Krabi 3 (12.–15. 12.). Nedořešená je noc na jezeře Cheow Lan, základna v Krabi a rezervace ubytování ve fázích 5 až 8 (rezervovaná je jen první noc v Khao Sok, Flora Hostel KhaoSok, 8.–9. 12.; fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází). Podrobnosti v sekci 0 Markdownu.
