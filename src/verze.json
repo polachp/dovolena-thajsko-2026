@@ -1469,5 +1469,106 @@
       }
     },
     "commit": "f56491a"
+  },
+  {
+    "id": "v18",
+    "datum": "2. 11. 2026",
+    "nazev": "Khao Sok: rezervace Flora Hostel KhaoSok na první noc",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 5 (Khao Sok): rezervovaná je první noc 8.–9. 12. ve Flora Hostel KhaoSok (apartmá s výhledem do zahrady), přes Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00).",
+      "Noci 9.–11. 12. v Khao Sok zatím nejsou rezervované a vyřeší se na místě. Při hledání bylo v Khao Sok hodně míst obsazených.",
+      "Sekce 0, sekce 3 (záchytné body) a kontrolní seznam v sekci 11 to odrážejí.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v17."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–11. 12.",
+        "11.–15. 12.",
+        "15.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "kam": {
+        "0": "pred",
+        "6": "pred",
+        "8": "pred",
+        "11": "pred",
+        "13": "pred",
+        "14": "pred",
+        "16": "pred",
+        "1": "misto",
+        "2": "misto",
+        "3": "misto",
+        "4": "misto",
+        "7": "misto",
+        "9": "misto",
+        "10": "misto",
+        "12": "misto",
+        "15": "misto"
+      }
+    },
+    "commit": ""
   }
 ]
