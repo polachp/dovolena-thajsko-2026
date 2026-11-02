@@ -10,8 +10,9 @@ Itinerář je volný: berte ho jako osnovu, ne jako pevný rozvrh. U každého p
 Co se mezi verzemi změnilo, najdete v záložce Verze.
 
 - **Noc na jezeře Cheow Lan (fáze 5):** balíček, konkrétní raft house, nebo jen jednodenní výlet. Je to jediná rezervace, která spěchá.
+- **Čtyřkolky v Khao Sok (fáze 5):** čeká se na odpověď provozovatele (volný den 9. nebo 10. 12., cena, délka, jestli je potřeba řidičský průkaz). Pokud bude noc na jezeře Cheow Lan, den se podle ní posune.
 - **Základna v Krabi (fáze 6):** Krabi Town, nebo pláže Tub Kaek či Klong Muang u Dragon Crest. Případně jednu noc z Krabi přesunout na Koh Yao Noi.
-- **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě první noci v Khao Sok (Flora Hostel KhaoSok, 8.–9. 12.). Fáze 1 až 4 jsou potvrzené.
+- **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě první noci v Khao Sok (Flora Hostel KhaoSok, 8.–9. 12.), další noci v Khao Sok (9.–12. 12.) se řeší na místě. Fáze 1 až 4 jsou potvrzené.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
 Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md).
@@ -87,6 +88,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 4 | Koh Phayam, ubytování Flower Power Village (Ao Khao Kwai) | [Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) | Potvrzeno 5.–8. 12., check-in od 13:00, check-out do 11:00 |
 | 4 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | [Ao Yai](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Beach%20Koh%20Phayam), [Ao Khao Kwai](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai%20Beach%20Koh%20Phayam) | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
 | 5 | Khao Sok, ubytování Flora Hostel KhaoSok | [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok) | Potvrzeno 8.–9. 12., check-in 14:00–20:00, check-out 9:00–11:00, rezervováno přes Booking.com, zrušit zdarma do 8. 12. |
+| 5 | Khao Sok, čtyřkolky Khao sok ATV Adventure | [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) | Volitelně, ve vesnici Khlong Sok, 8:00–18:30, tel. +66 85 210 9593, jízda asi 90 minut |
 | 5 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
 | 5 | Khao Sok, vodopád Than Sawan (jiné psaní: Tan Sawan, Tarn Sawan) | [8.96678, 98.54116](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) | Celodenní túra od ředitelství parku. Souřadnice jsou z jednoho zdroje (neověřeno), pod názvem se místo v Mapách nenajde |
 | 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
@@ -140,8 +142,8 @@ Trasa vede ze severu na jih a nikde se nevrací. Je to osnova: dny si poskládá
 | 2 | Sam Roi Yot, auto z Hua Hin | 3 | 30. 11.–3. 12. |
 | 3 | Prachuap Khiri Khan | 1 | 3.–4. 12. |
 | 4 | Ranong (1 noc) a Koh Phayam (3 noci) | 4 | 4.–8. 12. |
-| 5 | Khao Sok a jezero Cheow Lan | 3 | 8.–11. 12. |
-| 6 | Krabi | 4 | 11.–15. 12. |
+| 5 | Khao Sok a jezero Cheow Lan | 4 | 8.–12. 12. |
+| 6 | Krabi | 3 | 12.–15. 12. |
 | 7 | Koh Yao Noi | 3 | 15.–18. 12. |
 | 8 | Phuket Town | 1 | 18.–19. 12. |
 | | Celkem | 22 | 27. 11.–19. 12. |
@@ -300,7 +302,7 @@ Jeden průvodce ho v prosinci viděl při brodění u Ao Khao Kwai, záruka žá
 
 [Ranong](https://www.google.com/maps/search/?api=1&query=Ranong) · [horké prameny Raksa Warin](https://www.google.com/maps/search/?api=1&query=Raksawarin%20Hot%20Springs,%20Ranong) · [molo Ranong Pier](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier,%20Koh%20Phayam%20boats) · [vodopád Ngao](https://www.google.com/maps/search/?api=1&query=9.8558,98.6290) · [Koh Phayam](https://www.google.com/maps/search/?api=1&query=Koh%20Phayam) · [Ao Yai (Long Beach)](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Long%20Beach,%20Koh%20Phayam) · [Ao Khao Kwai (Buffalo Bay)](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai,%20Koh%20Phayam) · [Ao Kwang Peeb (Monkey Bay)](https://www.google.com/maps/search/?api=1&query=Ao%20Kwang%20Peeb,%20Koh%20Phayam)
 
-### Fáze 5: Khao Sok a jezero Cheow Lan (3 noci, 8.–11. 12.)
+### Fáze 5: Khao Sok a jezero Cheow Lan (4 noci, 8.–12. 12.)
 
 Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u ředitelství parku, jednu noc můžete strávit přímo na jezeře.
 
@@ -308,6 +310,7 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Stezky u ředitelství parku:** několik kilometrů pralesem, jdou bez průvodce.
 - **Řeka Sok:** tubing, kánoe nebo vor.
 - **Vodopád Than Sawan:** celodenní túra s průvodcem.
+- **Čtyřkolky (volitelně):** asi 90 minut jízdy džunglí a bahnem, odvoz z ubytování.
 - **Noční safari (volitelně):** hodně pavouků, rozhodnout až na místě (sekce 12).
 
 #### Noc na jezeře (zatím nerozhodnuto)
@@ -324,6 +327,7 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Kánoe nebo vor:** 400–950 THB na osobu.
 - **Vodopád Than Sawan:** 6–7 km jedním směrem s brodem přes potok, celý den. Strážci doporučují průvodce (půlden asi 600 THB, neověřeno).
 - **Noční safari:** od asi 1 200 THB, 2 hodiny od 19:00, objednává se ve vesnici.
+- **Čtyřkolky (ATV):** [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) ve vesnici Khlong Sok, otevřeno denně 8:00–18:30, tel. +66 85 210 9593, Facebook Khao-sok-ATV-Adventure. Jízda asi 90 minut a podle jednoho zprostředkovatele i s odvozem z ubytování v Khao Sok, jízdy v 8:00, 10:30, 13:00 a 15:30. Cena podle něj řidič 1 800 THB, spolujezdec od 10 let 1 000 THB (neověřeno, cenu potvrdit u provozovatele). Řidič od 16 let, jestli je potřeba řidičský průkaz, je neověřené, ptát se provozovatele. Podle recenzí vedou trasy džunglí, podle sezóny brodem přes řeku a do kopce, před hlavní jízdou je zkušební okruh. Delší varianta: 3 hodiny, asi 1 725 THB na osobu s odvozem v 11:00 (TakeMeTour, neověřeno). Doporučený den je 9. nebo 10. 12. dopoledne, 10. 12. je státní svátek (Den ústavy), takže může být rušněji.
 
 #### Vstupy a sezóna
 
@@ -333,19 +337,19 @@ Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený
 
 [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok), 8.–9. 12., potvrzeno, rezervováno přes Booking.com (apartmá s výhledem do zahrady, 2 dospělí). Check-in 14:00–20:00, check-out 9:00–11:00. Zrušit zdarma do 8. 12. 18:00 thajského času (v Česku 8. 12. ve 12:00). Neověřeno: jestli má pokoj vlastní koupelnu a jestli hostel zařídí výlet na jezero Cheow Lan. Hostelu to jde napsat zprávou předem.
 
-Noci 9.–11. 12. zatím nejsou rezervované a vyřeší se na místě podle potřeby. Při hledání bylo v Khao Sok hodně míst obsazených. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
+Noci 9.–12. 12. zatím nejsou rezervované a vyřeší se na místě podle potřeby. Při hledání bylo v Khao Sok hodně míst obsazených. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
 
 #### Přesun dál
 
-Út 8. 12. příjezd z Koh Phayam, první večer jen večeře ve vesnici. Pá 11. 12. minivan do Krabi, 3–4 h (někdy až 5), spoje zhruba 7:30–16:30, den předem rezervovat. Když bude noc na jezeře ta poslední, po návratu kolem poledne by měl vyjít odpolední spoj, ověřte u organizátora.
+Út 8. 12. příjezd z Koh Phayam, první večer jen večeře ve vesnici. So 12. 12. minivan do Krabi, 3–4 h (někdy až 5), spoje zhruba 7:30–16:30, den předem rezervovat. Když bude noc na jezeře ta poslední, po návratu kolem poledne by měl vyjít odpolední spoj, ověřte u organizátora.
 
 #### Mapy
 
-[Khao Sok, ředitelství parku](https://www.google.com/maps/search/?api=1&query=8.9165,98.5281) · [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village) · [molo Ratchaprapha (Cheow Lan)](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier,%20Cheow%20Lan%20Lake) · [vodopád Than Sawan](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) (souřadnice z jednoho zdroje)
+[Khao Sok, ředitelství parku](https://www.google.com/maps/search/?api=1&query=8.9165,98.5281) · [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village) · [molo Ratchaprapha (Cheow Lan)](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier,%20Cheow%20Lan%20Lake) · [vodopád Than Sawan](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) (souřadnice z jednoho zdroje) · [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom)
 
-### Fáze 6: Krabi, Dragon Crest, laguny a kajaky (4 noci, 11.–15. 12.)
+### Fáze 6: Krabi, Dragon Crest, laguny a kajaky (3 noci, 12.–15. 12.)
 
-Vápencové skály, mangrovy a výšlap na Dragon Crest. Tři celé dny (so 12. až po 14. 12.): jeden na Dragon Crest, jeden na kajaky a jeden volný.
+Vápencové skály, mangrovy a výšlap na Dragon Crest. Dva celé dny (ne 13. a po 14. 12.): jeden na Dragon Crest a jeden na kajaky. So 12. 12. je den příjezdu z Khao Sok, odpoledne volné.
 
 - **Dragon Crest (Khao Ngon Nak):** výšlap pralesem na vyhlídkovou skálu ve výšce 565 m.
 - **Kajaky v Ao Thalane:** kaňony mezi mangrovy a skryté laguny, makakové a varani.
@@ -551,7 +555,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
 - **Řidičský průkaz, auto a skútr:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Na skútr potřebujete oprávnění pro motocykly (skupina A1, A2 nebo A). Samotná skupina B nestačí a pojišťovny při nehodě mohou odmítnout plnění. Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce 16). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
-- **Ubytování:** Fáze 1 až 4 jsou potvrzené a rezervované přes Agodu. Termíny zrušení zdarma (od 22. 11. do 2. 12.) jsou u ubytování ve fázích v sekci 5. V Khao Sok je rezervovaná první noc (Flora Hostel KhaoSok, 8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času, v Česku ve 12:00). Zbývá Cheow Lan (co nejdřív), zbylé noci v Khao Sok (9.–11. 12., na místě), Koh Yao Noi (aspoň 1–2 týdny předem), Krabi po výběru základny a poslední noc na Phuketu, jakmile znáte hodinu odletu.
+- **Ubytování:** Fáze 1 až 4 jsou potvrzené a rezervované přes Agodu. Termíny zrušení zdarma (od 22. 11. do 2. 12.) jsou u ubytování ve fázích v sekci 5. V Khao Sok je rezervovaná první noc (Flora Hostel KhaoSok, 8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času, v Česku ve 12:00). Zbývá Cheow Lan (co nejdřív), zbylé noci v Khao Sok (9.–12. 12., na místě), Koh Yao Noi (aspoň 1–2 týdny předem), Krabi po výběru základny a poslední noc na Phuketu, jakmile znáte hodinu odletu.
 - **Vlak č. 43 a auto:** Jízdenky na 30. 11. do Hua Hin a 3. 12. do Prachuap kupte hned, jak se začnou prodávat (od asi 31. 10.). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Skútr je pojištěn jen při platném oprávnění. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 - **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 13).
@@ -681,6 +685,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Khao Sok, vstup do parku | 300–320 THB na osobu | platí 24 hodin |
 | Jezero Cheow Lan, balíček na 2 dny a 1 noc | 2 500–4 500 THB na osobu | doprava, jídlo, ubytování a kajaky |
 | Pádlování nebo tubing na řece Sok | 400–950 THB na osobu | tubing podle hladiny řeky |
+| Čtyřkolky v Khao Sok (volitelně) | řidič od 1 800 THB, spolujezdec od 1 000 THB, asi 90 minut | podle zprostředkovatele, neověřeno, cenu potvrdit u provozovatele |
 | Kajaky v Ao Thalane (půldenní) | od 37 USD na osobu | s vyzvednutím z hotelu, obědem a poplatky |
 | Tiger Cave | zdarma | |
 | Dragon Crest | 200 THB na osobu | jen hotově |

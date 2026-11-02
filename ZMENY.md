@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v19: Khao Sok 4 noci, čtyřkolky, Krabi 3 noci (2. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v19/) · [Markdown](verze/v19/thajsko-bangkok-phuket.md) · [rozdíl proti v18](https://github.com/polachp/dovolena-thajsko-2026/compare/1ca6b92...6ee210a)
+
+- Fáze 5 (Khao Sok): 4 noci, 8.–12. 12. (dříve 3 noci). Odjezd do Krabi je v sobotu 12. 12.
+- Fáze 6 (Krabi): 3 noci, 12.–15. 12. (dříve 4 noci), o noc kratší, aby celkem zůstalo 22 nocí. Dva celé dny, jeden na Dragon Crest a jeden na kajaky. Rozdělení nocí a základna v Krabi se ještě dořeší.
+- Fáze 5: nový volitelný bod čtyřkolky (ATV) v Khao Sok, Khao sok ATV Adventure ve vesnici, asi 90 minut, ceny a řidičský průkaz neověřené, ve fázi, v sekci 3, v mapách i v rozpočtu. Sekce 0 si nese otevřený dotaz na provozovatele.
+- Počet fází a celkový počet nocí (22) jsou beze změny.
+
 ## v18: Khao Sok: rezervace Flora Hostel KhaoSok na první noc (2. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v18/) · [Markdown](verze/v18/thajsko-bangkok-phuket.md) · [rozdíl proti v17](https://github.com/polachp/dovolena-thajsko-2026/compare/f56491a...1ca6b92)
