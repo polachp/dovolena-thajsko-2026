@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v18: Khao Sok: rezervace Flora Hostel KhaoSok na první noc (2. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v18/) · [Markdown](verze/v18/thajsko-bangkok-phuket.md) · [rozdíl proti v17](https://github.com/polachp/dovolena-thajsko-2026/compare/f56491a...1ca6b92)
+
+- Fáze 5 (Khao Sok): rezervovaná je první noc 8.–9. 12. ve Flora Hostel KhaoSok (apartmá s výhledem do zahrady), přes Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00).
+- Noci 9.–11. 12. v Khao Sok zatím nejsou rezervované a vyřeší se na místě. Při hledání bylo v Khao Sok hodně míst obsazených.
+- Sekce 0, sekce 3 (záchytné body) a kontrolní seznam v sekci 11 to odrážejí.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v17.
+
 ## v17: Prachuap: ubytování Jungle Cafe and Guesthouse místo Yuttichai (1. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v17/) · [Markdown](verze/v17/thajsko-bangkok-phuket.md) · [rozdíl proti v16](https://github.com/polachp/dovolena-thajsko-2026/compare/699f3e2...f56491a)

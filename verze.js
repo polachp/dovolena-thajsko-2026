@@ -224,5 +224,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "f56491a",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v18",
+    "datum": "2. 11. 2026",
+    "nazev": "Khao Sok: rezervace Flora Hostel KhaoSok na první noc",
+    "zmeny": [
+      "Fáze 5 (Khao Sok): rezervovaná je první noc 8.–9. 12. ve Flora Hostel KhaoSok (apartmá s výhledem do zahrady), přes Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00).",
+      "Noci 9.–11. 12. v Khao Sok zatím nejsou rezervované a vyřeší se na místě. Při hledání bylo v Khao Sok hodně míst obsazených.",
+      "Sekce 0, sekce 3 (záchytné body) a kontrolní seznam v sekci 11 to odrážejí.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v17."
+    ],
+    "commit": "1ca6b92",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

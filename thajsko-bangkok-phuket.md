@@ -10,7 +10,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 
 - **Noc na jezeře Cheow Lan (fáze 5):** balíček, konkrétní raft house, nebo jen jednodenní výlet. Je to jediná rezervace, která spěchá.
 - **Základna v Krabi (fáze 6):** Krabi Town, nebo pláže Tub Kaek či Klong Muang u Dragon Crest. Případně jednu noc z Krabi přesunout na Koh Yao Noi.
-- **Ubytování ve fázích 5 až 8** zatím není rezervované. Fáze 1 až 4 jsou potvrzené.
+- **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě první noci v Khao Sok (Flora Hostel KhaoSok, 8.–9. 12.). Fáze 1 až 4 jsou potvrzené.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
 Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md).
@@ -85,6 +85,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 4 | Ranong, vodopád Ngao (Namtok Ngao National Park) | [9.8558, 98.6290](https://www.google.com/maps/search/?api=1&query=9.8558%2C98.6290) | Volitelné dopoledne, asi 13 km jižně od města u silnice č. 4 |
 | 4 | Koh Phayam, ubytování Flower Power Village (Ao Khao Kwai) | [Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) | Potvrzeno 5.–8. 12., check-in od 13:00, check-out do 11:00 |
 | 4 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | [Ao Yai](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Beach%20Koh%20Phayam), [Ao Khao Kwai](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai%20Beach%20Koh%20Phayam) | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
+| 5 | Khao Sok, ubytování Flora Hostel KhaoSok | [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok) | Potvrzeno 8.–9. 12., check-in 14:00–20:00, check-out 9:00–11:00, rezervováno přes Booking.com, zrušit zdarma do 8. 12. |
 | 5 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
 | 5 | Khao Sok, vodopád Than Sawan (jiné psaní: Tan Sawan, Tarn Sawan) | [8.96678, 98.54116](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) | Celodenní túra od ředitelství parku. Souřadnice jsou z jednoho zdroje (neověřeno), pod názvem se místo v Mapách nenajde |
 | 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
@@ -329,7 +330,9 @@ Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený
 
 #### Ubytování
 
-Zatím nevybrané. Doporučení: všechny 3 noci v jednom ubytování ve vesnici, věci tam zůstanou, když pojedete na jezero. Kvůli pavoukům spíš zděný bungalov než dřevěná chatka v džungli. Volné místo zjistit zprávou předem.
+[Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok), 8.–9. 12., potvrzeno, rezervováno přes Booking.com (apartmá s výhledem do zahrady, 2 dospělí). Check-in 14:00–20:00, check-out 9:00–11:00. Zrušit zdarma do 8. 12. 18:00 thajského času (v Česku 8. 12. ve 12:00). Neověřeno: jestli má pokoj vlastní koupelnu a jestli hostel zařídí výlet na jezero Cheow Lan. Hostelu to jde napsat zprávou předem.
+
+Noci 9.–11. 12. zatím nejsou rezervované a vyřeší se na místě podle potřeby. Při hledání bylo v Khao Sok hodně míst obsazených. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
 
 #### Přesun dál
 
@@ -547,7 +550,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
 - **Řidičský průkaz, auto a skútr:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Na skútr potřebujete oprávnění pro motocykly (skupina A1, A2 nebo A). Samotná skupina B nestačí a pojišťovny při nehodě mohou odmítnout plnění. Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce 16). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
-- **Ubytování:** Fáze 1 až 4 jsou potvrzené a rezervované přes Agodu. Termíny zrušení zdarma (od 22. 11. do 2. 12.) jsou u ubytování ve fázích v sekci 5. Zbývá Cheow Lan (co nejdřív), Koh Yao Noi (aspoň 1–2 týdny předem), Krabi po výběru základny a poslední noc na Phuketu, jakmile znáte hodinu odletu. Khao Sok jde i na místě.
+- **Ubytování:** Fáze 1 až 4 jsou potvrzené a rezervované přes Agodu. Termíny zrušení zdarma (od 22. 11. do 2. 12.) jsou u ubytování ve fázích v sekci 5. V Khao Sok je rezervovaná první noc (Flora Hostel KhaoSok, 8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času, v Česku ve 12:00). Zbývá Cheow Lan (co nejdřív), zbylé noci v Khao Sok (9.–11. 12., na místě), Koh Yao Noi (aspoň 1–2 týdny předem), Krabi po výběru základny a poslední noc na Phuketu, jakmile znáte hodinu odletu.
 - **Vlak č. 43 a auto:** Jízdenky na 30. 11. do Hua Hin a 3. 12. do Prachuap kupte hned, jak se začnou prodávat (od asi 31. 10.). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Skútr je pojištěn jen při platném oprávnění. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 - **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 13).
