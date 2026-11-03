@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v22: Khao Sok: čtyřkolky podle odpovědi provozovatele, státní svátek 10. 12. (3. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v22/) · [Markdown](verze/v22/thajsko-bangkok-phuket.md) · [rozdíl proti v21](https://github.com/polachp/dovolena-thajsko-2026/compare/b801e0c...7af9bf9)
+
+- Fáze 5 (Khao Sok), čtyřkolky: ceny a podmínky podle odpovědi provozovatele z 3. 11. (řidič 1 500 THB, dva na jedné čtyřkolce 2 200 THB, jízda 1,5 až 2 hodiny, odvoz z ubytování zdarma, odjezdy 8:00, 10:30, 13:00 a 15:30). Den se nevybírá předem, rozhodne se na místě. Text přesunut do vlastního bloku Čtyřkolky (volitelně).
+- Fáze 5: státní svátek čt 10. 12. (Den ústavy) doplněn do bloku Vstupy a sezóna.
+- Sekce 0, sekce 3 a rozpočet upraveny podle nových cen. V sekci 0 zbývá u čtyřkolek jen dotaz na řidičský průkaz.
+- Počet fází a celkový počet nocí (22) jsou beze změny.
+
 ## v21: Krabi 2 noci s Vacation House, Koh Yao Noi 4 noci (3. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v21/) · [Markdown](verze/v21/thajsko-bangkok-phuket.md) · [rozdíl proti v20](https://github.com/polachp/dovolena-thajsko-2026/compare/c766d06...b801e0c)

@@ -277,5 +277,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "b801e0c",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v22",
+    "datum": "3. 11. 2026",
+    "nazev": "Khao Sok: čtyřkolky podle odpovědi provozovatele, státní svátek 10. 12.",
+    "zmeny": [
+      "Fáze 5 (Khao Sok), čtyřkolky: ceny a podmínky podle odpovědi provozovatele z 3. 11. (řidič 1 500 THB, dva na jedné čtyřkolce 2 200 THB, jízda 1,5 až 2 hodiny, odvoz z ubytování zdarma, odjezdy 8:00, 10:30, 13:00 a 15:30). Den se nevybírá předem, rozhodne se na místě. Text přesunut do vlastního bloku Čtyřkolky (volitelně).",
+      "Fáze 5: státní svátek čt 10. 12. (Den ústavy) doplněn do bloku Vstupy a sezóna.",
+      "Sekce 0, sekce 3 a rozpočet upraveny podle nových cen. V sekci 0 zbývá u čtyřkolek jen dotaz na řidičský průkaz.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "7af9bf9",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

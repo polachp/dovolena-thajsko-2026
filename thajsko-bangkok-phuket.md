@@ -9,7 +9,7 @@ Itinerář je volný: berte ho jako osnovu, ne jako pevný rozvrh. U každého p
 Co se mezi verzemi změnilo, najdete v záložce Verze.
 
 - **Noc na jezeře Cheow Lan (fáze 5):** balíček, konkrétní raft house, nebo jen jednodenní výlet. Je to jediná rezervace, která spěchá.
-- **Čtyřkolky v Khao Sok (fáze 5):** čeká se na odpověď provozovatele (volný den 9. nebo 10. 12., cena, délka, jestli je potřeba řidičský průkaz). Pokud bude noc na jezeře Cheow Lan, den se podle ní posune.
+- **Čtyřkolky v Khao Sok (fáze 5):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - **Krabi (fáze 6):** Vacation House je rezervovaný podle Anežky (12.–14. 12.), chybí potvrzení a termín zrušení zdarma. Jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem.
 - **Kajaky mezi mangrovy a skalami (fáze 7):** po vyřazení Ao Thalane se hledají na Koh Yao Noi, kde přesně a za kolik, je neověřené.
 - **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě Khao Sok (Bingo Hostel Khao Sok 8.–10. 12., Flora Hostel KhaoSok 8.–9. 12.) a Krabi (Vacation House 12.–14. 12.). Noci 10.–12. 12. v Khao Sok se řeší na místě, nezarezervované zůstává Koh Yao Noi (14.–18. 12.) a Phuket Town. Fáze 1 až 4 jsou potvrzené.
@@ -90,7 +90,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 4 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | [Ao Yai](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Beach%20Koh%20Phayam), [Ao Khao Kwai](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai%20Beach%20Koh%20Phayam) | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
 | 5 | Khao Sok, ubytování Flora Hostel KhaoSok | [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok) | Potvrzeno 8.–9. 12., check-in 14:00–20:00, check-out 9:00–11:00, rezervováno přes Booking.com, zrušit zdarma do 8. 12., noc se kryje s Bingo Hostel Khao Sok |
 | 5 | Khao Sok, ubytování Bingo Hostel Khao Sok | [Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok) | Potvrzeno 8.–10. 12., 2 lůžka v dormu, check-in 14:00–20:00, check-out do 11:00, zrušit zdarma do 6. 12. 23:59, noc 8.–9. 12. se kryje s Flora Hostel |
-| 5 | Khao Sok, čtyřkolky Khao sok ATV Adventure | [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) | Volitelně, ve vesnici Khlong Sok, 8:00–18:30, tel. +66 85 210 9593, jízda asi 90 minut |
+| 5 | Khao Sok, čtyřkolky Khao sok ATV Adventure | [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) | Volitelně, ve vesnici Khlong Sok, 8:00–18:30, tel. +66 85 210 9593, jízda 1,5 až 2 hodiny, odvoz z ubytování zdarma |
 | 5 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
 | 5 | Khao Sok, vodopád Than Sawan (jiné psaní: Tan Sawan, Tarn Sawan) | [8.96678, 98.54116](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) | Celodenní túra od ředitelství parku. Souřadnice jsou z jednoho zdroje (neověřeno), pod názvem se místo v Mapách nenajde |
 | 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
@@ -311,7 +311,7 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Stezky u ředitelství parku:** několik kilometrů pralesem, jdou bez průvodce.
 - **Řeka Sok:** tubing, kánoe nebo vor.
 - **Vodopád Than Sawan:** celodenní túra s průvodcem.
-- **Čtyřkolky (volitelně):** asi 90 minut jízdy džunglí a bahnem, odvoz z ubytování.
+- **Čtyřkolky (volitelně):** 1,5 až 2 hodiny jízdy džunglí s průvodcem, odvoz z ubytování zdarma, od 1 500 THB na osobu.
 - **Noční safari (volitelně):** hodně pavouků, rozhodnout až na místě (sekce 12).
 
 #### Noc na jezeře (zatím nerozhodnuto)
@@ -328,11 +328,24 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Kánoe nebo vor:** 400–950 THB na osobu.
 - **Vodopád Than Sawan:** 6–7 km jedním směrem s brodem přes potok, celý den. Strážci doporučují průvodce (půlden asi 600 THB, neověřeno).
 - **Noční safari:** od asi 1 200 THB, 2 hodiny od 19:00, objednává se ve vesnici.
-- **Čtyřkolky (ATV):** [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) ve vesnici Khlong Sok, otevřeno denně 8:00–18:30, tel. +66 85 210 9593, Facebook Khao-sok-ATV-Adventure. Jízda asi 90 minut a podle jednoho zprostředkovatele i s odvozem z ubytování v Khao Sok, jízdy v 8:00, 10:30, 13:00 a 15:30. Cena podle něj řidič 1 800 THB, spolujezdec od 10 let 1 000 THB (neověřeno, cenu potvrdit u provozovatele). Řidič od 16 let, jestli je potřeba řidičský průkaz, je neověřené, ptát se provozovatele. Podle recenzí vedou trasy džunglí, podle sezóny brodem přes řeku a do kopce, před hlavní jízdou je zkušební okruh. Delší varianta: 3 hodiny, asi 1 725 THB na osobu s odvozem v 11:00 (TakeMeTour, neověřeno). Doporučený den je 9. nebo 10. 12. dopoledne, 10. 12. je státní svátek (Den ústavy), takže může být rušněji.
+
+#### Čtyřkolky (volitelně)
+
+Jízda čtyřkolkou džunglí s průvodcem. Pevný den není, vybere se v Khao Sok podle počasí a nálady. Provozovatel [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) je ve vesnici Khlong Sok, otevřeno denně 8:00–18:30, tel. +66 85 210 9593, Facebook Khao-sok-ATV-Adventure. Domluva běží přes WhatsApp.
+
+- **Ceny (odpověď provozovatele z 3. 11. 2026):** jeden řidič 1 500 THB, dva lidé na jedné čtyřkolce (řidič a spolujezdec) 2 200 THB dohromady, dítě 5–10 let 500 THB, do 4 let zdarma. Každý sám na vlastní čtyřkolce vyjde na 3 000 THB za dva (asi 1 950 Kč), jedna čtyřkolka pro dva na 2 200 THB (asi 1 430 Kč). Samostatně se smí jet od 16 let.
+- **Jízda:** 1,5 až 2 hodiny s průvodcem v jejich vyhrazeném území, skupinová jízda s dalšími lidmi, na jednu čtyřkolku nejvýš 2 lidé. Podle recenzí vedou trasy džunglí, podle sezóny brodem přes řeku a do kopce, před hlavní jízdou je zkušební okruh (neověřeno).
+- **Odvoz:** z ubytování v Khao Sok tam i zpět zdarma, čtyřkolkový tábor je 8–10 km od vesnice.
+- **Odjezdy:** 8:00, 10:30, 13:00 a 15:30. O státním svátku 10. 12. může být plněji (viz Vstupy a sezóna).
+- **Řidičský průkaz:** provozovatel na dotaz neodpověděl, napsal jen, že od 16 let se jezdí samostatně. Neověřeno, zeptat se znovu.
+- **Objednání:** napřímo u provozovatele, odvoz z ubytování je v ceně i tak. Přes ubytování nebo zprostředkovatele bývá dráž kvůli provizi (neověřeno): zprostředkovatel na internetu uváděl 1 800 THB za řidiče a 1 000 THB za spolujezdce. Jestli stačí přijít, nebo je potřeba rezervovat den předem, je neověřené, rozumné je napsat provozovateli den předem.
+- **Delší varianta:** 3 hodiny, asi 1 725 THB na osobu s odvozem v 11:00 (TakeMeTour, neověřeno).
 
 #### Vstupy a sezóna
 
 Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený po 16:00 platí i další den. Na začátku prosince ještě doznívají deště a některé stezky mohou být po silném dešti zavřené (podle starších zpráv zhruba do 14. 12.), u vstupu se zeptejte, co je přístupné.
+
+Čt 10. 12. je státní svátek (Den ústavy). Bývá víc thajských výletníků, takže v parku a na výletech může být plněji a výlety i ubytování se vyplatí řešit dřív, nejspíš hlavně noc na jezeře (neověřeno).
 
 #### Ubytování
 
@@ -682,7 +695,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Khao Sok, vstup do parku | 300–320 THB na osobu | platí 24 hodin |
 | Jezero Cheow Lan, balíček na 2 dny a 1 noc | 2 500–4 500 THB na osobu | doprava, jídlo, ubytování a kajaky |
 | Pádlování nebo tubing na řece Sok | 400–950 THB na osobu | tubing podle hladiny řeky |
-| Čtyřkolky v Khao Sok (volitelně) | řidič od 1 800 THB, spolujezdec od 1 000 THB, asi 90 minut | podle zprostředkovatele, neověřeno, cenu potvrdit u provozovatele |
+| Čtyřkolky v Khao Sok (volitelně) | 1 500 THB za řidiče, 2 200 THB za dva na jedné čtyřkolce, 1,5 až 2 hodiny | cena od provozovatele z 3. 11. 2026, odvoz z ubytování v ceně |
 | Kajaky na Koh Yao Noi (pronájem) | asi 10 USD za kajak (neověřeno) | podle jednoho průvodce, místo a délka neověřené |
 | Tiger Cave | zdarma | mimo plán od v21 (varianty) |
 | Dragon Crest | 200 THB na osobu | jen hotově |
