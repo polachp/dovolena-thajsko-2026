@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v20: Khao Sok: rezervace Bingo Hostel Khao Sok (3. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v20/) · [Markdown](verze/v20/thajsko-bangkok-phuket.md) · [rozdíl proti v19](https://github.com/polachp/dovolena-thajsko-2026/compare/6ee210a...c766d06)
+
+- Fáze 5 (Khao Sok): nová rezervace Bingo Hostel Khao Sok, 8.–10. 12. (2 noci), 2 dospělí, 2 lůžka (lůžko 2 v 8lůžkovém smíšeném dormu), check-in 14:00–20:00, check-out do 11:00, snídaně zvlášť 120 THB za osobu a noc. Zrušit zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), potom poplatek 1 173,16 THB. Portál na potvrzení nebyl vidět (nejspíš Booking.com).
+- Noc 8.–9. 12. je teď zarezervovaná dvakrát (Flora Hostel KhaoSok a Bingo Hostel Khao Sok). Jednu rezervaci je potřeba zrušit, v sekci 0 je to otevřená položka. Nezarezervované noci v Khao Sok jsou 10.–12. 12.
+- Bingo Hostel je doplněný v sekci 0, v sekci 3, ve fázi 5 (Ubytování) a v předodletovém checklistu v sekci 11.
+- Počet fází a celkový počet nocí (22) jsou beze změny.
+
 ## v19: Khao Sok 4 noci, čtyřkolky, Krabi 3 noci (2. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v19/) · [Markdown](verze/v19/thajsko-bangkok-phuket.md) · [rozdíl proti v18](https://github.com/polachp/dovolena-thajsko-2026/compare/1ca6b92...6ee210a)

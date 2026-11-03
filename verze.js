@@ -250,5 +250,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "6ee210a",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v20",
+    "datum": "3. 11. 2026",
+    "nazev": "Khao Sok: rezervace Bingo Hostel Khao Sok",
+    "zmeny": [
+      "Fáze 5 (Khao Sok): nová rezervace Bingo Hostel Khao Sok, 8.–10. 12. (2 noci), 2 dospělí, 2 lůžka (lůžko 2 v 8lůžkovém smíšeném dormu), check-in 14:00–20:00, check-out do 11:00, snídaně zvlášť 120 THB za osobu a noc. Zrušit zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), potom poplatek 1 173,16 THB. Portál na potvrzení nebyl vidět (nejspíš Booking.com).",
+      "Noc 8.–9. 12. je teď zarezervovaná dvakrát (Flora Hostel KhaoSok a Bingo Hostel Khao Sok). Jednu rezervaci je potřeba zrušit, v sekci 0 je to otevřená položka. Nezarezervované noci v Khao Sok jsou 10.–12. 12.",
+      "Bingo Hostel je doplněný v sekci 0, v sekci 3, ve fázi 5 (Ubytování) a v předodletovém checklistu v sekci 11.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "c766d06",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
