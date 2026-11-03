@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v26: Koh Yao Noi: program a ubytování (4. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v26/) · [Markdown](verze/v26/thajsko-bangkok-phuket.md) · [rozdíl proti v25](https://github.com/polachp/dovolena-thajsko-2026/compare/7ff9907...d302bca)
+
+- Fáze 7 (Koh Yao Noi) má nový program: kajak na Koh Nok s vyhlídkou, loď na Koh Hong, den na skútru s rýžovými poli a rybářskými vesnicemi na západě (Tha Ton Do), pláže při přílivu a volitelné zastávky (východ slunce na Tha Khao, vyhlídka Hornbill, Kudu, mangrovy na Koh Yao Yai, masáž). Všechno je neověřené.
+- Fáze 7, Ubytování: zarezervovaný Pyramid Bungalow (s klimatizací, zdarma zrušit do 6. 12. 23:59 thajského času) a Tabeak View Point (bez klimatizace, zdarma zrušit do 14. 12. 18:00 thajského času) na stejné noci, jedno je potřeba zrušit. Západní pobřeží je vyřazené jako základna.
+- Z fáze 7 vypadl Paddy's Viewpoint, vodopád Tha Khao a aktivní věci; kajaky v mangrovech na Koh Yao Noi nahradil kajak na Koh Nok. James Bond Island zůstává mimo plán kvůli davům.
+- Sekce 0, 3, 11 a 14 odpovídají novému programu a ubytování ve fázi 7 (místa a odkazy na mapy, dvojí rezervace, ceny kajaku a skútru).
+- Počet fází a celkový počet nocí (22) jsou beze změny.
+
 ## v25: Lodě: kde koupit lístky na Koh Yao Noi a Koh Phayam (3. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v25/) · [Markdown](verze/v25/thajsko-bangkok-phuket.md) · [rozdíl proti v24](https://github.com/polachp/dovolena-thajsko-2026/compare/dc0ca33...7ff9907)

@@ -325,5 +325,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "7ff9907",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v26",
+    "datum": "4. 11. 2026",
+    "nazev": "Koh Yao Noi: program a ubytování",
+    "zmeny": [
+      "Fáze 7 (Koh Yao Noi) má nový program: kajak na Koh Nok s vyhlídkou, loď na Koh Hong, den na skútru s rýžovými poli a rybářskými vesnicemi na západě (Tha Ton Do), pláže při přílivu a volitelné zastávky (východ slunce na Tha Khao, vyhlídka Hornbill, Kudu, mangrovy na Koh Yao Yai, masáž). Všechno je neověřené.",
+      "Fáze 7, Ubytování: zarezervovaný Pyramid Bungalow (s klimatizací, zdarma zrušit do 6. 12. 23:59 thajského času) a Tabeak View Point (bez klimatizace, zdarma zrušit do 14. 12. 18:00 thajského času) na stejné noci, jedno je potřeba zrušit. Západní pobřeží je vyřazené jako základna.",
+      "Z fáze 7 vypadl Paddy's Viewpoint, vodopád Tha Khao a aktivní věci; kajaky v mangrovech na Koh Yao Noi nahradil kajak na Koh Nok. James Bond Island zůstává mimo plán kvůli davům.",
+      "Sekce 0, 3, 11 a 14 odpovídají novému programu a ubytování ve fázi 7 (místa a odkazy na mapy, dvojí rezervace, ceny kajaku a skútru).",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "d302bca",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

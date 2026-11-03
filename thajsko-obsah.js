@@ -12,8 +12,9 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Noc na jezeře Cheow Lan (fáze 5):** balíček, konkrétní raft house, nebo jen jednodenní výlet. Je to jediná rezervace, která spěchá.
 - **Čtyřkolky v Khao Sok (fáze 5):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - **Krabi (fáze 6):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
-- **Kajaky mezi mangrovy a skalami (fáze 7):** po vyřazení Ao Thalane se hledají na Koh Yao Noi, kde přesně a za kolik, je neověřené.
-- **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě Khao Sok (Bingo Hostel Khao Sok 8.–10. 12., Flora Hostel KhaoSok 8.–9. 12.) a Krabi (Vacation House 12.–14. 12.). Noci 10.–12. 12. v Khao Sok se řeší na místě, nezarezervované zůstává Koh Yao Noi (14.–18. 12.) a Phuket Town. Fáze 1 až 4 jsou potvrzené.
+- **Program na Koh Yao Noi (fáze 7):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok, jestli jde skútr bez oprávnění na motocykl a jaké restaurace v prosinci fungují.
+- **Dvojí rezervace na Koh Yao Noi (fáze 7):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
+- **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě Khao Sok (Bingo Hostel Khao Sok 8.–10. 12., Flora Hostel KhaoSok 8.–9. 12.), Krabi (Vacation House 12.–14. 12.) a Koh Yao Noi (Pyramid Bungalow a Tabeak View Point, 14.–18. 12.). Noci 10.–12. 12. v Khao Sok se řeší na místě, nezarezervovaný zůstává Phuket Town. Fáze 1 až 4 jsou potvrzené.
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
@@ -99,7 +100,14 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 6 | Dragon Crest (Khao Ngon Nak), začátek stezky v Tub Kaek | [Dragon Crest](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest%20Krabi) | Výšlap na vyhlídkovou skálu, začátek stezky je za hotelem Amari Vogue (podle jednoho zdroje), od Vacation House asi 5 minut autem k pláži Tubkaek (neověřeno) |
 | 6 | Ao Nang, molo Nopparat Thara | [Nopparat Thara Pier](https://www.google.com/maps/search/?api=1&query=Nopparat%20Thara%20Pier%20Krabi) | Rychlé lodě na Koh Yao Noi (do mola Manoh), od Tub Kaek asi 25 minut |
 | 7 | Koh Yao Noi, molo Manoh | [8.0979, 98.5879](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) | Hlavní přístav rychlých lodí z Krabi a Phuketu |
-| 7 | Koh Yao Noi, Paddy's Viewpoint | [Paddy's Viewpoint](https://www.google.com/maps/search/?api=1&query=Paddy%27s%20Viewpoint%20Koh%20Yao%20Noi) | Volitelně, vyhlídka po svahu pěšky, zdarma (podle jednoho průvodce, neověřeno) |
+| 7 | Koh Yao Noi, Pyramid Bungalow | [8.1068, 98.6225](https://www.google.com/maps/search/?api=1&query=8.1068%2C98.6225) | Rezervované ubytování 14.–18. 12., s klimatizací |
+| 7 | Koh Yao Noi, Tabeak View Point | [8.1087, 98.6206](https://www.google.com/maps/search/?api=1&query=8.1087%2C98.6206) | Druhá rezervace na stejné noci, bez klimatizace, jedno ubytování zrušit |
+| 7 | Koh Yao Noi, pláž Pasai | [8.1001, 98.6199](https://www.google.com/maps/search/?api=1&query=8.1001%2C98.6199) | Odtud se půjčují kajaky na Koh Nok, koupání při přílivu |
+| 7 | Koh Yao Noi, pláž Tha Khao | [8.1300, 98.6223](https://www.google.com/maps/search/?api=1&query=8.1300%2C98.6223) | Východ slunce, při odlivu písečný práh k ostrůvku |
+| 7 | Koh Yao Noi, Ko Nok View Point | [Ko Nok View Point](https://www.google.com/maps/search/?api=1&query=Ko%20Nok%20View%20Point%20Koh%20Yao%20Noi) | Vyhlídka na ostrově Koh Nok, kam se jede kajakem (neověřeno) |
+| 7 | Koh Hong, Phang Nga Bay | [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) | Celodenní výlet longtailem, vyhlídka a šnorchlování (neověřeno) |
+| 7 | Koh Yao Noi, Rice Paddy | [Rice Paddy](https://www.google.com/maps/search/?api=1&query=Rice%20Paddy%20Viewpoint%20Koh%20Yao%20Noi) | Restaurace s výhledem na rýžová pole (neověřeno) |
+| 7 | Koh Yao Noi, Tha Ton Do | [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) | Rybářská vesnice na západě, molo u mangrovů a západ slunce (neověřeno) |
 | 8 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi |
 | 8 | Phuket Old Town, Thalang Road | [7.8848, 98.3890](https://www.google.com/maps/search/?api=1&query=7.8848%2C98.3890) | Historické centrum s architekturou, v neděli večer s trhem |
 
@@ -405,33 +413,65 @@ Po 14. 12. na Koh Yao Noi z mola Nopparat Thara. Z ubytování taxi asi 25 minut
 
 ### Fáze 7: Pomalý ostrov Koh Yao Noi (4 noci, 14.–18. 12.)
 
-Nejpomalejší místo trasy: rýžová pole, minimum aut, výhled na skály v zálivu Phang Nga. Čtyři noci na jednom místě, příjezd lodí z Nopparat Thara po 14. 12.
+Nejpomalejší místo trasy: rýžová pole, minimum aut, rybářské vesnice a výhled na skály v zálivu Phang Nga. Čtyři noci u moře na východním pobřeží, příjezd lodí z Nopparat Thara po 14. 12.
 
-- **Ostrov na kole:** projížďky mezi rýžovými poli a vesnicemi.
-- **Koh Hong:** laguna mezi mangrovy a skalami, jednoduché šnorchlování z longtailu.
-- **Pláže:** koupání při přílivu, při odlivu procházky po odhaleném dně.
-- **Kajaky mezi mangrovy a skalami:** kde přesně se dá pádlovat, je neověřené, zjistěte u ubytování. Kajak se podle jednoho průvodce půjčí asi za 10 USD.
-- **Paddy's Viewpoint (volitelně):** vyhlídka po svahu pěšky, zdarma (podle jednoho průvodce, neověřeno).
+- **Kajak na Koh Nok s vyhlídkou (celý den):** kajak si půjčíte u Pasai a pádlujete sami, bez průvodce. Na ostrově je vyhlídka, kam se dá vyšlápnout.
+- **Loď na Koh Hong (celý den):** longtail na skalnatý ostrov s vyhlídkou a šnorchlováním, případně s dalšími malými ostrůvky u Hongu (třeba Lao Lading).
+- **Den na skútru:** rýžová pole s výhledem od restaurace Rice Paddy, zastávky podle nálady a večer rybářské vesnice na západě (Tha Ton Do).
+- **Pláže (odpoledne):** válení u moře při přílivu a procházky po skalách u Klong Jark.
+- **Východ slunce na Tha Khao (volitelně):** při odlivu se dá po písečném prahu dojít k malému ostrůvku.
+- **Vyhlídka Hornbill (volitelně):** nad Tha Khao, u ní je skrytá písečná pláž.
+- **Kajak na Kudu (volitelně):** půldenní a jednoduché, ale bez laguny a bez vyhlídky.
+- **Mangrovy na Koh Yao Yai (volitelně):** výlet s průvodcem.
+- **Masáž a den bez programu (volitelně):** masáže jsou kousek od ubytování, jeden den klidně jen pláž.
 
-#### Kajaky mezi mangrovy a skalami
+Všechno kromě ubytování je neověřené. Zdroje jsou starší recenze a mapy, ceny a otevírací doby jsme nezjišťovali.
 
-Neověřeno. Podle jednoho cestopisu se kajak na ostrově půjčí asi za 10 USD a vyplatí se vyrazit za svítání, kdy je klid. Kde se na Koh Yao Noi pádluje mezi mangrovy a skalami (místo, délka, cena, vliv přílivu), zatím nevíme. Zeptejte se při příjezdu u ubytování, případně zkuste výlet longtailem ke Koh Hong. Kajaky v Ao Thalane u Krabi (od asi 37 USD na osobu) se do dvou nocí v Krabi nevešly, jsou uložené ve variantě.
+#### Program po dnech
 
-#### Po ostrově
+- **Po 14. 12.:** příjezd lodí z Krabi, check-in v Pyramid Bungalow od 14:30 do 18:30. Hostitelce předem napište čas lodi. Večeře poblíž ubytování.
+- **Út 15. až čt 17. 12.:** tři plné dny. Kajak na Nok, loď na Koh Hong a den na skútru se do nich vejdou, pořadí podle počasí a přílivu. Pláže odpoledne.
+- **Pá 18. 12.:** rychlá loď z mola Manoh do Phuketu (viz Přesun dál).
 
-Kolo asi 200 THB na den, skútr 250–350 THB (jen s oprávněním na motocykl, sekce 11), songthaew 100–200 THB za osobu a jízdu. Veřejná doprava tu není. Pěší stezky nejsou ověřené.
+#### Kajak na Koh Nok s vyhlídkou
 
-#### Výlet lodí a šnorchlování
+Kajak se půjčuje na pláži u Pasai, hosté píšou o krásném výletu na Koh Nok. Pádluje se samostatně, bez průvodce. Podle jednoho cestopisu stojí kajak asi 10 USD, cena, doba půjčení a vliv přílivu neověřené. Na ostrově je podle Google Maps vyhlídka Ko Nok View Point, jak je výstup náročný, nevíme. Vyražte ráno, kdy je klid. Nezaměňovat s James Bond Island, ten jsme vyřadili kvůli davům.
 
-Longtailem na půldenní až celodenní výlet k okolním ostrovům, například ke Koh Hong. Půldenní výlet pod 2 000 THB na osobu včetně výbavy. Jak na šnorchlování, je v sekci 12.
+#### Loď na Koh Hong
 
-#### Pláže a příliv
+Longtailem z ostrova na celý den: vyhlídka (Hong Island View Point podle Google Maps) a šnorchlování, případně další malé ostrůvky u Hongu. Cena a podoba výletu zatím neověřené. Podle jednoho průvodce vychází půldenní šnorchlovací výlet pod 2 000 THB na osobu včetně výbavy, jak na šnorchlování je v sekci 12. Volte menší loď a ranní odjezd. Výlety kajaky na Koh Hong a James Bond Island vynecháváme, bývají plné lidí. Vzdálené ostrovy jsou moc daleko.
 
-Koupat se dá jen při přílivu, při odlivu se odhalí široké plochy dna. Čas přílivu najdete na Tide-forecast.com, stanice Phuket nebo Krabi (sekce 8).
+#### Po ostrově: skútr, rýžová pole a rybářské vesnice
+
+Kolo asi 200 THB na den, skútr 250–350 THB na den (jen s oprávněním na motocykl, sekce 11), songthaew 100–200 THB za osobu a jízdu. Veřejná doprava tu není. Skútr půjčuje podle recenzí i hostitelka v Pyramid Bungalow (asi 200–250 THB na den, neověřeno). Jestli jde skútr půjčit bez řidičského oprávnění na motocykl, neověřeno.
+
+- **Rýžová pole:** restaurace Rice Paddy s výhledem na pole. Otevírací doba neověřená.
+- **Rybářské vesnice na západě:** Tha Ton Do s molem u mangrovů, rybářskými loděmi a domy na kůlech. Podle zdrojů tam je západ slunce a ryby k večeři u mola. Od ubytování asi 5 km vzdušnou čarou, odhadem 15 minut skútrem. Při odlivu bývají mangrovy blátivé, vyrazte kolem přílivu. Které restaurace u mola fungují v prosinci, neověřeno.
+
+#### Pláže, příliv a skály
+
+Koupat se dá hlavně při přílivu, při odlivu se odhalí široké plochy dna a pláže u Pasai a Tha Khao bývají blátivé. Podle předpovědi z jednoho webu (neověřeno, ověřte na Tide-forecast.com, sekce 8) bude příliv 15. 12. kolem 14:12, 16. 12. kolem 15:01 a 17. 12. kolem 16:01, odliv ráno. Pláže jsou proto na odpoledne.
+
+- **Klong Jark:** pobřeží hned u ubytování, místy velké kameny, vezměte pevné sandály.
+- **Tha Khao:** široká, často skoro prázdná pláž, při odlivu písečný práh k malému ostrůvku, hodí se na východ slunce. Při odlivu bývá podle recenzí špinavá.
+- **Vyhlídka Hornbill (volitelně):** nad Tha Khao, u ní je skrytá písečná pláž ke koupání. Schody jsou nerovné, dostupnost v prosinci a doba cesty neověřené.
+
+#### Další volitelné zastávky
+
+- **Kajak na Kudu:** půldenní a jednoduchý, ale bez laguny a bez vyhlídky.
+- **Mangrovy na Koh Yao Yai:** výlet s průvodcem. Organizátor a cena neověřené. Kajaky bez průvodce v mangrovech máme na Koh Phayam (fáze 4).
+- **Masáž:** podle recenzí kousek od Pyramid Bungalow.
+- **Den bez programu:** slow tempo, klidně jen pláž a kokos.
 
 #### Ubytování
 
-Nerezervováno (4 noci, 14.–18. 12.). Malé bungalovy a rodinné resorty, na Agoda například Cha Bungalow od asi 14 USD nebo Najjamee Bungalow od asi 28 USD (ceny z října 2026). Zamluvte aspoň 1–2 týdny předem s bezplatným zrušením.
+Rezervováno: **Pyramid Bungalow** (Booking.com), 4 noci 14.–18. 12., dvoulůžkový pokoj s manželskou postelí a terasou, s klimatizací (podle Anežky). Cena celkem 5 151 THB (asi 1 290 THB za noc, asi 3 350 Kč). Check-in 14:30–18:30, check-out 5:00–11:00. Telefon +66 95 850 3349. Zrušit zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), pozdní zrušení stojí 5 200 THB.
+
+Poloha: východní pobřeží mezi Pasai a Klong Jark, u vody, restaurace a obchůdek do 2 minut pěšky, k pláži Pasai asi 700 m. Pasai je nejživější část ostrova, u Pyramidu je podle recenzí místní atmosféra a málo turistů, v prosinci (vysoká sezóna) může být plněji. Hlasitý hmyz v noci. Recenze (neověřeno pro naši rezervaci): bungalovy hned u vody, ochotná hostitelka, jednoduché, ale čisté pokoje.
+
+Druhá rezervace na stejné noci: **Tabeak View Point** (Booking.com), pokoj s oddělenými postelemi bez klimatizace, na svahu u Pasai s výhledem, 4 400 THB celkem. Zrušit zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00), pozdní zrušení stojí 1 100 THB. Jedno ze dvou ubytování je potřeba zrušit, rozhodnout nejpozději do 6. 12. v 17:59 českého času, protože Pyramid vyprší dřív.
+
+Zvažovaná klidnější alternativa: Namtok Bungalows u Tha Khao (v džungli u skoro prázdné pláže, ventilátor, klimatizace za příplatek, dál od restaurací), nezarezervováno. Západní pobřeží jsme vyřadili, protože tam nejsou pláže ke koupání.
 
 #### Přesun dál
 
@@ -439,7 +479,7 @@ Pá 18. 12. rychlou lodí z mola Manoh na molo Bang Rong (30–50 minut, 400–6
 
 #### Mapy
 
-[Koh Yao Noi](https://www.google.com/maps/search/?api=1&query=Koh%20Yao%20Noi) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) · [Paddy's Viewpoint](https://www.google.com/maps/search/?api=1&query=Paddy%27s%20Viewpoint%20Koh%20Yao%20Noi)
+[Pyramid Bungalow](https://www.google.com/maps/search/?api=1&query=8.1068,98.6225) · [Tabeak View Point](https://www.google.com/maps/search/?api=1&query=8.1087,98.6206) · [pláž Pasai](https://www.google.com/maps/search/?api=1&query=8.1001,98.6199) · [pláž Tha Khao](https://www.google.com/maps/search/?api=1&query=8.1300,98.6223) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [Ko Nok View Point](https://www.google.com/maps/search/?api=1&query=Ko%20Nok%20View%20Point%20Koh%20Yao%20Noi) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) · [Rice Paddy](https://www.google.com/maps/search/?api=1&query=Rice%20Paddy%20Viewpoint%20Koh%20Yao%20Noi) · [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) · [vyhlídka Hornbill](https://www.google.com/maps/search/?api=1&query=Hornbill%20Viewpoint%20Koh%20Yao%20Noi)
 
 ### Fáze 8: Phuket Town, historie, trhy a odlet (1 noc, 18.–19. 12.)
 
@@ -568,7 +608,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
 - **Řidičský průkaz, auto a skútr:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Na skútr potřebujete oprávnění pro motocykly (skupina A1, A2 nebo A). Samotná skupina B nestačí a pojišťovny při nehodě mohou odmítnout plnění. Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce 16). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
-- **Ubytování:** Fáze 1 až 4 jsou potvrzené a rezervované přes Agodu. Termíny zrušení zdarma (od 22. 11. do 2. 12.) jsou u ubytování ve fázích v sekci 5. V Khao Sok jsou rezervovaná dvě ubytování: Bingo Hostel Khao Sok (8.–10. 12., Booking.com, zrušit zdarma do 6. 12. 23:59 thajského času, v Česku v 17:59) a Flora Hostel KhaoSok (8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času, v Česku ve 12:00). Noc 8.–9. 12. se kryje, jedno z ubytování je potřeba zrušit. V Krabi je rezervovaný Vacation House (12.–14. 12., Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času, v Česku v 17:59). Zbývá Cheow Lan (co nejdřív), zbylé noci v Khao Sok (10.–12. 12., na místě), Koh Yao Noi (4 noci, aspoň 1–2 týdny předem) a poslední noc na Phuketu, jakmile znáte hodinu odletu.
+- **Ubytování:** Fáze 1 až 4 jsou potvrzené a rezervované přes Agodu. Termíny zrušení zdarma (od 22. 11. do 2. 12.) jsou u ubytování ve fázích v sekci 5. V Khao Sok jsou rezervovaná dvě ubytování: Bingo Hostel Khao Sok (8.–10. 12., Booking.com, zrušit zdarma do 6. 12. 23:59 thajského času, v Česku v 17:59) a Flora Hostel KhaoSok (8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času, v Česku ve 12:00). Noc 8.–9. 12. se kryje, jedno z ubytování je potřeba zrušit. V Krabi je rezervovaný Vacation House (12.–14. 12., Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času, v Česku v 17:59). Na Koh Yao Noi jsou zarezervované dvě ubytování na stejné noci (14.–18. 12.): Pyramid Bungalow (Booking.com, s klimatizací, zrušit zdarma do 6. 12. 23:59 thajského času, v Česku v 17:59) a Tabeak View Point (Booking.com, bez klimatizace, zrušit zdarma do 14. 12. 18:00 thajského času, v Česku ve 12:00), jedno z nich je potřeba zrušit. Zbývá Cheow Lan (co nejdřív), zbylé noci v Khao Sok (10.–12. 12., na místě) a poslední noc na Phuketu, jakmile znáte hodinu odletu.
 - **Vlak č. 43 a auto:** Jízdenky na 30. 11. do Hua Hin a 3. 12. do Prachuap kupte hned, jak se začnou prodávat (od asi 31. 10.). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Skútr je pojištěn jen při platném oprávnění. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 - **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 13).
@@ -701,19 +741,19 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Jezero Cheow Lan, balíček na 2 dny a 1 noc | 2 500–4 500 THB na osobu | doprava, jídlo, ubytování a kajaky |
 | Pádlování nebo tubing na řece Sok | 400–950 THB na osobu | tubing podle hladiny řeky |
 | Čtyřkolky v Khao Sok (volitelně) | 1 500 THB za řidiče, 2 200 THB za dva na jedné čtyřkolce, 1,5 až 2 hodiny | cena od provozovatele z 3. 11. 2026, odvoz z ubytování v ceně |
-| Kajaky na Koh Yao Noi (pronájem) | asi 10 USD za kajak (neověřeno) | podle jednoho průvodce, místo a délka neověřené |
+| Kajak na Koh Nok (pronájem u Pasai) | asi 10 USD za kajak (neověřeno) | podle jednoho průvodce, doba půjčení neověřená |
 | Tiger Cave | zdarma | mimo plán od v21 (varianty) |
 | Dragon Crest | 200 THB na osobu | jen hotově |
 | Tha Pom Klong Song Nam (Krabi, volitelně) | vstup 50 THB na osobu | skútr nebo taxi z Krabi Town, mimo plán od v21 (varianty) |
 | Railay (volitelně) | 100 THB na osobu jedním směrem | loď z Ao Nang, lístek v kiosku, mimo plán od v21 (varianty) |
-| Koh Yao Noi: kolo, skútr, songthaew | asi 200 THB, 250–350 THB za den, 100–200 THB za jízdu | skútr jen s oprávněním (sekce 11) |
+| Koh Yao Noi: kolo, skútr, songthaew | asi 200 THB, 250–350 THB za den, 100–200 THB za jízdu | skútr jen s oprávněním (sekce 11), u Pyramid Bungalow podle recenzí asi 200–250 THB (neověřeno) |
 | Půldenní šnorchlovací výlet | pod 2 000 THB na osobu | včetně masky, šnorchlu a ploutví |
 | Etické sloní útočiště (volitelně) | 50–80 USD na osobu | typické rozpětí půldenního programu, mimo plán od v21 (varianty) |
 
 ### Kde ušetřit a kde se vyplatí připlatit
 
 - **Ušetřit:** Váš termín končí před vánoční špičkou (sekce 6), což je největší úspora. Dál jezte pouliční jídlo a na trzích, jezděte veřejnou dopravou a vybírejte z bankomatu co nejméně často, co nejvíc najednou (sekce 10).
-- **Připlatit:** Za zážitky, kvůli kterým se do Thajska jezdí: noc na jezeře Cheow Lan, odpolední safari za slony v Kui Buri, kajaky v mangrovech na Koh Yao Noi a šnorchlování v malé skupině s průvodcem.
+- **Připlatit:** Za zážitky, kvůli kterým se do Thajska jezdí: noc na jezeře Cheow Lan, odpolední safari za slony v Kui Buri, kajak na Koh Nok a šnorchlování v malé skupině s průvodcem.
 
 ## 15. Mini-slovníček thajských frází
 
