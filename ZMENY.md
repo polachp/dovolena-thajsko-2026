@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v27: Koh Yao Noi: rýžová pole a vyhlídka na Nok (4. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v27/) · [Markdown](verze/v27/thajsko-bangkok-phuket.md) · [rozdíl proti v26](https://github.com/polachp/dovolena-thajsko-2026/compare/d302bca...923f61a)
+
+- Fáze 7, Den na skútru: rýžová pole nejsou u restaurace Rice Paddy (ta stojí u Pasai, asi 300 m od ubytování), ale na západě uprostřed ostrova. Nově NAMM NATAWN (restaurace v polích) a kavárna Viewpoint on Ricefields and Ocean, obojí se dá spojit s rybářskou vesnicí Tha Ton Do. Rice Paddy zůstává jako tip na večeři.
+- Fáze 7, Kajak na Koh Nok: pádlování asi 40 minut jedním směrem, výstup na vyhlídku je podle recenzí strmý po laně (asi 100 m svisle), potřebné dobré boty.
+- Sekce 3 (místa na mapy) a Mapy u fáze 7 odpovídají oprave: ostrov Koh Nok, NAMM NATAWN, Viewpoint on Ricefields and Ocean, Rice Paddy Restaurant.
+- Počet fází a celkový počet nocí (22) jsou beze změny.
+
 ## v26: Koh Yao Noi: program a ubytování (4. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v26/) · [Markdown](verze/v26/thajsko-bangkok-phuket.md) · [rozdíl proti v25](https://github.com/polachp/dovolena-thajsko-2026/compare/7ff9907...d302bca)

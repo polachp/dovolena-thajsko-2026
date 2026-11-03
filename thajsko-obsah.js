@@ -104,9 +104,11 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 7 | Koh Yao Noi, Tabeak View Point | [8.1087, 98.6206](https://www.google.com/maps/search/?api=1&query=8.1087%2C98.6206) | Druhá rezervace na stejné noci, bez klimatizace, jedno ubytování zrušit |
 | 7 | Koh Yao Noi, pláž Pasai | [8.1001, 98.6199](https://www.google.com/maps/search/?api=1&query=8.1001%2C98.6199) | Odtud se půjčují kajaky na Koh Nok, koupání při přílivu |
 | 7 | Koh Yao Noi, pláž Tha Khao | [8.1300, 98.6223](https://www.google.com/maps/search/?api=1&query=8.1300%2C98.6223) | Východ slunce, při odlivu písečný práh k ostrůvku |
-| 7 | Koh Yao Noi, Ko Nok View Point | [Ko Nok View Point](https://www.google.com/maps/search/?api=1&query=Ko%20Nok%20View%20Point%20Koh%20Yao%20Noi) | Vyhlídka na ostrově Koh Nok, kam se jede kajakem (neověřeno) |
+| 7 | Koh Nok, ostrov a vyhlídka | [8.0802, 98.6269](https://www.google.com/maps/search/?api=1&query=8.0802%2C98.6269) | Kajakem asi 40 minut z Pasai, výstup na vyhlídku strmý po laně (neověřeno) |
 | 7 | Koh Hong, Phang Nga Bay | [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) | Celodenní výlet longtailem, vyhlídka a šnorchlování (neověřeno) |
-| 7 | Koh Yao Noi, Rice Paddy | [Rice Paddy](https://www.google.com/maps/search/?api=1&query=Rice%20Paddy%20Viewpoint%20Koh%20Yao%20Noi) | Restaurace s výhledem na rýžová pole (neověřeno) |
+| 7 | Koh Yao Noi, NAMM NATAWN (หนำ นาทอน) | [8.1323, 98.5958](https://www.google.com/maps/search/?api=1&query=8.1323%2C98.5958) | Restaurace uprostřed rýžových polí na západě, podle Google Maps 10:30–18:30 (neověřeno) |
+| 7 | Koh Yao Noi, Viewpoint on Ricefields and Ocean | [8.1243, 98.5959](https://www.google.com/maps/search/?api=1&query=8.1243%2C98.5959) | Kavárna s vyhlídkovými plošinami nad poli, ve středu zavřeno (neověřeno) |
+| 7 | Koh Yao Noi, Rice Paddy Restaurant | [8.1045, 98.6226](https://www.google.com/maps/search/?api=1&query=8.1045%2C98.6226) | Restaurace u Pasai, asi 300 m od Pyramid Bungalow, v pondělí zavřeno (neověřeno) |
 | 7 | Koh Yao Noi, Tha Ton Do | [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) | Rybářská vesnice na západě, molo u mangrovů a západ slunce (neověřeno) |
 | 8 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi |
 | 8 | Phuket Old Town, Thalang Road | [7.8848, 98.3890](https://www.google.com/maps/search/?api=1&query=7.8848%2C98.3890) | Historické centrum s architekturou, v neděli večer s trhem |
@@ -415,9 +417,9 @@ Po 14. 12. na Koh Yao Noi z mola Nopparat Thara. Z ubytování taxi asi 25 minut
 
 Nejpomalejší místo trasy: rýžová pole, minimum aut, rybářské vesnice a výhled na skály v zálivu Phang Nga. Čtyři noci u moře na východním pobřeží, příjezd lodí z Nopparat Thara po 14. 12.
 
-- **Kajak na Koh Nok s vyhlídkou (celý den):** kajak si půjčíte u Pasai a pádlujete sami, bez průvodce. Na ostrově je vyhlídka, kam se dá vyšlápnout.
+- **Kajak na Koh Nok s vyhlídkou (celý den):** kajak si půjčíte u Pasai a pádlujete sami, bez průvodce. Na ostrově je vyhlídka, výstup je podle recenzí strmý po laně.
 - **Loď na Koh Hong (celý den):** longtail na skalnatý ostrov s vyhlídkou a šnorchlováním, případně s dalšími malými ostrůvky u Hongu (třeba Lao Lading).
-- **Den na skútru:** rýžová pole s výhledem od restaurace Rice Paddy, zastávky podle nálady a večer rybářské vesnice na západě (Tha Ton Do).
+- **Den na skútru:** rýžová pole na západě (restaurace NAMM NATAWN, kavárna s vyhlídkou nad poli), zastávky podle nálady a večer rybářská vesnice Tha Ton Do.
 - **Pláže (odpoledne):** válení u moře při přílivu a procházky po skalách u Klong Jark.
 - **Východ slunce na Tha Khao (volitelně):** při odlivu se dá po písečném prahu dojít k malému ostrůvku.
 - **Vyhlídka Hornbill (volitelně):** nad Tha Khao, u ní je skrytá písečná pláž.
@@ -435,7 +437,7 @@ Všechno kromě ubytování je neověřené. Zdroje jsou starší recenze a mapy
 
 #### Kajak na Koh Nok s vyhlídkou
 
-Kajak se půjčuje na pláži u Pasai, hosté píšou o krásném výletu na Koh Nok. Pádluje se samostatně, bez průvodce. Podle jednoho cestopisu stojí kajak asi 10 USD, cena, doba půjčení a vliv přílivu neověřené. Na ostrově je podle Google Maps vyhlídka Ko Nok View Point, jak je výstup náročný, nevíme. Vyražte ráno, kdy je klid. Nezaměňovat s James Bond Island, ten jsme vyřadili kvůli davům.
+Kajak se půjčuje na pláži u Pasai, hosté píšou o krásném výletu na Koh Nok. Pádluje se samostatně, bez průvodce. Podle jednoho cestopisu stojí kajak asi 10 USD, cena, doba půjčení a vliv přílivu neověřené. Pádlování trvá podle recenzí asi 40 minut jedním směrem, na ostrov se dá jen kajakem nebo lodí. Na ostrově je vyhlídka Ko Nok View Point, výstup je podle recenzí asi 100 m svisle po laně a potřebujete dobré boty. Při vlnách se ptejte místních, jestli se dá vyplout, a řekněte jim, že na ostrov jedete. Vyražte ráno, kdy je klid. Nezaměňovat s James Bond Island, ten jsme vyřadili kvůli davům.
 
 #### Loď na Koh Hong
 
@@ -445,8 +447,8 @@ Longtailem z ostrova na celý den: vyhlídka (Hong Island View Point podle Googl
 
 Kolo asi 200 THB na den, skútr 250–350 THB na den (jen s oprávněním na motocykl, sekce 11), songthaew 100–200 THB za osobu a jízdu. Veřejná doprava tu není. Skútr půjčuje podle recenzí i hostitelka v Pyramid Bungalow (asi 200–250 THB na den, neověřeno). Jestli jde skútr půjčit bez řidičského oprávnění na motocykl, neověřeno.
 
-- **Rýžová pole:** restaurace Rice Paddy s výhledem na pole. Otevírací doba neověřená.
-- **Rybářské vesnice na západě:** Tha Ton Do s molem u mangrovů, rybářskými loděmi a domy na kůlech. Podle zdrojů tam je západ slunce a ryby k večeři u mola. Od ubytování asi 5 km vzdušnou čarou, odhadem 15 minut skútrem. Při odlivu bývají mangrovy blátivé, vyrazte kolem přílivu. Které restaurace u mola fungují v prosinci, neověřeno.
+- **Rýžová pole:** na západě uprostřed ostrova. Restaurace NAMM NATAWN stojí přímo v polích (podle Google Maps denně 10:30–18:30). Kavárna Viewpoint on Ricefields and Ocean má vyhlídkové plošiny nad poli a je dobrá na pozorování ptáků (podle Google Maps 10:00–19:30, ve středu zavřeno, tedy ne 16. 12.). Otevírací doby jsou neověřené.
+- **Rybářské vesnice na západě:** Tha Ton Do s molem u mangrovů, rybářskými loděmi a domy na kůlech. Podle zdrojů tam je západ slunce a ryby k večeři u mola. Od ubytování asi 5 km vzdušnou čarou, odhadem 15 minut skútrem. Rýžová pole a Tha Ton Do leží vedle sebe v rozmezí asi 2 km, takže se dají projet jednou trasou. Při odlivu bývají mangrovy blátivé, vyrazte kolem přílivu. Které restaurace u mola fungují v prosinci, neověřeno.
 
 #### Pláže, příliv a skály
 
@@ -467,7 +469,7 @@ Koupat se dá hlavně při přílivu, při odlivu se odhalí široké plochy dna
 
 Rezervováno: **Pyramid Bungalow** (Booking.com), 4 noci 14.–18. 12., dvoulůžkový pokoj s manželskou postelí a terasou, s klimatizací (podle Anežky). Cena celkem 5 151 THB (asi 1 290 THB za noc, asi 3 350 Kč). Check-in 14:30–18:30, check-out 5:00–11:00. Telefon +66 95 850 3349. Zrušit zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), pozdní zrušení stojí 5 200 THB.
 
-Poloha: východní pobřeží mezi Pasai a Klong Jark, u vody, restaurace a obchůdek do 2 minut pěšky, k pláži Pasai asi 700 m. Pasai je nejživější část ostrova, u Pyramidu je podle recenzí místní atmosféra a málo turistů, v prosinci (vysoká sezóna) může být plněji. Hlasitý hmyz v noci. Recenze (neověřeno pro naši rezervaci): bungalovy hned u vody, ochotná hostitelka, jednoduché, ale čisté pokoje.
+Poloha: východní pobřeží mezi Pasai a Klong Jark, u vody, restaurace a obchůdek do 2 minut pěšky, k pláži Pasai asi 700 m. Pasai je nejživější část ostrova, u Pyramidu je podle recenzí místní atmosféra a málo turistů, v prosinci (vysoká sezóna) může být plněji. Hlasitý hmyz v noci. Na večeři je asi 300 m od ubytování restaurace Rice Paddy (podle Google Maps 4,6 z 796 hodnocení, otevřeno úterý až neděle 12:00–22:00, v pondělí zavřeno, neověřeno). Recenze (neověřeno pro naši rezervaci): bungalovy hned u vody, ochotná hostitelka, jednoduché, ale čisté pokoje.
 
 Druhá rezervace na stejné noci: **Tabeak View Point** (Booking.com), pokoj s oddělenými postelemi bez klimatizace, na svahu u Pasai s výhledem, 4 400 THB celkem. Zrušit zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00), pozdní zrušení stojí 1 100 THB. Jedno ze dvou ubytování je potřeba zrušit, rozhodnout nejpozději do 6. 12. v 17:59 českého času, protože Pyramid vyprší dřív.
 
@@ -479,7 +481,7 @@ Pá 18. 12. rychlou lodí z mola Manoh na molo Bang Rong (30–50 minut, 400–6
 
 #### Mapy
 
-[Pyramid Bungalow](https://www.google.com/maps/search/?api=1&query=8.1068,98.6225) · [Tabeak View Point](https://www.google.com/maps/search/?api=1&query=8.1087,98.6206) · [pláž Pasai](https://www.google.com/maps/search/?api=1&query=8.1001,98.6199) · [pláž Tha Khao](https://www.google.com/maps/search/?api=1&query=8.1300,98.6223) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [Ko Nok View Point](https://www.google.com/maps/search/?api=1&query=Ko%20Nok%20View%20Point%20Koh%20Yao%20Noi) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) · [Rice Paddy](https://www.google.com/maps/search/?api=1&query=Rice%20Paddy%20Viewpoint%20Koh%20Yao%20Noi) · [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) · [vyhlídka Hornbill](https://www.google.com/maps/search/?api=1&query=Hornbill%20Viewpoint%20Koh%20Yao%20Noi)
+[Pyramid Bungalow](https://www.google.com/maps/search/?api=1&query=8.1068,98.6225) · [Tabeak View Point](https://www.google.com/maps/search/?api=1&query=8.1087,98.6206) · [pláž Pasai](https://www.google.com/maps/search/?api=1&query=8.1001,98.6199) · [pláž Tha Khao](https://www.google.com/maps/search/?api=1&query=8.1300,98.6223) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [ostrov Koh Nok](https://www.google.com/maps/search/?api=1&query=8.0802,98.6269) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) · [NAMM NATAWN](https://www.google.com/maps/search/?api=1&query=8.1323,98.5958) · [Viewpoint on Ricefields and Ocean](https://www.google.com/maps/search/?api=1&query=8.1243,98.5959) · [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) · [vyhlídka Hornbill](https://www.google.com/maps/search/?api=1&query=Hornbill%20Viewpoint%20Koh%20Yao%20Noi)
 
 ### Fáze 8: Phuket Town, historie, trhy a odlet (1 noc, 18.–19. 12.)
 

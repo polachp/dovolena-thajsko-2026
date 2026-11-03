@@ -339,5 +339,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "d302bca",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v27",
+    "datum": "4. 11. 2026",
+    "nazev": "Koh Yao Noi: rýžová pole a vyhlídka na Nok",
+    "zmeny": [
+      "Fáze 7, Den na skútru: rýžová pole nejsou u restaurace Rice Paddy (ta stojí u Pasai, asi 300 m od ubytování), ale na západě uprostřed ostrova. Nově NAMM NATAWN (restaurace v polích) a kavárna Viewpoint on Ricefields and Ocean, obojí se dá spojit s rybářskou vesnicí Tha Ton Do. Rice Paddy zůstává jako tip na večeři.",
+      "Fáze 7, Kajak na Koh Nok: pádlování asi 40 minut jedním směrem, výstup na vyhlídku je podle recenzí strmý po laně (asi 100 m svisle), potřebné dobré boty.",
+      "Sekce 3 (místa na mapy) a Mapy u fáze 7 odpovídají oprave: ostrov Koh Nok, NAMM NATAWN, Viewpoint on Ricefields and Ocean, Rice Paddy Restaurant.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "923f61a",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
