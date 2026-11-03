@@ -10,8 +10,8 @@ Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa
 
 ## Aktuální stav (aktualizuj při každé nové verzi)
 
-- Poslední verze: **v24** (3. 11. 2026), zdroj `verze/v24/thajsko-bangkok-phuket.md`.
-- Archiv: `verze/v1` až `verze/v23`, neměnit.
+- Poslední verze: **v25** (3. 11. 2026), zdroj `verze/v25/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v24`, neměnit.
 - Sekce 0 až 16, itinerář je sekce 5. Rozřazení sekcí do záložek webu je v `hlavicka.kam` poslední verze.
 - Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 4 (8.–12. 12.), Krabi 2 (12.–14. 12.), Koh Yao Noi 4 (14.–18. 12.), Phuket Town 1 (18.–19. 12.).
 - Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
@@ -60,7 +60,7 @@ Markdown verze nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, b
 
 ## Co je rozpracované
 
-Stav k v24. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Nedořešené zůstává:
+Stav k v25. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Nedořešené zůstává:
 
 - Fáze 5: noc na jezeře Cheow Lan (balíček, konkrétní raft house, nebo jen jednodenní výlet). Rezervace bungalovu je jeden ze dvou pevných bodů.
 - Fáze 5: čtyřkolky v Khao Sok (Khao sok ATV Adventure): cena (1 500 THB řidič, 2 200 THB dva na jedné čtyřkolce) a odvoz z ubytování zdarma potvrdil provozovatel 3. 11., den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
