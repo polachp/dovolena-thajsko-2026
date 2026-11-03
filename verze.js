@@ -290,5 +290,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "7af9bf9",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v23",
+    "datum": "3. 11. 2026",
+    "nazev": "Krabi: potvrzený Vacation House přes Booking.com",
+    "zmeny": [
+      "Fáze 6 (Krabi), Ubytování: Vacation House je potvrzený přes Booking.com (12.–14. 12., 2 noci, 2 340 THB, příjezd 14:00–22:00, odjezd 7:00–12:00). Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku v 17:59), pak poplatek 100 % ceny.",
+      "Sekce 0, sekce 3 a předodletový checklist (sekce 11) upraveny podle potvrzení, z otevřených bodů zmizelo chybějící potvrzení Vacation House.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "6745fb5",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
