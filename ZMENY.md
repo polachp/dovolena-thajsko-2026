@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v25: Lodě: kde koupit lístky na Koh Yao Noi a Koh Phayam (3. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v25/) · [Markdown](verze/v25/thajsko-bangkok-phuket.md) · [rozdíl proti v24](https://github.com/polachp/dovolena-thajsko-2026/compare/dc0ca33...7ff9907)
+
+- Fáze 6 (Krabi), Přesun dál: kde koupit lístek na loď z mola Nopparat Thara na Koh Yao Noi (online na phuketferry.com, srovnávače), odjezdy a ceny podle Phuket Ferry (neověřeno).
+- Fáze 4 (Ranong a Koh Phayam), Loď na ostrov: kde a jak koupit lístek z Ranongu na Koh Phayam (budky na molu, cestovky, online přes 12Go), odjezdy a ceny rychlé lodi a pomalého trajektu (neověřeno).
+- Počet fází a celkový počet nocí (22) jsou beze změny.
+
 ## v24: Khao Sok: Bingo Hostel je rezervovaný přes Booking.com (3. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v24/) · [Markdown](verze/v24/thajsko-bangkok-phuket.md) · [rozdíl proti v23](https://github.com/polachp/dovolena-thajsko-2026/compare/6745fb5...dc0ca33)

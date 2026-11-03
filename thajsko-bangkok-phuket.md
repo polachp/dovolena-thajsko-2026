@@ -265,6 +265,10 @@ Do města dorazíte kolem 17:00, minivan staví u autobusového nádraží. Ubyt
 
 Tuk-tukem na molo Ranong Pier (10–15 minut, asi 50 THB na osobu, recepce ho zařídí). Budky s lístky jsou za cestovními kancelářemi, rychlá loď stojí 350 THB plus 5 THB poplatek, 35–45 minut. Čas a molo si ověřte den předem, při nízké vodě se jezdí z jiného mola.
 
+Lístek se kupuje v budkách na molu Ranong Pier, cestovní kanceláře na molu prodávají za stejnou cenu, ale nemusí mít celý jízdní řád. Rezervace předem není nutná, rychlých lodí jezdí dost. Online se dá koupit přes 12Go (u směru Ranong → Koh Phayam jsem tabulku nenašla, neověřeno), recenze tam ale radí rychlé lodě rezervovat předem. Víkend 5.–7. 12. je prodloužený (sekce 6), proto lístek radši kupte už večer 4. 12. nebo hned ráno (otevírací doba budek je neověřená).
+
+Odjezdy podle jízdního řádu z ledna 2024 (neověřeno): rychlé lodě asi od 7:30 do 11:30 po půlhodině a odpoledne ve 12:00, 13:00, 13:30, 14:30, 15:00, 15:30, 16:00, 16:30 a 17:00, provozují Surathat Group a Ting, 350 THB plus 5 THB poplatek, 35–45 minut. Pomalý trajekt stojí asi 200 THB, jede asi 2 hodiny a odjíždí ve 14:30 a některá rána (neověřeno, spoj nikdo z autorů nejel).
+
 #### Vodopád Ngao (volitelně)
 
 Asi 13 km jižně od Ranongu u silnice č. 4, Grabem 15–20 minut, vstup 100 THB, 8:30–16:30. K vodopádu 10–15 minut pěšky, v suché sezóně se dá koupat. Domluvte se s řidičem, ať počká, a vyrazte zpátky nejpozději kolem poledne, poslední loď na ostrov jede kolem 16:30.
@@ -392,7 +396,7 @@ Recenze: Trip.com 8,3/10 ze 174 recenzí, Tripadvisor 4,3/5 z 29 recenzí (nejno
 
 #### Přesun dál
 
-Po 14. 12. na Koh Yao Noi z mola Nopparat Thara. Z ubytování taxi asi 25 minut (od Tub Kaek, neověřeno), rychlá loď 30 až 45 minut, od 650 THB, vystupuje se v Manoh. Odjezdy podle Travelfish (neověřeno): Green Planet 10:00 a 11:20, Bundhaya 10:30 a 15:00, Koh Yao Sun Smile 12:00 a 14:00, Supaporn 13:20. Lístky den až 2 dny předem, nejezděte poslední lodí. Taxi na molo domluvte předem, třeba přes hostitele.
+Po 14. 12. na Koh Yao Noi z mola Nopparat Thara. Z ubytování taxi asi 25 minut (od Tub Kaek, neověřeno), rychlá loď 30 až 45 minut, od 650 THB, vystupuje se v Manoh. Odjezdy podle Travelfish (neověřeno): Green Planet 10:00 a 11:20, Bundhaya 10:30 a 15:00, Koh Yao Sun Smile 12:00 a 14:00, Supaporn 13:20. Podle Phuket Ferry (neověřeno) jede Green Planet v 10:00 a 11:20 a Koh Yao Sun Smile ve 12:00, 14:00 a 16:00, cena 600 až 650 THB, plavba 30 až 40 minut. Lístek jde koupit online na [phuketferry.com](https://www.phuketferry.com/nopparat-thara-pier-ao-nang.html) s okamžitým potvrzením a platbou kartou nebo PromptPay, trasu nabízejí i srovnávače Direct Ferries a Ferryscanner (přirážka neověřená). Jestli se dá koupit i na molu nebo přes hostitele, zdroje neuvádějí. Na 14. 12. zkuste koupit online spoj kolem 11:00 až 12:00, jinak lístek den až 2 dny předem, nejezděte poslední lodí. Taxi na molo domluvte předem, třeba přes hostitele.
 
 #### Mapy
 

@@ -313,5 +313,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "dc0ca33",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v25",
+    "datum": "3. 11. 2026",
+    "nazev": "Lodě: kde koupit lístky na Koh Yao Noi a Koh Phayam",
+    "zmeny": [
+      "Fáze 6 (Krabi), Přesun dál: kde koupit lístek na loď z mola Nopparat Thara na Koh Yao Noi (online na phuketferry.com, srovnávače), odjezdy a ceny podle Phuket Ferry (neověřeno).",
+      "Fáze 4 (Ranong a Koh Phayam), Loď na ostrov: kde a jak koupit lístek z Ranongu na Koh Phayam (budky na molu, cestovky, online přes 12Go), odjezdy a ceny rychlé lodi a pomalého trajektu (neověřeno).",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "7ff9907",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
