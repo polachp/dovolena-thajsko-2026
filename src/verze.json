@@ -1772,5 +1772,107 @@
       }
     },
     "commit": "c766d06"
+  },
+  {
+    "id": "v21",
+    "datum": "3. 11. 2026",
+    "nazev": "Krabi 2 noci s Vacation House, Koh Yao Noi 4 noci",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 6 (Krabi): 2 noci, 12.–14. 12. (dříve 3 noci). Základna je Vacation House u pláže Klong Muang (rezervováno podle Anežky, potvrzení a termín zrušení zdarma chybí). So 12. 12. příjezd minivanem z Khao Sok (vysazení v Ao Nang), ne 13. 12. Dragon Crest, skútr z Ao Nang nebo taxi, po 14. 12. loď z mola Nopparat Thara na Koh Yao Noi.",
+      "Fáze 7 (Koh Yao Noi): 4 noci, 14.–18. 12. (dříve 3 noci). Nové: kajaky mezi mangrovy a skalami (kde přesně a za kolik, neověřeno) a vyhlídka Paddy's Viewpoint (volitelně).",
+      "Z Krabi vyřazeno a uloženo do varianty/krabi-dalsi-mista.md: kajaky v Ao Thalane, Railay, Tha Pom Klong Song Nam, Tiger Cave, etické sloní útočiště, Krabi Town jako základna a loď z mola Tha Len.",
+      "Sekce 0, 3, 4, 5, 11 a rozpočet upraveny podle nové trasy. Součty v rozpočtu se nepřepočítávají, vyřazené položky v nich zůstávají jako horní odhad.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "kam": {
+        "0": "pred",
+        "6": "pred",
+        "8": "pred",
+        "11": "pred",
+        "13": "pred",
+        "14": "pred",
+        "16": "pred",
+        "1": "misto",
+        "2": "misto",
+        "3": "misto",
+        "4": "misto",
+        "7": "misto",
+        "9": "misto",
+        "10": "misto",
+        "12": "misto",
+        "15": "misto"
+      }
+    },
+    "commit": ""
   }
 ]

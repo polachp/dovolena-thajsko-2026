@@ -10,7 +10,7 @@ Itinerář jižního Thajska podle manuálu od Anežky. Aktuální verze: směr 
 Jediný soubor, který se edituje ručně, je Markdown poslední verze:
 
 ```
-verze/v20/thajsko-bangkok-phuket.md
+verze/v21/thajsko-bangkok-phuket.md
 ```
 
 Poslední verze je poslední záznam v `src/verze.json`, název jejího Markdownu je v poli `md`.
@@ -27,7 +27,7 @@ Generované soubory, do kterých se nikdy nepíše ručně (build je přepíše)
 
 Editace kořenového `thajsko-bangkok-phuket.md` je typická chyba: soubor vypadá jako hlavní zdroj, ale je to kopie a příští build ji přepíše. Totéž platí pro editaci přes webové rozhraní GitHubu.
 
-Starší verze (`verze/v1` až `verze/v19`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
+Starší verze (`verze/v1` až `verze/v20`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
 
 ## Struktura
 
@@ -35,7 +35,7 @@ Starší verze (`verze/v1` až `verze/v19`) se neupravují, slouží jako archiv
 - `src/verze.json`: seznam verzí, změnový list a údaje do hlavičky webu
 - `src/sablona.html`: šablona stránky
 - `build.py`: vygeneruje `index.html`, `verze/*/index.html`, `thajsko-obsah.js`, `verze.js`, `ZMENY.md` a kopii Markdownu v kořeni
-- `varianty/`: vyřazené části itineráře uložené jako záložní varianty (build je nezpracovává), například [Khao Lak](varianty/khao-lak.md)
+- `varianty/`: vyřazené části itineráře uložené jako záložní varianty (build je nezpracovává), například [Khao Lak](varianty/khao-lak.md) a [další místa v Krabi](varianty/krabi-dalsi-mista.md)
 - `CLAUDE.md`: postup pro práci s repem v Claude session
 
 ## Jak udělat změnu v itineráři
@@ -56,4 +56,4 @@ Markdown nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko. Vklád�
 
 ## Co je v itineráři rozpracované
 
-Stav k v20: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Itinerář má jednotnou stavbu fází: krátký popis, co uvidíte, podrobnosti jako nadpisy 4. úrovně, které web zobrazí sbalené (pravidla v `CLAUDE.md`). Khao Sok má 4 noci (8.–12. 12.) a Krabi 3 (12.–15. 12.). Nedořešená je noc na jezeře Cheow Lan, základna v Krabi a rezervace ubytování ve fázích 5 až 8 (v Khao Sok jsou rezervované Bingo Hostel Khao Sok, 8.–10. 12., a Flora Hostel KhaoSok, 8.–9. 12.; noc 8.–9. 12. je zarezervovaná dvakrát a jedno z ubytování je potřeba zrušit; fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází). Podrobnosti v sekci 0 Markdownu.
+Stav k v21: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Itinerář má jednotnou stavbu fází: krátký popis, co uvidíte, podrobnosti jako nadpisy 4. úrovně, které web zobrazí sbalené (pravidla v `CLAUDE.md`). Khao Sok má 4 noci (8.–12. 12.), Krabi 2 (12.–14. 12.) a Koh Yao Noi 4 (14.–18. 12.). Nedořešená je noc na jezeře Cheow Lan, kajaky na Koh Yao Noi a rezervace ubytování ve fázích 5 až 8 (v Khao Sok jsou rezervované Bingo Hostel Khao Sok, 8.–10. 12., a Flora Hostel KhaoSok, 8.–9. 12.; noc 8.–9. 12. je zarezervovaná dvakrát a jedno z ubytování je potřeba zrušit; v Krabi je podle Anežky rezervovaný Vacation House, 12.–14. 12.; fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází). Podrobnosti v sekci 0 Markdownu.
