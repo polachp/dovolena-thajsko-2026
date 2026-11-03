@@ -2376,5 +2376,106 @@
       }
     },
     "commit": "d302bca"
+  },
+  {
+    "id": "v27",
+    "datum": "4. 11. 2026",
+    "nazev": "Koh Yao Noi: rýžová pole a vyhlídka na Nok",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 7, Den na skútru: rýžová pole nejsou u restaurace Rice Paddy (ta stojí u Pasai, asi 300 m od ubytování), ale na západě uprostřed ostrova. Nově NAMM NATAWN (restaurace v polích) a kavárna Viewpoint on Ricefields and Ocean, obojí se dá spojit s rybářskou vesnicí Tha Ton Do. Rice Paddy zůstává jako tip na večeři.",
+      "Fáze 7, Kajak na Koh Nok: pádlování asi 40 minut jedním směrem, výstup na vyhlídku je podle recenzí strmý po laně (asi 100 m svisle), potřebné dobré boty.",
+      "Sekce 3 (místa na mapy) a Mapy u fáze 7 odpovídají oprave: ostrov Koh Nok, NAMM NATAWN, Viewpoint on Ricefields and Ocean, Rice Paddy Restaurant.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "kam": {
+        "0": "pred",
+        "6": "pred",
+        "8": "pred",
+        "11": "pred",
+        "13": "pred",
+        "14": "pred",
+        "16": "pred",
+        "1": "misto",
+        "2": "misto",
+        "3": "misto",
+        "4": "misto",
+        "7": "misto",
+        "9": "misto",
+        "10": "misto",
+        "12": "misto",
+        "15": "misto"
+      }
+    },
+    "commit": ""
   }
 ]
