@@ -302,5 +302,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "6745fb5",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v24",
+    "datum": "3. 11. 2026",
+    "nazev": "Khao Sok: Bingo Hostel je rezervovaný přes Booking.com",
+    "zmeny": [
+      "Fáze 5 (Khao Sok), Ubytování, sekce 3 a předodletový checklist: Bingo Hostel Khao Sok je rezervovaný přes Booking.com (dříve portál neuveden).",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "dc0ca33",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

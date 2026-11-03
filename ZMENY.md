@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v24: Khao Sok: Bingo Hostel je rezervovaný přes Booking.com (3. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v24/) · [Markdown](verze/v24/thajsko-bangkok-phuket.md) · [rozdíl proti v23](https://github.com/polachp/dovolena-thajsko-2026/compare/6745fb5...dc0ca33)
+
+- Fáze 5 (Khao Sok), Ubytování, sekce 3 a předodletový checklist: Bingo Hostel Khao Sok je rezervovaný přes Booking.com (dříve portál neuveden).
+- Počet fází a celkový počet nocí (22) jsou beze změny.
+
 ## v23: Krabi: potvrzený Vacation House přes Booking.com (3. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v23/) · [Markdown](verze/v23/thajsko-bangkok-phuket.md) · [rozdíl proti v22](https://github.com/polachp/dovolena-thajsko-2026/compare/7af9bf9...6745fb5)
