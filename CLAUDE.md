@@ -10,8 +10,8 @@ Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa
 
 ## Aktuální stav (aktualizuj při každé nové verzi)
 
-- Poslední verze: **v23** (3. 11. 2026), zdroj `verze/v23/thajsko-bangkok-phuket.md`.
-- Archiv: `verze/v1` až `verze/v22`, neměnit.
+- Poslední verze: **v24** (3. 11. 2026), zdroj `verze/v24/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v23`, neměnit.
 - Sekce 0 až 16, itinerář je sekce 5. Rozřazení sekcí do záložek webu je v `hlavicka.kam` poslední verze.
 - Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 4 (8.–12. 12.), Krabi 2 (12.–14. 12.), Koh Yao Noi 4 (14.–18. 12.), Phuket Town 1 (18.–19. 12.).
 - Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
@@ -60,14 +60,14 @@ Markdown verze nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, b
 
 ## Co je rozpracované
 
-Stav k v23. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Nedořešené zůstává:
+Stav k v24. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Nedořešené zůstává:
 
 - Fáze 5: noc na jezeře Cheow Lan (balíček, konkrétní raft house, nebo jen jednodenní výlet). Rezervace bungalovu je jeden ze dvou pevných bodů.
 - Fáze 5: čtyřkolky v Khao Sok (Khao sok ATV Adventure): cena (1 500 THB řidič, 2 200 THB dva na jedné čtyřkolce) a odvoz z ubytování zdarma potvrdil provozovatel 3. 11., den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - Fáze 6: Vacation House (12.–14. 12.) je potvrzený přes Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času. Dragon Crest 13. 12.: skútr z Ao Nang nebo taxi, domluvit s hostitelem.
 - Fáze 7: kajaky mezi mangrovy a skalami na Koh Yao Noi (kde a za kolik), ubytování na 4 noci (14.–18. 12.) není rezervované.
 - Rozpočet (sekce 14) nepřepočítává změnu ve v21, položky vyřazené z Krabi v něm zůstávají jako horní odhad.
-- Ubytování ve fázích 5 až 8 není rezervované, kromě Khao Sok: Bingo Hostel Khao Sok (8.–10. 12., zrušit zdarma do 6. 12. 23:59 thajského času) a Flora Hostel KhaoSok (8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00). Noc 8.–9. 12. je zarezervovaná dvakrát, jedno z ubytování je potřeba zrušit. V Krabi je potvrzený Vacation House (12.–14. 12., Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času, to je nejbližší termín ze všech). Zbylé noci v Khao Sok (10.–12. 12.) se řeší na místě. Fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází (22. 11. až 2. 12.).
+- Ubytování ve fázích 5 až 8 není rezervované, kromě Khao Sok: Bingo Hostel Khao Sok (8.–10. 12., Booking.com, zrušit zdarma do 6. 12. 23:59 thajského času) a Flora Hostel KhaoSok (8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00). Noc 8.–9. 12. je zarezervovaná dvakrát, jedno z ubytování je potřeba zrušit. V Krabi je potvrzený Vacation House (12.–14. 12., Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času, to je nejbližší termín ze všech). Zbylé noci v Khao Sok (10.–12. 12.) se řeší na místě. Fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází (22. 11. až 2. 12.).
 
 Pevné body jsou dva: rezervace plovoucího bungalovu na jezeře Cheow Lan a odlet z Phuketu 19. 12.
 
