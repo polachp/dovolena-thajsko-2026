@@ -263,5 +263,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c766d06",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v21",
+    "datum": "3. 11. 2026",
+    "nazev": "Krabi 2 noci s Vacation House, Koh Yao Noi 4 noci",
+    "zmeny": [
+      "Fáze 6 (Krabi): 2 noci, 12.–14. 12. (dříve 3 noci). Základna je Vacation House u pláže Klong Muang (rezervováno podle Anežky, potvrzení a termín zrušení zdarma chybí). So 12. 12. příjezd minivanem z Khao Sok (vysazení v Ao Nang), ne 13. 12. Dragon Crest, skútr z Ao Nang nebo taxi, po 14. 12. loď z mola Nopparat Thara na Koh Yao Noi.",
+      "Fáze 7 (Koh Yao Noi): 4 noci, 14.–18. 12. (dříve 3 noci). Nové: kajaky mezi mangrovy a skalami (kde přesně a za kolik, neověřeno) a vyhlídka Paddy's Viewpoint (volitelně).",
+      "Z Krabi vyřazeno a uloženo do varianty/krabi-dalsi-mista.md: kajaky v Ao Thalane, Railay, Tha Pom Klong Song Nam, Tiger Cave, etické sloní útočiště, Krabi Town jako základna a loď z mola Tha Len.",
+      "Sekce 0, 3, 4, 5, 11 a rozpočet upraveny podle nové trasy. Součty v rozpočtu se nepřepočítávají, vyřazené položky v nich zůstávají jako horní odhad.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "b801e0c",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
