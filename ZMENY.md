@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v33: Fáze 4: bez vodopádu Ngao (6. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v33/) · [Markdown](verze/v33/thajsko-bangkok-phuket.md) · [rozdíl proti v32](https://github.com/polachp/dovolena-thajsko-2026/compare/09533a5...9f7bac4)
+
+- Fáze 4: z nabídky možností vyřazený volitelný výlet na vodopád Ngao u Ranongu. Obsah je uložený ve varianty/vodopad-ngao.md.
+- Sekce 0 (odkaz na variantu), sekce 3, seznam co uvidíte a Mapy u fáze 4 a rozpis zážitků v rozpočtu (sekce 14) odpovídají: odstraněné řádky a odkazy, u horkých pramenů zůstává taxi.
+- Fáze 4: kajak v mangrovech a zářící plankton už nejsou označené jako volitelné. V seznamu co uvidíte mají každý vlastní odrážku, nadpisy bloků jsou bez slova volitelně.
+- Počet fází (8) a noci (22) jsou beze změny. Součty rozpočtu se nepřepočítávají, vstup na vodopád byl 100 THB na osobu a součty jsou horní odhad.
+
 ## v32: Skútr: bez zmínek o řidičském oprávnění (6. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v32/) · [Markdown](verze/v32/thajsko-bangkok-phuket.md) · [rozdíl proti v31](https://github.com/polachp/dovolena-thajsko-2026/compare/b95e340...09533a5)

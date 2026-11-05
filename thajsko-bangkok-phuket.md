@@ -20,7 +20,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
-Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md).
+Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md), vodopád Ngao u Ranongu v souboru [varianty/vodopad-ngao.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/vodopad-ngao.md).
 
 ## 1. Úvod do Thajska: kultura, historie a perličky
 
@@ -89,7 +89,6 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 4 | Ranong, autobusové nádraží (44 Ruangrat Road, Khao Niwet) | [Ranong Bus Terminal](https://www.google.com/maps/search/?api=1&query=Ranong%20Bus%20Terminal) | Sem většinou vyloží minivan z Chumphonu, do centra asi 1 km |
 | 4 | Ranong, molo rychlých lodí na Koh Phayam | [Ranong Pier (Koh Phayam)](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier%20Koh%20Phayam%20ferry) | Z autobusového nádraží je to tuk-tukem asi 10–15 minut |
 | 4 | Ranong, horké prameny Raksa Warin | [Raksawarin Hot Springs](https://www.google.com/maps/search/?api=1&query=Raksawarin%20Hot%20Springs%20Ranong) | Večerní koupání v horkých pramenech, asi 2 km východně od centra |
-| 4 | Ranong, vodopád Ngao (Namtok Ngao National Park) | [9.8558, 98.6290](https://www.google.com/maps/search/?api=1&query=9.8558%2C98.6290) | Volitelné dopoledne, asi 13 km jižně od města u silnice č. 4 |
 | 4 | Koh Phayam, ubytování Flower Power Village (Ao Khao Kwai) | [Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) | Potvrzeno 5.–8. 12., check-in od 13:00, check-out do 11:00 |
 | 4 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | [Ao Yai](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Beach%20Koh%20Phayam), [Ao Khao Kwai](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai%20Beach%20Koh%20Phayam) | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
 | 5 | Khao Sok, ubytování Flora Hostel KhaoSok | [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok) | Potvrzeno 8.–9. 12., check-in 14:00–20:00, check-out 9:00–11:00, rezervováno přes Booking.com, zrušit zdarma do 8. 12., noc se kryje s Bingo Hostel Khao Sok |
@@ -276,7 +275,8 @@ Večer v horkých pramenech v Ranongu a pak tři dny lenošení na klidném ostr
 - **Ao Yai (Long Beach):** 3 km dlouhá, většinu dní skoro prázdná pláž, nejlepší západ slunce.
 - **Ao Khao Kwai a Hin Talu:** nejčistší voda na ostrově a skalní oblouky.
 - **Ao Kwang Peeb:** malá skrytá zátoka u džungle.
-- **Volitelně:** vodopád Ngao u Ranongu, kajak v mangrovech, zářící plankton.
+- **Kajak v mangrovech:** klidné pádlování bez průvodce v mangrovech kousek od ubytování, ptáci a s trochou štěstí opice.
+- **Zářící plankton:** v prosinci ho jeden průvodce viděl při brodění u Ao Khao Kwai, záruka žádná.
 
 #### Ranong
 
@@ -289,10 +289,6 @@ Tuk-tukem na molo Ranong Pier (10–15 minut, asi 50 THB na osobu, recepce ho za
 Lístek se kupuje v budkách na molu Ranong Pier, cestovní kanceláře na molu prodávají za stejnou cenu, ale nemusí mít celý jízdní řád. Rezervace předem není nutná, rychlých lodí jezdí dost. Online se dá koupit přes 12Go (u směru Ranong → Koh Phayam jsem tabulku nenašla, neověřeno), recenze tam ale radí rychlé lodě rezervovat předem. Víkend 5.–7. 12. je prodloužený (sekce 6), proto lístek radši kupte už večer 4. 12. nebo hned ráno (otevírací doba budek je neověřená).
 
 Odjezdy podle jízdního řádu z ledna 2024 (neověřeno): rychlé lodě asi od 7:30 do 11:30 po půlhodině a odpoledne ve 12:00, 13:00, 13:30, 14:30, 15:00, 15:30, 16:00, 16:30 a 17:00, provozují Surathat Group a Ting, 350 THB plus 5 THB poplatek, 35–45 minut. Pomalý trajekt stojí asi 200 THB, jede asi 2 hodiny a odjíždí ve 14:30 a některá rána (neověřeno, spoj nikdo z autorů nejel).
-
-#### Vodopád Ngao (volitelně)
-
-Asi 13 km jižně od Ranongu u silnice č. 4, Grabem 15–20 minut, vstup 100 THB, 8:30–16:30. K vodopádu 10–15 minut pěšky, v suché sezóně se dá koupat. Domluvte se s řidičem, ať počká, a vyrazte zpátky nejpozději kolem poledne, poslední loď na ostrov jede kolem 16:30.
 
 #### Po ostrově
 
@@ -308,11 +304,11 @@ Loď přistane na východě, pláže jsou na západě. Skútr si půjčte u mola
 - **Wat Koh Phayam:** jediný chrám na ostrově, u mola.
 - Šnorchlování tu moc nestojí za to, nechte ho na Koh Yao Noi.
 
-#### Kajak v mangrovech (volitelně)
+#### Kajak v mangrovech
 
 Mangrovy v jihozápadním rohu Ao Khao Kwai, kousek od ubytování. Klidné pádlování bez průvodce, ptáci a s trochou štěstí opice. Kde se kajak půjčuje, zjistěte na recepci. Jeďte při přílivu (sekce 8), nezajíždějte hluboko a vezměte dry bag. Poloha a půjčovna nejsou ověřené.
 
-#### Zářící plankton (volitelně)
+#### Zářící plankton
 
 Jeden průvodce ho v prosinci viděl při brodění u Ao Khao Kwai, záruka žádná. Jděte po setmění daleko od světel a rozhýbejte vodu. Nov měsíce je 9. 12., takže noci budou tmavé. Na recepci se zeptejte, jestli se v posledních dnech ukazuje.
 
@@ -326,7 +322,7 @@ Jeden průvodce ho v prosinci viděl při brodění u Ao Khao Kwai, záruka žá
 
 #### Mapy
 
-[Ranong](https://www.google.com/maps/search/?api=1&query=Ranong) · [horké prameny Raksa Warin](https://www.google.com/maps/search/?api=1&query=Raksawarin%20Hot%20Springs,%20Ranong) · [molo Ranong Pier](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier,%20Koh%20Phayam%20boats) · [vodopád Ngao](https://www.google.com/maps/search/?api=1&query=9.8558,98.6290) · [Koh Phayam](https://www.google.com/maps/search/?api=1&query=Koh%20Phayam) · [Ao Yai (Long Beach)](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Long%20Beach,%20Koh%20Phayam) · [Ao Khao Kwai (Buffalo Bay)](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai,%20Koh%20Phayam) · [Ao Kwang Peeb (Monkey Bay)](https://www.google.com/maps/search/?api=1&query=Ao%20Kwang%20Peeb,%20Koh%20Phayam)
+[Ranong](https://www.google.com/maps/search/?api=1&query=Ranong) · [horké prameny Raksa Warin](https://www.google.com/maps/search/?api=1&query=Raksawarin%20Hot%20Springs,%20Ranong) · [molo Ranong Pier](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier,%20Koh%20Phayam%20boats) · [Koh Phayam](https://www.google.com/maps/search/?api=1&query=Koh%20Phayam) · [Ao Yai (Long Beach)](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Long%20Beach,%20Koh%20Phayam) · [Ao Khao Kwai (Buffalo Bay)](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai,%20Koh%20Phayam) · [Ao Kwang Peeb (Monkey Bay)](https://www.google.com/maps/search/?api=1&query=Ao%20Kwang%20Peeb,%20Koh%20Phayam)
 
 ### Fáze 5: Khao Sok a jezero Cheow Lan (4 noci, 8.–12. 12.)
 
@@ -836,7 +832,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Vyhlídka a chrám Khao Daeng (Sam Roi Yot) | park 200 THB na osobu (platí jen ten den) | chrám je zdarma |
 | Kui Buri | vstup 200 THB na osobu, pickup s průvodcem 850–1 200 THB za vůz, vjezd auta 30 THB | vůz pro až 6 cizinců, cenu si nechte potvrdit |
 | Prachuap: Ao Manao a Khao Chong Krachok | chrám zdarma, vstup na pláž Ao Manao se platí hotově u brány základny | částka u brány není známá, počítejte s pasem |
-| Ranong: horké prameny a vodopád Ngao (volitelně) | prameny zdarma, taxi tam i zpět asi 100 THB za jízdu, vodopád 100 THB na osobu | taxi k vodopádu zjistěte na místě |
+| Ranong: horké prameny | prameny zdarma, taxi tam i zpět asi 100 THB za jízdu | asi 2 km východně od centra |
 | Koh Phayam | loď z Ranongu 350 THB na osobu jedním směrem, skútr 200–350 THB za den | chatka u pláže od asi 900 THB za noc |
 | Khao Sok, vstup do parku | 300–320 THB na osobu | platí 24 hodin |
 | Jezero Cheow Lan, balíček na 2 dny a 1 noc | 2 500–4 500 THB na osobu | doprava, jídlo, ubytování a kajaky |

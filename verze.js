@@ -419,5 +419,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "09533a5",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v33",
+    "datum": "6. 11. 2026",
+    "nazev": "Fáze 4: bez vodopádu Ngao",
+    "zmeny": [
+      "Fáze 4: z nabídky možností vyřazený volitelný výlet na vodopád Ngao u Ranongu. Obsah je uložený ve varianty/vodopad-ngao.md.",
+      "Sekce 0 (odkaz na variantu), sekce 3, seznam co uvidíte a Mapy u fáze 4 a rozpis zážitků v rozpočtu (sekce 14) odpovídají: odstraněné řádky a odkazy, u horkých pramenů zůstává taxi.",
+      "Fáze 4: kajak v mangrovech a zářící plankton už nejsou označené jako volitelné. V seznamu co uvidíte mají každý vlastní odrážku, nadpisy bloků jsou bez slova volitelně.",
+      "Počet fází (8) a noci (22) jsou beze změny. Součty rozpočtu se nepřepočítávají, vstup na vodopád byl 100 THB na osobu a součty jsou horní odhad."
+    ],
+    "commit": "9f7bac4",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
