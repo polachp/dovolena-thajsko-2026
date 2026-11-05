@@ -15,11 +15,12 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Dvojí rezervace na Koh Yao Noi (fáze 7):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
 - **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
 - **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
-- **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě Khao Sok (Bingo Hostel Khao Sok 8.–10. 12., Flora Hostel KhaoSok 8.–9. 12.), Krabi (Vacation House 12.–14. 12.) a Koh Yao Noi (Pyramid Bungalow a Tabeak View Point, 14.–18. 12.). Noci 10.–12. 12. v Khao Sok se řeší na místě, nezarezervovaný zůstává Phuket Town. Fáze 1 až 4 jsou potvrzené.
+- **Fáze 8 (Nai Yang):** program je nabídka možností, nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
+- **Ubytování ve fázích 5 až 8** je rezervované, kromě nocí 10.–12. 12. v Khao Sok, které se řeší na místě: Khao Sok (Bingo Hostel Khao Sok 8.–10. 12., Flora Hostel KhaoSok 8.–9. 12.), Krabi (Vacation House 12.–14. 12.), Koh Yao Noi (Pyramid Bungalow a Tabeak View Point, 14.–18. 12.) a Phuket (Wattana Bungalow v Nai Yang, 18.–19. 12.). Fáze 1 až 4 jsou potvrzené.
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
-Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md).
+Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md).
 
 ## 1. Úvod do Thajska: kultura, historie a perličky
 
@@ -114,7 +115,15 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 7 | Koh Yao Noi, Rice Paddy Restaurant | [8.1045, 98.6226](https://www.google.com/maps/search/?api=1&query=8.1045%2C98.6226) | Restaurace u Pasai, asi 300 m od Pyramid Bungalow, v pondělí zavřeno (neověřeno) |
 | 7 | Koh Yao Noi, Tha Ton Do | [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) | Rybářská vesnice na západě, molo u mangrovů a západ slunce (neověřeno) |
 | 8 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi, sem přijíždí lodě z Manoh i z Laem Sai |
-| 8 | Phuket Old Town, Thalang Road | [7.8848, 98.3890](https://www.google.com/maps/search/?api=1&query=7.8848%2C98.3890) | Historické centrum s architekturou, v neděli večer s trhem |
+| 8 | Nai Yang, ubytování Wattana Bungalow | [Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) | Potvrzeno 18.–19. 12., rezervováno přes Booking.com, check-in od 14:00, check-out do 12:00, zrušit zdarma do 16. 12. 23:59 thajského času |
+| 8 | Nai Yang, Nai Yang Fresh Market | [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) | Volitelně, místní trh s jídlem a drobnostmi, podle Google Maps denně 16:00–19:00 (neověřeno) |
+| 8 | Nai Yang, pláž | [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) | Klidná pláž s restauracemi na písku, západ slunce |
+| 8 | Mai Khao, pláž s letadly | [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) | Letadla přistávají nízko nad pláží, na procházku, ne na koupání |
+| 8 | Nai Thon, pláž | [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) | Volitelně, menší klidná pláž asi 10 minut jízdy od Nai Yang |
+| 8 | Sakhu, Phuket Elephant Care Observe | [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) | Volitelně, sloní lávka jen na pozorování, cenu, časy a rezervaci ověřit na webu provozovatele (neověřeno) |
+| 8 | Nai Yang, správa národního parku Sirinat | [Sirinat National Park, správa](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) | Vstup 200 THB, u pláže Nai Yang, park jsme kvůli odpadkům jako cíl procházky vyřadili |
+| 8 | Cherngtalay, Boat Avenue | [Boat Avenue](https://www.google.com/maps/search/?api=1&query=Boat%20Avenue%20Cherngtalay%20Phuket) | Volitelně, páteční trh Fun Friday, vzdálenost od Nai Yang neověřená |
+| 8 | Phuket, obchod Khun Mae Ju | [Khun Mae Ju](https://www.google.com/maps/search/?api=1&query=Khun%20Mae%20Ju%20Phuket) | Phuketské pochutiny na suvenýry, podle Phuket 101 cestou na letiště, otevřeno 7:30–19:00 (neověřeno) |
 
 **Pozor na Kui Buri:** Když zadáte jen „Kui Buri National Park“, navigace vás zavede k ředitelství parku (12.0516, 99.6240), ne k místu, odkud se vyráží na safari. Použijte odkaz z tabulky, nebo zadejte „Elephant Observatory Site“.
 
@@ -139,8 +148,8 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Vacation House → molo Nopparat Thara | taxi | asi 25 min (z Tub Kaek) | neověřeno |
 | Molo Nopparat Thara → Koh Yao Noi (molo Manoh) | rychlá loď | 30–45 min | od 650 |
 | Koh Yao Noi (molo Manoh nebo Laem Sai) → Phuket (molo Bang Rong) | rychlá loď | 30–50 min | 400–666 |
-| Molo Bang Rong → Phuket Town | taxi | asi 40 min | podle domluvy |
-| Phuket Town → letiště HKT | Grab, Bolt, taxi | neověřeno | neověřeno |
+| Molo Bang Rong → Nai Yang | taxi | asi 19 min | 13–16 USD za auto (Rome2rio, neověřeno) |
+| Nai Yang (Wattana Bungalow) → letiště HKT | Grab, Bolt, taxi | asi 7 min (podle inzerátu 2,8 km) | neověřeno |
 
 - **Z letiště BKK:** Nepoužívejte drahé letištní taxíky. Airport Rail Link je ve spodním podlaží terminálu (značky Airport Rail Link nebo Train), jezdí zhruba 5:30 až půlnoc a jde zaplatit i bezkontaktní kartou. V Makkasanu se přestupuje na metro krytou chodbou asi 200–400 m, s jinými turnikety i jízdným. Do starého města jeďte modrou linkou na Sam Yot. Po půlnoci Grab nebo taxi s taxametrem.
 - **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jízdenky se prodávají zhruba 30 dní předem přes 12Go.asia nebo na nádraží, na 30. 11. tedy od asi 31. 10. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
@@ -160,7 +169,7 @@ Trasa vede ze severu na jih a nikde se nevrací. Je to osnova: dny si poskládá
 | 5 | Khao Sok a jezero Cheow Lan | 4 | 8.–12. 12. |
 | 6 | Krabi | 2 | 12.–14. 12. |
 | 7 | Koh Yao Noi | 4 | 14.–18. 12. |
-| 8 | Phuket Town | 1 | 18.–19. 12. |
+| 8 | Phuket, Nai Yang | 1 | 18.–19. 12. |
 | | Celkem | 22 | 27. 11.–19. 12. |
 
 Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Co je ještě nedořešené, je v sekci 0.
@@ -492,42 +501,110 @@ Zvažovaná klidnější alternativa: Namtok Bungalows u Tha Khao (v džungli u 
 
 #### Přesun dál
 
-Pá 18. 12. rychlou lodí z Koh Yao Noi na molo Bang Rong na severovýchodě Phuketu, odtud taxi do Phuket Town. Časy a ceny jsou neověřené pro 18. 12., zdroje se v časech liší a provozovatelé je mění bez upozornění.
+Pá 18. 12. rychlou lodí z Koh Yao Noi na molo Bang Rong na severovýchodě Phuketu, odtud taxi do Nai Yang (ubytování Wattana Bungalow, fáze 8). Časy a ceny jsou neověřené pro 18. 12., zdroje se v časech liší a provozovatelé je mění bez upozornění.
 
 Dvě mola, ze kterých se dá jet:
 
 - **Molo Manoh** (hlavní přístav): rychlé lodě asi v 6:30, 9:00, 10:00, 11:30, 13:00, 14:30 a 16:00 (poslední), cesta asi 30 minut, 400 až 666 THB za osobu podle provozovatele. Dál Green Planet v 11:50 (asi 50 minut, 400 THB) a longtail v 8:00 (asi 1 hodina, 400 THB). Starší stránka jednoho hotelu uvádí poslední loď až v 16:40.
 - **Molo Laem Sai:** přímá loď Koh Yao Sun Smile asi v 6:15, 10:15, 12:45 a 14:45 (poslední), cesta asi 45 minut, 400 až 500 THB za osobu. V potvrzení Pyramid Bungalow je adresa Ban Laem Sai, na mapě se podívejte, které molo je k ubytování blíž (neověřeno).
 
-Obě lodě končí na molu Bang Rong. Odtud taxi do Phuket Town asi 40 minut (podle Rome2rio spíš 25 až 30 minut a kolem 17 až 21 USD, neověřeno). Jestli u mola jezdí Grab nebo Bolt, je neověřené.
+Obě lodě končí na molu Bang Rong. Odtud taxi do Nai Yang asi 19 minut a kolem 13 až 16 USD za auto (podle Rome2rio, neověřeno). Jestli u mola jezdí Grab nebo Bolt, je neověřené.
 
 **Lístek:** koupit online 2 až 3 dny předem, tedy kolem 15. až 16. 12., až je vidět předpověď moře. Jde to na [phuketferry.com](https://phuketferry.com/) (hledejte trasu Koh Yao Noi to Phuket), přes 12Go, nebo přímo u provozovatele přes web, WhatsApp či Line. U online nákupu je u spojů uvedené „Refund available“ a „Amend available“ (vrácení a změna), přesné podmínky storna zkontrolujte před platbou. Když se loď kvůli počasí zruší, nabízí web změnu na další spoj nebo vrácení peněz. Lístek je QR voucher v telefonu, na molo přijďte aspoň 30 minut před odjezdem.
 
-**Špatné počasí:** rychlé lodě se při rozbouřeném moři ruší jako první, podle Travelfish i na několik dní. Nejezděte poslední lodí, vezměte spoj kolem 11:30 až 13:00, aby zbyl další. Ráno 18. 12. se zeptejte hostitele, jestli lodě jedou. Kdyby 18. 12. nic nejelo, zkuste to 19. 12. od rána, odlet je až večer.
+**Špatné počasí:** rychlé lodě se při rozbouřeném moři ruší jako první, podle Travelfish i na několik dní. Nejezděte poslední lodí, vezměte spoj kolem 11:30 až 13:00, aby zbyl další. Ráno 18. 12. se zeptejte hostitele, jestli lodě jedou. Kdyby 18. 12. nic nejelo, zkuste to 19. 12. od rána, odlet je až ve 21:00 (noc ve Wattana Bungalow by ale propadla, viz fáze 8).
 
 #### Mapy
 
 [Pyramid Bungalow](https://www.google.com/maps/search/?api=1&query=8.1068,98.6225) · [Tabeak View Point](https://www.google.com/maps/search/?api=1&query=8.1087,98.6206) · [pláž Pasai](https://www.google.com/maps/search/?api=1&query=8.1001,98.6199) · [pláž Tha Khao](https://www.google.com/maps/search/?api=1&query=8.1300,98.6223) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [molo Laem Sai](https://www.google.com/maps/search/?api=1&query=Laem%20Sai%20Pier%20Koh%20Yao%20Noi) · [ostrov Koh Nok](https://www.google.com/maps/search/?api=1&query=8.0802,98.6269) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) · [NAMM NATAWN](https://www.google.com/maps/search/?api=1&query=8.1323,98.5958) · [Viewpoint on Ricefields and Ocean](https://www.google.com/maps/search/?api=1&query=8.1243,98.5959) · [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) · [vyhlídka Hornbill](https://www.google.com/maps/search/?api=1&query=Hornbill%20Viewpoint%20Koh%20Yao%20Noi)
 
-### Fáze 8: Phuket Town, historie, trhy a odlet (1 noc, 18.–19. 12.)
+### Fáze 8: Phuket, Nai Yang, pláže, letadla, trh a odlet (1 noc, 18.–19. 12.)
 
-Poslední večer ve starém městě místo plážových letovisek. Noc na Phuketu je pojistka: lodě se za špatného počasí ruší.
+Poslední noc v klidné vesnici Nai Yang na severu Phuketu, pár minut od letiště. Program je jen nabídka možností, v sobotu 19. 12. odlétáte ve 21:00 a den si poskládáte na místě. Noc na Phuketu je zároveň pojistka: lodě se za špatného počasí ruší.
 
-- **Thalang Road:** čínsko-portugalská architektura, kavárny a svatyně.
-- **Večeře:** mookata (stolní gril s vývarem) nebo mořské plody.
-- **Phuket Elephant Sanctuary (volitelně):** bez jízd, koupání a triků, jen procházky a pozorování.
+- **Nai Yang:** vesnice u klidné pláže s malými restauracemi přímo na písku a západy slunce, voda je mělká.
+- **Trh Nai Yang Fresh Market (volitelně):** malý místní trh s jídlem a drobnostmi, podle Google Maps denně 16:00–19:00 (neověřeno).
+- **Letadla nad pláží (volitelně):** velká letadla přistávají nízko nad pláží u letiště, na koukání a procházku, ne na koupání.
+- **Procházky po plážích (volitelně):** lehké trasy po písku mezi plážemi Mai Khao, Nai Yang a Nai Thon, asi 4 až 6 km.
+- **Sloní lávka Observe (volitelně):** lávka bez schodů v Sakhu, slony pozorujete z plošin, bez koupání a dotyků, nerezervováno.
+- **Fun Friday na Boat Avenue (volitelně):** páteční večerní trh s jídlem a suvenýry u Bang Tao, vzdálenost od Nai Yang neověřená.
+
+#### Program (možnosti, vybere se na místě)
+
+Nic z toho není pevné. Pevné jsou jen lodě a odlet.
+
+- **Pá 18. 12.:** loď z Koh Yao Noi, taxi z mola Bang Rong do Nai Yang (asi 19 minut, neověřeno), check-in od 14:00. Odpoledne a večer na výběr: trh Nai Yang Fresh Market od 16:00, západ slunce na pláži, večeře v restauraci na pláži, nebo taxi na Fun Friday na Boat Avenue.
+- **So 19. 12. ráno:** na výběr sloní lávka Observe, procházka po pláži Mai Khao nebo Nai Yang s letadly, snídaně v Nai Yang. Odhlášení do 12:00.
+- **So 19. 12. odpoledne:** zavazadla nechat v ubytování (neověřeno), pláž nebo kavárna, suvenýry cestou na letiště. Na letišti být asi v 18:00, viz Odlet.
+
+#### Nai Yang: vesnice, pláž a jídlo
+
+Nai Yang je malá vesnice a klidná pláž, kam se jezdí na letadla, jídlo na písku a západy slunce. Na poslední noc se hodí, protože je to pár minut od letiště a skoro žádný noční život tam není. Vzdálenost od letiště uvádějí zdroje různě (3 až 7,5 km).
+
+- **Jídlo:** u pláže je několik desítek malých restaurací, nejlépe se tam obědvá a večeří přímo na písku. Zdroje jmenují The Good View (thajská kuchyně, dobré ceny), Sea Almond (západ slunce, jídlo podle jednoho zdroje nic moc), Big Fish Bar and Grill v hotelu Marriott (mořské plody) a Black Ginger v hotelu The Slate (dražší). Pouliční jídlo a ovoce jsou levné. Vše neověřeno.
+- **Voda:** prosinec je hlavní sezóna (listopad až duben), moře je klidné, mělké a méně modré než jinde. Na pláži hlídejte vlajky, v monzunu jsou silné proudy.
+- **Odpadky:** pláž Nai Yang patří k národnímu parku Sirinat. Zprávy z února 2025 píší o 200 až 300 kg denně neodvezeného odpadu v parku a recenze z roku 2026 se rozcházejí (jedna pláž chválí, dvě si stěžují na smetí). Které úseky jsou nejhorší, zprávy neříkají, před koupáním se na pláž podívejte.
+- **Parkování:** ulice k pláži je úzká a končí slepě, parkuje se u prvních restaurací.
+
+#### Trh Nai Yang Fresh Market (volitelně)
+
+Malý místní trh s čerstvým ovocem, zeleninou, mořskými plody, hotovými thajskými jídly, kokosovými palačinkami a drobnostmi (oblečení, hračky). Suvenýrový trh to není. Proč jít: ochutnat místní jídlo mezi místními, bez davů, bez smlouvání.
+
+- **Kde:** naproti chrámu Wat Mongkhon Wararam na cestě k pláži Nai Yang, chrám je asi 500 m od pláže vedle hotelu Proud Phuket.
+- **Kdy:** podle Google Maps (stav z 5. 11. 2026) každý den 16:00–19:00, ve čtvrtek od 12:00. Starší zdroje uvádějí jen vybrané dny: út, čt, so 12:00–20:00 (Thailand Magazine), út, čt, so, ne kolem 16:00–19:00 (Phuket 101). V pátek 18. 12. má být podle Googlu otevřeno, ověřit na místě.
+- **Pozor:** Google popisuje místo jako obchod s potravinami v retro stylu s místními produkty, hotovými jídly a vínem, takže jde možná o jiný podnik s podobným názvem. Stánky se balí kolem 18:00, jít brzy po 16:00.
+- **Sobota:** trh končí v 19:00, na letišti máte být asi v 18:00, takže se hodí spíš na pátek večer.
+
+#### Letadla a procházky po plážích (volitelně)
+
+Letiště leží těsně u pláže Mai Khao a letadla tam přistávají nízko nad pláží. Je to pěkné na focení a koukání, plavání se tam nedoporučuje kvůli proudům (zdroje se rozcházejí). Nejlepší období je prosinec až duben, v kolik hodin jich přistává nejvíc, se zdroje liší a neověřili jsme to. Podle jedné recenze jdou letadla vidět i z pláže Nai Yang (neověřeno). Nejhorší horko a hluk jsou u plotu letiště.
+
+Trasy podle AllTrails, časy orientační:
+
+- **Mai Khao do Nai Yang:** lehká, asi 4 km a asi 54 minut, písek podél borového lesa, začátek na pláži Mai Khao. Je to cesta k místu s letadly.
+- **Nai Thon do Nai Yang:** lehká, asi 6 km a asi 1 hodina 40 minut, po písku a přes borový les s výhledy.
+- **Okruh Nai Thon, Nai Yang a zpět po místních ulicích:** střední, asi 10 km, necelé 3 hodiny.
+- **Okruh v kopcích u Nai Thon:** střední, asi 8 km, asi 2 hodiny 45 minut, přes les, kaučukové plantáže a vesnice, začátek na úzké silnici.
+- **Nai Yang do Sai Kaew:** těžká, asi 26 km, nedoporučujeme.
+
+Při přílivu bývá chůze po pláži těžší (podle jedné recenze), písek je horký, vezměte vodu a krém. Jestli se platí vstup do parku Sirinat i za samotnou procházku po pláži, nevíme (viz Další možnosti).
+
+#### Sloní lávka Observe v Sakhu (volitelně)
+
+Sloní útočiště Phuket Elephant Care, program Observe (v Google Maps Phuket Elephant Care Observe @ Sakhu, 5,0 z 80 recenzí). Podle webu provozovatele 100 % jen pozorování: 120 m dlouhá lávka bez schodů džunglí v Sakhu, slony pozorujete z vyvýšených plošin, bez koupání a dotyků. Proč: odpovídá našemu pravidlu (žádné jízdy, koupání ani mazlení) a slony vidíte zblízka bez zásahu do jejich chování.
+
+- **Cena, délka, časy, storno:** neznáme (neověřeno). Rezervace tlačítkem Book Visit na webu provozovatele (phuketelephant.care, podstránka Observe).
+- **Skupina:** podle webu maximálně 20 hostů (věta na screenu byla useknutá), lávka je bezbariérová, se zábradlím.
+- **Poloha:** Sakhu, oblast Nai Yang a Nai Thon, vzdálenost od ubytování neověřená.
+- **Pozor na záměnu:** Phuket Elephant Care Sanctuary u Nai Thon nabízí koupání, bahenní lázeň a mytí slonů, takže nesplňuje pravidlo. Phuket Elephant Sanctuary u Paklok je jiný podnik, který má také vlastní Canopy Walkway.
+- **Druhá možnost:** Phuket Elephant Sanctuary u Paklok, jen pozorování bez koupání podle oficiálního webu. Podle blogu prodejce půldenní program od asi 3 000 THB a lávka (Canopy Walkway) od asi 1 900 THB, termíny se rychle vyprodávají (neověřeno).
+
+#### Další možnosti, suvenýry a co jsme vyřadili
+
+- **Pláž Nai Thon (volitelně):** menší klidná pláž asi 10 minut jízdy od Nai Yang a asi 7 km od letiště (Lonely Planet), jemný písek a západy slunce. Restaurace a ubytování jsou většinou přes silnici: Shameena (thajská rodinná restaurace, asi 30 jídel), Vero Trattoria v hotelu Pullman, Inthanin na písku. Plavání je dobré mimo vrchol monzunu, hlídejte vlajky. Dřevěné schody na severním konci chátrají. Značka Bare rock (Mortuletti hiking area) u severního konce pláže je jen uživatelská značka s jednou recenzí, vyznačená cesta tam podle všeho není (neověřeno).
+- **Fun Friday Avenue Market (volitelně):** jen v pátek na Boat Avenue v Cherngtalay u Bang Tao. Čas se v zdrojích liší (začátek 16:00 nebo 17:00, konec 21:00 až 23:00). Vařená jídla (grilované mořské plody, špízy, dezerty), oblečení, ruční výrobky a suvenýry. Je malý, projdete ho za asi hodinu, chodí místní, dlouhodobí cizinci i turisté. Parkování je ve špičce omezené, jeďte taxi nebo Grabem. Vzdálenost od Nai Yang jsem nenašla, z Layanu je to asi 15 minut, počítejte s 20 až 30 minutami (odhad).
+- **Suvenýry:** podle Phuket 101 se z Phuketu vozí slonové kalhoty (100 až 400 THB, trhy), kešu ořechy a sušené mango (supermarket), mýdla vyřezávaná do tvaru květin, kokosové misky, plyšoví sloni a šátky z thajského hedvábí. Kde: Fun Friday, supermarket Tops na Boat Avenue (kešu a mango) a obchod Khun Mae Ju s phuketskými pochutinami na cestě na letiště (7:30–19:00, neověřeno). Trh v Nai Yang suvenýry nemá, jen oblečení a hračky. Obchody na letišti jsme neověřovali. Nevyvážejte sochy Buddhy, mušle ani korály. Odbavené zavazadlo v tarifu Comfort je 30 kg (sekce 16).
+- **Národní park Sirinat (spíš ne):** vstup 200 THB za dospělého cizince, 100 THB za dítě, otevřeno 8:30–16:30 (jinde 8:00), správa parku je u pláže Nai Yang. Jedna recenze píše, že před 8:00 a po 16:00 se neplatí (neověřeno). Prkenná stezka v mangrovech je podle zdroje u správy parku, přesný začátek jsme nenašli. Park jsme kvůli odpadkům jako cíl procházky vyřadili.
+- **Vodopád Bang Pae (nedoporučujeme):** malý vodopád bez jezírka na koupání, vstup 200 THB, 8:00–16:30. Sousední záchranná stanice pro gibony návštěvníky nepouští.
+- **Phuket Town:** původní plán (Thalang Road, mookata, nedělní Walking Street) je ve [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md).
 
 #### Odlet
 
-So 19. 12. přímo z Phuketu (hodinu letu ověřte v e-ticketu, sekce 16). Na letiště Grabem, Boltem nebo taxi, doba jízdy neověřená. Nedělní Walking Street na Thalang Road nevychází, v pátek tu budete.
+So 19. 12. let EY 413 z Phuketu (HKT) ve 21:00, Terminal I (podle e-ticketu), v Abu Dhabi přestup na EY 155 v neděli 20. 12. ve 2:40, přílet do Prahy v 6:15. Z ubytování se odhlašuje do 12:00, do odletu zbývá asi 9 hodin: zavazadla nechat v ubytování (neověřeno, inzerát uvádí úschovu zavazadel), nebo je vzít na letiště.
+
+Na letiště dorazit aspoň 3 hodiny před odletem, tedy asi v 18:00 (doporučení ze sekce 16, ne pravidlo Etihadu). Online odbavení se otevírá 30 hodin před odletem, to vychází asi na 18. 12. odpoledne (sekce 16). Z Wattana Bungalow na letiště je podle inzerátu asi 2,8 km a 7 minut autem, Grabem, Boltem nebo taxi (cena a dostupnost neověřené).
 
 #### Ubytování
 
-Nerezervováno, zamluvte, jakmile znáte hodinu odletu.
+Rezervováno: **Wattana Bungalow** (Booking.com), 1 noc 18.–19. 12., dvoulůžkový pokoj Standard s manželskou postelí nebo oddělenými postelemi. Cena asi 1 700 THB podle poplatku za zrušení, který je 100 % ceny (pokoj 1 432,18 THB plus DPH 100,25 THB, další položky na potvrzení vidět nebyly), asi 1 100 Kč. Check-in od 14:00, check-out do 12:00. Adresa: 92/3 Moo 5, T. Saku, A. Thalang, Phuket 83110 (Nai Yang pláž). Telefon +66 89 588 9165. Zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), od 17. 12. se platí celá cena 1 700 THB.
+
+Podle inzerátu (Trip.com, neověřeno): sedm pokojů s klimatizací, recepce 24 hodin, úschova zavazadel, snídaně není, bar a obchůdek, odvoz na letiště hostitel nenabízí. Hodnocení 9,2 z 10 (Booking.com, na Trip.com ze 204 recenzí). Neověřeno: vzdálenost k pláži a k trhu.
+
+Riziko: zrušit zdarma jde jen do 16. 12., přitom lístek na loď se kupuje kolem 15. až 16. 12. podle předpovědi moře. Kdyby lodě 18. 12. nejely a jelo se až 19. 12., noc by propadla. Zvažované alternativy, které nejsou rezervované: Maikhao Beach Guest House (Mai Khao, u pláže s letadly, 9,4 z 10) a Suwita House (Nai Yang).
 
 #### Mapy
 
-[Phuket Old Town, Thalang Road](https://www.google.com/maps/search/?api=1&query=7.8848,98.3890) · [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496,98.4159)
+[Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) · [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) · [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) · [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) · [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) · [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) · [správa parku Sirinat](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) · [Boat Avenue](https://www.google.com/maps/search/?api=1&query=Boat%20Avenue%20Cherngtalay%20Phuket) · [Khun Mae Ju](https://www.google.com/maps/search/?api=1&query=Khun%20Mae%20Ju%20Phuket) · [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496,98.4159)
 
 ## 6. Počasí, teploty a deště (listopad a první polovina prosince)
 
@@ -742,13 +819,14 @@ Rehydratační sáčky, náplasti a obvaz, dezinfekce, přípravek na spáleniny
 Rozpočet platí pro dva lidi na 22 nocí podle trasy s Koh Phayam a autem v Hua Hin, bez letenek a pojištění. Částky jsou v thajských bahtech. Pro přepočet je vynásobte 0,65: 100 THB je asi 65 Kč a 1 000 THB asi 650 Kč. Položky s poznámkou „odhad“ jsou hrubé odhady, ostatní vycházejí z cen uvedených výše. Před cestou ceny ověřte.
 | Položka | Úsporně (THB) | Pohodlněji (THB) | Poznámka |
 |---|---|---|---|
-| Ubytování | 14 500 | 33 000 | odhad: 650–1 500 THB za noc za pokoj pro dva, 22 nocí |
+| Ubytování, 21 nocí | 13 650 | 31 500 | odhad: 650–1 500 THB za noc za pokoj pro dva |
+| Ubytování, noc v Nai Yang (Wattana Bungalow) | 1 700 | 1 700 | rezervováno, cena z potvrzení Booking.com |
 | Jídlo a pití | 15 500 | 26 500 | odhad: 350–600 THB na osobu a den, porce pouličního jídla vychází na 40–70 THB |
 | Přesuny po Thajsku | 11 600 | 17 100 | odhad podle cen v sekci 4, včetně auta v Hua Hin na 3 dny (asi 2 700 THB plus benzín odhadem 1 000 THB) a lodí na Koh Phayam (asi 1 400 THB za dva) |
 | Zážitky a vstupy | 22 700 | 36 700 | rozpis níže; úsporně bez Dragon Crest, půjčení kola nebo skútru a sloního útočiště, pohodlněji včetně nich |
-| Celkem | asi 64 000 (41 500 Kč) | asi 113 000 (73 500 Kč) | pro dva, bez letenek a pojištění |
+| Celkem | asi 65 150 (42 300 Kč) | asi 113 500 (73 800 Kč) | pro dva, bez letenek a pojištění |
 
-Součty zatím nepřepočítávají změnu ve verzi 21 (Krabi 2 noci, Noi 4 noci, kajaky na Koh Yao Noi místo Ao Thalane). Položky mimo plán v nich zůstávají, takže jde o horní odhad.
+Součty zatím nepřepočítávají změnu ve verzi 21 (Krabi 2 noci, Noi 4 noci, kajaky na Koh Yao Noi místo Ao Thalane). Položky mimo plán v nich zůstávají, takže jde o horní odhad. Od verze 30 je noc v Nai Yang (Wattana Bungalow, 18.–19. 12.) vyčleněná zvlášť podle rezervace, 1 700 THB, což je nad původním rozpětím 650–1 500 THB za noc. Celkový odhad se tím zvýšil o asi 850 THB (asi 550 Kč) v úsporné variantě a o asi 200 THB (asi 130 Kč) v pohodlnější, protože horní hranice 1 500 THB za noc už počítala s dražšími pokoji. Z ostatních rezervovaných nocí vychází Tabeak View Point asi 1 100 THB, Vacation House asi 1 170 THB a Pyramid Bungalow asi 1 290 THB za noc.
 
 Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestování po Thajsku na 25–50 USD na den a pohodlnější na 60–120 USD.
 
@@ -777,6 +855,9 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Koh Yao Noi: kolo, skútr, songthaew | asi 200 THB, 250–350 THB za den, 100–200 THB za jízdu | skútr jen s oprávněním (sekce 11), u Pyramid Bungalow podle recenzí asi 200–250 THB (neověřeno) |
 | Půldenní šnorchlovací výlet | pod 2 000 THB na osobu | včetně masky, šnorchlu a ploutví |
 | Etické sloní útočiště (volitelně) | 50–80 USD na osobu | typické rozpětí půldenního programu, mimo plán od v21 (varianty) |
+| Phuket: taxi z mola Bang Rong do Nai Yang | 13–16 USD za auto | Rome2rio, neověřeno, Grab nebo Bolt u mola neověřené |
+| Phuket: sloní lávka Observe v Sakhu (volitelně) | cena neznámá | podle webu jen pozorování, srovnatelné pozorovací programy u jiných útočišť stojí kolem 42 USD za dvě hodiny s odvozem (neověřeno) |
+| Phuket: národní park Sirinat (spíš ne) | 200 THB dospělý cizinec, 100 THB dítě | jeden zdroj, neověřeno, jestli se platí i za pobyt na pláži |
 
 ### Kde ušetřit a kde se vyplatí připlatit
 

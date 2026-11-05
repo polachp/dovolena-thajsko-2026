@@ -2,6 +2,18 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v30: Phuket: Nai Yang a možnosti na poslední den (5. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v30/) · [Markdown](verze/v30/thajsko-bangkok-phuket.md) · [rozdíl proti v29](https://github.com/polachp/dovolena-thajsko-2026/compare/05277b0...1323dac)
+
+- Fáze 8: poslední noc 18.–19. 12. přesunutá z Phuket Town do vesnice Nai Yang u letiště, ubytování Wattana Bungalow je rezervované přes Booking.com (zrušit zdarma do 16. 12. 23:59 thajského času, v Česku v 17:59). Původní podoba fáze 8 je ve varianty/phuket-town.md.
+- Fáze 8 je nově nabídka možností, ne pevný program: trh Nai Yang Fresh Market, letadla nad pláží Mai Khao, procházky po plážích Mai Khao, Nai Yang a Nai Thon, sloní lávka Observe v Sakhu (jen pozorování), páteční trh Fun Friday na Boat Avenue, suvenýry. Cena, časy a hodiny jsou u většiny neověřené a jsou tak označené.
+- Fáze 8, odlet: doplněný let EY 413 z Phuketu v sobotu 19. 12. ve 21:00 (Terminal I) a přestup v Abu Dhabi na EY 155 v neděli 20. 12. ve 2:40, přílet do Prahy v 6:15.
+- Fáze 7, Přesun dál: z mola Bang Rong taxi do Nai Yang (asi 19 minut, neověřeno) místo Phuket Town.
+- Sekce 0, 3, 4 a 5: nové místo, přesun a upozornění na termín zrušení Wattana Bungalow, který vychází na stejnou dobu jako nákup lístku na loď.
+- Sekce 14, rozpočet: noc v Nai Yang vyčleněná zvlášť podle rezervace (1 700 THB), zbylých 21 nocí zůstává v odhadu 650–1 500 THB. Celkový odhad vychází asi 65 150 THB (42 300 Kč) úsporně a asi 113 500 THB (73 800 Kč) pohodlněji. Nové řádky: taxi z mola, sloní lávka Observe a vstup do parku Sirinat.
+- Počet fází (8) a celkový počet nocí (22) jsou beze změny.
+
 ## v29: Khao Sok: sloní útočiště (5. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v29/) · [Markdown](verze/v29/thajsko-bangkok-phuket.md) · [rozdíl proti v28](https://github.com/polachp/dovolena-thajsko-2026/compare/c11af34...05277b0)
