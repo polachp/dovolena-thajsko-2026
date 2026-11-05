@@ -333,7 +333,7 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Řeka Sok:** tubing, kánoe nebo vor.
 - **Vodopád Than Sawan (volitelně):** celodenní túra s průvodcem.
 - **Čtyřkolky (volitelně):** 1,5 až 2 hodiny jízdy džunglí s průvodcem, odvoz z ubytování zdarma, od 1 500 THB na osobu.
-- **Sloní útočiště (volitelně):** krátká návštěva útočiště pro slony ve vesnici Khlong Sok, bez jízd, program se ještě ověřuje.
+- **Sloní útočiště (volitelně):** krátká návštěva útočiště pro slony ve vesnici Khlong Sok, objednání přes WhatsApp nebo přes ubytování.
 - **Noční safari (volitelně):** hodně pavouků, rozhodnout až na místě (sekce 12).
 
 #### Noc na jezeře (zatím nerozhodnuto)
@@ -371,7 +371,7 @@ Co to je: útočiště pro slony ve vesnici Khlong Sok, kde se chodí se slony p
 - **Délka a odvoz:** podle prodejce Trazy asi 1,5 hodiny na místě, odjezdy z hotelu v 8:00, 10:00, 13:00 a 15:00, zdarma jen z ubytování do 2 km od vesnice (neověřeno u útočiště). Google radí přijít v 16:00 na kratší a klidnější program (shrnutí recenzí, neověřeno).
 - **Co program obsahuje, zdroje si odporují:** blog Couples Travel Stories doporučuje program Elephant Care, tedy procházku vedle slonů s výkladem bez vynucené interakce. Recenze na Tripadvisoru z 25. 1. 2026 píše, že se sloni do koupání nenutí a skupina byla malá. Prodejní stránka Trazy ale uvádí koupání v bahně, dotyky a hraní.
 - **Na co se zeptat před rezervací:** jestli je koupání nebo dotýkání součástí programu (vybrat program bez nich), kolik lidí je ve skupině, cena (zatím neznámá), odvoz z ubytování a volný termín 10.–12. 12.
-- **Rezervace:** tlačítkem Rezervovat na Google Maps nebo zprávou útočišti.
+- **Rezervace:** přes WhatsApp nebo přes ubytování, případně tlačítkem Rezervovat na Google Maps nebo zprávou útočišti.
 - **Pozor na záměnu:** Khao Sok Elephant Conservation Centre je jiné místo, podle jedné recenze tam koupání vynucují.
 
 #### Vstupy a sezóna

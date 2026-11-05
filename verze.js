@@ -455,5 +455,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "6e34982",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v36",
+    "datum": "6. 11. 2026",
+    "nazev": "Khao Sok: sloní útočiště, objednání přes WhatsApp nebo ubytování",
+    "zmeny": [
+      "Fáze 5, seznam co uvidíte: u sloního útočiště vypuštěné „bez jízd, program se ještě ověřuje“ a doplněno, že se objednává přes WhatsApp nebo přes ubytování. Stejné doplnění je v bloku Sloní útočiště, v řádku Rezervace.",
+      "Nedořešený program a cena útočiště zůstávají v bloku Sloní útočiště, v sekci 3 a v sekci 0.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "c73a5bd",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

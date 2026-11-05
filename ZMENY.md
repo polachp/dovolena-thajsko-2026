@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v36: Khao Sok: sloní útočiště, objednání přes WhatsApp nebo ubytování (6. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v36/) · [Markdown](verze/v36/thajsko-bangkok-phuket.md) · [rozdíl proti v35](https://github.com/polachp/dovolena-thajsko-2026/compare/6e34982...c73a5bd)
+
+- Fáze 5, seznam co uvidíte: u sloního útočiště vypuštěné „bez jízd, program se ještě ověřuje“ a doplněno, že se objednává přes WhatsApp nebo přes ubytování. Stejné doplnění je v bloku Sloní útočiště, v řádku Rezervace.
+- Nedořešený program a cena útočiště zůstávají v bloku Sloní útočiště, v sekci 3 a v sekci 0.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v35: Khao Sok: Than Sawan volitelně, čtyřkolky upřesněné (6. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v35/) · [Markdown](verze/v35/thajsko-bangkok-phuket.md) · [rozdíl proti v34](https://github.com/polachp/dovolena-thajsko-2026/compare/8ea5ca9...6e34982)
