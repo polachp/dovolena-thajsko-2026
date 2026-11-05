@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v35: Khao Sok: Than Sawan volitelně, čtyřkolky upřesněné (6. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v35/) · [Markdown](verze/v35/thajsko-bangkok-phuket.md) · [rozdíl proti v34](https://github.com/polachp/dovolena-thajsko-2026/compare/8ea5ca9...6e34982)
+
+- Fáze 5: vodopád Than Sawan je označený jako volitelný (seznam co uvidíte, blok Ve vesnici a řádek v sekci 3).
+- Fáze 5, čtyřkolky: doplněno, že provozovatelem je záznam Khao Sok ATV Adventure v Google Maps (turistická atrakce, hodnocení 5,0 z 420 recenzí, stav z 6. 11. 2026), v textu fáze i v sekci 3.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v34: Koh Phayam: doprava se objedná v přístavu (6. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v34/) · [Markdown](verze/v34/thajsko-bangkok-phuket.md) · [rozdíl proti v33](https://github.com/polachp/dovolena-thajsko-2026/compare/9f7bac4...8ea5ca9)

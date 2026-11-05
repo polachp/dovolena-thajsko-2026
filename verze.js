@@ -443,5 +443,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "8ea5ca9",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v35",
+    "datum": "6. 11. 2026",
+    "nazev": "Khao Sok: Than Sawan volitelně, čtyřkolky upřesněné",
+    "zmeny": [
+      "Fáze 5: vodopád Than Sawan je označený jako volitelný (seznam co uvidíte, blok Ve vesnici a řádek v sekci 3).",
+      "Fáze 5, čtyřkolky: doplněno, že provozovatelem je záznam Khao Sok ATV Adventure v Google Maps (turistická atrakce, hodnocení 5,0 z 420 recenzí, stav z 6. 11. 2026), v textu fáze i v sekci 3.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "6e34982",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
