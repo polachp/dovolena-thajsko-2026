@@ -395,5 +395,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "1323dac",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v31",
+    "datum": "6. 11. 2026",
+    "nazev": "Phuket: bez Fun Friday a suvenýrů",
+    "zmeny": [
+      "Fáze 8: z nabídky možností vyřazený páteční trh Fun Friday na Boat Avenue a tipy na suvenýry (obchod Khun Mae Ju, supermarket Tops). Obsah je uložený ve varianty/phuket-fun-friday-suvenyry.md.",
+      "Sekce 0, sekce 3 a Mapy u fáze 8 odpovídají: odstraněné řádky a odkazy.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "b95e340",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

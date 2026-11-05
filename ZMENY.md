@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v31: Phuket: bez Fun Friday a suvenýrů (6. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v31/) · [Markdown](verze/v31/thajsko-bangkok-phuket.md) · [rozdíl proti v30](https://github.com/polachp/dovolena-thajsko-2026/compare/1323dac...b95e340)
+
+- Fáze 8: z nabídky možností vyřazený páteční trh Fun Friday na Boat Avenue a tipy na suvenýry (obchod Khun Mae Ju, supermarket Tops). Obsah je uložený ve varianty/phuket-fun-friday-suvenyry.md.
+- Sekce 0, sekce 3 a Mapy u fáze 8 odpovídají: odstraněné řádky a odkazy.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v30: Phuket: Nai Yang a možnosti na poslední den (5. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v30/) · [Markdown](verze/v30/thajsko-bangkok-phuket.md) · [rozdíl proti v29](https://github.com/polachp/dovolena-thajsko-2026/compare/05277b0...1323dac)

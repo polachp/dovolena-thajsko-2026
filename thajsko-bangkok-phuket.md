@@ -20,7 +20,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
-Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md).
+Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md).
 
 ## 1. Úvod do Thajska: kultura, historie a perličky
 
@@ -122,8 +122,6 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 8 | Nai Thon, pláž | [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) | Volitelně, menší klidná pláž asi 10 minut jízdy od Nai Yang |
 | 8 | Sakhu, Phuket Elephant Care Observe | [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) | Volitelně, sloní lávka jen na pozorování, cenu, časy a rezervaci ověřit na webu provozovatele (neověřeno) |
 | 8 | Nai Yang, správa národního parku Sirinat | [Sirinat National Park, správa](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) | Vstup 200 THB, u pláže Nai Yang, park jsme kvůli odpadkům jako cíl procházky vyřadili |
-| 8 | Cherngtalay, Boat Avenue | [Boat Avenue](https://www.google.com/maps/search/?api=1&query=Boat%20Avenue%20Cherngtalay%20Phuket) | Volitelně, páteční trh Fun Friday, vzdálenost od Nai Yang neověřená |
-| 8 | Phuket, obchod Khun Mae Ju | [Khun Mae Ju](https://www.google.com/maps/search/?api=1&query=Khun%20Mae%20Ju%20Phuket) | Phuketské pochutiny na suvenýry, podle Phuket 101 cestou na letiště, otevřeno 7:30–19:00 (neověřeno) |
 
 **Pozor na Kui Buri:** Když zadáte jen „Kui Buri National Park“, navigace vás zavede k ředitelství parku (12.0516, 99.6240), ne k místu, odkud se vyráží na safari. Použijte odkaz z tabulky, nebo zadejte „Elephant Observatory Site“.
 
@@ -527,15 +525,14 @@ Poslední noc v klidné vesnici Nai Yang na severu Phuketu, pár minut od letiš
 - **Letadla nad pláží (volitelně):** velká letadla přistávají nízko nad pláží u letiště, na koukání a procházku, ne na koupání.
 - **Procházky po plážích (volitelně):** lehké trasy po písku mezi plážemi Mai Khao, Nai Yang a Nai Thon, asi 4 až 6 km.
 - **Sloní lávka Observe (volitelně):** lávka bez schodů v Sakhu, slony pozorujete z plošin, bez koupání a dotyků, nerezervováno.
-- **Fun Friday na Boat Avenue (volitelně):** páteční večerní trh s jídlem a suvenýry u Bang Tao, vzdálenost od Nai Yang neověřená.
 
 #### Program (možnosti, vybere se na místě)
 
 Nic z toho není pevné. Pevné jsou jen lodě a odlet.
 
-- **Pá 18. 12.:** loď z Koh Yao Noi, taxi z mola Bang Rong do Nai Yang (asi 19 minut, neověřeno), check-in od 14:00. Odpoledne a večer na výběr: trh Nai Yang Fresh Market od 16:00, západ slunce na pláži, večeře v restauraci na pláži, nebo taxi na Fun Friday na Boat Avenue.
+- **Pá 18. 12.:** loď z Koh Yao Noi, taxi z mola Bang Rong do Nai Yang (asi 19 minut, neověřeno), check-in od 14:00. Odpoledne a večer na výběr: trh Nai Yang Fresh Market od 16:00, západ slunce a večeře v restauraci na pláži.
 - **So 19. 12. ráno:** na výběr sloní lávka Observe, procházka po pláži Mai Khao nebo Nai Yang s letadly, snídaně v Nai Yang. Odhlášení do 12:00.
-- **So 19. 12. odpoledne:** zavazadla nechat v ubytování (neověřeno), pláž nebo kavárna, suvenýry cestou na letiště. Na letišti být asi v 18:00, viz Odlet.
+- **So 19. 12. odpoledne:** zavazadla nechat v ubytování (neověřeno), pláž nebo kavárna. Na letišti být asi v 18:00, viz Odlet.
 
 #### Nai Yang: vesnice, pláž a jídlo
 
@@ -579,11 +576,9 @@ Sloní útočiště Phuket Elephant Care, program Observe (v Google Maps Phuket 
 - **Pozor na záměnu:** Phuket Elephant Care Sanctuary u Nai Thon nabízí koupání, bahenní lázeň a mytí slonů, takže nesplňuje pravidlo. Phuket Elephant Sanctuary u Paklok je jiný podnik, který má také vlastní Canopy Walkway.
 - **Druhá možnost:** Phuket Elephant Sanctuary u Paklok, jen pozorování bez koupání podle oficiálního webu. Podle blogu prodejce půldenní program od asi 3 000 THB a lávka (Canopy Walkway) od asi 1 900 THB, termíny se rychle vyprodávají (neověřeno).
 
-#### Další možnosti, suvenýry a co jsme vyřadili
+#### Další možnosti a co jsme vyřadili
 
 - **Pláž Nai Thon (volitelně):** menší klidná pláž asi 10 minut jízdy od Nai Yang a asi 7 km od letiště (Lonely Planet), jemný písek a západy slunce. Restaurace a ubytování jsou většinou přes silnici: Shameena (thajská rodinná restaurace, asi 30 jídel), Vero Trattoria v hotelu Pullman, Inthanin na písku. Plavání je dobré mimo vrchol monzunu, hlídejte vlajky. Dřevěné schody na severním konci chátrají. Značka Bare rock (Mortuletti hiking area) u severního konce pláže je jen uživatelská značka s jednou recenzí, vyznačená cesta tam podle všeho není (neověřeno).
-- **Fun Friday Avenue Market (volitelně):** jen v pátek na Boat Avenue v Cherngtalay u Bang Tao. Čas se v zdrojích liší (začátek 16:00 nebo 17:00, konec 21:00 až 23:00). Vařená jídla (grilované mořské plody, špízy, dezerty), oblečení, ruční výrobky a suvenýry. Je malý, projdete ho za asi hodinu, chodí místní, dlouhodobí cizinci i turisté. Parkování je ve špičce omezené, jeďte taxi nebo Grabem. Vzdálenost od Nai Yang jsem nenašla, z Layanu je to asi 15 minut, počítejte s 20 až 30 minutami (odhad).
-- **Suvenýry:** podle Phuket 101 se z Phuketu vozí slonové kalhoty (100 až 400 THB, trhy), kešu ořechy a sušené mango (supermarket), mýdla vyřezávaná do tvaru květin, kokosové misky, plyšoví sloni a šátky z thajského hedvábí. Kde: Fun Friday, supermarket Tops na Boat Avenue (kešu a mango) a obchod Khun Mae Ju s phuketskými pochutinami na cestě na letiště (7:30–19:00, neověřeno). Trh v Nai Yang suvenýry nemá, jen oblečení a hračky. Obchody na letišti jsme neověřovali. Nevyvážejte sochy Buddhy, mušle ani korály. Odbavené zavazadlo v tarifu Comfort je 30 kg (sekce 16).
 - **Národní park Sirinat (spíš ne):** vstup 200 THB za dospělého cizince, 100 THB za dítě, otevřeno 8:30–16:30 (jinde 8:00), správa parku je u pláže Nai Yang. Jedna recenze píše, že před 8:00 a po 16:00 se neplatí (neověřeno). Prkenná stezka v mangrovech je podle zdroje u správy parku, přesný začátek jsme nenašli. Park jsme kvůli odpadkům jako cíl procházky vyřadili.
 - **Vodopád Bang Pae (nedoporučujeme):** malý vodopád bez jezírka na koupání, vstup 200 THB, 8:00–16:30. Sousední záchranná stanice pro gibony návštěvníky nepouští.
 - **Phuket Town:** původní plán (Thalang Road, mookata, nedělní Walking Street) je ve [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md).
@@ -604,7 +599,7 @@ Riziko: zrušit zdarma jde jen do 16. 12., přitom lístek na loď se kupuje kol
 
 #### Mapy
 
-[Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) · [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) · [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) · [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) · [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) · [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) · [správa parku Sirinat](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) · [Boat Avenue](https://www.google.com/maps/search/?api=1&query=Boat%20Avenue%20Cherngtalay%20Phuket) · [Khun Mae Ju](https://www.google.com/maps/search/?api=1&query=Khun%20Mae%20Ju%20Phuket) · [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496,98.4159)
+[Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) · [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) · [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) · [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) · [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) · [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) · [správa parku Sirinat](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) · [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496,98.4159)
 
 ## 6. Počasí, teploty a deště (listopad a první polovina prosince)
 
