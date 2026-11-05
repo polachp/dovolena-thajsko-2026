@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v37: Cheow Lan: bez raft housů Praiwan a Keereewarin (6. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v37/) · [Markdown](verze/v37/thajsko-bangkok-phuket.md) · [rozdíl proti v36](https://github.com/polachp/dovolena-thajsko-2026/compare/c73a5bd...2cbcab2)
+
+- Fáze 5, blok Noc na jezeře: vyřazená odrážka s raft housy Praiwan a Keereewarin (popis, kontakty). Obsah je uložený ve varianty/raft-housy-cheow-lan.md a sekce 0 na něj odkazuje.
+- Nedořešená noc na jezeře Cheow Lan zůstává v sekci 0 beze změny.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v36: Khao Sok: sloní útočiště, objednání přes WhatsApp nebo ubytování (6. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v36/) · [Markdown](verze/v36/thajsko-bangkok-phuket.md) · [rozdíl proti v35](https://github.com/polachp/dovolena-thajsko-2026/compare/6e34982...c73a5bd)

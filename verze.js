@@ -467,5 +467,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c73a5bd",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v37",
+    "datum": "6. 11. 2026",
+    "nazev": "Cheow Lan: bez raft housů Praiwan a Keereewarin",
+    "zmeny": [
+      "Fáze 5, blok Noc na jezeře: vyřazená odrážka s raft housy Praiwan a Keereewarin (popis, kontakty). Obsah je uložený ve varianty/raft-housy-cheow-lan.md a sekce 0 na něj odkazuje.",
+      "Nedořešená noc na jezeře Cheow Lan zůstává v sekci 0 beze změny.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "2cbcab2",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
