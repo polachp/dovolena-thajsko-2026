@@ -10,8 +10,8 @@ Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa
 
 ## Aktuální stav (aktualizuj při každé nové verzi)
 
-- Poslední verze: **v31** (6. 11. 2026), zdroj `verze/v31/thajsko-bangkok-phuket.md`.
-- Archiv: `verze/v1` až `verze/v30`, neměnit.
+- Poslední verze: **v32** (6. 11. 2026), zdroj `verze/v32/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v31`, neměnit.
 - Sekce 0 až 16, itinerář je sekce 5. Rozřazení sekcí do záložek webu je v `hlavicka.kam` poslední verze.
 - Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 4 (8.–12. 12.), Krabi 2 (12.–14. 12.), Koh Yao Noi 4 (14.–18. 12.), Phuket, Nai Yang 1 (18.–19. 12.).
 - Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
@@ -60,13 +60,13 @@ Markdown verze nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, b
 
 ## Co je rozpracované
 
-Stav k v31. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
+Stav k v32. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
 
 - Fáze 5: noc na jezeře Cheow Lan (balíček, konkrétní raft house, nebo jen jednodenní výlet). Rezervace bungalovu je jeden ze dvou pevných bodů.
 - Fáze 5: čtyřkolky v Khao Sok (Khao sok ATV Adventure): cena (1 500 THB řidič, 2 200 THB dva na jedné čtyřkolce) a odvoz z ubytování zdarma potvrdil provozovatel 3. 11., den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - Fáze 5: sloní útočiště Khao Sok Elephant Sanctuary (volitelně, nerezervováno). Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo. Phuket Elephant Sanctuary u Paklok je ve fázi 8 jen jako druhá možnost po sloní lávce Observe v Sakhu.
 - Fáze 6: Vacation House (12.–14. 12.) je potvrzený přes Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času. Dragon Crest 13. 12.: skútr z Ao Nang nebo taxi, domluvit s hostitelem.
-- Fáze 7: program na Koh Yao Noi (kajak na Koh Nok, loď na Koh Hong, skútr, rybářské vesnice na západě) je dohodnutý, ale neověřený: ceny a půjčovny kajaků a lodi, náročnost vyhlídky na Nok (podle recenzí strmě po laně), skútr bez oprávnění na motocykl, restaurace v prosinci.
+- Fáze 7: program na Koh Yao Noi (kajak na Koh Nok, loď na Koh Hong, skútr, rybářské vesnice na západě) je dohodnutý, ale neověřený: ceny a půjčovny kajaků a lodi, náročnost vyhlídky na Nok (podle recenzí strmě po laně), restaurace v prosinci.
 - Fáze 7: noci 14.–18. 12. jsou zarezervované dvakrát, v Pyramid Bungalow (Booking.com, s klimatizací, zrušit zdarma do 6. 12. 23:59 thajského času, v Česku v 17:59) a v Tabeak View Point (Booking.com, bez klimatizace, zrušit zdarma do 14. 12. 18:00 thajského času, v Česku ve 12:00). Jedno je potřeba zrušit, rozhodnout do 6. 12.
 - Fáze 7: loď z Koh Yao Noi na Phuket (18. 12.) je zapsaná, ale časy a ceny jsou neověřené. Dvě mola (Manoh, Laem Sai), obě na Bang Rong, lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.). Chybí ověřit, které molo je blíž k ubytování. Taxi z mola Bang Rong do Nai Yang (asi 19 minut, 13 až 16 USD) je neověřené.
 - Fáze 8: Wattana Bungalow v Nai Yang (18.–19. 12., Booking.com, zrušit zdarma do 16. 12. 23:59 thajského času, v Česku v 17:59, tedy ve stejné době, kdy se kupuje lístek na loď). Program je nabídka možností (trh Nai Yang Fresh Market, letadla a procházky po plážích, sloní lávka Observe v Sakhu, Nai Thon; Fun Friday na Boat Avenue a suvenýry jsou od v31 ve variantách), nic z toho není rezervované. Neověřené zůstává: Observe (cena, délka, časy, storno, rezervace přes web provozovatele), hodiny trhu (Google Maps denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattany od pláže a od trhu, úschova zavazadel po odhlášení do 12:00. Let EY 413 z Phuketu je v sobotu 19. 12. ve 21:00, zapsaný ve fázi 8.
