@@ -13,6 +13,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Krabi (fáze 6):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
 - **Program na Koh Yao Noi (fáze 7):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok, jestli jde skútr bez oprávnění na motocykl a jaké restaurace v prosinci fungují.
 - **Dvojí rezervace na Koh Yao Noi (fáze 7):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
+- **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
 - **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě Khao Sok (Bingo Hostel Khao Sok 8.–10. 12., Flora Hostel KhaoSok 8.–9. 12.), Krabi (Vacation House 12.–14. 12.) a Koh Yao Noi (Pyramid Bungalow a Tabeak View Point, 14.–18. 12.). Noci 10.–12. 12. v Khao Sok se řeší na místě, nezarezervovaný zůstává Phuket Town. Fáze 1 až 4 jsou potvrzené.
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
@@ -99,6 +100,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 6 | Dragon Crest (Khao Ngon Nak), začátek stezky v Tub Kaek | [Dragon Crest](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest%20Krabi) | Výšlap na vyhlídkovou skálu, začátek stezky je za hotelem Amari Vogue (podle jednoho zdroje), od Vacation House asi 5 minut autem k pláži Tubkaek (neověřeno) |
 | 6 | Ao Nang, molo Nopparat Thara | [Nopparat Thara Pier](https://www.google.com/maps/search/?api=1&query=Nopparat%20Thara%20Pier%20Krabi) | Rychlé lodě na Koh Yao Noi (do mola Manoh), od Tub Kaek asi 25 minut |
 | 7 | Koh Yao Noi, molo Manoh | [8.0979, 98.5879](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) | Hlavní přístav rychlých lodí z Krabi a Phuketu |
+| 7 | Koh Yao Noi, molo Laem Sai | [Laem Sai Pier](https://www.google.com/maps/search/?api=1&query=Laem%20Sai%20Pier%20Koh%20Yao%20Noi) | Druhé molo, přímá loď Koh Yao Sun Smile na Bang Rong (neověřeno) |
 | 7 | Koh Yao Noi, Pyramid Bungalow | [8.1068, 98.6225](https://www.google.com/maps/search/?api=1&query=8.1068%2C98.6225) | Rezervované ubytování 14.–18. 12., s klimatizací |
 | 7 | Koh Yao Noi, Tabeak View Point | [8.1087, 98.6206](https://www.google.com/maps/search/?api=1&query=8.1087%2C98.6206) | Druhá rezervace na stejné noci, bez klimatizace, jedno ubytování zrušit |
 | 7 | Koh Yao Noi, pláž Pasai | [8.1001, 98.6199](https://www.google.com/maps/search/?api=1&query=8.1001%2C98.6199) | Odtud se půjčují kajaky na Koh Nok, koupání při přílivu |
@@ -109,7 +111,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 7 | Koh Yao Noi, Viewpoint on Ricefields and Ocean | [8.1243, 98.5959](https://www.google.com/maps/search/?api=1&query=8.1243%2C98.5959) | Kavárna s vyhlídkovými plošinami nad poli, ve středu zavřeno (neověřeno) |
 | 7 | Koh Yao Noi, Rice Paddy Restaurant | [8.1045, 98.6226](https://www.google.com/maps/search/?api=1&query=8.1045%2C98.6226) | Restaurace u Pasai, asi 300 m od Pyramid Bungalow, v pondělí zavřeno (neověřeno) |
 | 7 | Koh Yao Noi, Tha Ton Do | [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) | Rybářská vesnice na západě, molo u mangrovů a západ slunce (neověřeno) |
-| 8 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi |
+| 8 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi, sem přijíždí lodě z Manoh i z Laem Sai |
 | 8 | Phuket Old Town, Thalang Road | [7.8848, 98.3890](https://www.google.com/maps/search/?api=1&query=7.8848%2C98.3890) | Historické centrum s architekturou, v neděli večer s trhem |
 
 **Pozor na Kui Buri:** Když zadáte jen „Kui Buri National Park“, navigace vás zavede k ředitelství parku (12.0516, 99.6240), ne k místu, odkud se vyráží na safari. Použijte odkaz z tabulky, nebo zadejte „Elephant Observatory Site“.
@@ -134,13 +136,13 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Vacation House → Dragon Crest | skútr, taxi | odhad 10 min (5 min k pláži Tubkaek) | skútr 150–400 za den, taxi neověřeno |
 | Vacation House → molo Nopparat Thara | taxi | asi 25 min (z Tub Kaek) | neověřeno |
 | Molo Nopparat Thara → Koh Yao Noi (molo Manoh) | rychlá loď | 30–45 min | od 650 |
-| Koh Yao Noi → Phuket (molo Bang Rong) | rychlá loď | 30–50 min | 400–666 |
+| Koh Yao Noi (molo Manoh nebo Laem Sai) → Phuket (molo Bang Rong) | rychlá loď | 30–50 min | 400–666 |
 | Molo Bang Rong → Phuket Town | taxi | asi 40 min | podle domluvy |
 | Phuket Town → letiště HKT | Grab, Bolt, taxi | neověřeno | neověřeno |
 
 - **Z letiště BKK:** Nepoužívejte drahé letištní taxíky. Airport Rail Link je ve spodním podlaží terminálu (značky Airport Rail Link nebo Train), jezdí zhruba 5:30 až půlnoc a jde zaplatit i bezkontaktní kartou. V Makkasanu se přestupuje na metro krytou chodbou asi 200–400 m, s jinými turnikety i jízdným. Do starého města jeďte modrou linkou na Sam Yot. Po půlnoci Grab nebo taxi s taxametrem.
 - **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jízdenky se prodávají zhruba 30 dní předem přes 12Go.asia nebo na nádraží, na 30. 11. tedy od asi 31. 10. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
-- **Lodě:** V hlavní sezóně kupte lístky den až dva dny předem. Nenastupujte na přeplněnou loď ani za špatného počasí, lodě se při větru ruší.
+- **Lodě:** V hlavní sezóně kupte lístky 2 až 3 dny předem. Nenastupujte na přeplněnou loď ani za špatného počasí, lodě se při větru ruší.
 - **Taxi:** V Bangkoku ani na Phuketu nenastupujte do taxíku bez zapnutého taxametru. Používejte Grab nebo Bolt, kde cenu znáte předem.
 
 ## 5. Itinerář po fázích
@@ -432,7 +434,7 @@ Všechno kromě ubytování je neověřené. Zdroje jsou starší recenze a mapy
 
 - **Po 14. 12.:** příjezd lodí z Krabi, check-in v Pyramid Bungalow od 14:30 do 18:30. Hostitelce předem napište čas lodi. Večeře poblíž ubytování.
 - **Út 15. až čt 17. 12.:** tři plné dny. Kajak na Nok, loď na Koh Hong a den na skútru se do nich vejdou, pořadí podle počasí a přílivu. Pláže odpoledne.
-- **Pá 18. 12.:** rychlá loď z mola Manoh do Phuketu (viz Přesun dál).
+- **Pá 18. 12.:** rychlá loď na Phuket, nejlépe dopoledne nebo kolem poledne (viz Přesun dál).
 
 #### Kajak na Koh Nok s vyhlídkou
 
@@ -476,11 +478,22 @@ Zvažovaná klidnější alternativa: Namtok Bungalows u Tha Khao (v džungli u 
 
 #### Přesun dál
 
-Pá 18. 12. rychlou lodí z mola Manoh na molo Bang Rong (30–50 minut, 400–666 THB, první kolem 6:30, poslední zhruba v 16:00), odtud taxi do Phuket Town asi 40 minut. Za špatného počasí se lodě ruší, proto nejezděte poslední odpolední lodí.
+Pá 18. 12. rychlou lodí z Koh Yao Noi na molo Bang Rong na severovýchodě Phuketu, odtud taxi do Phuket Town. Časy a ceny jsou neověřené pro 18. 12., zdroje se v časech liší a provozovatelé je mění bez upozornění.
+
+Dvě mola, ze kterých se dá jet:
+
+- **Molo Manoh** (hlavní přístav): rychlé lodě asi v 6:30, 9:00, 10:00, 11:30, 13:00, 14:30 a 16:00 (poslední), cesta asi 30 minut, 400 až 666 THB za osobu podle provozovatele. Dál Green Planet v 11:50 (asi 50 minut, 400 THB) a longtail v 8:00 (asi 1 hodina, 400 THB). Starší stránka jednoho hotelu uvádí poslední loď až v 16:40.
+- **Molo Laem Sai:** přímá loď Koh Yao Sun Smile asi v 6:15, 10:15, 12:45 a 14:45 (poslední), cesta asi 45 minut, 400 až 500 THB za osobu. V potvrzení Pyramid Bungalow je adresa Ban Laem Sai, na mapě se podívejte, které molo je k ubytování blíž (neověřeno).
+
+Obě lodě končí na molu Bang Rong. Odtud taxi do Phuket Town asi 40 minut (podle Rome2rio spíš 25 až 30 minut a kolem 17 až 21 USD, neověřeno). Jestli u mola jezdí Grab nebo Bolt, je neověřené.
+
+**Lístek:** koupit online 2 až 3 dny předem, tedy kolem 15. až 16. 12., až je vidět předpověď moře. Jde to na [phuketferry.com](https://phuketferry.com/) (hledejte trasu Koh Yao Noi to Phuket), přes 12Go, nebo přímo u provozovatele přes web, WhatsApp či Line. U online nákupu je u spojů uvedené „Refund available“ a „Amend available“ (vrácení a změna), přesné podmínky storna zkontrolujte před platbou. Když se loď kvůli počasí zruší, nabízí web změnu na další spoj nebo vrácení peněz. Lístek je QR voucher v telefonu, na molo přijďte aspoň 30 minut před odjezdem.
+
+**Špatné počasí:** rychlé lodě se při rozbouřeném moři ruší jako první, podle Travelfish i na několik dní. Nejezděte poslední lodí, vezměte spoj kolem 11:30 až 13:00, aby zbyl další. Ráno 18. 12. se zeptejte hostitele, jestli lodě jedou. Kdyby 18. 12. nic nejelo, zkuste to 19. 12. od rána, odlet je až večer.
 
 #### Mapy
 
-[Pyramid Bungalow](https://www.google.com/maps/search/?api=1&query=8.1068,98.6225) · [Tabeak View Point](https://www.google.com/maps/search/?api=1&query=8.1087,98.6206) · [pláž Pasai](https://www.google.com/maps/search/?api=1&query=8.1001,98.6199) · [pláž Tha Khao](https://www.google.com/maps/search/?api=1&query=8.1300,98.6223) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [ostrov Koh Nok](https://www.google.com/maps/search/?api=1&query=8.0802,98.6269) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) · [NAMM NATAWN](https://www.google.com/maps/search/?api=1&query=8.1323,98.5958) · [Viewpoint on Ricefields and Ocean](https://www.google.com/maps/search/?api=1&query=8.1243,98.5959) · [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) · [vyhlídka Hornbill](https://www.google.com/maps/search/?api=1&query=Hornbill%20Viewpoint%20Koh%20Yao%20Noi)
+[Pyramid Bungalow](https://www.google.com/maps/search/?api=1&query=8.1068,98.6225) · [Tabeak View Point](https://www.google.com/maps/search/?api=1&query=8.1087,98.6206) · [pláž Pasai](https://www.google.com/maps/search/?api=1&query=8.1001,98.6199) · [pláž Tha Khao](https://www.google.com/maps/search/?api=1&query=8.1300,98.6223) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [molo Laem Sai](https://www.google.com/maps/search/?api=1&query=Laem%20Sai%20Pier%20Koh%20Yao%20Noi) · [ostrov Koh Nok](https://www.google.com/maps/search/?api=1&query=8.0802,98.6269) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) · [NAMM NATAWN](https://www.google.com/maps/search/?api=1&query=8.1323,98.5958) · [Viewpoint on Ricefields and Ocean](https://www.google.com/maps/search/?api=1&query=8.1243,98.5959) · [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) · [vyhlídka Hornbill](https://www.google.com/maps/search/?api=1&query=Hornbill%20Viewpoint%20Koh%20Yao%20Noi)
 
 ### Fáze 8: Phuket Town, historie, trhy a odlet (1 noc, 18.–19. 12.)
 

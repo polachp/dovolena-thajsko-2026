@@ -352,5 +352,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "923f61a",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v28",
+    "datum": "5. 11. 2026",
+    "nazev": "Koh Yao Noi: loď na Phuket",
+    "zmeny": [
+      "Fáze 7, Přesun dál: loď z Koh Yao Noi na Phuket je rozepsaná podle dvou mol. Z mola Manoh jedou rychlé lodě asi od 6:30 do 16:00 (30 minut, 400 až 666 THB), z mola Laem Sai přímá loď Koh Yao Sun Smile (45 minut, 400 až 500 THB). Obě končí na molu Bang Rong. Časy a ceny zůstávají neověřené pro 18. 12.",
+      "Fáze 7: lístek koupit online 2 až 3 dny předem (kolem 15. až 16. 12.) na phuketferry.com, přes 12Go nebo u provozovatele. Při zrušení lodě kvůli počasí je podle webu možná změna spoje nebo vrácení peněz.",
+      "Fáze 7: kvůli počasí nejezdit poslední lodí, vzít spoj kolem 11:30 až 13:00. Kdyby 18. 12. nic nejelo, zkusit 19. 12. od rána.",
+      "Sekce 0, 3 a 4 a Mapy u fáze 7 odpovídají: nově molo Laem Sai a nedořešená otázka, které molo je blíž k ubytování. Sekce 4 radí kupovat lodě 2 až 3 dny předem místo dne až dvou.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "c11af34",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
