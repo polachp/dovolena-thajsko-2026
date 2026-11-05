@@ -432,5 +432,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "9f7bac4",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v34",
+    "datum": "6. 11. 2026",
+    "nazev": "Koh Phayam: doprava se objedná v přístavu",
+    "zmeny": [
+      "Fáze 4, Přesun dál (8. 12.): doplněno, že se celá doprava z Koh Phayam do Khao Sok dá objednat na ostrově v přístavu na místě, ideálně 1 až 2 dny předem.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "8ea5ca9",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

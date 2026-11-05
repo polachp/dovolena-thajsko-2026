@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v34: Koh Phayam: doprava se objedná v přístavu (6. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v34/) · [Markdown](verze/v34/thajsko-bangkok-phuket.md) · [rozdíl proti v33](https://github.com/polachp/dovolena-thajsko-2026/compare/9f7bac4...8ea5ca9)
+
+- Fáze 4, Přesun dál (8. 12.): doplněno, že se celá doprava z Koh Phayam do Khao Sok dá objednat na ostrově v přístavu na místě, ideálně 1 až 2 dny předem.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v33: Fáze 4: bez vodopádu Ngao (6. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v33/) · [Markdown](verze/v33/thajsko-bangkok-phuket.md) · [rozdíl proti v32](https://github.com/polachp/dovolena-thajsko-2026/compare/09533a5...9f7bac4)

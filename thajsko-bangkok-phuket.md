@@ -318,7 +318,7 @@ Jeden průvodce ho v prosinci viděl při brodění u Ao Khao Kwai, záruka žá
 
 #### Přesun dál
 
-Út 8. 12. lodí do Ranongu (jezdí zhruba každou hodinu) a autobusem nebo minivanem do Khao Sok (142 km, nejrychleji asi 2 h 50 min, spoje zhruba 8:00–18:15). Celkem s lodí 4–5 hodin.
+Út 8. 12. lodí do Ranongu (jezdí zhruba každou hodinu) a autobusem nebo minivanem do Khao Sok (142 km, nejrychleji asi 2 h 50 min, spoje zhruba 8:00–18:15). Celkem s lodí 4–5 hodin. Celá doprava se dá objednat na ostrově v přístavu na místě, ideálně 1 až 2 dny předem.
 
 #### Mapy
 
