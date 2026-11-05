@@ -11,7 +11,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Noc na jezeře Cheow Lan (fáze 5):** balíček, konkrétní raft house, nebo jen jednodenní výlet. Je to jediná rezervace, která spěchá.
 - **Čtyřkolky v Khao Sok (fáze 5):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - **Krabi (fáze 6):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
-- **Program na Koh Yao Noi (fáze 7):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok, jestli jde skútr bez oprávnění na motocykl a jaké restaurace v prosinci fungují.
+- **Program na Koh Yao Noi (fáze 7):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok a jaké restaurace v prosinci fungují.
 - **Dvojí rezervace na Koh Yao Noi (fáze 7):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
 - **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
 - **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
@@ -296,7 +296,7 @@ Asi 13 km jižně od Ranongu u silnice č. 4, Grabem 15–20 minut, vstup 100 TH
 
 #### Po ostrově
 
-Loď přistane na východě, pláže jsou na západě. Skútr si půjčte u mola na všechny 3 noci (200–350 THB za den, kolo asi 200 THB, motorbike taxi 70–100 THB). Potřebujete oprávnění na motocykl a helmu (sekce 11). Zátoky jsou od sebe 5–10 minut, v noci nejezděte. Ostrov je převážně plochý, takže stačí i kolo.
+Loď přistane na východě, pláže jsou na západě. Skútr si půjčte u mola na všechny 3 noci (200–350 THB za den, kolo asi 200 THB, motorbike taxi 70–100 THB). Potřebujete helmu. Zátoky jsou od sebe 5–10 minut, v noci nejezděte. Ostrov je převážně plochý, takže stačí i kolo.
 
 #### Pláže a místa
 
@@ -419,7 +419,7 @@ Stezka měří 3,7 km jedním směrem a celou dobu stoupá po kořenech, provaze
 
 #### Skútr nebo taxi
 
-Skútr se půjčuje v Ao Nang, kde je půjčoven hodně, od 150 do 400 THB za den (podle půjčovny byklo a krabinature, neověřeno). V Tub Kaek půjčovna není, skútry se vozí z Ao Nang k ubytování, zdarma nebo za příplatek (neověřeno, jestli i k Vacation House). Zeptejte se hostitele, jestli skútr nebo taxi zařídí. S batohy jeďte z Ao Nang taxíkem a skútr si nechte dovézt až na 13. 12. Benzinka je podle byklo daleko, 22 až 25 km (neověřeno), natankujte předem. Silnice u Tub Kaek není za tmy osvětlená, jezděte jen ve dne. Skútr vyžaduje oprávnění pro motocykly, bez něj nemusí platit pojištění (sekce 11). Taxi tam a zpět domluvte předem, cena je neověřená.
+Skútr se půjčuje v Ao Nang, kde je půjčoven hodně, od 150 do 400 THB za den (podle půjčovny byklo a krabinature, neověřeno). V Tub Kaek půjčovna není, skútry se vozí z Ao Nang k ubytování, zdarma nebo za příplatek (neověřeno, jestli i k Vacation House). Zeptejte se hostitele, jestli skútr nebo taxi zařídí. S batohy jeďte z Ao Nang taxíkem a skútr si nechte dovézt až na 13. 12. Benzinka je podle byklo daleko, 22 až 25 km (neověřeno), natankujte předem. Silnice u Tub Kaek není za tmy osvětlená, jezděte jen ve dne. Taxi tam a zpět domluvte předem, cena je neověřená.
 
 #### Ubytování
 
@@ -467,7 +467,7 @@ Longtailem z ostrova na celý den: vyhlídka (Hong Island View Point podle Googl
 
 #### Po ostrově: skútr, rýžová pole a rybářské vesnice
 
-Kolo asi 200 THB na den, skútr 250–350 THB na den (jen s oprávněním na motocykl, sekce 11), songthaew 100–200 THB za osobu a jízdu. Veřejná doprava tu není. Skútr půjčuje podle recenzí i hostitelka v Pyramid Bungalow (asi 200–250 THB na den, neověřeno). Jestli jde skútr půjčit bez řidičského oprávnění na motocykl, neověřeno.
+Kolo asi 200 THB na den, skútr 250–350 THB na den, songthaew 100–200 THB za osobu a jízdu. Veřejná doprava tu není. Skútr půjčuje podle recenzí i hostitelka v Pyramid Bungalow (asi 200–250 THB na den, neověřeno).
 
 - **Rýžová pole:** na západě uprostřed ostrova. Restaurace NAMM NATAWN stojí přímo v polích (podle Google Maps denně 10:30–18:30). Kavárna Viewpoint on Ricefields and Ocean má vyhlídkové plošiny nad poli a je dobrá na pozorování ptáků (podle Google Maps 10:00–19:30, ve středu zavřeno, tedy ne 16. 12.). Otevírací doby jsou neověřené.
 - **Rybářské vesnice na západě:** Tha Ton Do s molem u mangrovů, rybářskými loděmi a domy na kůlech. Podle zdrojů tam je západ slunce a ryby k večeři u mola. Od ubytování asi 5 km vzdušnou čarou, odhadem 15 minut skútrem. Rýžová pole a Tha Ton Do leží vedle sebe v rozmezí asi 2 km, takže se dají projet jednou trasou. Při odlivu bývají mangrovy blátivé, vyrazte kolem přílivu. Které restaurace u mola fungují v prosinci, neověřeno.
@@ -706,11 +706,11 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Cestovní pas:** Musí být platný aspoň 6 měsíců od plánovaného data vstupu do Thajska. Digitální kopii si uložte do telefonu.
 - **Vstup bez víza:** Od 15. 9. 2026 už neplatí dřívější bezvízový pobyt na 60 dní. Občané ČR mají bezvízový pobyt na 30 dní a jen pro turistiku. Na imigračním úřadě ho lze jednou prodloužit o dalších 30 dní (zhruba za 1 900 THB). Váš pobyt 27. 11.–19. 12. (23 dní) se do 30 dní vejde. O vpuštění do země rozhoduje úředník, proto mějte po ruce letenku ven z Thajska a adresu prvního ubytování. Plánovaný vstupní poplatek pro turisty (podle zpráv z roku 2026 nově 300 THB na osobu u příletů letecky, zhruba 8 EUR) se zatím nevybírá. Má se podle oznámení platit nejspíš zabalený do ceny letenky, ne na přepážce, a náběh se opakovaně odkládal. Přesnou výši a to, jestli se v době vaší cesty vybírá, si krátce před odletem ověřte na stránkách ministerstva zahraničí.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
-- **Řidičský průkaz, auto a skútr:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Na skútr potřebujete oprávnění pro motocykly (skupina A1, A2 nebo A). Samotná skupina B nestačí a pojišťovny při nehodě mohou odmítnout plnění. Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
+- **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce 16). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
 - **Ubytování:** Fáze 1 až 4 jsou potvrzené a rezervované přes Agodu. Termíny zrušení zdarma (od 22. 11. do 2. 12.) jsou u ubytování ve fázích v sekci 5. V Khao Sok jsou rezervovaná dvě ubytování: Bingo Hostel Khao Sok (8.–10. 12., Booking.com, zrušit zdarma do 6. 12. 23:59 thajského času, v Česku v 17:59) a Flora Hostel KhaoSok (8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00 thajského času, v Česku ve 12:00). Noc 8.–9. 12. se kryje, jedno z ubytování je potřeba zrušit. V Krabi je rezervovaný Vacation House (12.–14. 12., Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času, v Česku v 17:59). Na Koh Yao Noi jsou zarezervované dvě ubytování na stejné noci (14.–18. 12.): Pyramid Bungalow (Booking.com, s klimatizací, zrušit zdarma do 6. 12. 23:59 thajského času, v Česku v 17:59) a Tabeak View Point (Booking.com, bez klimatizace, zrušit zdarma do 14. 12. 18:00 thajského času, v Česku ve 12:00), jedno z nich je potřeba zrušit. Zbývá Cheow Lan (co nejdřív), zbylé noci v Khao Sok (10.–12. 12., na místě) a poslední noc na Phuketu, jakmile znáte hodinu odletu.
 - **Vlak č. 43 a auto:** Jízdenky na 30. 11. do Hua Hin a 3. 12. do Prachuap kupte hned, jak se začnou prodávat (od asi 31. 10.). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
-- **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Skútr je pojištěn jen při platném oprávnění. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
+- **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 - **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 13).
 - **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
 - **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce 10). Na jezeře Cheow Lan se platí jen hotově.
@@ -721,7 +721,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 | Kdy | Co |
 |---|---|
 | Co nejdřív | Plovoucí bungalov (nebo balíček na 2 dny a 1 noc) na Cheow Lan a cestovní pojištění (nejlépe hned, kvůli krytí storna) |
-| Aspoň 4–6 týdnů před odletem | Konzultace v centru cestovní medicíny, případné očkování a mezinárodní řidičský průkaz (pro auto v Hua Hin, případně i skútr) |
+| Aspoň 4–6 týdnů před odletem | Konzultace v centru cestovní medicíny, případné očkování a mezinárodní řidičský průkaz (pro auto v Hua Hin) |
 | Hned teď | Jízdenky na vlak č. 43 (30. 11. a 3. 12., prodej od asi 31. 10.) a auto v Hua Hin |
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce 16) |
@@ -792,7 +792,7 @@ Poraďte se aspoň 4–6 týdnů před odletem s lékařem v centru cestovní me
 
 ### Doprava a voda
 
-- **Skútry:** Thajsko patří k zemím s nejvyšším počtem úmrtí v dopravě na světě a většina obětí jezdí na motorkách nebo skútrech. CDC cestovatelům radí motorky raději nepoužívat. Na Koh Yao Noi proto preferujte kolo nebo songthaew. Pokud skútr přece půjčíte, jezděte jen s helmou, platným oprávněním (sekce 11) a pojištěním, nikdy v noci ani po alkoholu. V Thajsku se jezdí vlevo, na silnici se při přecházení dívejte na obě strany.
+- **Skútry:** Thajsko patří k zemím s nejvyšším počtem úmrtí v dopravě na světě a většina obětí jezdí na motorkách nebo skútrech. CDC cestovatelům radí motorky raději nepoužívat. Na Koh Yao Noi proto preferujte kolo nebo songthaew. Pokud skútr přece půjčíte, jezděte jen s helmou a pojištěním, nikdy v noci ani po alkoholu. V Thajsku se jezdí vlevo, na silnici se při přecházení dívejte na obě strany.
 - **Lodě:** Na rychlých lodích mějte plovací vestu a nenastupujte na přeplněnou loď ani za špatného počasí (sekce 4).
 - **Moře:** Pozor na štípající mořské živočichy (medúzy, korály, sasanky), řiďte se výstrahami na pláži (sekce 12).
 
@@ -847,7 +847,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Dragon Crest | 200 THB na osobu | jen hotově |
 | Tha Pom Klong Song Nam (Krabi, volitelně) | vstup 50 THB na osobu | skútr nebo taxi z Krabi Town, mimo plán od v21 (varianty) |
 | Railay (volitelně) | 100 THB na osobu jedním směrem | loď z Ao Nang, lístek v kiosku, mimo plán od v21 (varianty) |
-| Koh Yao Noi: kolo, skútr, songthaew | asi 200 THB, 250–350 THB za den, 100–200 THB za jízdu | skútr jen s oprávněním (sekce 11), u Pyramid Bungalow podle recenzí asi 200–250 THB (neověřeno) |
+| Koh Yao Noi: kolo, skútr, songthaew | asi 200 THB, 250–350 THB za den, 100–200 THB za jízdu | u Pyramid Bungalow podle recenzí asi 200–250 THB (neověřeno) |
 | Půldenní šnorchlovací výlet | pod 2 000 THB na osobu | včetně masky, šnorchlu a ploutví |
 | Etické sloní útočiště (volitelně) | 50–80 USD na osobu | typické rozpětí půldenního programu, mimo plán od v21 (varianty) |
 | Phuket: taxi z mola Bang Rong do Nai Yang | 13–16 USD za auto | Rome2rio, neověřeno, Grab nebo Bolt u mola neověřené |

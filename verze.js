@@ -407,5 +407,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "b95e340",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v32",
+    "datum": "6. 11. 2026",
+    "nazev": "Skútr: bez zmínek o řidičském oprávnění",
+    "zmeny": [
+      "Smazané zmínky o tom, že je na skútr potřeba řidičské oprávnění: fáze 4 (Koh Phayam), fáze 6 (Krabi), fáze 7 (Koh Yao Noi), sekce 0, sekce 11 (řidičský průkaz, pojištění, checklist), sekce 13 (bezpečnost, skútry) a poznámka v rozpočtu.",
+      "Zůstává řidičský průkaz skupiny B a mezinárodní řidičský průkaz pro auto v Hua Hin (fáze 2, sekce 11) a otevřený dotaz na řidičský průkaz u čtyřkolek v Khao Sok.",
+      "Počet fází (8), noci (22) a ceny jsou beze změny."
+    ],
+    "commit": "09533a5",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

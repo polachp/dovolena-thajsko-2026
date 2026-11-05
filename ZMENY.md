@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v32: Skútr: bez zmínek o řidičském oprávnění (6. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v32/) · [Markdown](verze/v32/thajsko-bangkok-phuket.md) · [rozdíl proti v31](https://github.com/polachp/dovolena-thajsko-2026/compare/b95e340...09533a5)
+
+- Smazané zmínky o tom, že je na skútr potřeba řidičské oprávnění: fáze 4 (Koh Phayam), fáze 6 (Krabi), fáze 7 (Koh Yao Noi), sekce 0, sekce 11 (řidičský průkaz, pojištění, checklist), sekce 13 (bezpečnost, skútry) a poznámka v rozpočtu.
+- Zůstává řidičský průkaz skupiny B a mezinárodní řidičský průkaz pro auto v Hua Hin (fáze 2, sekce 11) a otevřený dotaz na řidičský průkaz u čtyřkolek v Khao Sok.
+- Počet fází (8), noci (22) a ceny jsou beze změny.
+
 ## v31: Phuket: bez Fun Friday a suvenýrů (6. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v31/) · [Markdown](verze/v31/thajsko-bangkok-phuket.md) · [rozdíl proti v30](https://github.com/polachp/dovolena-thajsko-2026/compare/1323dac...b95e340)

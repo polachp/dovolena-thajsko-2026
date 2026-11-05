@@ -2884,5 +2884,105 @@
       }
     },
     "commit": "b95e340"
+  },
+  {
+    "id": "v32",
+    "datum": "6. 11. 2026",
+    "nazev": "Skútr: bez zmínek o řidičském oprávnění",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Smazané zmínky o tom, že je na skútr potřeba řidičské oprávnění: fáze 4 (Koh Phayam), fáze 6 (Krabi), fáze 7 (Koh Yao Noi), sekce 0, sekce 11 (řidičský průkaz, pojištění, checklist), sekce 13 (bezpečnost, skútry) a poznámka v rozpočtu.",
+      "Zůstává řidičský průkaz skupiny B a mezinárodní řidičský průkaz pro auto v Hua Hin (fáze 2, sekce 11) a otevřený dotaz na řidičský průkaz u čtyřkolek v Khao Sok.",
+      "Počet fází (8), noci (22) a ceny jsou beze změny."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket, Nai Yang"
+        ]
+      ],
+      "kam": {
+        "0": "pred",
+        "6": "pred",
+        "8": "pred",
+        "11": "pred",
+        "13": "pred",
+        "14": "pred",
+        "16": "pred",
+        "1": "misto",
+        "2": "misto",
+        "3": "misto",
+        "4": "misto",
+        "7": "misto",
+        "9": "misto",
+        "10": "misto",
+        "12": "misto",
+        "15": "misto"
+      }
+    },
+    "commit": "09533a5"
   }
 ]
