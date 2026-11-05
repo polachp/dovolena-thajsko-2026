@@ -10,7 +10,7 @@ Itinerář jižního Thajska podle manuálu od Anežky. Aktuální verze: směr 
 Jediný soubor, který se edituje ručně, je Markdown poslední verze:
 
 ```
-verze/v27/thajsko-bangkok-phuket.md
+verze/v28/thajsko-bangkok-phuket.md
 ```
 
 Poslední verze je poslední záznam v `src/verze.json`, název jejího Markdownu je v poli `md`.
@@ -27,7 +27,7 @@ Generované soubory, do kterých se nikdy nepíše ručně (build je přepíše)
 
 Editace kořenového `thajsko-bangkok-phuket.md` je typická chyba: soubor vypadá jako hlavní zdroj, ale je to kopie a příští build ji přepíše. Totéž platí pro editaci přes webové rozhraní GitHubu.
 
-Starší verze (`verze/v1` až `verze/v26`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
+Starší verze (`verze/v1` až `verze/v27`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
 
 ## Struktura
 
@@ -56,4 +56,4 @@ Markdown nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko. Vklád�
 
 ## Co je v itineráři rozpracované
 
-Stav k v27: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Itinerář má jednotnou stavbu fází: krátký popis, co uvidíte, podrobnosti jako nadpisy 4. úrovně, které web zobrazí sbalené (pravidla v `CLAUDE.md`). Khao Sok má 4 noci (8.–12. 12.), Krabi 2 (12.–14. 12.) a Koh Yao Noi 4 (14.–18. 12.). Nedořešená je noc na jezeře Cheow Lan, ověření programu na Koh Yao Noi (kajak na Koh Nok, loď na Koh Hong, skútr a rybářské vesnice na západě jsou dohodnuté, ale neověřené) a rezervace ubytování ve fázích 5 až 8 (v Khao Sok jsou rezervované Bingo Hostel Khao Sok, 8.–10. 12., a Flora Hostel KhaoSok, 8.–9. 12., oba přes Booking.com; noc 8.–9. 12. je zarezervovaná dvakrát a jedno z ubytování je potřeba zrušit; v Krabi je potvrzený Vacation House, 12.–14. 12., přes Booking.com; na Koh Yao Noi jsou na noci 14.–18. 12. zarezervované Pyramid Bungalow, s klimatizací, zrušit zdarma do 6. 12., a Tabeak View Point, bez klimatizace, zrušit zdarma do 14. 12., obě přes Booking.com, jedno je potřeba zrušit; fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází). Podrobnosti v sekci 0 Markdownu.
+Stav k v28: 8 fází, 22 nocí, přepočet nocí je hotový (Khao Lak vyřazený). Itinerář má jednotnou stavbu fází: krátký popis, co uvidíte, podrobnosti jako nadpisy 4. úrovně, které web zobrazí sbalené (pravidla v `CLAUDE.md`). Khao Sok má 4 noci (8.–12. 12.), Krabi 2 (12.–14. 12.) a Koh Yao Noi 4 (14.–18. 12.). Nedořešená je noc na jezeře Cheow Lan, ověření programu na Koh Yao Noi (kajak na Koh Nok, loď na Koh Hong, skútr a rybářské vesnice na západě jsou dohodnuté, ale neověřené) a rezervace ubytování ve fázích 5 až 8 (v Khao Sok jsou rezervované Bingo Hostel Khao Sok, 8.–10. 12., a Flora Hostel KhaoSok, 8.–9. 12., oba přes Booking.com; noc 8.–9. 12. je zarezervovaná dvakrát a jedno z ubytování je potřeba zrušit; v Krabi je potvrzený Vacation House, 12.–14. 12., přes Booking.com; na Koh Yao Noi jsou na noci 14.–18. 12. zarezervované Pyramid Bungalow, s klimatizací, zrušit zdarma do 6. 12., a Tabeak View Point, bez klimatizace, zrušit zdarma do 14. 12., obě přes Booking.com, jedno je potřeba zrušit; fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází). Loď z Koh Yao Noi na Phuket (18. 12., mola Manoh a Laem Sai, obě na Bang Rong, lístek 2 až 3 dny předem) je zapsaná ve fázi 7, časy a ceny jsou neověřené. Fáze 8 (ubytování v Phuket Town, program posledního večera, odjezd na letiště) se dořešuje. Podrobnosti v sekci 0 Markdownu.
