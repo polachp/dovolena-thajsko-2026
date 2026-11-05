@@ -2579,5 +2579,105 @@
       }
     },
     "commit": "c11af34"
+  },
+  {
+    "id": "v29",
+    "datum": "5. 11. 2026",
+    "nazev": "Khao Sok: sloní útočiště",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 5: nově volitelné sloní útočiště Khao Sok Elephant Sanctuary ve vesnici Khlong Sok (co to je, proč jet, odjezdy podle prodejce 8:00, 10:00, 13:00 a 15:00, na co se zeptat před rezervací). Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, a cena není známá.",
+      "Sekce 0, sekce 3 a Mapy u fáze 5 odpovídají: nové místo a nedořešená otázka k programu.",
+      "Phuket Elephant Sanctuary zůstává zatím ve fázi 8, rozhodne se při dořešení fáze 8.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket Town"
+        ]
+      ],
+      "kam": {
+        "0": "pred",
+        "6": "pred",
+        "8": "pred",
+        "11": "pred",
+        "13": "pred",
+        "14": "pred",
+        "16": "pred",
+        "1": "misto",
+        "2": "misto",
+        "3": "misto",
+        "4": "misto",
+        "7": "misto",
+        "9": "misto",
+        "10": "misto",
+        "12": "misto",
+        "15": "misto"
+      }
+    }
   }
 ]
