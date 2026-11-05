@@ -366,5 +366,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c11af34",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v29",
+    "datum": "5. 11. 2026",
+    "nazev": "Khao Sok: sloní útočiště",
+    "zmeny": [
+      "Fáze 5: nově volitelné sloní útočiště Khao Sok Elephant Sanctuary ve vesnici Khlong Sok (co to je, proč jet, odjezdy podle prodejce 8:00, 10:00, 13:00 a 15:00, na co se zeptat před rezervací). Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, a cena není známá.",
+      "Sekce 0, sekce 3 a Mapy u fáze 5 odpovídají: nové místo a nedořešená otázka k programu.",
+      "Phuket Elephant Sanctuary zůstává zatím ve fázi 8, rozhodne se při dořešení fáze 8.",
+      "Počet fází a celkový počet nocí (22) jsou beze změny."
+    ],
+    "commit": "05277b0",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

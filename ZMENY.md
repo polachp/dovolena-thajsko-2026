@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v29: Khao Sok: sloní útočiště (5. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v29/) · [Markdown](verze/v29/thajsko-bangkok-phuket.md) · [rozdíl proti v28](https://github.com/polachp/dovolena-thajsko-2026/compare/c11af34...05277b0)
+
+- Fáze 5: nově volitelné sloní útočiště Khao Sok Elephant Sanctuary ve vesnici Khlong Sok (co to je, proč jet, odjezdy podle prodejce 8:00, 10:00, 13:00 a 15:00, na co se zeptat před rezervací). Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, a cena není známá.
+- Sekce 0, sekce 3 a Mapy u fáze 5 odpovídají: nové místo a nedořešená otázka k programu.
+- Phuket Elephant Sanctuary zůstává zatím ve fázi 8, rozhodne se při dořešení fáze 8.
+- Počet fází a celkový počet nocí (22) jsou beze změny.
+
 ## v28: Koh Yao Noi: loď na Phuket (5. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v28/) · [Markdown](verze/v28/thajsko-bangkok-phuket.md) · [rozdíl proti v27](https://github.com/polachp/dovolena-thajsko-2026/compare/923f61a...c11af34)

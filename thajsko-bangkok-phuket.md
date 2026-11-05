@@ -14,6 +14,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Program na Koh Yao Noi (fáze 7):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok, jestli jde skútr bez oprávnění na motocykl a jaké restaurace v prosinci fungují.
 - **Dvojí rezervace na Koh Yao Noi (fáze 7):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
 - **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
+- **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
 - **Ubytování ve fázích 5 až 8** zatím není rezervované, kromě Khao Sok (Bingo Hostel Khao Sok 8.–10. 12., Flora Hostel KhaoSok 8.–9. 12.), Krabi (Vacation House 12.–14. 12.) a Koh Yao Noi (Pyramid Bungalow a Tabeak View Point, 14.–18. 12.). Noci 10.–12. 12. v Khao Sok se řeší na místě, nezarezervovaný zůstává Phuket Town. Fáze 1 až 4 jsou potvrzené.
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
@@ -93,6 +94,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 5 | Khao Sok, ubytování Flora Hostel KhaoSok | [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok) | Potvrzeno 8.–9. 12., check-in 14:00–20:00, check-out 9:00–11:00, rezervováno přes Booking.com, zrušit zdarma do 8. 12., noc se kryje s Bingo Hostel Khao Sok |
 | 5 | Khao Sok, ubytování Bingo Hostel Khao Sok | [Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok) | Potvrzeno 8.–10. 12., rezervováno přes Booking.com, 2 lůžka v dormu, check-in 14:00–20:00, check-out do 11:00, zrušit zdarma do 6. 12. 23:59, noc 8.–9. 12. se kryje s Flora Hostel |
 | 5 | Khao Sok, čtyřkolky Khao sok ATV Adventure | [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) | Volitelně, ve vesnici Khlong Sok, 8:00–18:30, tel. +66 85 210 9593, jízda 1,5 až 2 hodiny, odvoz z ubytování zdarma |
+| 5 | Khao Sok, Khao Sok Elephant Sanctuary | [Khao Sok Elephant Sanctuary](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20Elephant%20Sanctuary%20Khlong%20Sok) | Volitelně, sloní útočiště ve vesnici Khlong Sok, Google Maps 4,4 z 884 recenzí, otevírá v 8:30, program (koupání, dotyky) a cenu ověřit před rezervací (neověřeno) |
 | 5 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
 | 5 | Khao Sok, vodopád Than Sawan (jiné psaní: Tan Sawan, Tarn Sawan) | [8.96678, 98.54116](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) | Celodenní túra od ředitelství parku. Souřadnice jsou z jednoho zdroje (neověřeno), pod názvem se místo v Mapách nenajde |
 | 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
@@ -328,6 +330,7 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Řeka Sok:** tubing, kánoe nebo vor.
 - **Vodopád Than Sawan:** celodenní túra s průvodcem.
 - **Čtyřkolky (volitelně):** 1,5 až 2 hodiny jízdy džunglí s průvodcem, odvoz z ubytování zdarma, od 1 500 THB na osobu.
+- **Sloní útočiště (volitelně):** krátká návštěva útočiště pro slony ve vesnici Khlong Sok, bez jízd, program se ještě ověřuje.
 - **Noční safari (volitelně):** hodně pavouků, rozhodnout až na místě (sekce 12).
 
 #### Noc na jezeře (zatím nerozhodnuto)
@@ -357,6 +360,17 @@ Jízda čtyřkolkou džunglí s průvodcem. Pevný den není, vybere se v Khao S
 - **Objednání:** napřímo u provozovatele, odvoz z ubytování je v ceně i tak. Přes ubytování nebo zprostředkovatele bývá dráž kvůli provizi (neověřeno): zprostředkovatel na internetu uváděl 1 800 THB za řidiče a 1 000 THB za spolujezdce. Jestli stačí přijít, nebo je potřeba rezervovat den předem, je neověřené, rozumné je napsat provozovateli den předem.
 - **Delší varianta:** 3 hodiny, asi 1 725 THB na osobu s odvozem v 11:00 (TakeMeTour, neověřeno).
 
+#### Sloní útočiště (volitelně)
+
+Co to je: útočiště pro slony ve vesnici Khlong Sok, kde se chodí se slony pod vedením průvodce, na slonech se nejezdí a nepředvádějí se triky. Proč jet: je to krátká zastávka na jedno dopoledne nebo odpoledne ve dnech 10.–12. 12. a slony tu uvidíte zblízka, na rozdíl od divokých slonů v Kui Buri (fáze 2), které se sledují z dálky. Zatím nerezervováno.
+
+- **Místo:** [Khao Sok Elephant Sanctuary](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20Elephant%20Sanctuary%20Khlong%20Sok). Adresa podle jednoho prodejce je 43 Moo 6 Klongsok, Phanom, Surat Thani 84250, shoda s místem na mapě není ověřená. Google Maps: 4,4 z 884 recenzí, otevírá v 8:30.
+- **Délka a odvoz:** podle prodejce Trazy asi 1,5 hodiny na místě, odjezdy z hotelu v 8:00, 10:00, 13:00 a 15:00, zdarma jen z ubytování do 2 km od vesnice (neověřeno u útočiště). Google radí přijít v 16:00 na kratší a klidnější program (shrnutí recenzí, neověřeno).
+- **Co program obsahuje, zdroje si odporují:** blog Couples Travel Stories doporučuje program Elephant Care, tedy procházku vedle slonů s výkladem bez vynucené interakce. Recenze na Tripadvisoru z 25. 1. 2026 píše, že se sloni do koupání nenutí a skupina byla malá. Prodejní stránka Trazy ale uvádí koupání v bahně, dotyky a hraní.
+- **Na co se zeptat před rezervací:** jestli je koupání nebo dotýkání součástí programu (vybrat program bez nich), kolik lidí je ve skupině, cena (zatím neznámá), odvoz z ubytování a volný termín 10.–12. 12.
+- **Rezervace:** tlačítkem Rezervovat na Google Maps nebo zprávou útočišti.
+- **Pozor na záměnu:** Khao Sok Elephant Conservation Centre je jiné místo, podle jedné recenze tam koupání vynucují.
+
 #### Vstupy a sezóna
 
 Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený po 16:00 platí i další den. Na začátku prosince ještě doznívají deště a některé stezky mohou být po silném dešti zavřené (podle starších zpráv zhruba do 14. 12.), u vstupu se zeptejte, co je přístupné.
@@ -377,7 +391,7 @@ Noci 10.–12. 12. zatím nejsou rezervované a vyřeší se na místě podle po
 
 #### Mapy
 
-[Khao Sok, ředitelství parku](https://www.google.com/maps/search/?api=1&query=8.9165,98.5281) · [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village) · [molo Ratchaprapha (Cheow Lan)](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier,%20Cheow%20Lan%20Lake) · [vodopád Than Sawan](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) (souřadnice z jednoho zdroje) · [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom)
+[Khao Sok, ředitelství parku](https://www.google.com/maps/search/?api=1&query=8.9165,98.5281) · [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village) · [molo Ratchaprapha (Cheow Lan)](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier,%20Cheow%20Lan%20Lake) · [vodopád Than Sawan](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) (souřadnice z jednoho zdroje) · [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) · [Khao Sok Elephant Sanctuary](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20Elephant%20Sanctuary%20Khlong%20Sok)
 
 ### Fáze 6: Krabi a Dragon Crest (2 noci, 12.–14. 12.)
 
