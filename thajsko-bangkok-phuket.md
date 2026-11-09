@@ -383,7 +383,7 @@ Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený
 
 [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok), 8.–9. 12., potvrzeno, rezervováno přes Booking.com (apartmá s výhledem do zahrady, 2 dospělí). Check-in 14:00–20:00, check-out 9:00–11:00. Zrušit zdarma do 8. 12. 18:00 thajského času (v Česku 8. 12. ve 12:00). Neověřeno: jestli má pokoj vlastní koupelnu a jestli hostel zařídí výlet na jezero Cheow Lan. Hostelu to jde napsat zprávou předem. Noc 8.–9. 12. je zarezervovaná i v Bingo Hostelu, jednu z rezervací je potřeba zrušit.
 
-[Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok), 8.–10. 12. (2 noci), potvrzeno, 2 dospělí, 2 lůžka, jedno z nich postel v 8lůžkovém smíšeném společném pokoji. Rezervováno přes Booking.com. Adresa 285/3 Moo 6, Khao Sok, 84250, tel. +66 61 229 7717. Check-in 14:00–20:00, check-out do 11:00. Snídaně se platí zvlášť, 120 THB za osobu a noc. Zrušit zdarma do 6. 12. 2026 23:59 thajského času (v Česku 6. 12. v 17:59), od 7. 12. 0:00 se platí 100 % ceny. Neověřeno: klimatizace v dormu a jestli hostel zařídí výlet na jezero Cheow Lan.
+[Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok), 8.–10. 12. (2 noci), potvrzeno, 2 dospělí, 2 lůžka, jedno z nich postel v 8lůžkovém smíšeném společném pokoji. Rezervováno přes Booking.com. Adresa 285/3 Moo 6, Khao Sok, 84250, tel. +66 61 229 7717. Check-in 14:00–20:00, check-out do 11:00. Snídaně se platí zvlášť, 120 THB za osobu a noc. Zrušit zdarma do 6. 12. 2026 23:59 thajského času (v Česku 6. 12. v 17:59). Neověřeno: klimatizace v dormu a jestli hostel zařídí výlet na jezero Cheow Lan.
 
 Noci 10.–12. 12. zatím nejsou rezervované a vyřeší se na místě podle potřeby. Při hledání bylo v Khao Sok hodně míst obsazených. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
 
@@ -418,7 +418,7 @@ Skútr se půjčuje v Ao Nang, kde je půjčoven hodně, od 150 do 400 THB za de
 
 #### Ubytování
 
-[Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi), 49/1 Moo 3, Tambol Nongthalay, Krabi 81000 (Klong Muang pláž), tel. +66 89 971 1883. 12.–14. 12. (2 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, dvoulůžkový pokoj Standard s manželskou postelí. Příjezd v sobotu 12. 12. mezi 14:00 a 22:00, odjezd v pondělí 14. 12. mezi 7:00 a 12:00. Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku 4. 12. v 17:59), od 5. 12. 0:00 se platí 100 % ceny, stejně jako při nedostavení se. Booking.com strhne částku z karty automaticky, kdy přesně, neověřeno. Číslo rezervace a PIN jsou v potvrzovacím e-mailu. Malý penzion o 5 pokojích s klimatizací, u pláže Klong Muang (podle Trip.com do 100 m), asi 5 minut autem od pláže Tubkaek a asi 11 km od Ao Nang. Parkování zdarma.
+[Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi), 49/1 Moo 3, Tambol Nongthalay, Krabi 81000 (Klong Muang pláž), tel. +66 89 971 1883. 12.–14. 12. (2 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, dvoulůžkový pokoj Standard s manželskou postelí. Příjezd v sobotu 12. 12. mezi 14:00 a 22:00, odjezd v pondělí 14. 12. mezi 7:00 a 12:00. Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku 4. 12. v 17:59). Booking.com strhne částku z karty automaticky, kdy přesně, neověřeno. Číslo rezervace a PIN jsou v potvrzovacím e-mailu. Malý penzion o 5 pokojích s klimatizací, u pláže Klong Muang (podle Trip.com do 100 m), asi 5 minut autem od pláže Tubkaek a asi 11 km od Ao Nang. Parkování zdarma.
 
 #### Přesun dál
 
@@ -482,11 +482,11 @@ Koupat se dá hlavně při přílivu, při odlivu se odhalí široké plochy dna
 
 #### Ubytování
 
-Rezervováno: **Pyramid Bungalow** (Booking.com), 4 noci 14.–18. 12., dvoulůžkový pokoj s manželskou postelí a terasou, s klimatizací (podle Anežky). Check-in 14:30–18:30, check-out 5:00–11:00. Telefon +66 95 850 3349. Zrušit zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), při pozdějším zrušení se platí poplatek.
+Rezervováno: **Pyramid Bungalow** (Booking.com), 4 noci 14.–18. 12., dvoulůžkový pokoj s manželskou postelí a terasou, s klimatizací (podle Anežky). Check-in 14:30–18:30, check-out 5:00–11:00. Telefon +66 95 850 3349. Zrušit zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59).
 
 Poloha: východní pobřeží mezi Pasai a Klong Jark, u vody, restaurace a obchůdek do 2 minut pěšky, k pláži Pasai asi 700 m. Pasai je nejživější část ostrova, v prosinci (vysoká sezóna) může být plněji. Hlasitý hmyz v noci. Na večeři je asi 300 m od ubytování restaurace Rice Paddy (podle Google Maps 4,6 z 796 hodnocení, otevřeno úterý až neděle 12:00–22:00, v pondělí zavřeno, neověřeno).
 
-Druhá rezervace na stejné noci: **Tabeak View Point** (Booking.com), pokoj s oddělenými postelemi bez klimatizace, na svahu u Pasai s výhledem. Zrušit zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00), při pozdějším zrušení se platí poplatek. Jedno ze dvou ubytování je potřeba zrušit, rozhodnout nejpozději do 6. 12. v 17:59 českého času, protože Pyramid vyprší dřív.
+Druhá rezervace na stejné noci: **Tabeak View Point** (Booking.com), pokoj s oddělenými postelemi bez klimatizace, na svahu u Pasai s výhledem. Zrušit zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00). Jedno ze dvou ubytování je potřeba zrušit, rozhodnout nejpozději do 6. 12. v 17:59 českého času, protože Pyramid vyprší dřív.
 
 Zvažovaná klidnější alternativa: Namtok Bungalows u Tha Khao (v džungli u skoro prázdné pláže, ventilátor, klimatizace za příplatek, dál od restaurací), nezarezervováno. Západní pobřeží jsme vyřadili, protože tam nejsou pláže ke koupání.
 
@@ -581,7 +581,7 @@ Na letiště dorazit aspoň 3 hodiny před odletem, tedy asi v 18:00 (doporučen
 
 #### Ubytování
 
-Rezervováno: **Wattana Bungalow** (Booking.com), 1 noc 18.–19. 12., dvoulůžkový pokoj Standard s manželskou postelí nebo oddělenými postelemi. Check-in od 14:00, check-out do 12:00. Adresa: 92/3 Moo 5, T. Saku, A. Thalang, Phuket 83110 (Nai Yang pláž). Telefon +66 89 588 9165. Zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), od 17. 12. se platí celá cena.
+Rezervováno: **Wattana Bungalow** (Booking.com), 1 noc 18.–19. 12., dvoulůžkový pokoj Standard s manželskou postelí nebo oddělenými postelemi. Check-in od 14:00, check-out do 12:00. Adresa: 92/3 Moo 5, T. Saku, A. Thalang, Phuket 83110 (Nai Yang pláž). Telefon +66 89 588 9165. Zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59).
 
 Podle inzerátu (Trip.com, neověřeno): sedm pokojů s klimatizací, recepce 24 hodin, úschova zavazadel, snídaně není, bar a obchůdek, odvoz na letiště hostitel nenabízí. Neověřeno: vzdálenost k pláži a k trhu.
 

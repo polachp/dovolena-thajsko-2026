@@ -538,5 +538,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c4abc44",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v43",
+    "datum": "9. 11. 2026",
+    "nazev": "Ubytování: bez poplatků za pozdní zrušení",
+    "zmeny": [
+      "Smazané věty o tom, co se platí po termínu zrušení zdarma, u pěti ubytování ve fázích 5 až 8: Bingo Hostel, Vacation House, Pyramid Bungalow, Tabeak View Point a Wattana Bungalow.",
+      "Termíny zrušení zdarma zůstávají. Rozpočet v sekci 14 je beze změny.",
+      "Počet fází (8) a noci (22) jsou beze změny."
+    ],
+    "commit": "5094190",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
