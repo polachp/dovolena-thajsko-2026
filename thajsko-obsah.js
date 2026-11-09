@@ -555,7 +555,6 @@ Trasy podle AllTrails, časy orientační:
 - **Nai Thon do Nai Yang:** lehká, asi 6 km a asi 1 hodina 40 minut, po písku a přes borový les s výhledy.
 - **Okruh Nai Thon, Nai Yang a zpět po místních ulicích:** střední, asi 10 km, necelé 3 hodiny.
 - **Okruh v kopcích u Nai Thon:** střední, asi 8 km, asi 2 hodiny 45 minut, přes les, kaučukové plantáže a vesnice, začátek na úzké silnici.
-- **Nai Yang do Sai Kaew:** těžká, asi 26 km, nedoporučujeme.
 
 Při přílivu bývá chůze po pláži těžší (podle jedné recenze), písek je horký, vezměte vodu a krém. Jestli se platí vstup do parku Sirinat i za samotnou procházku po pláži, nevíme (viz Další možnosti).
 
@@ -573,7 +572,6 @@ Sloní útočiště Phuket Elephant Care, program Observe (v Google Maps Phuket 
 
 - **Pláž Nai Thon (volitelně):** menší klidná pláž asi 10 minut jízdy od Nai Yang a asi 7 km od letiště (Lonely Planet), jemný písek a západy slunce. Restaurace a ubytování jsou většinou přes silnici: Shameena (thajská rodinná restaurace, asi 30 jídel), Vero Trattoria v hotelu Pullman, Inthanin na písku. Plavání je dobré mimo vrchol monzunu, hlídejte vlajky. Dřevěné schody na severním konci chátrají. Značka Bare rock (Mortuletti hiking area) u severního konce pláže je jen uživatelská značka s jednou recenzí, vyznačená cesta tam podle všeho není (neověřeno).
 - **Národní park Sirinat (spíš ne):** vstup 200 THB za dospělého cizince, 100 THB za dítě, otevřeno 8:30–16:30 (jinde 8:00), správa parku je u pláže Nai Yang. Jedna recenze píše, že před 8:00 a po 16:00 se neplatí (neověřeno). Prkenná stezka v mangrovech je podle zdroje u správy parku, přesný začátek jsme nenašli. Park jsme kvůli odpadkům jako cíl procházky vyřadili.
-- **Vodopád Bang Pae (nedoporučujeme):** malý vodopád bez jezírka na koupání, vstup 200 THB, 8:00–16:30. Sousední záchranná stanice pro gibony návštěvníky nepouští.
 - **Phuket Town:** původní plán (Thalang Road, mookata, nedělní Walking Street) je ve [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md).
 
 #### Odlet

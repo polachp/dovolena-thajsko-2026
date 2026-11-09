@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v41: Fáze 8: bez Sai Kaew a Bang Pae (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v41/) · [Markdown](verze/v41/thajsko-bangkok-phuket.md) · [rozdíl proti v40](https://github.com/polachp/dovolena-thajsko-2026/compare/3cec50d...7c0958c)
+
+- Fáze 8: smazaná odrážka Nai Yang do Sai Kaew (těžká trasa asi 26 km) v bloku Letadla a procházky po plážích.
+- Fáze 8: smazaná odrážka Vodopád Bang Pae v bloku Další možnosti a co jsme vyřadili.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v40: Fáze 8 a 5: bez odpadků a bez vysvětlování potvrzení Bingo Hostel (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v40/) · [Markdown](verze/v40/thajsko-bangkok-phuket.md) · [rozdíl proti v39](https://github.com/polachp/dovolena-thajsko-2026/compare/c2b5df2...3cec50d)

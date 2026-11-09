@@ -514,5 +514,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "3cec50d",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v41",
+    "datum": "9. 11. 2026",
+    "nazev": "Fáze 8: bez Sai Kaew a Bang Pae",
+    "zmeny": [
+      "Fáze 8: smazaná odrážka Nai Yang do Sai Kaew (těžká trasa asi 26 km) v bloku Letadla a procházky po plážích.",
+      "Fáze 8: smazaná odrážka Vodopád Bang Pae v bloku Další možnosti a co jsme vyřadili.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "7c0958c",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
