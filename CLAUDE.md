@@ -10,8 +10,8 @@ Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa
 
 ## Aktuální stav (aktualizuj při každé nové verzi)
 
-- Poslední verze: **v43** (9. 11. 2026), zdroj `verze/v43/thajsko-bangkok-phuket.md`.
-- Archiv: `verze/v1` až `verze/v42`, neměnit.
+- Poslední verze: **v44** (9. 11. 2026), zdroj `verze/v44/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v43`, neměnit.
 - Sekce 0 až 16, itinerář je sekce 5. Rozřazení sekcí do záložek webu je v `hlavicka.kam` poslední verze.
 - Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 4 (8.–12. 12.), Krabi 2 (12.–14. 12.), Koh Yao Noi 4 (14.–18. 12.), Phuket, Nai Yang 1 (18.–19. 12.).
 - Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
@@ -49,6 +49,7 @@ Markdown verze nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, b
 - Bez emoji. Bez pomlčky `—` a `–` mimo číselné rozsahy (2020–2024), místo nich čárka, dvojtečka, závorka nebo dvě věty.
 - Struktura sekcí je zavedená (číslované `##` sekce 0 až 16), drž ji. Novou sekci zakládej jen když se obsah opravdu nevejde jinam. Při přečíslování uprav všechny odkazy „sekce N“ a `hlavicka.kam`.
 - Každá informace patří na jedno místo. Co se týká konkrétní fáze (program, ceny, přesun, ubytování), patří do fáze, obecné sekce jen odkazují. Sekce 0 drží jen to, co je nedořešené, historie změn patří do `zmeny` v `src/verze.json`.
+- Termíny zrušení ubytování zdarma jsou ve fázích (zdroj) a od v44 také seřazené podle pořadí na cestě v tabulce Do kdy zrušit ubytování zdarma v sekci 11, v thajském i českém čase. Když se rezervace nebo termín změní, uprav fázi i tabulku. V sekci 3 se termíny neuvádějí, v sekci 0 jsou jen u dvojích rezervací a u Wattany, kde se podle nich rozhoduje.
 - Fáze jsou nadpisy `### Fáze N: Název (X nocí, datum)` v sekci 5 a web z nich dělá samostatné stránky. Každá fáze má stejnou stavbu:
   1. jeden až dva řádky popisu (web ho ukazuje i na kartě v přehledu),
   2. seznam „co uvidíte“: `- **Místo:** jedna věta`, volitelné věci označené „(volitelně)“,
@@ -60,7 +61,7 @@ Markdown verze nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, b
 
 ## Co je rozpracované
 
-Stav k v43. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
+Stav k v44. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
 
 - Fáze 5: noc na jezeře Cheow Lan (balíček, konkrétní raft house, nebo jen jednodenní výlet). Rezervace bungalovu je jeden ze dvou pevných bodů.
 - Fáze 5: čtyřkolky v Khao Sok (Khao sok ATV Adventure): cena (1 500 THB řidič, 2 200 THB dva na jedné čtyřkolce) a odvoz z ubytování zdarma potvrdil provozovatel 3. 11., den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
@@ -71,7 +72,7 @@ Stav k v43. Noci jsou přepočtené a sedí na 22, itinerář má novou struktur
 - Fáze 7: loď z Koh Yao Noi na Phuket (18. 12.) je zapsaná, ale časy a ceny jsou neověřené. Dvě mola (Manoh, Laem Sai), obě na Bang Rong, lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.). Chybí ověřit, které molo je blíž k ubytování. Taxi z mola Bang Rong do Nai Yang (asi 19 minut, 13 až 16 USD) je neověřené.
 - Fáze 8: Wattana Bungalow v Nai Yang (18.–19. 12., Booking.com, zrušit zdarma do 16. 12. 23:59 thajského času, v Česku v 17:59, tedy ve stejné době, kdy se kupuje lístek na loď). Program je nabídka možností (trh Nai Yang Fresh Market, letadla a procházky po plážích, sloní lávka Observe v Sakhu, Nai Thon; Fun Friday na Boat Avenue a suvenýry jsou od v31 ve variantách), nic z toho není rezervované. Neověřené zůstává: Observe (cena, délka, časy, storno, rezervace přes web provozovatele), hodiny trhu (Google Maps denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattany od pláže a od trhu, úschova zavazadel po odhlášení do 12:00. Let EY 413 z Phuketu je v sobotu 19. 12. ve 21:00, zapsaný ve fázi 8.
 - Rozpočet (sekce 14) nepřepočítává změnu ve v21, položky vyřazené z Krabi v něm zůstávají jako horní odhad. Od v30 je noc v Nai Yang vyčleněná zvlášť (1 700 THB podle rezervace), součty vychází asi 65 150 THB úsporně a 113 500 THB pohodlněji.
-- Ubytování ve fázích 5 až 8 je rezervované, kromě nocí 10.–12. 12. v Khao Sok. Na Koh Yao Noi jsou dvě rezervace (viz výše), na Phuketu Wattana Bungalow (viz fáze 8) a v Khao Sok Bingo Hostel Khao Sok (8.–10. 12., Booking.com, zrušit zdarma do 6. 12. 23:59 thajského času) a Flora Hostel KhaoSok (8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00). Noc 8.–9. 12. je zarezervovaná dvakrát, jedno z ubytování je potřeba zrušit. V Krabi je potvrzený Vacation House (12.–14. 12., Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času, to je nejbližší termín ze všech). Noci v Khao Sok 10.–12. 12. se řeší na místě. Fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází (22. 11. až 2. 12.).
+- Ubytování ve fázích 5 až 8 je rezervované, kromě nocí 10.–12. 12. v Khao Sok. Na Koh Yao Noi jsou dvě rezervace (viz výše), na Phuketu Wattana Bungalow (viz fáze 8) a v Khao Sok Bingo Hostel Khao Sok (8.–10. 12., Booking.com, zrušit zdarma do 6. 12. 23:59 thajského času) a Flora Hostel KhaoSok (8.–9. 12., Booking.com, zrušit zdarma do 8. 12. 18:00). Noc 8.–9. 12. je zarezervovaná dvakrát, jedno z ubytování je potřeba zrušit. V Krabi je potvrzený Vacation House (12.–14. 12., Booking.com, zrušit zdarma do 4. 12. 23:59 thajského času, to je nejbližší termín ze všech). Noci v Khao Sok 10.–12. 12. se řeší na místě. Fáze 1 až 4 jsou rezervované přes Agodu, termíny zrušení zdarma jsou u fází (22. 11. až 2. 12.) a všechny jsou seřazené v tabulce v sekci 11.
 
 Pevné body jsou dva: rezervace plovoucího bungalovu na jezeře Cheow Lan a odlet z Phuketu 19. 12.
 
