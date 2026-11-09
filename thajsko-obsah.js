@@ -1043,39 +1043,51 @@ Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko uka
 | Tabeak View Point, Koh Yao Noi (Booking.com)<br>14.–18. 12., dvojí rezervace | po&nbsp;14.&nbsp;12.<br>18:00 | po&nbsp;14.&nbsp;12.<br>12:00 |
 | Wattana Bungalow, Nai Yang (Booking.com)<br>18.–19. 12. | st&nbsp;16.&nbsp;12.<br>23:59 | st&nbsp;16.&nbsp;12.<br>17:59 |
 
-## Místa na trase: povídání do letadla
+## Místa na trase: Bangkok (fáze 1)
 
-Krátké povídání ke každé zastávce, na čtení v letadle nebo večer. Nejde o seznam toho, co kde uvidíte (to je v záložce Itinerář), ale o to, proč jsou místa zajímavá: příroda, dějiny, jména. Údaje jsou z veřejných zdrojů (Wikipedie, Bangkok Post, stránky thajských parků a turistické weby). Kde se zdroje rozcházejí nebo se něco nedá ověřit, je to u věty uvedeno.
-
-### Bangkok: město andělů, kanálů a varanů (fáze 1)
+*Město andělů, kanálů a varanů*
 
 Thajci říkají Bangkoku Krung Thep, Město andělů. Celé slavnostní jméno má 21 slov a 168 písmen, podle Guinnessovy knihy rekordů je to nejdelší název místa na světě. Je složené z pálijských a sanskrtských slov a čte se spíš jako báseň o městě, kde sídlí znovuzrozený bůh a které je darem boha Indry. Nikdo ho nevyslovuje celé. Cizinci mu začali říkat Bangkok podle původní vesnice Bang Makok, kde rostly divoké olivy (zdroje strom překládají různě); od roku 2022 jsou oficiálně uznané obě podoby. Hlavním městem je Bangkok od roku 1782, po zničení Ayutthayi v roce 1767 a krátkém období v Thonburi na protějším břehu řeky. Stojí v deltě řeky Chao Phraya a kanály (klongy), po kterých se plavíte, jsou zbytek sítě, která mu vynesla přezdívku Benátky Východu. Wat Pho je starší než samotné město a býval jedním z prvních míst veřejného vzdělávání, na kamenných deskách z 19. století jsou zapsané léčitelské texty a masážní body, a proto se mu říká kolébka thajské masáže. Wat Paknam na druhém břehu řeky podle zdrojů pochází z roku 1610 a proslavil ho opat Luang Pu Sodh, který tu v letech 1916 až 1959 učil meditaci Dhammakaya.
 
-### Sam Roi Yot a Kui Buri: hory, mokřad a sloni (fáze 2)
+## Místa na trase: Sam Roi Yot a Kui Buri (fáze 2)
+
+*Hory, mokřad a sloni*
 
 Khao Sam Roi Yot se překládá jako Hora tří set vrcholů. Odkud jméno pochází, není jisté: pověst mluví o třech stech trosečnících z čínské lodi, jiný výklad o místní rostlině. Park vyhlášený 28. června 1966 byl prvním pobřežním národním parkem v Thajsku. Je malý, asi 98 km² (z toho zhruba 21 km² moře), ale na malé ploše spojuje vápencové hory vyrůstající z roviny, mangrovy, pláže a největší sladkovodní mokřad v zemi, Thung Sam Roi Yot. Ten je od roku 2008 zapsaný mezi ramsarské lokality, tedy mokřady mezinárodního významu. Jeskyně Phraya Nakhon je pojmenovaná po vládci z Nakhon Si Thammarat, který ji podle příběhu objevil za krále Ramy I. Ve dvou sálech se strop propadl a dovnitř dopadá světlo. Pavilon Kuha Karuehat tu dal postavit král Chulalongkorn (Rama V.) k návštěvě 20. června 1890. V roce 1868 pozval v těchto místech král Mongkut (Rama IV.) cizí hosty k pozorování zatmění Slunce, které sám předpověděl na 18. srpna. Podle Wikipedie se při tom možná nakazil malárií a 1. října zemřel. Kui Buri, kam jedete za slony, je mladší: park z března 1999 vznikl z konfliktu, protože ananasové plantáže zabraly dřívější prostor slonů a mezi slony a vesničany rostlo napětí. Louky, kde dnes pasou, jsou z velké části umělé, od roku 2007 je park udržuje na ploše asi 12 000 rai (zhruba 19 km²).
 
-### Prachuap Khiri Khan: nejužší místo Thajska a ráno 8. prosince 1941 (fáze 3)
+## Místa na trase: Prachuap Khiri Khan (fáze 3)
+
+*Nejužší místo Thajska a ráno 8. prosince 1941*
 
 Prachuap Khiri Khan leží na jednom z nejužších míst Thajska: od zálivu k hranici s Myanmarem je to podle Wikipedie jen asi 12 km (jiné zdroje uvádějí kolem 10 km). Městu se přezdívá Město tří zálivů a provincie je známá kokosem, podle Wikipedie pěstuje samé kokosové palmy až 40 % zdejších zemědělců. Nejvíc se tu ale vzpomíná na 8. prosinec 1941. Kolem třetí hodiny ráno se tu vylodili japonští vojáci, v době, kdy Japonsko zahajovalo útoky v celé jihovýchodní Asii. Obránci, hlavně letci z letecké základny Wing 5 a další vojáci i civilisté, vzdorovali zhruba 33 hodin. Boje skončily 9. prosince ve 12:35 na rozkaz premiéra Phibuna z Bangkoku. Thajsko pak s Japonskem uzavřelo spojenectví a proti němu vznikl odboj Seri Thai, Svobodní Thajci. Ao Manao, kam jedete za hulmany, bylo jedním z bojišť a na základně stojí pomník obránců. Každý rok 8. prosince se tu koná vzpomínka, vy tu budete o pár dní dřív, 85 let po bitvě. Počty padlých zdroje uvádějí různě, proto je tu neuvádíme.
 
-### Ranong a Koh Phayam: nejdeštivější provincie a ostrov kešu (fáze 4)
+## Místa na trase: Ranong a Koh Phayam (fáze 4)
+
+*Nejdeštivější provincie a ostrov kešu*
 
 Ranong je nejméně lidnatá provincie Thajska a zároveň jedna z nejdeštivějších, přezdívá se jí Město osmi měsíců deště a čtyř měsíců slunce. Pohoří za městem zastavuje monzun od Andamanského moře. Zdroje uvádějí různé roční úhrny, od zhruba 2 500 do více než 4 000 mm, a rekordní rok 1955 prý přes 6 600 mm. Prosinec je podle klimatických údajů mnohem sušší než říjen a listopad (viz sekce Počasí, teploty a deště). Provincie leží na šíji Kra, kde je od Andamanského moře k Thajskému zálivu jen asi 44 km. Za řekou je Myanmar a protější město Kawthaung se dřív jmenovalo Victoria Point. Dřív se tu těžil cín (většina dolů je vytěžená) a bílý jíl na porcelán, dnes se žije z rybolovu, kaučuku a kešu. Pobřeží lemují rozsáhlé mangrovy a Ranong je od roku 1997 biosférická rezervace UNESCO, čtvrtá v Thajsku a jediná pobřežní. Koh Phayam je druhý největší ostrov provincie (kolem 35 km²) a tvoří spolu s okolními ostrovy národní park Mu Ko Phayam z roku 2003. Hlavní plodinou je kešu. Ořech roste zvenčí na konci šťavnatého plodu, kešu jablka, a surová skořápka dráždí kůži, proto se ořechy před jídlem pečou. V březnu se tu koná slavnost sklizně. Ostrov má pověst klidného útočiště bohémů, žijí na něm i Moken, námořní kočovníci, a po ostrově jezdí hlavně motorky.
 
-### Khao Sok: les starší než Amazonie a jezero z přehrady (fáze 5)
+## Místa na trase: Khao Sok (fáze 5)
+
+*Les starší než Amazonie a jezero z přehrady*
 
 Khao Sok je národní park z prosince 1980 (v Thajsku 22. v pořadí) o rozloze 739 km². Prales se často označuje za 160 milionů let starý, tedy starší než Amazonie. Číslo se opakuje všude, ale je to spíš odhad: tropický les tu mohl přežít, protože se oblast po celou tu dobu držela zhruba v rovníkovém pásmu. Vápencové skály, které ční nad lesem i z jezera (nejvyšší až k 960 m), vznikly z dávného mořského dna zhruba před 280 miliony let. V 70. letech se v lese podle Wikipedie ukrývali ozbrojení povstalci a díky tomu se k lesu nedostali dřevaři, horníci ani lovci. Pak přišla přehrada Ratchaprapha, kterou postavila státní energetická společnost přes řeku Khlong Saeng. Zdroje se rozcházejí v datu, uvádějí roky 1982 až 1987. Zatopila údolí a vzniklo jezero Cheow Lan o rozloze 165 km². Podle jednoho zdroje muselo odejít pět vesnic a z hladiny dodnes místy vyčnívají kmeny zatopeného lesa. Jezero je umělé, ale krajina je z něj: vrcholky zatopených kopců se změnily v ostrovy a do nich se dnes pádluje a spí na plovoucích bungalovech.
 
-### Krabi: vápencové útesy, hřeben nágy a hřbitov mušlí (fáze 6)
+## Místa na trase: Krabi (fáze 6)
+
+*Vápencové útesy, hřeben nágy a hřbitov mušlí*
 
 Krabi je krajina vápencových skal, které stojí přímo v moři i uprostřed polí. Vápenec vznikl z mořských usazenin a korálových útesů před stovkami milionů let, později se zvedl nad hladinu a déšť a moře ho vyhlodaly do útesů, jeskyní a skalních věží. Je to stejný příběh jako v Khao Sok a v zálivu Phang Nga, jen jinde. Dragon Crest, thajsky Khao Ngon Nak, se obvykle překládá jako hřeben nágy, hadí bytosti z buddhistické mytologie, kterou uvidíte jako zábradlí chrámových schodišť. U zátoky Ao Nam Mao leží mimo plán Susan Hoi, hřbitov mušlí: pevné desky slepené z mušlí sladkovodních plžů z bažiny, kterou později zalilo moře. Přezdívá se mu hřbitov mušlí starých 75 milionů let, novější datování z pylu uvádí asi 40 milionů let a jiné zdroje 20 až 40 milionů. Desky jsou asi 40 cm silné a vlny je rozrušují. Vstup pro cizince je asi 200 THB (neověřeno).
 
-### Koh Yao Noi: malý dlouhý ostrov v zálivu Phang Nga (fáze 7)
+## Místa na trase: Koh Yao Noi (fáze 7)
+
+*Malý dlouhý ostrov v zálivu Phang Nga*
 
 Jméno ostrova je prosté: yao je thajsky dlouhý a noi malý, takže Koh Yao Noi je Malý dlouhý ostrov. Větší soused je Koh Yao Yai, Velký dlouhý. Oba leží uprostřed zálivu Phang Nga, na půl cesty mezi Phuketem a Krabi, a na pevninu se dostanete jen lodí, což je jedna z příčin, proč zůstaly klidné. Žije tu několik tisíc lidí, drtivá většina z nich jsou muslimští rybáři a zemědělci (zdroje uvádějí 90 až 99 %), a vesnice poznáte podle mešit a ranní výzvy k modlitbě. Pěstuje se kaučuk, rýže a kokos a loví se v zálivu, velké hotely tu nikdy nevyrostly. Skály v zálivu jsou vápencové věže zvedající se z moře. Část z nich je dutá a uvnitř mají zatopené lagunky, které se nazývají hong, thajsky pokoj, a stejné jméno nese ostrov, na který míříte. Nejslavnější skála zálivu, Khao Phing Kan, se jmenuje James Bond Island od roku 1974, kdy se tu točil film Muž se zlatou zbraní. V plánu ji nemáte. Při odlivu se na východě ostrova odhalí bahnité plochy, na kterých brodiví ptáci hledají potravu.
 
-### Phuket a Nai Yang: cín, kaučuk a želvy (fáze 8)
+## Místa na trase: Phuket a Nai Yang (fáze 8)
+
+*Cín, kaučuk a želvy*
 
 Phuket se dnes zná jako letovisko, ale původně byl ostrovem cínu. Od 19. století sem proudili čínští dělníci a obchodníci, hlavně z provincie Fujian (Hokkien), kteří v dolech vydělali tolik, že vznikly vily a řady měšťanských domů s obchody v přízemí ve stylu, kterému se říká sino-portugalský. Starou část Phuket Town v plánu nemáte, takže se o ní jen čte. Cín doplnil kaučuk: podle jednoho zdroje ho na ostrov zavedl guvernér, za kterého vznikly i silnice a nemocnice. Jméno Phuket se podle jednoho z výkladů odvozuje z malajského slova bukit, hora (neověřeno). Sever ostrova, kde budete spát, patří k historickému území Thalang. Tradice vypráví o roce 1785, kdy Barmánci zaútočili na Thalang a obranu vedly dvě sestry, Chan a Mook; v Thalangu pro ně stojí pomník (neověřeno). Nai Yang byl vyhlášen národním parkem v červenci 1981 a v roce 1992 přejmenován na Sirinat, podle jednoho zdroje na počest královny Sirikit k jejím 60. narozeninám (neověřeno). Park má asi 90 km², z toho dvě třetiny moře, a čtyři pláže včetně Mai Khao, nejdelší pláže Phuketu. Pláže lemují stromy casuarina, které vypadají jako jehličnany, ale jsou to kvetoucí rostliny. Od listopadu do února sem připlouvají klást vejce mořské želvy.
 `;

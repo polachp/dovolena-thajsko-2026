@@ -216,9 +216,9 @@ footer a{color:var(--accent)}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=83017d03"></script>
+<script src="../../verze.js?v=6070f1ab"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=83017d03"></script>
+<script src="thajsko-obsah.js?v=6070f1ab"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -286,9 +286,16 @@ footer a{color:var(--accent)}
     if(n.nodeType===1&&n.tagName==='H2'){akt={h:n,uzly:[n]};bloky.push(akt)}
     else if(akt) akt.uzly.push(n);
   });
+  // sekce, jejichz nadpis zacina stejne pred dvojteckou (Místa na trase: Bangkok, Místa na trase: Krabi), maji v kartach a menu cely nazev bez zavorky
+  var zacatky={};
+  bloky.forEach(function(b){
+    var z=b.h.textContent.trim().replace(/^\d+\.\s*/,'').split(/[:(]/)[0].trim();
+    zacatky[z]=(zacatky[z]||0)+1;
+  });
   bloky.forEach(function(b){
     var t=b.h.textContent.trim(), m=t.match(/^(\d+)\.\s*(.*)$/);
     var cislo=m?m[1]:null, nazev=m?m[2]:t, kratkySekce=nazev.split(/[:(]/)[0].trim();
+    if(zacatky[kratkySekce]>1) kratkySekce=nazev.split('(')[0].trim();
     var jeItin=b.uzly.some(function(n){return n.nodeType===1&&n.tagName==='H3'&&/^Fáze \d+:/.test(n.textContent.trim())});
     if(!jeItin){
       // cislo sekce se na webu neukazuje (od v51 ani v nadpisech), slouzi jen k zarazeni do zalozky ve starsich verzich

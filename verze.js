@@ -653,5 +653,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "4469d60",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v52",
+    "datum": "9. 11. 2026",
+    "nazev": "Zajímavosti: povídání o místech jako osm karet",
+    "zmeny": [
+      "Povídání o místech na trase už nejsou v jedné kartě. V záložce Zajímavosti je osm samostatných karet: Místa na trase: Bangkok, Sam Roi Yot a Kui Buri, Prachuap Khiri Khan, Ranong a Koh Phayam, Khao Sok, Krabi, Koh Yao Noi a Phuket a Nai Yang.",
+      "Dosavadní podtitulek každého povídání je teď kurzívou na jeho začátku a ukáže se i na kartě.",
+      "Úvodní odstavec nad povídáními je zrušený.",
+      "Šablona webu ukazuje celý název u sekcí, jejichž nadpis začíná před dvojtečkou stejně. Texty starších verzí se tím nemění."
+    ],
+    "commit": "6ddbd9e",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

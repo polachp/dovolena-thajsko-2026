@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v52: Zajímavosti: povídání o místech jako osm karet (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v52/) · [Markdown](verze/v52/thajsko-bangkok-phuket.md) · [rozdíl proti v51](https://github.com/polachp/dovolena-thajsko-2026/compare/4469d60...6ddbd9e)
+
+- Povídání o místech na trase už nejsou v jedné kartě. V záložce Zajímavosti je osm samostatných karet: Místa na trase: Bangkok, Sam Roi Yot a Kui Buri, Prachuap Khiri Khan, Ranong a Koh Phayam, Khao Sok, Krabi, Koh Yao Noi a Phuket a Nai Yang.
+- Dosavadní podtitulek každého povídání je teď kurzívou na jeho začátku a ukáže se i na kartě.
+- Úvodní odstavec nad povídáními je zrušený.
+- Šablona webu ukazuje celý název u sekcí, jejichž nadpis začíná před dvojtečkou stejně. Texty starších verzí se tím nemění.
+
 ## v51: Sekce bez čísel, odkazy podle názvu (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v51/) · [Markdown](verze/v51/thajsko-bangkok-phuket.md) · [rozdíl proti v50](https://github.com/polachp/dovolena-thajsko-2026/compare/afaa871...4469d60)
