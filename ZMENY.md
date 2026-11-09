@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v50: Zajímavosti: povídání o místech a víc o zvířatech (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v50/) · [Markdown](verze/v50/thajsko-bangkok-phuket.md) · [rozdíl proti v49](https://github.com/polachp/dovolena-thajsko-2026/compare/0a125c8...afaa871)
+
+- Nová sekce 18 Místa na trase: povídání do letadla, v záložce Zajímavosti. Ke každé z 8 fází je tam povídání o místě (jména, příroda, dějiny, proč je něco národní park), ne seznam toho, co kde uvidíte.
+- Sekce 2 Zvířata na trase: devět nových položek (varani v Bangkoku a na mokřadu, ptáci a serau v Sam Roi Yot, gaurové v Kui Buri, Koh Phayam, Rafflesia a velcí savci Khao Sok, brodiví ptáci na Koh Yao Noi, želvy v Nai Yang, gekoni) a doplněná úvodní věta.
+- Sekce 1 Úvod do Thajska: čtyři nová krátká čtení (proč se Siam stal Thajskem, 5. prosince, sloni v dějinách, přezdívky a pět tónů).
+- Co se nepodařilo ověřit, je v textu označené jako neověřené (například zvláštnosti kolem Thalangu, názvu Phuket a přejmenování parku Sirinat). U věcí, kde se zdroje rozcházejí, jsou uvedené oba údaje.
+- Záložka Zajímavosti: v hlavicka.kam patří do ní i sekce 18.
+
 ## v49: Fáze 5: noc na jezeře Cheow Lan (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v49/) · [Markdown](verze/v49/thajsko-bangkok-phuket.md) · [rozdíl proti v48](https://github.com/polachp/dovolena-thajsko-2026/compare/22213e5...0a125c8)

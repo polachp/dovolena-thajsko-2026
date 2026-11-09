@@ -625,5 +625,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "0a125c8",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v50",
+    "datum": "9. 11. 2026",
+    "nazev": "Zajímavosti: povídání o místech a víc o zvířatech",
+    "zmeny": [
+      "Nová sekce 18 Místa na trase: povídání do letadla, v záložce Zajímavosti. Ke každé z 8 fází je tam povídání o místě (jména, příroda, dějiny, proč je něco národní park), ne seznam toho, co kde uvidíte.",
+      "Sekce 2 Zvířata na trase: devět nových položek (varani v Bangkoku a na mokřadu, ptáci a serau v Sam Roi Yot, gaurové v Kui Buri, Koh Phayam, Rafflesia a velcí savci Khao Sok, brodiví ptáci na Koh Yao Noi, želvy v Nai Yang, gekoni) a doplněná úvodní věta.",
+      "Sekce 1 Úvod do Thajska: čtyři nová krátká čtení (proč se Siam stal Thajskem, 5. prosince, sloni v dějinách, přezdívky a pět tónů).",
+      "Co se nepodařilo ověřit, je v textu označené jako neověřené (například zvláštnosti kolem Thalangu, názvu Phuket a přejmenování parku Sirinat). U věcí, kde se zdroje rozcházejí, jsou uvedené oba údaje.",
+      "Záložka Zajímavosti: v hlavicka.kam patří do ní i sekce 18."
+    ],
+    "commit": "afaa871",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
