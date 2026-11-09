@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v40: Fáze 8 a 5: bez odpadků a bez vysvětlování potvrzení Bingo Hostel (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v40/) · [Markdown](verze/v40/thajsko-bangkok-phuket.md) · [rozdíl proti v39](https://github.com/polachp/dovolena-thajsko-2026/compare/c2b5df2...3cec50d)
+
+- Fáze 8: smazaná odrážka Odpadky v bloku Nai Yang (zprávy z února 2025 a recenze z roku 2026 o smetí na pláži).
+- Fáze 5: u Bingo Hostelu smazané vysvětlování, co je na screenu vidět a že si potvrzení odporuje. Zůstává 2 lůžka (jedno v 8lůžkovém smíšeném pokoji), termín zrušení zdarma do 6. 12. 23:59 thajského času a poplatek.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v39: Ubytování: bez recenzí, hodnocení a rozpisů cen (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v39/) · [Markdown](verze/v39/thajsko-bangkok-phuket.md) · [rozdíl proti v38](https://github.com/polachp/dovolena-thajsko-2026/compare/abf2a2f...c2b5df2)

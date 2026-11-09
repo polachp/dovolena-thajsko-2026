@@ -502,5 +502,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c2b5df2",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v40",
+    "datum": "9. 11. 2026",
+    "nazev": "Fáze 8 a 5: bez odpadků a bez vysvětlování potvrzení Bingo Hostel",
+    "zmeny": [
+      "Fáze 8: smazaná odrážka Odpadky v bloku Nai Yang (zprávy z února 2025 a recenze z roku 2026 o smetí na pláži).",
+      "Fáze 5: u Bingo Hostelu smazané vysvětlování, co je na screenu vidět a že si potvrzení odporuje. Zůstává 2 lůžka (jedno v 8lůžkovém smíšeném pokoji), termín zrušení zdarma do 6. 12. 23:59 thajského času a poplatek.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "3cec50d",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

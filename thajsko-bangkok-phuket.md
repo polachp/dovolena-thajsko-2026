@@ -383,7 +383,7 @@ Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený
 
 [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok), 8.–9. 12., potvrzeno, rezervováno přes Booking.com (apartmá s výhledem do zahrady, 2 dospělí). Check-in 14:00–20:00, check-out 9:00–11:00. Zrušit zdarma do 8. 12. 18:00 thajského času (v Česku 8. 12. ve 12:00). Neověřeno: jestli má pokoj vlastní koupelnu a jestli hostel zařídí výlet na jezero Cheow Lan. Hostelu to jde napsat zprávou předem. Noc 8.–9. 12. je zarezervovaná i v Bingo Hostelu, jednu z rezervací je potřeba zrušit.
 
-[Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok), 8.–10. 12. (2 noci), potvrzeno, 2 dospělí, 2 lůžka (lůžko 2 je postel v 8lůžkovém smíšeném společném pokoji, u lůžka 1 typ není na screenu vidět). Rezervováno přes Booking.com. Adresa 285/3 Moo 6, Khao Sok, 84250, tel. +66 61 229 7717. Check-in 14:00–20:00, check-out do 11:00. Snídaně se platí zvlášť, 120 THB za osobu a noc. Zrušit zdarma do 6. 12. 2026 23:59 thajského času (v Česku 6. 12. v 17:59), od 7. 12. 0:00 poplatek 1 173,16 THB, podle textu 100 % ceny (podmínky na screenu patří k lůžku 1, u lůžka 2 jsou nejspíš stejné). Potvrzení si odporuje: text říká zdarma do 1 dne před příjezdem, tabulka poplatků ale končí 6. 12., proto platí dřívější datum. Neověřeno: klimatizace v dormu a jestli hostel zařídí výlet na jezero Cheow Lan.
+[Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok), 8.–10. 12. (2 noci), potvrzeno, 2 dospělí, 2 lůžka, jedno z nich postel v 8lůžkovém smíšeném společném pokoji. Rezervováno přes Booking.com. Adresa 285/3 Moo 6, Khao Sok, 84250, tel. +66 61 229 7717. Check-in 14:00–20:00, check-out do 11:00. Snídaně se platí zvlášť, 120 THB za osobu a noc. Zrušit zdarma do 6. 12. 2026 23:59 thajského času (v Česku 6. 12. v 17:59), od 7. 12. 0:00 poplatek 1 173,16 THB, podle textu 100 % ceny. Neověřeno: klimatizace v dormu a jestli hostel zařídí výlet na jezero Cheow Lan.
 
 Noci 10.–12. 12. zatím nejsou rezervované a vyřeší se na místě podle potřeby. Při hledání bylo v Khao Sok hodně míst obsazených. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
 
@@ -533,7 +533,6 @@ Nai Yang je malá vesnice a klidná pláž, kam se jezdí na letadla, jídlo na 
 
 - **Jídlo:** u pláže je několik desítek malých restaurací, nejlépe se tam obědvá a večeří přímo na písku. Zdroje jmenují The Good View (thajská kuchyně, dobré ceny), Sea Almond (západ slunce, jídlo podle jednoho zdroje nic moc), Big Fish Bar and Grill v hotelu Marriott (mořské plody) a Black Ginger v hotelu The Slate (dražší). Pouliční jídlo a ovoce jsou levné. Vše neověřeno.
 - **Voda:** prosinec je hlavní sezóna (listopad až duben), moře je klidné, mělké a méně modré než jinde. Na pláži hlídejte vlajky, v monzunu jsou silné proudy.
-- **Odpadky:** pláž Nai Yang patří k národnímu parku Sirinat. Zprávy z února 2025 píší o 200 až 300 kg denně neodvezeného odpadu v parku a recenze z roku 2026 se rozcházejí (jedna pláž chválí, dvě si stěžují na smetí). Které úseky jsou nejhorší, zprávy neříkají, před koupáním se na pláž podívejte.
 - **Parkování:** ulice k pláži je úzká a končí slepě, parkuje se u prvních restaurací.
 
 #### Trh Nai Yang Fresh Market (volitelně)
