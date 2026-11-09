@@ -589,5 +589,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "53b052f",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v47",
+    "datum": "9. 11. 2026",
+    "nazev": "Lišta záložek ve dvou řádcích",
+    "zmeny": [
+      "Web: lišta záložek se na telefonu zalomí do dvou řádků, pět záložek nahoře a Verze pod nimi, bez posouvání do stran. Dvouslovné názvy (Před cestou, Na místě) jsou na telefonu ve dvou řádcích.",
+      "Text itineráře, záložky a rozřazení sekcí do záložek jsou beze změny."
+    ],
+    "commit": "f24e6b6",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
