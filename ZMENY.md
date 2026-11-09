@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v48: Fáze 1: doprava po Bangkoku (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v48/) · [Markdown](verze/v48/thajsko-bangkok-phuket.md) · [rozdíl proti v47](https://github.com/polachp/dovolena-thajsko-2026/compare/f24e6b6...22213e5)
+
+- Fáze 1 (Bangkok): nový blok Doprava po Bangkoku. Jak se platí v metru (od 1. 6. 2026 jen bezkontaktní kartou Visa nebo Mastercard, vstup i výstup stejnou kartou, žeton za hotovost jako záloha), na Airport Rail Link, na lodích a přívozu, v autobusech a v Grabu, a čím pojedete které dny.
+- Sekce 0: nová odrážka Doprava po Bangkoku (ověřit na místě, jestli karta v turniketu projde). Sekce 11: odrážka Finanční záloha doplněná o to, že každý potřebuje vlastní bezkontaktní kartu.
+- Počet fází (8) a noci (22) jsou beze změny.
+
 ## v47: Lišta záložek ve dvou řádcích (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v47/) · [Markdown](verze/v47/thajsko-bangkok-phuket.md) · [rozdíl proti v46](https://github.com/polachp/dovolena-thajsko-2026/compare/53b052f...f24e6b6)

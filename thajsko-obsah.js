@@ -9,6 +9,7 @@ Itinerář je volný: berte ho jako osnovu, ne jako pevný rozvrh. U každého p
 
 Co se mezi verzemi změnilo, najdete v záložce Verze.
 
+- **Doprava po Bangkoku (fáze 1):** platba bezkontaktní kartou v metru (od 1. 6. 2026) a ceny lodí jsou podle zdrojů, na místě ověřit, jestli karta v turniketu projde. Když ne, jde koupit žeton za hotovost.
 - **Noc na jezeře Cheow Lan (fáze 5):** balíček, konkrétní raft house, nebo jen jednodenní výlet. Je to jediná rezervace, která spěchá.
 - **Čtyřkolky v Khao Sok (fáze 5):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - **Krabi (fáze 6):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
@@ -190,6 +191,24 @@ Pomalý rozjezd po letu: chrámy po ránu, odpoledne pauza, večer street food. 
 - **Po 30. 11.:** Vstávat kolem 5:15, vyjet kolem 6:00 na vlak v 7:30.
 - **Vynecháno:** Velký palác (500 THB, 8:30–15:30, davy a přísný dress code). Kdo ho chce vidět, ať jde v 8:30 místo Wat Pho.
 - **Prakticky:** Do chrámů zakrytá ramena a kolena (sekce 9). Pozor na podvod „chrám je dnes zavřený“ (sekce 10).
+
+#### Doprava po Bangkoku
+
+Většinu cest zvládnete metrem (modrá linka), Grabem a pěšky. Skytrain (BTS) a městské autobusy nepotřebujete. Pravidla plateb a ceny jsou podle zdrojů z roku 2026 a rychle se mění, na místě je ověřte u turniketu nebo pokladny.
+
+- **Metro (MRT, modrá linka):** Hotel je u stanice Sam Yot. Od 1. 6. 2026 se na modré lince platí jen bezkontaktní kartou Visa nebo Mastercard (případně UnionPay), kterou přiložíte k turniketu při vstupu i při výstupu, vždy tou samou. Jízdenku ani registraci nepotřebujete. Každý jede na svou kartu, jednou kartou neprojdou dva lidé. Přikládejte jen jednu kartu, ať se platba nestrhne z jiné. Jízdné je asi 17–45 THB podle vzdálenosti. Staré předplacené karty MRT už neplatí.
+- **Když karta neprojde:** Zahraniční karta v turniketu někdy neprojde. U automatů a přepážky koupíte jednorázový žeton za hotovost. Podle oznámení se žetony mají od 1. 1. 2027 nahradit QR jízdenkou, v prosinci 2026 by ještě měly být (neověřeno). Platba telefonem je neověřená, mějte fyzickou kartu a drobné bankovky.
+- **Letiště a Airport Rail Link:** Bezkontaktní karta platí od listopadu 2025 i tam, jízdné je 15–45 THB. V Makkasanu přestupujete na metro (stanice Phetchaburi) krytou chodbou a u metra se platí znovu, zvlášť (sekce 4).
+- **Lodě:** V plánu je jen přívoz přes řeku mezi Tha Tien a Wat Arun, stojí pár bahtů a platí se u turniketu na molu. Oranžová expresní loď (asi 17–18 THB, ceny se v roce 2026 měnily) u Wat Arun nezastavuje, vystupuje se na Tha Tien. Lístky na expresní lodě kupujte u přepážky na molu, ne od naháněčů.
+- **Autobusy a skytrain:** Nepotřebujete je. Autobus se platí hotově průvodčímu (asi 8–26 THB podle typu), cíl mu řeknete a trasu najdete v aplikaci ViaBus. Skytrain jede na jinou kartu (Rabbit) nebo na lístek z automatu.
+- **Grab a Bolt:** Cenu vidíte předem v aplikaci, platí se hotově nebo kartou uloženou v aplikaci (kartu nastavte doma, na místě potřebujete data, sekce 11). Hodí se s batohy, ve vedru a při ranním odjezdu na vlak.
+
+**Čím pojedete po dnech:**
+
+- **Pá 27. 11.:** Airport Rail Link a metro na Sam Yot. K Wat Pho pěšky, nejbližší stanice u něj je Sanam Chai (od ní asi 10 minut pěšky).
+- **So 28. 11.:** Metro ze Sam Yot na Bang Phai (Wat Paknam), na sraz u klongů Grabem (vzdálenost neověřeno), po plavbě na Wat Arun Grabem nebo pěšky na Tha Tien a přívozem. Večer Talat Noi a Yaowarat pěšky, zpátky metrem ze stanice Wat Mangkon, jedna stanice od hotelu.
+- **Ne 29. 11.:** Metro ze Sam Yot na Lumphini. Na Zlatou horu pěšky z hotelu nebo Grabem.
+- **Po 30. 11.:** Na nádraží Krung Thep Aphiwat s batohy v 6:00 raději Grabem, metro je záloha (viz Přesun dál).
 
 #### Ubytování
 
@@ -704,7 +723,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 - **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 13).
 - **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
-- **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce 10). Na jezeře Cheow Lan se platí jen hotově.
+- **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce 10). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
 - **Doklady:** Kopie pasu, pojistky a rezervací uložte offline v telefonu a jednu sadu mějte i na papíře.
 
 ### Co zařídit a kdy

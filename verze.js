@@ -600,5 +600,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "f24e6b6",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v48",
+    "datum": "9. 11. 2026",
+    "nazev": "Fáze 1: doprava po Bangkoku",
+    "zmeny": [
+      "Fáze 1 (Bangkok): nový blok Doprava po Bangkoku. Jak se platí v metru (od 1. 6. 2026 jen bezkontaktní kartou Visa nebo Mastercard, vstup i výstup stejnou kartou, žeton za hotovost jako záloha), na Airport Rail Link, na lodích a přívozu, v autobusech a v Grabu, a čím pojedete které dny.",
+      "Sekce 0: nová odrážka Doprava po Bangkoku (ověřit na místě, jestli karta v turniketu projde). Sekce 11: odrážka Finanční záloha doplněná o to, že každý potřebuje vlastní bezkontaktní kartu.",
+      "Počet fází (8) a noci (22) jsou beze změny."
+    ],
+    "commit": "22213e5",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
