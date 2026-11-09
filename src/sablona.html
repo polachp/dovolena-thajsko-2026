@@ -54,9 +54,12 @@ details.hdr[open]>summary::after{content:" −"}
 .tabs{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line)}
 .tabs .wrap{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
 .tabs .wrap::-webkit-scrollbar{display:none}
-.tabs button{flex:0 0 auto;font-family:var(--display);font-weight:600;font-size:15px;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:12px 10px;cursor:pointer;min-height:46px;white-space:nowrap}
+.tabs button{flex:0 0 auto;font-family:var(--display);font-weight:600;font-size:15px;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:12px 8px;cursor:pointer;min-height:46px;white-space:nowrap}
 .tabs button[aria-current="true"]{color:var(--accent);border-bottom-color:var(--accent)}
 .tabs button.dva{line-height:1.15;padding-top:6px;padding-bottom:6px;text-align:center}
+.tabs .wrap.vpravo{-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 28px),transparent);mask-image:linear-gradient(to right,#000 calc(100% - 28px),transparent)}
+.tabs .wrap.vlevo{-webkit-mask-image:linear-gradient(to left,#000 calc(100% - 28px),transparent);mask-image:linear-gradient(to left,#000 calc(100% - 28px),transparent)}
+.tabs .wrap.vlevo.vpravo{-webkit-mask-image:linear-gradient(to right,transparent,#000 28px,#000 calc(100% - 28px),transparent);mask-image:linear-gradient(to right,transparent,#000 28px,#000 calc(100% - 28px),transparent)}
 
 /* pruh fazi (jen na rozcestniku itineráře) */
 .route{padding-block:14px;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none}
@@ -213,7 +216,8 @@ footer a{color:var(--accent)}
     {id:'pred',  nazev:'Před cestou', popis:'Co zařídit, kolik to stojí, co čekat od počasí a od letu.'},
     {id:'itin',  nazev:'Itinerář',    popis:'Přehled trasy a jednotlivé fáze. Klepnutím otevřete detail fáze.'},
     {id:'terminy', nazev:'Ubytování: termíny', radky:['Ubytování','termíny'], popis:'Do kdy jde které ubytování zrušit zdarma.', primo:true, volitelna:true},
-    {id:'misto', nazev:'Na místě',    popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.'},
+    {id:'zajimavosti', nazev:'Zajímavosti', popis:'Kultura a historie, zvířata na trase, šnorchlování a noční safari.', volitelna:true},
+    {id:'misto', nazev:'Na místě',    popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.', popisSZajimavostmi:'Mapy, doprava, jídlo, etiketa, praktické tipy a slovníček.'},
     {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.'}
   ];
   // cislo sekce z manualu -> nadsekce
@@ -327,12 +331,30 @@ footer a{color:var(--accent)}
   var tabs=document.getElementById('tabs'), rail=document.getElementById('rail'), route=document.getElementById('route');
   SEKCE.forEach(function(s){
     if(s.volitelna&&!vSekci(s.id).length) return; // záložka bez stránek (starší verze) se neukazuje
+    if(s.popisSZajimavostmi&&vSekci('zajimavosti').length) s.popis=s.popisSZajimavostmi; // Na místě bez zajímavostí (od v46 jsou zvlášť)
     var b=document.createElement('button');
     b.type='button'; b.dataset.top=s.id;
     if(s.radky){b.innerHTML=s.radky.map(esc).join('<br>'); b.classList.add('dva')} else b.textContent=s.nazev;
     b.addEventListener('click',function(){jdi(s.id,null)});
     tabs.appendChild(b);
   });
+  // lišta záložek se na úzkém telefonu posouvá do stran: okraje se zeslabí a aktivní záložka se přisune do viditelné části
+  function okrajeListy(){
+    var max=tabs.scrollWidth-tabs.clientWidth;
+    tabs.classList.toggle('vpravo',tabs.scrollLeft<max-2);
+    tabs.classList.toggle('vlevo',tabs.scrollLeft>2);
+  }
+  function ukazAktivni(){
+    var b=tabs.querySelector('[aria-current="true"]'); if(!b) return;
+    var rb=b.getBoundingClientRect(), rt=tabs.getBoundingClientRect(), m=44;
+    var l=rb.left-rt.left+tabs.scrollLeft, r=l+rb.width;
+    if(l-m<tabs.scrollLeft) tabs.scrollTo({left:Math.max(0,l-m),behavior:'smooth'});
+    else if(r+m>tabs.scrollLeft+tabs.clientWidth) tabs.scrollTo({left:r+m-tabs.clientWidth,behavior:'smooth'});
+    okrajeListy();
+  }
+  tabs.addEventListener('scroll',okrajeListy,{passive:true});
+  window.addEventListener('resize',okrajeListy);
+  window.addEventListener('load',okrajeListy);
   var stav={top:'itin',page:null};
   function titulek(s){return s.klic&&s.klic!=='Itinerář'?s.klic+': '+s.kratky:s.nazev}
   function kartaHtml(s){
@@ -398,6 +420,7 @@ footer a{color:var(--accent)}
                (s.klic||s.sub?'<span class="sub">'+esc([s.klic,s.sub].filter(Boolean).join(' · '))+'</span>':'')+'</a></li>';
       }).join('')+'</ul>';
     Array.prototype.forEach.call(tabs.children,function(b){b.setAttribute('aria-current',String(b.dataset.top===stav.top))});
+    ukazAktivni();
   }
   function jdi(top,pageId,kotva,bezHash){
     var sk=SEKCE.filter(function(x){return x.id===top})[0];
