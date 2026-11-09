@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v42: Ubytování: bez cen rezervací (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v42/) · [Markdown](verze/v42/thajsko-bangkok-phuket.md) · [rozdíl proti v41](https://github.com/polachp/dovolena-thajsko-2026/compare/7c0958c...c4abc44)
+
+- Smazané ceny rezervovaného ubytování ve fázích 5 až 8: Bingo Hostel (částka poplatku za zrušení), Vacation House (cena a částka poplatku), Pyramid Bungalow (cena celkem, cena za noc, částka poplatku), Tabeak View Point (cena celkem, částka poplatku) a Wattana Bungalow (cena a částka poplatku).
+- Termíny zrušení zdarma a pravidlo, že se po nich platí poplatek nebo celá cena, zůstávají. Rozpočet v sekci 14 je beze změny.
+- Počet fází (8) a noci (22) jsou beze změny.
+
 ## v41: Fáze 8: bez Sai Kaew a Bang Pae (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v41/) · [Markdown](verze/v41/thajsko-bangkok-phuket.md) · [rozdíl proti v40](https://github.com/polachp/dovolena-thajsko-2026/compare/3cec50d...7c0958c)
