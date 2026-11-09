@@ -550,5 +550,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "5094190",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v44",
+    "datum": "9. 11. 2026",
+    "nazev": "Ubytování: termíny zrušení zdarma na jednom místě",
+    "zmeny": [
+      "Nová tabulka Do kdy zrušit ubytování zdarma v sekci 11: ubytování v pořadí na cestě, u každého termín zrušení zdarma v thajském i českém čase.",
+      "Sekce 11: dlouhá odrážka Ubytování nahrazena odkazem na tabulku, zastaralá věta o poslední noci na Phuketu je pryč.",
+      "Sekce 0: odrážka Ubytování zkrácena a odkazuje na tabulku. Dvojí rezervace a Wattana zůstávají k rozhodnutí.",
+      "Sekce 3: termíny zrušení zdarma odstraněny z poznámek u ubytování, zůstávají ve fázích a v tabulce.",
+      "Počet fází (8) a noci (22) jsou beze změny."
+    ],
+    "commit": "dbfa958",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
