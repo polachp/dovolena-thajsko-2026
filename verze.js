@@ -479,5 +479,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "2cbcab2",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v38",
+    "datum": "9. 11. 2026",
+    "nazev": "Krabi: bez shrnutí recenzí Vacation House",
+    "zmeny": [
+      "Fáze 6, blok Ubytování: smazaný odstavec Recenze o Vacation House (hodnocení Trip.com a Tripadvisor, pochvaly a staré stížnosti, starý údaj o ceně). Neověřený skútr a taxi zůstávají v bloku Skútr nebo taxi.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "abf2a2f",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

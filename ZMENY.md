@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v38: Krabi: bez shrnutí recenzí Vacation House (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v38/) · [Markdown](verze/v38/thajsko-bangkok-phuket.md) · [rozdíl proti v37](https://github.com/polachp/dovolena-thajsko-2026/compare/2cbcab2...abf2a2f)
+
+- Fáze 6, blok Ubytování: smazaný odstavec Recenze o Vacation House (hodnocení Trip.com a Tripadvisor, pochvaly a staré stížnosti, starý údaj o ceně). Neověřený skútr a taxi zůstávají v bloku Skútr nebo taxi.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v37: Cheow Lan: bez raft housů Praiwan a Keereewarin (6. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v37/) · [Markdown](verze/v37/thajsko-bangkok-phuket.md) · [rozdíl proti v36](https://github.com/polachp/dovolena-thajsko-2026/compare/c73a5bd...2cbcab2)
