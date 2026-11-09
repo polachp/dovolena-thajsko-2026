@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v49: Fáze 5: noc na jezeře Cheow Lan (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v49/) · [Markdown](verze/v49/thajsko-bangkok-phuket.md) · [rozdíl proti v48](https://github.com/polachp/dovolena-thajsko-2026/compare/22213e5...0a125c8)
+
+- Fáze 5: noc na jezeře Cheow Lan je rozhodnutá. Přespání na jezeře (balíček na 2 dny a 1 noc), noc 10.–11. nebo 11.–12. 12. podle volna, rezervovat před odletem, do 25. 11. Jednodenní výlet zůstává jen jako záloha, kdyby bylo plno na obě noci.
+- Fáze 5, blok Ubytování: jedna z nocí 10.–12. 12. je na jezeře, druhá ve vesnici a zatím není rezervovaná. Jestli se rezervuje předem, nebo hledá na místě, se rozhodne později. Doplněno, že 10. 12. je státní svátek.
+- Sekce 0: odrážky o noci na jezeře a o ubytování přepsané podle toho, věta „Je to jediná rezervace, která spěchá“ je pryč. Sekce 11: v tabulce Co zařídit a kdy je nový řádek Do 25. 11. pro jezero, u řádku Co nejdřív zůstalo jen cestovní pojištění.
+- Počet fází (8) a noci (22) jsou beze změny.
+
 ## v48: Fáze 1: doprava po Bangkoku (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v48/) · [Markdown](verze/v48/thajsko-bangkok-phuket.md) · [rozdíl proti v47](https://github.com/polachp/dovolena-thajsko-2026/compare/f24e6b6...22213e5)

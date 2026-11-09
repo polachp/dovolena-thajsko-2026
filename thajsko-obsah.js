@@ -10,7 +10,7 @@ Itinerář je volný: berte ho jako osnovu, ne jako pevný rozvrh. U každého p
 Co se mezi verzemi změnilo, najdete v záložce Verze.
 
 - **Doprava po Bangkoku (fáze 1):** platba bezkontaktní kartou v metru (od 1. 6. 2026) a ceny lodí jsou podle zdrojů, na místě ověřit, jestli karta v turniketu projde. Když ne, jde koupit žeton za hotovost.
-- **Noc na jezeře Cheow Lan (fáze 5):** balíček, konkrétní raft house, nebo jen jednodenní výlet. Je to jediná rezervace, která spěchá.
+- **Noc na jezeře Cheow Lan (fáze 5):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá zjistit cenu a kde balíček koupit.
 - **Čtyřkolky v Khao Sok (fáze 5):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - **Krabi (fáze 6):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
 - **Program na Koh Yao Noi (fáze 7):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok a jaké restaurace v prosinci fungují.
@@ -18,7 +18,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
 - **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
 - **Fáze 8 (Nai Yang):** program je nabídka možností, nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
-- **Ubytování:** Všechny noci jsou rezervované kromě 10.–12. 12. v Khao Sok, které se řeší na místě. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny (sekce 17).
+- **Ubytování:** Všechny noci jsou rezervované kromě 10.–12. 12. v Khao Sok: jedna z těch nocí je na jezeře (viz výše), druhá ve vesnici a rozhodne se později, jestli se rezervuje předem, nebo hledá na místě. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny (sekce 17).
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
@@ -356,10 +356,12 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Sloní útočiště (volitelně):** krátká návštěva útočiště pro slony ve vesnici Khlong Sok, objednání přes WhatsApp nebo přes ubytování.
 - **Noční safari (volitelně):** hodně pavouků, rozhodnout až na místě (sekce 12).
 
-#### Noc na jezeře (zatím nerozhodnuto)
+#### Noc na jezeře (rezervovat do 25. 11.)
+
+Přespání na jezeře je rozhodnuté. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna, rezervovat před odletem, do 25. 11.
 
 - Balíček 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici: loď, jídla, kajaky a odvoz. Bambusový raft od asi 2 500 THB na osobu se společnou koupelnou, s vlastní koupelnou odhadem 4 000–5 500 THB (neověřeno).
-- Jednodenní výlet longtailem bez noci na jezeře.
+- Záloha, kdyby bylo plno na obě noci: jednodenní výlet longtailem bez noci na jezeře.
 - Na jezeře se platí hotově (poplatek asi 300 THB, molo 40 THB na osobu), elektřina jde jen pár hodin z generátoru a signál většinou není. V prosinci je sezóna, rezervujte s předstihem.
 
 #### Ve vesnici (vybrat na místě)
@@ -405,7 +407,7 @@ Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený
 
 [Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok), 8.–10. 12. (2 noci), potvrzeno, 2 dospělí, 2 lůžka, jedno z nich postel v 8lůžkovém smíšeném společném pokoji. Rezervováno přes Booking.com. Adresa 285/3 Moo 6, Khao Sok, 84250, tel. +66 61 229 7717. Check-in 14:00–20:00, check-out do 11:00. Snídaně se platí zvlášť, 120 THB za osobu a noc. Zrušit zdarma do 6. 12. 2026 23:59 thajského času (v Česku 6. 12. v 17:59). Neověřeno: klimatizace v dormu a jestli hostel zařídí výlet na jezero Cheow Lan.
 
-Noci 10.–12. 12. zatím nejsou rezervované a vyřeší se na místě podle potřeby. Při hledání bylo v Khao Sok hodně míst obsazených. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
+Noci 10.–12. 12. zatím nejsou rezervované. Jedna z nich je na jezeře (viz blok Noc na jezeře), druhá ve vesnici. Noc ve vesnici se rozhodne později, jestli se rezervuje předem, nebo hledá na místě, až bude jasná noc na jezeře. Při hledání bylo v Khao Sok hodně míst obsazených a 10. 12. je státní svátek. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
 
 #### Přesun dál
 
@@ -730,9 +732,10 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 
 | Kdy | Co |
 |---|---|
-| Co nejdřív | Plovoucí bungalov (nebo balíček na 2 dny a 1 noc) na Cheow Lan a cestovní pojištění (nejlépe hned, kvůli krytí storna) |
+| Co nejdřív | Cestovní pojištění (nejlépe hned, kvůli krytí storna) |
 | Aspoň 4–6 týdnů před odletem | Konzultace v centru cestovní medicíny, případné očkování a mezinárodní řidičský průkaz (pro auto v Hua Hin) |
 | Hned teď | Jízdenky na vlak č. 43 (30. 11. a 3. 12., prodej od asi 31. 10.) a auto v Hua Hin |
+| Do 25. 11. (před odletem) | Přespání na jezeře Cheow Lan: balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna |
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce 16) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |

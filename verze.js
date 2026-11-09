@@ -612,5 +612,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "22213e5",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v49",
+    "datum": "9. 11. 2026",
+    "nazev": "Fáze 5: noc na jezeře Cheow Lan",
+    "zmeny": [
+      "Fáze 5: noc na jezeře Cheow Lan je rozhodnutá. Přespání na jezeře (balíček na 2 dny a 1 noc), noc 10.–11. nebo 11.–12. 12. podle volna, rezervovat před odletem, do 25. 11. Jednodenní výlet zůstává jen jako záloha, kdyby bylo plno na obě noci.",
+      "Fáze 5, blok Ubytování: jedna z nocí 10.–12. 12. je na jezeře, druhá ve vesnici a zatím není rezervovaná. Jestli se rezervuje předem, nebo hledá na místě, se rozhodne později. Doplněno, že 10. 12. je státní svátek.",
+      "Sekce 0: odrážky o noci na jezeře a o ubytování přepsané podle toho, věta „Je to jediná rezervace, která spěchá“ je pryč. Sekce 11: v tabulce Co zařídit a kdy je nový řádek Do 25. 11. pro jezero, u řádku Co nejdřív zůstalo jen cestovní pojištění.",
+      "Počet fází (8) a noci (22) jsou beze změny."
+    ],
+    "commit": "0a125c8",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
