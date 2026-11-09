@@ -6,7 +6,7 @@ Tha Pom Klong Song Nam vyřadila Anežka výslovně. Ostatní místa vypadla kv�
 
 ## Jak je vrátit zpátky
 
-Kdyby se Krabi prodloužilo (například o noc z Koh Yao Noi), vrátí se vybraná místa do fáze 6 a odpovídající řádky do sekce 3 (místa), sekce 4 (doprava) a do rozpočtu v sekci 14. Řádky pro tyto sekce jsou uložené na konci tohoto souboru. Základna by se pak vybírala znovu, původní porovnání je níže.
+Kdyby se Krabi prodloužilo (například o noc z Koh Yao Noi), vrátí se vybraná místa do fáze 6 a odpovídající řádky do sekce Záchytné body pro Google Maps, sekce Doprava a do rozpočtu v sekci Orientační rozpočet. Řádky pro tyto sekce jsou uložené na konci tohoto souboru. Základna by se pak vybírala znovu, původní porovnání je níže.
 
 ## Původní seznam „co uvidíte“ ve fázi 6
 
@@ -23,7 +23,7 @@ Původní popis fáze: Vápencové skály, mangrovy a výšlap na Dragon Crest. 
 
 Ranní půldenní výlet na mořských kajacích, asi 4 hodiny, od asi 37 USD na osobu. V ceně bývá vyzvednutí z hotelu, oběd a poplatky.
 
-Z kapitoly s perličkami (sekce 1): Při ranním pádlování na kajaku v kaňonech Ao Thalane vám ve větvích mangrovů často skáčou nad hlavou zvědaví makakové jávští. Občas se ukážou i vydry nebo velcí varani.
+Z kapitoly s perličkami (sekce Úvod do Thajska): Při ranním pádlování na kajaku v kaňonech Ao Thalane vám ve větvích mangrovů často skáčou nad hlavou zvědaví makakové jávští. Občas se ukážou i vydry nebo velcí varani.
 
 ## Railay (volitelně, půlden)
 
@@ -59,7 +59,7 @@ Ve v21 se jede z Nopparat Thara, mola Tha Len v Ao Thalane se nepoužívá.
 
 [Krabi Town](https://www.google.com/maps/search/?api=1&query=Krabi%20Town) · [Ao Thalane, molo Tha Len](https://www.google.com/maps/search/?api=1&query=8.1452,98.7484) · [Wat Tham Suea (Tiger Cave)](https://www.google.com/maps/search/?api=1&query=8.1240,98.9251) · [Ao Nang Boat Club](https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Boat%20Club,%20Krabi) · [Railay West](https://www.google.com/maps/search/?api=1&query=Railay%20West%20Beach,%20Krabi) · [Tha Pom Klong Song Nam](https://www.google.com/maps/search/?api=1&query=Tha%20Pom%20Klong%20Song%20Nam,%20Krabi)
 
-## Řádky ze sekce 3 (místa na uložení do offline map)
+## Řádky ze sekce Záchytné body pro Google Maps (místa na uložení do offline map)
 
 | Fáze | Místo | Odkaz | Poznámka |
 |---|---|---|---|
@@ -68,7 +68,7 @@ Ve v21 se jede z Nopparat Thara, mola Tha Len v Ao Thalane se nepoužívá.
 | 6 | Tha Pom Klong Song Nam, Krabi | [Tha Pom Klong Song Nam](https://www.google.com/maps/search/?api=1&query=Tha%20Pom%20Klong%20Song%20Nam%20Krabi), thajsky ท่าปอม คลองสองน้ำ | Dřevěná lávka mangrovem, asi 35 km od Krabi Town (volitelně) |
 | 6 | Ao Nang, kiosky Ao Nang Boat Club | [Ao Nang Boat Club](https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Boat%20Club%20Krabi) | Lodě na Railay, lístek kupujte v kiosku, ne u lodníků |
 
-## Řádky ze sekce 4 (doprava)
+## Řádky ze sekce Doprava
 
 | Úsek | Jak | Doba | Cena (THB, jinak uvedeno) |
 |---|---|---|---|
@@ -78,7 +78,7 @@ Ve v21 se jede z Nopparat Thara, mola Tha Len v Ao Thalane se nepoužívá.
 
 Údaje o odjezdech z mola Tha Len (podle Travelfish, neověřeno): rychlá loď Thanchanok Tour v 9:30 a 16:00 za asi 300 THB, longtail ve 13:00 za asi 250 THB (nejde rezervovat online, tel. +66 87 892 1458 podle Travelfish). Kde loď z Tha Len na Koh Yao Noi přistává, zdroje nesouhlasí (Tha Khao na severovýchodě je nejlépe podložené), ověřit u provozovatele.
 
-## Řádky z rozpočtu (sekce 14)
+## Řádky z rozpočtu (sekce Orientační rozpočet)
 
 | Zážitek | Cena | Poznámka |
 |---|---|---|

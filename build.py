@@ -7,7 +7,7 @@ Nová verze:
 Starší verze se nemění, kořen webu vždy ukazuje poslední verzi.
 """
 import hashlib
-import json, shutil
+import json, re, shutil
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -50,7 +50,7 @@ def stranka(v: dict, base: str) -> str:
         )
     cfg = {"id": v["id"], "base": base}
     if h.get("kam"):
-        cfg["kam"] = h["kam"]  # cislo sekce -> zalozka webu (pred, misto), kdyz se cislovani sekci zmeni
+        cfg["kam"] = h["kam"]  # sekce -> zalozka webu (pred, misto, ...): do v50 podle cisla sekce, od v51 podle nazvu
     cfg = json.dumps(cfg, ensure_ascii=False)
     a, z = v.get("smer", SMER_VYCHOZI)
     lede = v.get("lede", LEDE_VYCHOZI)
@@ -67,6 +67,23 @@ def bust(v):
     return hashlib.sha1((json.dumps(VERZE, ensure_ascii=False) + md).encode("utf-8")).hexdigest()[:8]
 
 
+def zkontroluj_kam(v: dict, md: str) -> None:
+    """Od v51 jsou sekce bez čísel a hlavicka.kam je klíčované názvem sekce (část nadpisu ## před dvojtečkou nebo závorkou).
+    Název, který v kam chybí, by web tiše zařadil do záložky Na místě, proto build v takovém případě spadne."""
+    kam = v["hlavicka"].get("kam")
+    if not kam or any(k.isdigit() for k in kam):
+        return  # starší verze: klíčem je číslo sekce z nadpisu
+    nazvy = []
+    for blok in re.split(r"(?m)^(?=## )", md):
+        if not blok.startswith("## ") or re.search(r"(?m)^### Fáze \d+:", blok):
+            continue  # úvod souboru a itinerář (pozná se podle nadpisů fází) do kam nepatří
+        nazvy.append(re.split(r"[:(]", blok.split("\n", 1)[0][3:])[0].strip())
+    chybi = [n for n in nazvy if n not in kam]
+    navic = [k for k in kam if k not in nazvy]
+    if chybi or navic:
+        raise SystemExit(f"{v['id']}: hlavicka.kam nesedí na nadpisy sekcí. Chybí v kam: {chybi}. Nemá nadpis: {navic}.")
+
+
 def main():
     verejne = [{**{k: v.get(k) for k in ("id", "datum", "nazev", "zmeny", "commit")}, "md": md_soubor(v)} for v in VERZE]
     (ROOT / "verze.js").write_text(
@@ -76,6 +93,7 @@ def main():
     for v in VERZE:
         d = ROOT / "verze" / v["id"]
         md = (d / md_soubor(v)).read_text(encoding="utf-8")
+        zkontroluj_kam(v, md)
         (d / "thajsko-obsah.js").write_text(obsah_js(md), encoding="utf-8")
         (d / "index.html").write_text(stranka(v, "../../"), encoding="utf-8")
 
