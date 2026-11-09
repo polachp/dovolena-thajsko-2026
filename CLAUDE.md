@@ -45,6 +45,8 @@ Markdown verze nesmí obsahovat zpětný apostrof, `${` ani zpětné lomítko, b
 
 Záložky webu jsou v poli `SEKCE` v `src/sablona.html`. Záložka Ubytování, termíny je volitelná (název se v liště píše ve dvou řádcích pod sebou, pole `radky` v `SEKCE`): ukáže se jen ve verzi, která má v `hlavicka.kam` aspoň jednu sekci s hodnotou `terminy`, a protože má jedinou stránku, otevře ji rovnou. Změna šablony přegeneruje i `verze/*/index.html` starších verzí, jejich obsah se tím nemění.
 
+Build připojuje za `verze.js` a `thajsko-obsah.js` v každém `index.html` otisk obsahu (`?v=...`), aby prohlížeč po nové verzi nenačetl starý obsah z mezipaměti (od v48).
+
 ## Jak psát obsah
 
 - Česky, věcně, bez marketingového tónu.

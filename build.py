@@ -6,6 +6,7 @@ Nová verze:
   3. python build.py
 Starší verze se nemění, kořen webu vždy ukazuje poslední verzi.
 """
+import hashlib
 import json, shutil
 from pathlib import Path
 
@@ -57,7 +58,13 @@ def stranka(v: dict, base: str) -> str:
     return (sablona.replace("{{TITLE}}", f"Thajsko {a}–{z}").replace("{{H1}}", f'{a} <span class="arrow">→</span> {z}')
             .replace("{{LEDE}}", lede).replace("{{MD}}", md_soubor(v))
             .replace("{{EYEBROW}}", h["eyebrow"] + f' · verze {v["id"]} ({v["datum"]})').replace("{{FACTS}}", facts)
-            .replace("{{ROUTE}}", "\n".join(route)).replace("{{CFG}}", cfg).replace("{{BASE}}", base).replace("{{ODLET}}", ODLET))
+            .replace("{{ROUTE}}", "\n".join(route)).replace("{{CFG}}", cfg).replace("{{BASE}}", base).replace("{{ODLET}}", ODLET).replace("{{BUST}}", bust(v)))
+
+
+def bust(v):
+    """Krátký otisk obsahu: připojuje se za názvy skriptů, aby prohlížeč po nové verzi nenačetl starý obsah z mezipaměti."""
+    md = (ROOT / "verze" / v["id"] / md_soubor(v)).read_text(encoding="utf-8")
+    return hashlib.sha1((json.dumps(VERZE, ensure_ascii=False) + md).encode("utf-8")).hexdigest()[:8]
 
 
 def main():
