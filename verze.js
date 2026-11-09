@@ -639,5 +639,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "afaa871",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v51",
+    "datum": "9. 11. 2026",
+    "nazev": "Sekce bez čísel, odkazy podle názvu",
+    "zmeny": [
+      "Sekce už nemají čísla: na kartách v záložkách a v postranním menu zmizel štítek „Sekce N“ a nadpisy sekcí v Markdownu jsou bez čísel.",
+      "Odkazy mezi sekcemi uvádějí v textu název místo čísla (například „v sekci Doprava“ nebo „v záložce Itinerář“), přepsáno je 57 odkazů.",
+      "Nadpis sekce o šnorchlování je teď „Šnorchlování a noční safari: pro úplné začátečníky“, aby se na ni dalo odkazovat kratším názvem.",
+      "Fáze zůstávají očíslované.",
+      "Změna šablony přegenerovala i stránky starších verzí: zmizel jen štítek „Sekce N“, texty archivu se nemění."
+    ],
+    "commit": "4469d60",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

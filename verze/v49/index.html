@@ -216,9 +216,9 @@ footer a{color:var(--accent)}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=a9d8c0a6"></script>
+<script src="../../verze.js?v=a22c7d6c"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=a9d8c0a6"></script>
+<script src="thajsko-obsah.js?v=a22c7d6c"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -235,7 +235,7 @@ footer a{color:var(--accent)}
     {id:'misto', nazev:'Na místě',    radkyUzke:['Na','místě'], popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.', popisSZajimavostmi:'Mapy, doprava, jídlo, etiketa, praktické tipy a slovníček.'},
     {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.'}
   ];
-  // cislo sekce z manualu -> nadsekce
+  // sekce -> nadsekce: do v50 podle cisla v nadpisu (## 4. Doprava), od v51 podle nazvu (cast nadpisu pred dvojteckou nebo zavorkou)
   // verze muze mit vlastni rozrazeni (hlavicka.kam v src/verze.json), jinak plati cislovani do v13
   var KAM=CFG.kam||{0:'pred',5:'pred',8:'pred',10:'pred',13:'pred',15:'pred',16:'pred',18:'pred',
            1:'misto',2:'misto',3:'misto',4:'misto',7:'misto',9:'misto',11:'misto',12:'misto',14:'misto',17:'misto'};
@@ -288,11 +288,12 @@ footer a{color:var(--accent)}
   });
   bloky.forEach(function(b){
     var t=b.h.textContent.trim(), m=t.match(/^(\d+)\.\s*(.*)$/);
-    var cislo=m?m[1]:null, nazev=m?m[2]:t;
+    var cislo=m?m[1]:null, nazev=m?m[2]:t, kratkySekce=nazev.split(/[:(]/)[0].trim();
     var jeItin=b.uzly.some(function(n){return n.nodeType===1&&n.tagName==='H3'&&/^Fáze \d+:/.test(n.textContent.trim())});
     if(!jeItin){
-      pridej({id:b.h.id,top:KAM[cislo]||'misto',klic:cislo?'Sekce '+cislo:'',nazev:nazev,
-              kratky:nazev.split(/[:(]/)[0].trim(),uzly:b.uzly,perex:perex(b.uzly.slice(1))});
+      // cislo sekce se na webu neukazuje (od v51 ani v nadpisech), slouzi jen k zarazeni do zalozky ve starsich verzich
+      pridej({id:b.h.id,top:KAM[cislo]||KAM[kratkySekce]||'misto',klic:'',nazev:nazev,
+              kratky:kratkySekce,uzly:b.uzly,perex:perex(b.uzly.slice(1))});
       return;
     }
     // sekce 6: uvod jako prehled, kazdy H3 jako vlastni stranka
@@ -359,7 +360,7 @@ footer a{color:var(--accent)}
     tabs.appendChild(b);
   });
   var stav={top:'itin',page:null};
-  function titulek(s){return s.klic&&s.klic!=='Itinerář'?s.klic+': '+s.kratky:s.nazev}
+  function titulek(s){return s.klic&&s.klic!=='Itinerář'?s.klic+': '+s.kratky:(s.klic?s.nazev:s.kratky)}
   function kartaHtml(s){
     return '<li><a href="#'+s.id+'">'+(s.klic?'<span class="k">'+esc(s.klic)+(s.sub?' · '+esc(s.sub):'')+'</span>':'')+
       '<span class="t">'+esc(s.kratky)+'</span>'+(s.perex?'<span class="p">'+esc(s.perex)+'</span>':'')+'</a></li>';

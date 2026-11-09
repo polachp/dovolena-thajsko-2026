@@ -1,11 +1,11 @@
 // Generováno z Markdownu verze skriptem build.py, needitovat ručně.
 window.THAJSKO_MD = `# Thajsko: slow-travel itinerář Bangkok → Phuket
 
-Zdroj: „Kompletní thajský slow-travel manuál (26. 11.–19. 12. 2026)“, @Anezka, aktualizace z 14. 10. 2026 (soubor s Ranongem). Směr: přílet do Bangkoku, odlet z Phuketu. Termín letenek: 26. 11.–19. 12. 2026, lety Etihad Airways přes Abu Dhabi (sekce 16).
+Zdroj: „Kompletní thajský slow-travel manuál (26. 11.–19. 12. 2026)“, @Anezka, aktualizace z 14. 10. 2026 (soubor s Ranongem). Směr: přílet do Bangkoku, odlet z Phuketu. Termín letenek: 26. 11.–19. 12. 2026, lety Etihad Airways přes Abu Dhabi (sekce Etihad Airways).
 
 Itinerář je volný: berte ho jako osnovu, ne jako pevný rozvrh. U každého přesunu je orientační čas, u každé zastávky počet nocí a orientační datum.
 
-## 0. Co se ještě dořeší
+## Co se ještě dořeší
 
 Co se mezi verzemi změnilo, najdete v záložce Verze.
 
@@ -18,13 +18,13 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
 - **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
 - **Fáze 8 (Nai Yang):** program je nabídka možností, nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
-- **Ubytování:** Všechny noci jsou rezervované kromě 10.–12. 12. v Khao Sok: jedna z těch nocí je na jezeře (viz výše), druhá ve vesnici a rozhodne se později, jestli se rezervuje předem, nebo hledá na místě. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny (sekce 17).
+- **Ubytování:** Všechny noci jsou rezervované kromě 10.–12. 12. v Khao Sok: jedna z těch nocí je na jezeře (viz výše), druhá ve vesnici a rozhodne se později, jestli se rezervuje předem, nebo hledá na místě. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny.
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
-- **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
+- **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
 
 Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md), vodopád Ngao u Ranongu v souboru [varianty/vodopad-ngao.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/vodopad-ngao.md), raft housy Praiwan a Keereewarin na jezeře Cheow Lan v souboru [varianty/raft-housy-cheow-lan.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/raft-housy-cheow-lan.md).
 
-## 1. Úvod do Thajska: kultura, historie a perličky
+## Úvod do Thajska: kultura, historie a perličky
 
 Klid a úsměv jsou v Thajsku nejlepším cestovním dokladem a většina místní kultury na nich stojí.
 
@@ -50,11 +50,11 @@ Do roku 1939 se země úředně jmenovala Siam, tak jí říkali cizinci. Thajci
 
 ### 5. prosince: Den otců a narozeniny krále Bhumibola
 
-Pátý prosinec je v Thajsku státní svátek: narozeniny zesnulého krále Bhumibola (Ramy IX.), který vládl od roku 1946 do své smrti v roce 2016. Zároveň je to Národní den a Den otců, protože na krále se dívali jako na otce národa. Lidé nosí žluté oblečení, protože se narodil v pondělí a žlutá je v thajské tradici barvou pondělí. Za života krále byly oslavy velké, s ohňostroji a večerními obřady se svíčkami, dnes jsou skromnější. Na některých místech může být ten den omezen prodej alkoholu. V roce 2026 vychází na sobotu, k dlouhému víkendu viz sekce 6.
+Pátý prosinec je v Thajsku státní svátek: narozeniny zesnulého krále Bhumibola (Ramy IX.), který vládl od roku 1946 do své smrti v roce 2016. Zároveň je to Národní den a Den otců, protože na krále se dívali jako na otce národa. Lidé nosí žluté oblečení, protože se narodil v pondělí a žlutá je v thajské tradici barvou pondělí. Za života krále byly oslavy velké, s ohňostroji a večerními obřady se svíčkami, dnes jsou skromnější. Na některých místech může být ten den omezen prodej alkoholu. V roce 2026 vychází na sobotu, k dlouhému víkendu viz sekce Počasí, teploty a deště.
 
 ### Sloni: od vlajky po zákaz těžby dřeva
 
-Slon je symbol Thajska. Bílý slon, ve skutečnosti spíš světle šedý až narůžovělý, býval znamením královské moci a ještě do roku 1917 byl na vlajce Siamu. Pracovní sloni tahali kmeny v pralese, a když Thajsko po smrtelných záplavách na jihu v roce 1988 od roku 1989 zakázalo komerční těžbu dřeva, podle obecně uváděných údajů tisíce slonů přišly o práci. Část z nich skončila v turistice, a proto je dnes tak snadné narazit na nabídky jízdy na slonech nebo mazlení s mláďaty (pravidla viz sekce 2). Divocí sloni zůstali v dnešních velkých lesích jako Kui Buri a Khao Sok.
+Slon je symbol Thajska. Bílý slon, ve skutečnosti spíš světle šedý až narůžovělý, býval znamením královské moci a ještě do roku 1917 byl na vlajce Siamu. Pracovní sloni tahali kmeny v pralese, a když Thajsko po smrtelných záplavách na jihu v roce 1988 od roku 1989 zakázalo komerční těžbu dřeva, podle obecně uváděných údajů tisíce slonů přišly o práci. Část z nich skončila v turistice, a proto je dnes tak snadné narazit na nabídky jízdy na slonech nebo mazlení s mláďaty (pravidla viz sekce Zvířata na trase). Divocí sloni zůstali v dnešních velkých lesích jako Kui Buri a Khao Sok.
 
 ### Přezdívky a pět tónů
 
@@ -64,19 +64,19 @@ Kromě úředního jména mají Thajci přezdívku (chue len), kterou používaj
 
 Thajci počítají roky podle buddhistického letopočtu, který předbíhá ten náš o 543 let. Na dokladech a jízdenkách uvidíte rok 2569.
 
-## 2. Zvířata na trase (v pořadí trasy)
+## Zvířata na trase (v pořadí trasy)
 
 Na trase uvidíte divoké slony, tři druhy opic, gibony i zoborožce, ve městě varany a večer na zdech gekony. Všechno jsou volně žijící zvířata, takže každé setkání berte jako dar, ne jako jistotu.
 
 - **Varani v Bangkoku a na mokřadu (fáze 1 a 2).** V parku Lumphini a v bangkokských kanálech žije asijský vodní varan, druhý největší ještěr světa po komodském varanovi. Dospělí dosahují i přes dva metry, přesto jsou plaší a ráno se vyhřívají na březích. Park podle zpráv z roku 2016 obývalo asi 400 kusů. Tehdy úřady přes 200 varanů odchytily a odvezly, odborníci ale říkají, že odchyt proběhl až po nakladení vajec a nic nevyřešil. Nekrmte je a nepřibližujte se, kousnutí a ocas jsou nebezpečné. Thajské slovo pro varana (hia) je zároveň hrubá nadávka, takže ho nepoužívejte. Další varany uvidíte na lávce mokřadu Bueng Bua (fáze 2).
 - **Ptáci a serau v Sam Roi Yot (fáze 2).** Největší sladkovodní mokřad Thajska je hlavně místo pro ptáky: volavky, kormoráni, orli a další brodiví ptáci, zdroje zmiňují i painted storky. Na vápencových horách žije vzácný serau, koza podobná kamzíkovi, kterého ale prakticky neuvidíte. Pozorování ptáků jde nejlépe za ranního šera a v prosinci, kdy tu zimují tažní ptáci (neověřeno).
-- **Divocí sloni v Kui Buri (fáze 2).** Národní park Kui Buri je jedním z nejlepších míst v Thajsku na pozorování volně žijících slonů, žijí tu stovky zvířat. Žádné řetězy ani turisté na hřbetě: s místním průvodcem vyrazíte otevřeným terénním pickupem na pastviny a odtud ze vzdálenosti sledujete stáda včetně mláďat. Nejaktivnější jsou odpoledne od zhruba 15:00. Prakticky viz sekce 4 a 5.
+- **Divocí sloni v Kui Buri (fáze 2).** Národní park Kui Buri je jedním z nejlepších míst v Thajsku na pozorování volně žijících slonů, žijí tu stovky zvířat. Žádné řetězy ani turisté na hřbetě: s místním průvodcem vyrazíte otevřeným terénním pickupem na pastviny a odtud ze vzdálenosti sledujete stáda včetně mláďat. Nejaktivnější jsou odpoledne od zhruba 15:00. Prakticky viz sekce Doprava a 5.
 - **Gaurové v Kui Buri (fáze 2).** Vedle slonů tu pasou gaurové, největší divoký skot na světě, kteří mohou vážit kolem tuny. Poznáte je podle bílých „ponožek“ na nohou a svalnatého hřbetu. Jsou plaší a v případě přiblížení se držte pokynů průvodce. V parku žijí i banteng (další divoký skot) a muntžak (malý jelen).
 - **Hulmani (Prachuap Khiri Khan, fáze 3).** Hulmani s bílými kruhy kolem očí na tmavém obličeji žijí na vápencovém kopci Khao Lom Muak a na pláži Ao Manao. Obojí leží v areálu letecké základny Wing 5, proto se u vstupu řiďte pokyny vojáků (výstup na kopec bývá povolen jen v některých obdobích). Bývají klidnější než makakové ve městech. Nejlépe je uvidíte ráno nebo pozdě odpoledne.
 - **Makakové na Khao Chong Krachok (fáze 3).** Chrámový kopec s 396 schody a vyhlídkou nad zálivem obývají makakové dlouhoocasí. Berou jídlo, lahve i brýle, takže mějte tašku zavřenou a před sebou. Nahoru vyrazte před osmou hodinou, než se schodiště rozpálí.
 - **Koh Phayam (fáze 4).** Podle seznamu národního parku tu žijí makakové, vydry a zoborožci, které podle thajského popisu ostrova snadno uvidíte v lese (neověřeno na místě). Zoborožce poznáte podle obřího zahnutého zobáku a hlasitého mávání křídel při letu.
 - **Giboni a zoborožci v Khao Sok (fáze 5).** V hlubokém pralese a na jezeře Cheow Lan uslyšíte brzy ráno téměř éterický zpěv gibonů (malých lidoopů, kteří skáčou v korunách stromů). S trochou štěstí spatříte i majestátní zoborožce, kteří v letu hlasitě mávají křídly. Nejvíc zvířat je vidět za ranního šera z lodi nebo z kajaku. Divoké slony na břehu jezera potkáte jen výjimečně a tygra prakticky nikdy.
-- **Noční obyvatelé Khao Sok (fáze 5).** Po setmění vylézají žáby, netopýři, cibetky, pavouci a s trochou štěstí outloň (sekce 12). Kdo se bojí pavouků, ať noční procházku vynechá.
+- **Noční obyvatelé Khao Sok (fáze 5).** Po setmění vylézají žáby, netopýři, cibetky, pavouci a s trochou štěstí outloň (sekce Šnorchlování a noční safari). Kdo se bojí pavouků, ať noční procházku vynechá.
 - **Rafflesia kerrii (Khao Sok, fáze 5).** Parazitický květ bez listů a kořenů, který žije na lianách a může mít přes půl metru v průměru. Kvete jen několik dní a voní po zkaženém mase, aby přilákal mouchy. Jestli bude v prosinci někde rozkvetlá, se nedá předem zjistit, zeptejte se průvodce nebo ubytování (neověřeno).
 - **Velcí savci Khao Sok, které nepotkáte (fáze 5).** V parku žijí podle zdrojů medvědi, gaurové, tapíři, kočky mramorované i divocí sloni, ale protože je park velký a zvířata plachá, na stezce je neuvidíte. Spíš narazíte na létající ještěrky rodu Draco, které plachtí mezi stromy.
 - **Makakové v mangrovech (Ao Thalane, mimo itinerář od v21).** Při ranním pádlování na kajaku v kaňonech Ao Thalane vám ve větvích mangrovů často skáčou nad hlavou zvědaví makakové jávští. Občas se ukážou i vydry nebo velcí varani.
@@ -87,10 +87,10 @@ Na trase uvidíte divoké slony, tři druhy opic, gibony i zoborožce, ve měst�
 ### Pravidla pro pozorování zvířat
 
 - Nekrmte žádná zvířata, ani opice, ani ryby. Zvyknou si na lidi a začnou být dotěrná.
-- Držte odstup, nedívejte se opicím do očí a nenoste jídlo na očích. Po kousnutí nebo poškrábání ránu aspoň 15 až 20 minut omývejte mýdlem a vodou a ještě týž den vyhledejte lékaře (sekce 13).
+- Držte odstup, nedívejte se opicím do očí a nenoste jídlo na očích. Po kousnutí nebo poškrábání ránu aspoň 15 až 20 minut omývejte mýdlem a vodou a ještě týž den vyhledejte lékaře (sekce Zdraví, bezpečnost a nouzová čísla).
 - Nejezděte na slonech, nechoďte na představení a vyhněte se nabídkám, které slibují mazlení s mláďaty. Skutečně etické útočiště poznáte podle toho, že se zvířat nedotýkáte.
 
-## 3. Záchytné body pro Google Maps (v pořadí trasy)
+## Záchytné body pro Google Maps (v pořadí trasy)
 
 Každý řádek má odkaz, který bod otevře v Google Maps, a body si před cestou uložte do offline map. Odkazy se souřadnicemi míří přímo na místo. Odkazy s názvem jen spouštějí vyhledávání, takže výsledek si vždy zkontrolujte (názvy nejsou ověřené proti Mapám, některé se mohou trefit vedle).
 
@@ -151,9 +151,9 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 
 **Pozor na Kui Buri:** Když zadáte jen „Kui Buri National Park“, navigace vás zavede k ředitelství parku (12.0516, 99.6240), ne k místu, odkud se vyráží na safari. Použijte odkaz z tabulky, nebo zadejte „Elephant Observatory Site“.
 
-## 4. Doprava
+## Doprava
 
-Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jsou orientační (stav podzim 2026), jízdní řády si ověřte týden před odjezdem. Podrobnosti ke každému přesunu jsou u fází v sekci 5.
+Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jsou orientační (stav podzim 2026), jízdní řády si ověřte týden před odjezdem. Podrobnosti ke každému přesunu jsou u fází v záložce Itinerář.
 
 | Úsek | Jak | Doba | Cena (THB, jinak uvedeno) |
 |---|---|---|---|
@@ -180,7 +180,7 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 - **Lodě:** V hlavní sezóně kupte lístky 2 až 3 dny předem. Nenastupujte na přeplněnou loď ani za špatného počasí, lodě se při větru ruší.
 - **Taxi:** V Bangkoku ani na Phuketu nenastupujte do taxíku bez zapnutého taxametru. Používejte Grab nebo Bolt, kde cenu znáte předem.
 
-## 5. Itinerář po fázích
+## Itinerář po fázích
 
 Trasa vede ze severu na jih a nikde se nevrací. Je to osnova: dny si poskládáte podle počasí, nálady a kondice. Každá fáze má nahoře krátký popis a seznam toho, co uvidíte, podrobnosti (program, ceny, ubytování, přesun, mapy) jsou pod tím.
 
@@ -196,7 +196,7 @@ Trasa vede ze severu na jih a nikde se nevrací. Je to osnova: dny si poskládá
 | 8 | Phuket, Nai Yang | 1 | 18.–19. 12. |
 | | Celkem | 22 | 27. 11.–19. 12. |
 
-Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Co je ještě nedořešené, je v sekci 0.
+Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Co je ještě nedořešené, je v sekci Co se ještě dořeší.
 
 ### Fáze 1: Bangkok, aklimatizace a klongy (3 noci, 27.–30. 11.)
 
@@ -215,7 +215,7 @@ Pomalý rozjezd po letu: chrámy po ránu, odpoledne pauza, večer street food. 
 - **Ne 29. 11.:** 7:00–9:00 Lumphini Park (zdarma), v poledne pauza, kolem 16:30 Zlatá hora (318 schodů, 7:00–19:00, 100 THB, západ slunce kolem 17:50). Večer sbalit.
 - **Po 30. 11.:** Vstávat kolem 5:15, vyjet kolem 6:00 na vlak v 7:30.
 - **Vynecháno:** Velký palác (500 THB, 8:30–15:30, davy a přísný dress code). Kdo ho chce vidět, ať jde v 8:30 místo Wat Pho.
-- **Prakticky:** Do chrámů zakrytá ramena a kolena (sekce 9). Pozor na podvod „chrám je dnes zavřený“ (sekce 10).
+- **Prakticky:** Do chrámů zakrytá ramena a kolena (sekce Etiketa). Pozor na podvod „chrám je dnes zavřený“ (sekce Praktické travel hacky).
 
 #### Doprava po Bangkoku
 
@@ -223,10 +223,10 @@ Většinu cest zvládnete metrem (modrá linka), Grabem a pěšky. Skytrain (BTS
 
 - **Metro (MRT, modrá linka):** Hotel je u stanice Sam Yot. Od 1. 6. 2026 se na modré lince platí jen bezkontaktní kartou Visa nebo Mastercard (případně UnionPay), kterou přiložíte k turniketu při vstupu i při výstupu, vždy tou samou. Jízdenku ani registraci nepotřebujete. Každý jede na svou kartu, jednou kartou neprojdou dva lidé. Přikládejte jen jednu kartu, ať se platba nestrhne z jiné. Jízdné je asi 17–45 THB podle vzdálenosti. Staré předplacené karty MRT už neplatí.
 - **Když karta neprojde:** Zahraniční karta v turniketu někdy neprojde. U automatů a přepážky koupíte jednorázový žeton za hotovost. Podle oznámení se žetony mají od 1. 1. 2027 nahradit QR jízdenkou, v prosinci 2026 by ještě měly být (neověřeno). Platba telefonem je neověřená, mějte fyzickou kartu a drobné bankovky.
-- **Letiště a Airport Rail Link:** Bezkontaktní karta platí od listopadu 2025 i tam, jízdné je 15–45 THB. V Makkasanu přestupujete na metro (stanice Phetchaburi) krytou chodbou a u metra se platí znovu, zvlášť (sekce 4).
+- **Letiště a Airport Rail Link:** Bezkontaktní karta platí od listopadu 2025 i tam, jízdné je 15–45 THB. V Makkasanu přestupujete na metro (stanice Phetchaburi) krytou chodbou a u metra se platí znovu, zvlášť (sekce Doprava).
 - **Lodě:** V plánu je jen přívoz přes řeku mezi Tha Tien a Wat Arun, stojí pár bahtů a platí se u turniketu na molu. Oranžová expresní loď (asi 17–18 THB, ceny se v roce 2026 měnily) u Wat Arun nezastavuje, vystupuje se na Tha Tien. Lístky na expresní lodě kupujte u přepážky na molu, ne od naháněčů.
 - **Autobusy a skytrain:** Nepotřebujete je. Autobus se platí hotově průvodčímu (asi 8–26 THB podle typu), cíl mu řeknete a trasu najdete v aplikaci ViaBus. Skytrain jede na jinou kartu (Rabbit) nebo na lístek z automatu.
-- **Grab a Bolt:** Cenu vidíte předem v aplikaci, platí se hotově nebo kartou uloženou v aplikaci (kartu nastavte doma, na místě potřebujete data, sekce 11). Hodí se s batohy, ve vedru a při ranním odjezdu na vlak.
+- **Grab a Bolt:** Cenu vidíte předem v aplikaci, platí se hotově nebo kartou uloženou v aplikaci (kartu nastavte doma, na místě potřebujete data, sekce Předodletový checklist). Hodí se s batohy, ve vedru a při ranním odjezdu na vlak.
 
 **Čím pojedete po dnech:**
 
@@ -241,7 +241,7 @@ Většinu cest zvládnete metrem (modrá linka), Grabem a pěšky. Skytrain (BTS
 
 #### Přesun dál
 
-Vlak č. 43 v 7:30 z nádraží Krung Thep Aphiwat do Hua Hin (příjezd asi 10:31, od asi 412 THB). Na nádraží Grabem nebo metrem do Bang Sue. Jízdenky se prodávají zhruba 30 dní předem (sekce 4).
+Vlak č. 43 v 7:30 z nádraží Krung Thep Aphiwat do Hua Hin (příjezd asi 10:31, od asi 412 THB). Na nádraží Grabem nebo metrem do Bang Sue. Jízdenky se prodávají zhruba 30 dní předem (sekce Doprava).
 
 #### Mapy
 
@@ -265,11 +265,11 @@ Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Ku
 
 #### Kui Buri prakticky
 
-Sloni jsou nejaktivnější od zhruba 15:00, po 17:00 už do areálu nevjedete. Navigujte na pozorovací místo Huai Luek (Elephant Observatory Site), ne na ředitelství parku (sekce 3). Dovnitř se jede pickupem parku s průvodcem (850–1 200 THB za vůz pro až 6 lidí, cenu si nechte potvrdit), vstup 200 THB na osobu, vjezd auta 30 THB. Jestli se dá rezervovat předem, zdroje se rozcházejí: nechte ubytování zavolat do parku (081 776 2410 nebo 032 510 453) a přijeďte před 15:00. Grab zpátky si odtud nezavoláte.
+Sloni jsou nejaktivnější od zhruba 15:00, po 17:00 už do areálu nevjedete. Navigujte na pozorovací místo Huai Luek (Elephant Observatory Site), ne na ředitelství parku (sekce Záchytné body pro Google Maps). Dovnitř se jede pickupem parku s průvodcem (850–1 200 THB za vůz pro až 6 lidí, cenu si nechte potvrdit), vstup 200 THB na osobu, vjezd auta 30 THB. Jestli se dá rezervovat předem, zdroje se rozcházejí: nechte ubytování zavolat do parku (081 776 2410 nebo 032 510 453) a přijeďte před 15:00. Grab zpátky si odtud nezavoláte.
 
 #### Auto z Hua Hin
 
-Thai Rent A Car / Enterprise u Aquana Resort (17/49 Soi Nong Kae, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00). Malé auto od asi 800–900 THB na den. Vezměte pasy, řidičské průkazy skupiny B, mezinárodní řidičský průkaz (sekce 11) a kartu na kauci. Jezdí se vlevo.
+Thai Rent A Car / Enterprise u Aquana Resort (17/49 Soi Nong Kae, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00). Malé auto od asi 800–900 THB na den. Vezměte pasy, řidičské průkazy skupiny B, mezinárodní řidičský průkaz (sekce Předodletový checklist) a kartu na kauci. Jezdí se vlevo.
 
 #### Vstupy
 
@@ -325,13 +325,13 @@ Večer v horkých pramenech v Ranongu a pak tři dny lenošení na klidném ostr
 
 #### Ranong
 
-Do města dorazíte kolem 17:00, minivan staví u autobusového nádraží. Ubytování [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y), 4.–5. 12., potvrzeno, rezervováno přes Agodu, check-in od 14:00, check-out do 12:00, zrušit zdarma do 2. 12. 23:59 thajského času (v Česku 2. 12. v 17:59), asi 4 minuty pěšky od nádraží. Kolem 18:00 taxi k pramenům Raksa Warin (asi 2 km, asi 100 THB, v Mapách „Khao Niwet, Mueang Ranong“). Přes 20 bazénků, veřejné zdarma, otevřeno podle jednoho zdroje 5:00–21:00. Hotovost na ostrov si vyberte tady (sekce 10).
+Do města dorazíte kolem 17:00, minivan staví u autobusového nádraží. Ubytování [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y), 4.–5. 12., potvrzeno, rezervováno přes Agodu, check-in od 14:00, check-out do 12:00, zrušit zdarma do 2. 12. 23:59 thajského času (v Česku 2. 12. v 17:59), asi 4 minuty pěšky od nádraží. Kolem 18:00 taxi k pramenům Raksa Warin (asi 2 km, asi 100 THB, v Mapách „Khao Niwet, Mueang Ranong“). Přes 20 bazénků, veřejné zdarma, otevřeno podle jednoho zdroje 5:00–21:00. Hotovost na ostrov si vyberte tady (sekce Praktické travel hacky).
 
 #### Loď na ostrov (So 5. 12.)
 
 Tuk-tukem na molo Ranong Pier (10–15 minut, asi 50 THB na osobu, recepce ho zařídí). Budky s lístky jsou za cestovními kancelářemi, rychlá loď stojí 350 THB plus 5 THB poplatek, 35–45 minut. Čas a molo si ověřte den předem, při nízké vodě se jezdí z jiného mola.
 
-Lístek se kupuje v budkách na molu Ranong Pier, cestovní kanceláře na molu prodávají za stejnou cenu, ale nemusí mít celý jízdní řád. Rezervace předem není nutná, rychlých lodí jezdí dost. Online se dá koupit přes 12Go (u směru Ranong → Koh Phayam jsem tabulku nenašla, neověřeno), recenze tam ale radí rychlé lodě rezervovat předem. Víkend 5.–7. 12. je prodloužený (sekce 6), proto lístek radši kupte už večer 4. 12. nebo hned ráno (otevírací doba budek je neověřená).
+Lístek se kupuje v budkách na molu Ranong Pier, cestovní kanceláře na molu prodávají za stejnou cenu, ale nemusí mít celý jízdní řád. Rezervace předem není nutná, rychlých lodí jezdí dost. Online se dá koupit přes 12Go (u směru Ranong → Koh Phayam jsem tabulku nenašla, neověřeno), recenze tam ale radí rychlé lodě rezervovat předem. Víkend 5.–7. 12. je prodloužený (sekce Počasí, teploty a deště), proto lístek radši kupte už večer 4. 12. nebo hned ráno (otevírací doba budek je neověřená).
 
 Odjezdy podle jízdního řádu z ledna 2024 (neověřeno): rychlé lodě asi od 7:30 do 11:30 po půlhodině a odpoledne ve 12:00, 13:00, 13:30, 14:30, 15:00, 15:30, 16:00, 16:30 a 17:00, provozují Surathat Group a Ting, 350 THB plus 5 THB poplatek, 35–45 minut. Pomalý trajekt stojí asi 200 THB, jede asi 2 hodiny a odjíždí ve 14:30 a některá rána (neověřeno, spoj nikdo z autorů nejel).
 
@@ -351,7 +351,7 @@ Loď přistane na východě, pláže jsou na západě. Skútr si půjčte u mola
 
 #### Kajak v mangrovech
 
-Mangrovy v jihozápadním rohu Ao Khao Kwai, kousek od ubytování. Klidné pádlování bez průvodce, ptáci a s trochou štěstí opice. Kde se kajak půjčuje, zjistěte na recepci. Jeďte při přílivu (sekce 8), nezajíždějte hluboko a vezměte dry bag. Poloha a půjčovna nejsou ověřené.
+Mangrovy v jihozápadním rohu Ao Khao Kwai, kousek od ubytování. Klidné pádlování bez průvodce, ptáci a s trochou štěstí opice. Kde se kajak půjčuje, zjistěte na recepci. Jeďte při přílivu (sekce Seznam povinného vybavení), nezajíždějte hluboko a vezměte dry bag. Poloha a půjčovna nejsou ověřené.
 
 #### Zářící plankton
 
@@ -359,7 +359,7 @@ Jeden průvodce ho v prosinci viděl při brodění u Ao Khao Kwai, záruka žá
 
 #### Ubytování
 
-[Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) u Ao Khao Kwai, 5.–8. 12., potvrzeno, rezervováno přes Agodu. Check-in od 13:00, check-out do 11:00. Zrušit zdarma do 27. 11. 23:59 thajského času (v Česku 27. 11. v 17:59). Asi 5 minut pěšky na pláž, bazén a restaurace. Na ostrově jsou jen dva bankomaty s poplatkem asi 220 THB (údaj z ledna 2024). Víkend 5.–7. 12. je prodloužený, na ostrově bude víc Thajců (sekce 6).
+[Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) u Ao Khao Kwai, 5.–8. 12., potvrzeno, rezervováno přes Agodu. Check-in od 13:00, check-out do 11:00. Zrušit zdarma do 27. 11. 23:59 thajského času (v Česku 27. 11. v 17:59). Asi 5 minut pěšky na pláž, bazén a restaurace. Na ostrově jsou jen dva bankomaty s poplatkem asi 220 THB (údaj z ledna 2024). Víkend 5.–7. 12. je prodloužený, na ostrově bude víc Thajců (sekce Počasí, teploty a deště).
 
 #### Přesun dál
 
@@ -379,7 +379,7 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Vodopád Than Sawan (volitelně):** celodenní túra s průvodcem.
 - **Čtyřkolky (volitelně):** 1,5 až 2 hodiny jízdy džunglí s průvodcem, odvoz z ubytování zdarma, od 1 500 THB na osobu.
 - **Sloní útočiště (volitelně):** krátká návštěva útočiště pro slony ve vesnici Khlong Sok, objednání přes WhatsApp nebo přes ubytování.
-- **Noční safari (volitelně):** hodně pavouků, rozhodnout až na místě (sekce 12).
+- **Noční safari (volitelně):** hodně pavouků, rozhodnout až na místě (sekce Šnorchlování a noční safari).
 
 #### Noc na jezeře (rezervovat do 25. 11.)
 
@@ -457,7 +457,7 @@ Základna u pláže Klong Muang, mimo rušné letovisko Ao Nang, a jeden celý d
 
 #### Dragon Crest
 
-Stezka měří 3,7 km jedním směrem a celou dobu stoupá po kořenech, provazech a místy kluzkých schodech, asi 2,5 hodiny nahoru a 1,5–2 hodiny dolů. Vstup 200 THB jen hotově, otevřeno 8:00–18:00, poslední vstup na stezku kolem 14:00. Vyrazte v 8:00, dokud je chladno a stezka ve stínu. Jděte první ráno po suché noci: po silném dešti klouže a místy teče jako potok, za bouřky na vrcholu nezůstávejte. S sebou 2 litry vody na osobu a pevné boty. Okraj útesu je oplocený a vstup za plot se podle zdrojů trestá pokutou 2 000 THB. Z hřebene podle jednoho místního provozovatele odbočuje postranní stezka podél potoka, kterou skoro nikdo nechodí. Začátek stezky je v Tub Kaek za hotelem Amari Vogue, veřejná doprava tam nejede (sekce 4). Z Vacation House je to podle inzerátu asi 5 minut autem k pláži Tubkaek, ke stezce o pár minut dál (neověřeno). 13. 12. je neděle, podle půjčovny byklo bývá o víkendech nejvíc aut na parkovišti u stezky mezi 8:30 a 9:30 (neověřeno).
+Stezka měří 3,7 km jedním směrem a celou dobu stoupá po kořenech, provazech a místy kluzkých schodech, asi 2,5 hodiny nahoru a 1,5–2 hodiny dolů. Vstup 200 THB jen hotově, otevřeno 8:00–18:00, poslední vstup na stezku kolem 14:00. Vyrazte v 8:00, dokud je chladno a stezka ve stínu. Jděte první ráno po suché noci: po silném dešti klouže a místy teče jako potok, za bouřky na vrcholu nezůstávejte. S sebou 2 litry vody na osobu a pevné boty. Okraj útesu je oplocený a vstup za plot se podle zdrojů trestá pokutou 2 000 THB. Z hřebene podle jednoho místního provozovatele odbočuje postranní stezka podél potoka, kterou skoro nikdo nechodí. Začátek stezky je v Tub Kaek za hotelem Amari Vogue, veřejná doprava tam nejede (sekce Doprava). Z Vacation House je to podle inzerátu asi 5 minut autem k pláži Tubkaek, ke stezce o pár minut dál (neověřeno). 13. 12. je neděle, podle půjčovny byklo bývá o víkendech nejvíc aut na parkovišti u stezky mezi 8:30 a 9:30 (neověřeno).
 
 #### Skútr nebo taxi
 
@@ -503,7 +503,7 @@ Kajak se půjčuje na pláži u Pasai, hosté píšou o krásném výletu na Koh
 
 #### Loď na Koh Hong
 
-Longtailem z ostrova na celý den: vyhlídka (Hong Island View Point podle Google Maps) a šnorchlování, případně další malé ostrůvky u Hongu. Cena a podoba výletu zatím neověřené. Podle jednoho průvodce vychází půldenní šnorchlovací výlet pod 2 000 THB na osobu včetně výbavy, jak na šnorchlování je v sekci 12. Volte menší loď a ranní odjezd. Výlety kajaky na Koh Hong a James Bond Island vynecháváme, bývají plné lidí. Vzdálené ostrovy jsou moc daleko.
+Longtailem z ostrova na celý den: vyhlídka (Hong Island View Point podle Google Maps) a šnorchlování, případně další malé ostrůvky u Hongu. Cena a podoba výletu zatím neověřené. Podle jednoho průvodce vychází půldenní šnorchlovací výlet pod 2 000 THB na osobu včetně výbavy, jak na šnorchlování je v sekci Šnorchlování a noční safari. Volte menší loď a ranní odjezd. Výlety kajaky na Koh Hong a James Bond Island vynecháváme, bývají plné lidí. Vzdálené ostrovy jsou moc daleko.
 
 #### Po ostrově: skútr, rýžová pole a rybářské vesnice
 
@@ -514,7 +514,7 @@ Kolo asi 200 THB na den, skútr 250–350 THB na den, songthaew 100–200 THB za
 
 #### Pláže, příliv a skály
 
-Koupat se dá hlavně při přílivu, při odlivu se odhalí široké plochy dna a pláže u Pasai a Tha Khao bývají blátivé. Podle předpovědi z jednoho webu (neověřeno, ověřte na Tide-forecast.com, sekce 8) bude příliv 15. 12. kolem 14:12, 16. 12. kolem 15:01 a 17. 12. kolem 16:01, odliv ráno. Pláže jsou proto na odpoledne.
+Koupat se dá hlavně při přílivu, při odlivu se odhalí široké plochy dna a pláže u Pasai a Tha Khao bývají blátivé. Podle předpovědi z jednoho webu (neověřeno, ověřte na Tide-forecast.com, sekce Seznam povinného vybavení) bude příliv 15. 12. kolem 14:12, 16. 12. kolem 15:01 a 17. 12. kolem 16:01, odliv ráno. Pláže jsou proto na odpoledne.
 
 - **Klong Jark:** pobřeží hned u ubytování, místy velké kameny, vezměte pevné sandály.
 - **Tha Khao:** široká, často skoro prázdná pláž, při odlivu písečný práh k malému ostrůvku, hodí se na východ slunce. Při odlivu bývá podle recenzí špinavá.
@@ -624,7 +624,7 @@ Sloní útočiště Phuket Elephant Care, program Observe (v Google Maps Phuket 
 
 So 19. 12. let EY 413 z Phuketu (HKT) ve 21:00, Terminal I (podle e-ticketu), v Abu Dhabi přestup na EY 155 v neděli 20. 12. ve 2:40, přílet do Prahy v 6:15. Z ubytování se odhlašuje do 12:00, do odletu zbývá asi 9 hodin: zavazadla nechat v ubytování (neověřeno, inzerát uvádí úschovu zavazadel), nebo je vzít na letiště.
 
-Na letiště dorazit aspoň 3 hodiny před odletem, tedy asi v 18:00 (doporučení ze sekce 16, ne pravidlo Etihadu). Online odbavení se otevírá 30 hodin před odletem, to vychází asi na 18. 12. odpoledne (sekce 16). Z Wattana Bungalow na letiště je podle inzerátu asi 2,8 km a 7 minut autem, Grabem, Boltem nebo taxi (cena a dostupnost neověřené).
+Na letiště dorazit aspoň 3 hodiny před odletem, tedy asi v 18:00 (doporučení ze sekce Etihad Airways, ne pravidlo Etihadu). Online odbavení se otevírá 30 hodin před odletem, to vychází asi na 18. 12. odpoledne (sekce Etihad Airways). Z Wattana Bungalow na letiště je podle inzerátu asi 2,8 km a 7 minut autem, Grabem, Boltem nebo taxi (cena a dostupnost neověřené).
 
 #### Ubytování
 
@@ -638,7 +638,7 @@ Riziko: zrušit zdarma jde jen do 16. 12., přitom lístek na loď se kupuje kol
 
 [Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) · [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) · [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) · [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) · [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) · [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) · [správa parku Sirinat](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) · [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496,98.4159)
 
-## 6. Počasí, teploty a deště (listopad a první polovina prosince)
+## Počasí, teploty a deště (listopad a první polovina prosince)
 
 Cesta začíná koncem listopadu, kdy na straně Zálivu a v Khao Sok ještě doznívá období dešťů, a končí v polovině prosince, kdy na Andamanském moři začíná suchá sezóna. Čísla v tabulce jsou dlouhodobé průměry z let 1991–2020 za celý měsíc, deštivý den znamená aspoň 1 mm srážek.
 
@@ -652,7 +652,7 @@ Cesta začíná koncem listopadu, kdy na straně Zálivu a v Khao Sok ještě do
 
 - **Teploty:** Přes den bývá 30–33 °C a večery jsou příjemně teplé. V noci teplota klesá na 21–25 °C, nejchladněji je v Prachuap a v Khao Sok.
 - **Deště:** Nejsušší je Bangkok a Prachuap, ale i tam může na začátku cesty zapršet. Chumphon leží dál na jih na straně zálivu a v prosinci tam může pršet víc než v Prachuap, přesná čísla nejsou ověřená. Khao Sok je deštný prales, počítejte s deštěm, zabalte si lehkou pláštěnku a věci chraňte v dry bagu. Andamanské pobřeží (Krabi, Koh Yao Noi, Phuket) bývá v polovině prosince na začátku suché sezóny, přeháňka se ale občas objeví. Před cestou si zkontrolujte předpověď.
-- **Moře:** V suché sezóně (zhruba prosinec až duben) bývá andamanské moře klidné a lodě jezdí spolehlivěji. Při větru a vlnách se přesto ruší (sekce 4).
+- **Moře:** V suché sezóně (zhruba prosinec až duben) bývá andamanské moře klidné a lodě jezdí spolehlivěji. Při větru a vlnách se přesto ruší (sekce Doprava).
 - **Světlo:** Stmívá se už kolem 18. hodiny. Přesuny a výlety plánujte tak, abyste se nevraceli potmě, hlavně z Kui Buri a na skútru.
 
 ### Váš termín: 26. 11.–19. 12. 2026
@@ -662,7 +662,7 @@ Z Prahy letíte 26. 11., do Bangkoku dorazíte 27. 11. a z Phuketu odlétáte 19
 - **Svátky:** 5. 12. (sobota, Den otců) a případné náhradní volno v pondělí 7. 12. vytvoří dlouhý víkend, kdy jsou pláže plné Thajců. V té době budete na Koh Phayam s potvrzeným ubytováním. 10. 12. (čtvrtek) je Den ústavy: zavřené banky a úřady, budete v Khao Sok.
 - **Khao Sok:** Na začátku prosince počítejte s deštěm, některé stezky mohou být po silném dešti zavřené (fáze 5).
 
-## 7. Jídlo, pití a bezpečné stravování
+## Jídlo, pití a bezpečné stravování
 
 Thajská kuchyně není jen pálivá. Pálivost si můžete zvolit, a když to víte předem, najíte se dobře i bez chilli.
 
@@ -699,9 +699,9 @@ Thajská kuchyně není jen pálivá. Pálivost si můžete zvolit, a když to v
 - Pijte výhradně balenou vodu a používejte ji i při čištění zubů.
 - Jezte jídlo, které je čerstvě a důkladně tepelně upravené přímo před vámi na woku.
 - Před jídlem si myjte ruce nebo používejte dezinfekci.
-- Při průjmu hodně pijte. Léky do lékárničky a kdy jít k lékaři jsou v sekci 13.
+- Při průjmu hodně pijte. Léky do lékárničky a kdy jít k lékaři jsou v sekci Zdraví, bezpečnost a nouzová čísla.
 
-## 8. Seznam povinného vybavení
+## Seznam povinného vybavení
 
 Pobalte se na lehko, drobnosti dokoupíte na místě. Tady je výběr věcí, které se doma zapomínají nebo se na cestě špatně shánějí.
 
@@ -711,32 +711,32 @@ Pobalte se na lehko, drobnosti dokoupíte na místě. Tady je výběr věcí, kt
 - **Oblečení s UV ochranou:** Lehké dlouhé kalhoty a vzdušná košile chrání před ostrým sluncem na vodě i před hmyzem v pralese. Do chrámů se hodí šátek nebo lehká sukně či kalhoty, které zakryjí ramena a kolena.
 - **Repelent s DEET nebo icaridinem:** Proti komárům, kteří kousají i přes den. Silný lokální repelent koupíte na místě v obchodech 7-Eleven nebo v lékárně.
 - **Opalovací krém šetrný k útesům:** Minerální krém bez oxybenzonu, octinoxátu, 4-MBC a butylparabenu. Tyto látky jsou v mořských národních parcích zakázané a pokuta může dosáhnout 100 000 THB. K tomu lycrové tričko (rash guard), čepice a sluneční brýle.
-- **Lehká pláštěnka:** Khao Sok je deštný prales a v prosinci tam prší často (sekce 6).
-- **Powerbanka:** Na plovoucích bungalovech běží elektřina z generátoru jen několik hodin denně. Do letadla patří do příručního zavazadla (sekce 16).
-- **Maska a šnorchl (volitelné):** Na výletech se půjčují, vlastní maska ale líp sedí a netěsní (sekce 12).
+- **Lehká pláštěnka:** Khao Sok je deštný prales a v prosinci tam prší často (sekce Počasí, teploty a deště).
+- **Powerbanka:** Na plovoucích bungalovech běží elektřina z generátoru jen několik hodin denně. Do letadla patří do příručního zavazadla (sekce Etihad Airways).
+- **Maska a šnorchl (volitelné):** Na výletech se půjčují, vlastní maska ale líp sedí a netěsní (sekce Šnorchlování a noční safari).
 - **Lehká mikina nebo šátek:** Klimatizace v letadlech, vlacích a minibusech bývá silná.
 - **Aplikace v mobilu:** 12Go.asia (vlaky, minibusy a lodě), Grab a Bolt (taxi), Agoda (ubytování), Google Translate (stáhněte si offline balíček thajštiny), Airalo (eSIM) a offline mapy v Google Maps. Příliv a odliv: web [Tide-forecast.com](https://www.tide-forecast.com/) (zdarma, předpověď na 30 dní, stačí si dát záložku). Pro Koh Phayam hledejte stanici Ranong, pro Koh Yao Noi Phuket nebo Krabi (Koh Yao Noi ani Phang Nga tam nejsou). Je to předpověď pro nejbližší stanici, ne pro konkrétní zátoku, takže se na místě ještě zeptejte v ubytování. Příliv se hodí pro kajak v mangrovech i pro koupání na Koh Yao Noi.
 
-## 9. Etiketa: jak nebýt za hloupé turisty
+## Etiketa: jak nebýt za hloupé turisty
 
 - **Mniši a chrámy:** Před vstupem do chrámů, domů a některých menších obchůdků zouvejte boty. V chrámech mějte zakrytá ramena a kolena. Mniši se nesmějí dotýkat žen, proto žena nic nepodává mnichovi z ruky do ruky: dar nebo předmět položí na stůl nebo na kus látky.
-- **Klid a úsměv (Jai Yen Yen):** Zvyšováním hlasu, hádkami ani vztekem v Thajsku ničeho nedosáhnete. Místní to berou jako velkou ztrátu sebekontroly a uzavřou se. S úsměvem a klidem vyřešíte skoro všechno (sekce 1).
+- **Klid a úsměv (Jai Yen Yen):** Zvyšováním hlasu, hádkami ani vztekem v Thajsku ničeho nedosáhnete. Místní to berou jako velkou ztrátu sebekontroly a uzavřou se. S úsměvem a klidem vyřešíte skoro všechno (sekce Úvod do Thajska).
 - **Hlava a nohy:** Hlava je v buddhismu nejposvátnější část těla, proto na ni nikomu nesahejte, ani dětem. Nohy jsou naopak nejnečistší. Neukazujte chodidlem na lidi, na mnicha ani na sochu Buddhy a v chrámu si sedněte tak, abyste na ně chodidly nemířili.
-- **Královská rodina:** Nežertujte o monarchii a nešlapejte na bankovky ani na mince, je na nich král (sekce 1).
+- **Královská rodina:** Nežertujte o monarchii a nešlapejte na bankovky ani na mince, je na nich král (sekce Úvod do Thajska).
 - **Oblékání:** Plavky patří na pláž. Ve městě, v obchodě a ve vesnici se oblékejte decentněji, s rameny a koleny zakrytými.
 - **Smlouvání s mírou:** Na trzích se smlouvá s úsměvem a lehce, nikdy agresivně. V restauracích, u taxametru a v obchodech s cenovkami se nesmlouvá.
 
-## 10. Praktické travel hacky
+## Praktické travel hacky
 
 - **Bankomaty a poplatky:** Thajské bankomaty účtují fixní poplatek za každý výběr, obvykle 220–250 THB (zhruba 145–165 Kč), některé až 350 THB. Výši poplatku ukáže displej ještě před potvrzením, takže ji zkontrolujte. Vybírejte vždy co nejvíc najednou, limit bývá 20 000–30 000 THB na jeden výběr. Podle jednoho zdroje má nejnižší poplatek síť AEON (asi 150 THB). Zeptejte se také své banky, jestli si za výběr v zahraničí něco neúčtuje. Orientační kurz je 1 THB = 0,65 Kč.
 - **Zvolte „Local Currency“ (odmítněte DCC):** Když se na terminálu nebo v bankomatu objeví nabídka přepočtu na koruny, vždy zvolte účtování v thajských bahtech. Vyhnete se nevýhodnému kurzu provozovatele terminálu.
 - **7-Eleven je záchrana:** Obchody 7-Eleven jsou doslova na každém rohu. Koupíte v nich levnou balenou vodu, sendviče, repelent a náplasti a v klimatizaci si odpočinete od horka. Lékárnu ale nenahradí.
 - **Zásuvky:** V Thajsku je 230 V jako u nás. Většina zásuvek přijme naši dvoukolíkovou eurovidlici, uzemněné vidlice ale mohou potřebovat redukci, proto si vezměte lehkou univerzální.
-- **Lékárny:** Na drobnosti (spálená kůže, štípance, lehčí žaludeční potíže) poslouží lékárna. Antibiotika neberte bez porady s lékařem. Při horečce, zhoršujícím se průjmu nebo poranění od zvířete jděte k lékaři (sekce 13).
+- **Lékárny:** Na drobnosti (spálená kůže, štípance, lehčí žaludeční potíže) poslouží lékárna. Antibiotika neberte bez porady s lékařem. Při horečce, zhoršujícím se průjmu nebo poranění od zvířete jděte k lékaři (sekce Zdraví, bezpečnost a nouzová čísla).
 - **Hotovost:** Na trzích, na lodích, ve vesnicích a na plovoucích bungalovech se platí hotově. Mějte u sebe drobné bankovky (20, 50 a 100 THB), velké se na venkově špatně rozměňují.
-- **Známé podvody v Bangkoku:** Když vám někdo na ulici řekne, že je chrám dnes zavřený, a nabídne výhodnou projížďku tuk-tukem, jde o známý trik. Ověřte si to u vstupu. K taxíkům sekce 4.
+- **Známé podvody v Bangkoku:** Když vám někdo na ulici řekne, že je chrám dnes zavřený, a nabídne výhodnou projížďku tuk-tukem, jde o známý trik. Ověřte si to u vstupu. K taxíkům viz sekce Doprava.
 
-## 11. Předodletový checklist
+## Předodletový checklist
 
 Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 
@@ -744,13 +744,13 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Vstup bez víza:** Od 15. 9. 2026 už neplatí dřívější bezvízový pobyt na 60 dní. Občané ČR mají bezvízový pobyt na 30 dní a jen pro turistiku. Na imigračním úřadě ho lze jednou prodloužit o dalších 30 dní (zhruba za 1 900 THB). Váš pobyt 27. 11.–19. 12. (23 dní) se do 30 dní vejde. O vpuštění do země rozhoduje úředník, proto mějte po ruce letenku ven z Thajska a adresu prvního ubytování. Plánovaný vstupní poplatek pro turisty (podle zpráv z roku 2026 nově 300 THB na osobu u příletů letecky, zhruba 8 EUR) se zatím nevybírá. Má se podle oznámení platit nejspíš zabalený do ceny letenky, ne na přepážce, a náběh se opakovaně odkládal. Přesnou výši a to, jestli se v době vaší cesty vybírá, si krátce před odletem ověřte na stránkách ministerstva zahraničí.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
 - **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
-- **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce 16). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
-- **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny (sekce 17). Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci 0.
+- **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce Etihad Airways). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
+- **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
 - **Vlak č. 43 a auto:** Jízdenky na 30. 11. do Hua Hin a 3. 12. do Prachuap kupte hned, jak se začnou prodávat (od asi 31. 10.). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
-- **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 13).
+- **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce Zdraví, bezpečnost a nouzová čísla).
 - **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
-- **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce 10). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
+- **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce Praktické travel hacky). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
 - **Doklady:** Kopie pasu, pojistky a rezervací uložte offline v telefonu a jednu sadu mějte i na papíře.
 
 ### Co zařídit a kdy
@@ -762,10 +762,10 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 | Hned teď | Jízdenky na vlak č. 43 (30. 11. a 3. 12., prodej od asi 31. 10.) a auto v Hua Hin |
 | Do 25. 11. (před odletem) | Přespání na jezeře Cheow Lan: balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna |
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
-| 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce 16) |
+| 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce Etihad Airways) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
 
-## 12. Šnorchlování pro úplné začátečníky a noční safari
+## Šnorchlování a noční safari: pro úplné začátečníky
 
 ### Šnorchlování: kde začít
 
@@ -788,7 +788,7 @@ Nejjednodušší je organizovaný půldenní nebo celodenní výlet lodí s prů
 - **Plovací vesta je povinná:** Od 22. 4. 2025 platí v Thajsku celostátně a na pět let pravidlo, že šnorchlující poblíž útesů musí mít plovací vestu.
 - **Nesahejte na nic:** Nedotýkejte se korálů ani živočichů, nekrmte ryby, nevířte sediment u dna a nestoupejte na útes. Nesahejte do děr ve skalách, mohou se v nich skrývat murény.
 - **Bezpečnost:** Šnorchlujte v dohledu průvodce nebo lodi a s partnerem po boku. Vyberte organizátora, který používá viditelné plováky, a při nástupu i návratu se nechte spočítat. Proudy se mění s přílivem a počasím. Nepijte alkohol. Je-li ve vodě hodně medúz, vystupte. Máte-li potíže se srdcem nebo plícemi či astma, poraďte se předem s lékařem.
-- **Slunce:** Na zádech se spálíte rychleji, než čekáte. Vezměte lycrové tričko a krém šetrný k útesům (sekce 8).
+- **Slunce:** Na zádech se spálíte rychleji, než čekáte. Vezměte lycrové tričko a krém šetrný k útesům (sekce Seznam povinného vybavení).
 
 ### Noční safari v Khao Sok: stojí za to?
 
@@ -797,7 +797,7 @@ Pro lidi s fóbií z pavouků se nehodí: podle zdrojů při ní určitě uvidí
 - Nečekejte africké safari. Zážitek je hlavně v atmosféře: zvuky pralesa, tma a malá zvířata, která přes den nepotkáte.
 - Nedotýkejte se rostlin ani zvířat a držte se průvodce.
 
-## 13. Zdraví, bezpečnost a nouzová čísla
+## Zdraví, bezpečnost a nouzová čísla
 
 ### Nouzová čísla
 
@@ -824,20 +824,20 @@ Poraďte se aspoň 4–6 týdnů před odletem s lékařem v centru cestovní me
 
 ### Zvířata a kousnutí
 
-- Makakové mohou přenášet vzteklinu a virus B. Nesahejte na ně, nekrmte je a nenoste jídlo na očích (sekce 2).
+- Makakové mohou přenášet vzteklinu a virus B. Nesahejte na ně, nekrmte je a nenoste jídlo na očích (sekce Zvířata na trase).
 - Po kousnutí nebo poškrábání (i od psa nebo kočky) ránu ihned omývejte mýdlem a tekoucí vodou aspoň 15 až 20 minut a ještě týž den vyhledejte lékaře. Nečekejte na příznaky, vzteklina je po jejich vypuknutí smrtelná. Očkování proti vzteklině i imunoglobulin mají provinční a většina okresních nemocnic.
 - V Khao Sok choďte po setmění jen s průvodcem a v zavřené obuvi.
 
 ### Doprava a voda
 
 - **Skútry:** Thajsko patří k zemím s nejvyšším počtem úmrtí v dopravě na světě a většina obětí jezdí na motorkách nebo skútrech. CDC cestovatelům radí motorky raději nepoužívat. Na Koh Yao Noi proto preferujte kolo nebo songthaew. Pokud skútr přece půjčíte, jezděte jen s helmou a pojištěním, nikdy v noci ani po alkoholu. V Thajsku se jezdí vlevo, na silnici se při přecházení dívejte na obě strany.
-- **Lodě:** Na rychlých lodích mějte plovací vestu a nenastupujte na přeplněnou loď ani za špatného počasí (sekce 4).
-- **Moře:** Pozor na štípající mořské živočichy (medúzy, korály, sasanky), řiďte se výstrahami na pláži (sekce 12).
+- **Lodě:** Na rychlých lodích mějte plovací vestu a nenastupujte na přeplněnou loď ani za špatného počasí (sekce Doprava).
+- **Moře:** Pozor na štípající mořské živočichy (medúzy, korály, sasanky), řiďte se výstrahami na pláži (sekce Šnorchlování a noční safari).
 
 ### Slunce, horko a žaludek
 
 - Slunce je silné: čepice, brýle, krém s vysokým faktorem a lycrové tričko na vodě. V poledne odpočívejte ve stínu a pijte víc, než máte chuť.
-- Zásady pro jídlo a pití najdete v sekci 7. Při průjmu hodně pijte a vyhledejte lékaře při horečce, krvi ve stolici, silné dehydrataci nebo když potíže nepřejdou za několik dnů.
+- Zásady pro jídlo a pití najdete v sekci Jídlo, pití a bezpečné stravování. Při průjmu hodně pijte a vyhledejte lékaře při horečce, krvi ve stolici, silné dehydrataci nebo když potíže nepřejdou za několik dnů.
 
 ### Pojištění a lékař
 
@@ -847,7 +847,7 @@ Průkaz evropského zdravotního pojištění v Thajsku neplatí. Při vážněj
 
 Rehydratační sáčky, náplasti a obvaz, dezinfekce, přípravek na spáleniny a štípance, léky na bolest a horečku a vaše pravidelné léky v originálním balení. Lék proti průjmu s loperamidem (například Loperon) na akutní potíže na cestě, ale neužívejte ho při horečce nebo krvi ve stolici. Probiotika (biokultury) na podporu střevní mikroflóry, nejlépe nasazená pár dní před odletem. Další léky proberte s lékařem.
 
-## 14. Orientační rozpočet
+## Orientační rozpočet
 
 Rozpočet platí pro dva lidi na 22 nocí podle trasy s Koh Phayam a autem v Hua Hin, bez letenek a pojištění. Částky jsou v thajských bahtech. Pro přepočet je vynásobte 0,65: 100 THB je asi 65 Kč a 1 000 THB asi 650 Kč. Položky s poznámkou „odhad“ jsou hrubé odhady, ostatní vycházejí z cen uvedených výše. Před cestou ceny ověřte.
 | Položka | Úsporně (THB) | Pohodlněji (THB) | Poznámka |
@@ -855,7 +855,7 @@ Rozpočet platí pro dva lidi na 22 nocí podle trasy s Koh Phayam a autem v Hua
 | Ubytování, 21 nocí | 13 650 | 31 500 | odhad: 650–1 500 THB za noc za pokoj pro dva |
 | Ubytování, noc v Nai Yang (Wattana Bungalow) | 1 700 | 1 700 | rezervováno, cena z potvrzení Booking.com |
 | Jídlo a pití | 15 500 | 26 500 | odhad: 350–600 THB na osobu a den, porce pouličního jídla vychází na 40–70 THB |
-| Přesuny po Thajsku | 11 600 | 17 100 | odhad podle cen v sekci 4, včetně auta v Hua Hin na 3 dny (asi 2 700 THB plus benzín odhadem 1 000 THB) a lodí na Koh Phayam (asi 1 400 THB za dva) |
+| Přesuny po Thajsku | 11 600 | 17 100 | odhad podle cen v sekci Doprava, včetně auta v Hua Hin na 3 dny (asi 2 700 THB plus benzín odhadem 1 000 THB) a lodí na Koh Phayam (asi 1 400 THB za dva) |
 | Zážitky a vstupy | 22 700 | 36 700 | rozpis níže; úsporně bez Dragon Crest, půjčení kola nebo skútru a sloního útočiště, pohodlněji včetně nich |
 | Celkem | asi 65 150 (42 300 Kč) | asi 113 500 (73 800 Kč) | pro dva, bez letenek a pojištění |
 
@@ -868,7 +868,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Zážitek | Cena | Poznámka |
 |---|---|---|
 | Bangkok: vstupy a plavba po klongech | Wat Pho 200 THB, Wat Arun 200 THB (volitelně), Zlatá hora 100 THB na osobu, plavba 1 672 Kč za dva (asi 2 570 THB) | zrušení plavby zdarma do 27. 11. |
-| Auto v Hua Hin (Sam Roi Yot) | od asi 800–900 THB na den, 3 dny asi 2 700 THB plus benzín odhadem 1 000 THB | Thai Rent A Car / Enterprise, kauce a spoluúčast se liší (sekce 11) |
+| Auto v Hua Hin (Sam Roi Yot) | od asi 800–900 THB na den, 3 dny asi 2 700 THB plus benzín odhadem 1 000 THB | Thai Rent A Car / Enterprise, kauce a spoluúčast se liší (sekce Předodletový checklist) |
 | Mokřady Bueng Bua (Sam Roi Yot) | asi 400 THB na osobu (park plus lávka) | podle jednoho blogu, místní loď volitelně asi 600 THB za loď pro 4 lidi |
 | Jeskyně Phraya Nakhon (Sam Roi Yot) | vstup do parku 200 THB na osobu (platí jen ten den) | loď z Bang Pu asi 400 THB za loď je volitelná |
 | Vyhlídka a chrám Khao Daeng (Sam Roi Yot) | park 200 THB na osobu (platí jen ten den) | chrám je zdarma |
@@ -894,10 +894,10 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 
 ### Kde ušetřit a kde se vyplatí připlatit
 
-- **Ušetřit:** Váš termín končí před vánoční špičkou (sekce 6), což je největší úspora. Dál jezte pouliční jídlo a na trzích, jezděte veřejnou dopravou a vybírejte z bankomatu co nejméně často, co nejvíc najednou (sekce 10).
+- **Ušetřit:** Váš termín končí před vánoční špičkou (sekce Počasí, teploty a deště), což je největší úspora. Dál jezte pouliční jídlo a na trzích, jezděte veřejnou dopravou a vybírejte z bankomatu co nejméně často, co nejvíc najednou (sekce Praktické travel hacky).
 - **Připlatit:** Za zážitky, kvůli kterým se do Thajska jezdí: noc na jezeře Cheow Lan, odpolední safari za slony v Kui Buri, kajak na Koh Nok a šnorchlování v malé skupině s průvodcem.
 
-## 15. Mini-slovníček thajských frází
+## Mini-slovníček thajských frází
 
 Thajština je tónový jazyk. Přepis i výslovnost níže jsou jen přibližné a bez tónů, ale Thajci ocení každou snahu a úsměv. Na konec zdvořilých vět se přidává částice: muži říkají „khráp“, ženy „khá“.
 
@@ -957,7 +957,7 @@ Thajština je tónový jazyk. Přepis i výslovnost níže jsou jen přibližné
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | neung | song | sam | si | ha | hok | chet | paet | kao | sip | yi sip | neung roi | neung phan |
 
-## 16. Etihad Airways: tarif Comfort, zavazadla, odbavení a vrácení peněz
+## Etihad Airways: tarif Comfort, zavazadla, odbavení a vrácení peněz
 
 Letíte s Etihad Airways přes Abu Dhabi: Praha–Bangkok 26. 11. a Phuket–Praha 19. 12. Tato sekce shrnuje podmínky tarifu Comfort podle oficiálních stránek Etihadu (stav z října 2026). Čísla letů, hodiny odletu a délku přestupu najdete v e-ticketu. Pravidla aerolinek se mění, proto si hlavní body před odletem ověřte ve své rezervaci na etihad.com/manage.
 
@@ -997,7 +997,7 @@ Podle Etihadu si na každém letu vybíráte z bezplatných jídel nebo občerst
 
 - **Kdy:** Online odbavení se otevírá 30 hodin před odletem na etihad.com/manage nebo v aplikaci Etihad, palubní vstupenku si stáhnete nebo uložíte do telefonu. Pro let 26. 11. to vychází zhruba na 25. 11., pro let 19. 12. zhruba na 18. 12. Kdy se odbavení zavírá, stránka Etihadu neuvádí.
 - **Odbavení na letišti:** Hodiny uzávěrky přepážky a odbavení zavazadel najdete v e-ticketu. Na letiště dorazte aspoň 3 hodiny před odletem (doporučení autorky, ne pravidlo Etihadu).
-- **Kdy online nejde:** Online odbavení nemusí fungovat, pokud jste žádali o speciální asistenci nebo letíte s partnerskou aerolinkou. Digitální palubní vstupenka nemusí být vydána ani tehdy, když je na letišti potřeba zkontrolovat vízum nebo cestovní doklady. U letu do Thajska si proto připravte pas, letenku Phuket–Praha a vyplněnou TDAC (sekce 11).
+- **Kdy online nejde:** Online odbavení nemusí fungovat, pokud jste žádali o speciální asistenci nebo letíte s partnerskou aerolinkou. Digitální palubní vstupenka nemusí být vydána ani tehdy, když je na letišti potřeba zkontrolovat vízum nebo cestovní doklady. U letu do Thajska si proto připravte pas, letenku Phuket–Praha a vyplněnou TDAC (sekce Předodletový checklist).
 - **Dva lety v jedné rezervaci:** Praha–Abu Dhabi–Bangkok je jedna cesta, v odbavení by proto měly přijít obě palubní vstupenky najednou. Zkontrolujte, že máte obě a že mají správný let a datum.
 
 ### Jak funguje částečné vrácení peněz
@@ -1010,7 +1010,7 @@ Etihad výraz partial refund na svých stránkách nepoužívá. U tarifu Comfor
 - **Jak dlouho to trvá:** Karta obvykle 5 až 14 pracovních dnů, jiné platby až 45 pracovních dnů, Etihad credit obvykle 3 až 5 pracovních dnů. Nevyužitou letenku lze vracet do 1 roku od vystavení, částečně využitou do 1 roku od prvního letu.
 - **Částečně využitá letenka:** Pokud odletíte tam a zpáteční let 19. 12. nevyužijete, vrací se jen nevyužitá část podle tarifních podmínek. U většiny aerolinek navíc propadne zbytek letenky, když nenastoupíte na první let. U Etihadu to není ověřené, takže na první let nenastoupit bez předchozí domluvy nelze.
 - **Pravidlo 24 hodin:** Etihad popisuje možnost zrušit do 24 hodin od koupě na různých stránkách nejednotně, takže se na něj nespoléhejte.
-- **Poplatek za zrušení a pojištění:** Zrušení kvůli nemoci nebo jinému vážnému důvodu pokryje jen cestovní pojištění se stornem, které je nejlepší uzavřít hned po koupi letenek (sekce 11).
+- **Poplatek za zrušení a pojištění:** Zrušení kvůli nemoci nebo jinému vážnému důvodu pokryje jen cestovní pojištění se stornem, které je nejlepší uzavřít hned po koupi letenek (sekce Předodletový checklist).
 
 ### Přestup v Abu Dhabi
 
@@ -1021,13 +1021,13 @@ Etihad výraz partial refund na svých stránkách nepoužívá. U tarifu Comfor
 
 - **Hned:** Uložte si e-ticket a potvrzení rezervace offline a ověřte hodiny letů i délku přestupu v Abu Dhabi.
 - **Nejpozději 25. 11. (24 hodin před odletem):** Objednejte speciální jídlo, pokud ho chcete.
-- **Od 24. 11.:** Vyplňte TDAC (sekce 11).
+- **Od 24. 11.:** Vyplňte TDAC (sekce Předodletový checklist).
 - **Zhruba 25. 11. (30 hodin před odletem):** Online odbavení a palubní vstupenky do telefonu.
 - **Doma:** Zvažte zavazadla (30 kg na osobu, jeden kus nejvýš 32 kg), příruční zavazadlo do 7 kg a powerbanky dejte do příručního zavazadla.
 
-## 17. Do kdy zrušit ubytování zdarma
+## Do kdy zrušit ubytování zdarma
 
-Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko ukazují, do kdy jde ubytování zrušit zdarma, v thajském a v českém čase (v Thajsku je o 6 hodin víc, v Česku platí zimní čas). U ubytování označených jako dvojí rezervace je potřeba zrušit jedno z dvojice, viz sekce 0.
+Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko ukazují, do kdy jde ubytování zrušit zdarma, v thajském a v českém čase (v Thajsku je o 6 hodin víc, v Česku platí zimní čas). U ubytování označených jako dvojí rezervace je potřeba zrušit jedno z dvojice, viz sekce Co se ještě dořeší.
 
 | Ubytování (noci) | Thajsko | Česko |
 |---|---|---|
@@ -1043,9 +1043,9 @@ Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko uka
 | Tabeak View Point, Koh Yao Noi (Booking.com)<br>14.–18. 12., dvojí rezervace | po&nbsp;14.&nbsp;12.<br>18:00 | po&nbsp;14.&nbsp;12.<br>12:00 |
 | Wattana Bungalow, Nai Yang (Booking.com)<br>18.–19. 12. | st&nbsp;16.&nbsp;12.<br>23:59 | st&nbsp;16.&nbsp;12.<br>17:59 |
 
-## 18. Místa na trase: povídání do letadla
+## Místa na trase: povídání do letadla
 
-Krátké povídání ke každé zastávce, na čtení v letadle nebo večer. Nejde o seznam toho, co kde uvidíte (to je v sekci 5), ale o to, proč jsou místa zajímavá: příroda, dějiny, jména. Údaje jsou z veřejných zdrojů (Wikipedie, Bangkok Post, stránky thajských parků a turistické weby). Kde se zdroje rozcházejí nebo se něco nedá ověřit, je to u věty uvedeno.
+Krátké povídání ke každé zastávce, na čtení v letadle nebo večer. Nejde o seznam toho, co kde uvidíte (to je v záložce Itinerář), ale o to, proč jsou místa zajímavá: příroda, dějiny, jména. Údaje jsou z veřejných zdrojů (Wikipedie, Bangkok Post, stránky thajských parků a turistické weby). Kde se zdroje rozcházejí nebo se něco nedá ověřit, je to u věty uvedeno.
 
 ### Bangkok: město andělů, kanálů a varanů (fáze 1)
 
@@ -1061,7 +1061,7 @@ Prachuap Khiri Khan leží na jednom z nejužších míst Thajska: od zálivu k 
 
 ### Ranong a Koh Phayam: nejdeštivější provincie a ostrov kešu (fáze 4)
 
-Ranong je nejméně lidnatá provincie Thajska a zároveň jedna z nejdeštivějších, přezdívá se jí Město osmi měsíců deště a čtyř měsíců slunce. Pohoří za městem zastavuje monzun od Andamanského moře. Zdroje uvádějí různé roční úhrny, od zhruba 2 500 do více než 4 000 mm, a rekordní rok 1955 prý přes 6 600 mm. Prosinec je podle klimatických údajů mnohem sušší než říjen a listopad (viz sekce 6). Provincie leží na šíji Kra, kde je od Andamanského moře k Thajskému zálivu jen asi 44 km. Za řekou je Myanmar a protější město Kawthaung se dřív jmenovalo Victoria Point. Dřív se tu těžil cín (většina dolů je vytěžená) a bílý jíl na porcelán, dnes se žije z rybolovu, kaučuku a kešu. Pobřeží lemují rozsáhlé mangrovy a Ranong je od roku 1997 biosférická rezervace UNESCO, čtvrtá v Thajsku a jediná pobřežní. Koh Phayam je druhý největší ostrov provincie (kolem 35 km²) a tvoří spolu s okolními ostrovy národní park Mu Ko Phayam z roku 2003. Hlavní plodinou je kešu. Ořech roste zvenčí na konci šťavnatého plodu, kešu jablka, a surová skořápka dráždí kůži, proto se ořechy před jídlem pečou. V březnu se tu koná slavnost sklizně. Ostrov má pověst klidného útočiště bohémů, žijí na něm i Moken, námořní kočovníci, a po ostrově jezdí hlavně motorky.
+Ranong je nejméně lidnatá provincie Thajska a zároveň jedna z nejdeštivějších, přezdívá se jí Město osmi měsíců deště a čtyř měsíců slunce. Pohoří za městem zastavuje monzun od Andamanského moře. Zdroje uvádějí různé roční úhrny, od zhruba 2 500 do více než 4 000 mm, a rekordní rok 1955 prý přes 6 600 mm. Prosinec je podle klimatických údajů mnohem sušší než říjen a listopad (viz sekce Počasí, teploty a deště). Provincie leží na šíji Kra, kde je od Andamanského moře k Thajskému zálivu jen asi 44 km. Za řekou je Myanmar a protější město Kawthaung se dřív jmenovalo Victoria Point. Dřív se tu těžil cín (většina dolů je vytěžená) a bílý jíl na porcelán, dnes se žije z rybolovu, kaučuku a kešu. Pobřeží lemují rozsáhlé mangrovy a Ranong je od roku 1997 biosférická rezervace UNESCO, čtvrtá v Thajsku a jediná pobřežní. Koh Phayam je druhý největší ostrov provincie (kolem 35 km²) a tvoří spolu s okolními ostrovy národní park Mu Ko Phayam z roku 2003. Hlavní plodinou je kešu. Ořech roste zvenčí na konci šťavnatého plodu, kešu jablka, a surová skořápka dráždí kůži, proto se ořechy před jídlem pečou. V březnu se tu koná slavnost sklizně. Ostrov má pověst klidného útočiště bohémů, žijí na něm i Moken, námořní kočovníci, a po ostrově jezdí hlavně motorky.
 
 ### Khao Sok: les starší než Amazonie a jezero z přehrady (fáze 5)
 
