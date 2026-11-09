@@ -68,16 +68,20 @@ def bust(v):
 
 
 def zkontroluj_kam(v: dict, md: str) -> None:
-    """Od v51 jsou sekce bez čísel a hlavicka.kam je klíčované názvem sekce (část nadpisu ## před dvojtečkou nebo závorkou).
+    """Od v51 jsou sekce bez čísel a hlavicka.kam je klíčované názvem sekce (část nadpisu ## před dvojtečkou nebo závorkou,
+    u sekcí se společným začátkem celý nadpis bez závorky).
     Název, který v kam chybí, by web tiše zařadil do záložky Na místě, proto build v takovém případě spadne."""
     kam = v["hlavicka"].get("kam")
     if not kam or any(k.isdigit() for k in kam):
         return  # starší verze: klíčem je číslo sekce z nadpisu
-    nazvy = []
+    nadpisy = []
     for blok in re.split(r"(?m)^(?=## )", md):
         if not blok.startswith("## ") or re.search(r"(?m)^### Fáze \d+:", blok):
             continue  # úvod souboru a itinerář (pozná se podle nadpisů fází) do kam nepatří
-        nazvy.append(re.split(r"[:(]", blok.split("\n", 1)[0][3:])[0].strip())
+        nadpisy.append(blok.split("\n", 1)[0][3:].strip())
+    # stejný začátek před dvojtečkou (Místa na trase: Bangkok, Místa na trase: Krabi) = názvem je celý nadpis bez závorky
+    zacatky = [re.split(r"[:(]", n)[0].strip() for n in nadpisy]
+    nazvy = [n.split("(")[0].strip() if zacatky.count(z) > 1 else z for n, z in zip(nadpisy, zacatky)]
     chybi = [n for n in nazvy if n not in kam]
     navic = [k for k in kam if k not in nazvy]
     if chybi or navic:
