@@ -10,8 +10,8 @@ Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa
 
 ## Aktuální stav (aktualizuj při každé nové verzi)
 
-- Poslední verze: **v47** (9. 11. 2026), zdroj `verze/v47/thajsko-bangkok-phuket.md`.
-- Archiv: `verze/v1` až `verze/v46`, neměnit.
+- Poslední verze: **v48** (9. 11. 2026), zdroj `verze/v48/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v47`, neměnit.
 - Sekce 0 až 17, itinerář je sekce 5. Záložky webu: Před cestou, Itinerář, Ubytování, termíny (od v45, sekce 17, v liště ve dvou řádcích pod sebou), Zajímavosti (od v46, sekce 1, 2 a 12), Na místě (od v46 sekce 3, 4, 7, 9, 10 a 15), Verze. Na telefonu se šest záložek zalomí do dvou řádků (pět nahoře, Verze pod nimi, dvouslovné názvy ve dvou řádcích, od v47). Rozřazení sekcí do záložek je v `hlavicka.kam` poslední verze.
 - Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 4 (8.–12. 12.), Krabi 2 (12.–14. 12.), Koh Yao Noi 4 (14.–18. 12.), Phuket, Nai Yang 1 (18.–19. 12.).
 - Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
@@ -63,8 +63,9 @@ Záložky webu jsou v poli `SEKCE` v `src/sablona.html`. Záložka Ubytování, 
 
 ## Co je rozpracované
 
-Stav k v47. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
+Stav k v48. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
 
+- Fáze 1: blok Doprava po Bangkoku (metro modrou linkou, Airport Rail Link, lodě, Grab, čím pojedete po dnech) je podle zdrojů z listopadu 2026: bezkontaktní karta v metru platí od 1. 6. 2026, jednorázové žetony se mají od 1. 1. 2027 nahradit QR, ceny expresních lodí se v roce 2026 měnily. Na místě ověřit, jestli karta v turniketu projde, jinak hotovost na žeton.
 - Fáze 5: noc na jezeře Cheow Lan (balíček, konkrétní raft house, nebo jen jednodenní výlet). Rezervace bungalovu je jeden ze dvou pevných bodů.
 - Fáze 5: čtyřkolky v Khao Sok (Khao sok ATV Adventure): cena (1 500 THB řidič, 2 200 THB dva na jedné čtyřkolce) a odvoz z ubytování zdarma potvrdil provozovatel 3. 11., den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - Fáze 5: sloní útočiště Khao Sok Elephant Sanctuary (volitelně, nerezervováno). Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo. Phuket Elephant Sanctuary u Paklok je ve fázi 8 jen jako druhá možnost po sloní lávce Observe v Sakhu.
