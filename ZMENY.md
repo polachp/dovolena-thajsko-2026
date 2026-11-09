@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v45: Záložka Ubytování, termíny: zrušení zdarma (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v45/) · [Markdown](verze/v45/thajsko-bangkok-phuket.md) · [rozdíl proti v44](https://github.com/polachp/dovolena-thajsko-2026/compare/dbfa958...750b02c)
+
+- Nová hlavní záložka Ubytování, termíny (název ve dvou řádcích pod sebou) mezi Itinerářem a Na místě se sekcí 17 Do kdy zrušit ubytování zdarma. Tabulka termínů zrušení zdarma (thajský i český čas) je přesunutá z konce sekce 11.
+- Sekce 0 a 11: odkazy na tabulku míří na záložku Ubytování, termíny.
+- Web: záložka se ukazuje jen ve verzích, které ji mají, a otevře tabulku rovnou.
+- Počet fází (8) a noci (22) jsou beze změny.
+
 ## v44: Ubytování: termíny zrušení zdarma na jednom místě (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v44/) · [Markdown](verze/v44/thajsko-bangkok-phuket.md) · [rozdíl proti v43](https://github.com/polachp/dovolena-thajsko-2026/compare/5094190...dbfa958)

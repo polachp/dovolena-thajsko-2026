@@ -17,7 +17,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
 - **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
 - **Fáze 8 (Nai Yang):** program je nabídka možností, nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
-- **Ubytování:** Všechny noci jsou rezervované kromě 10.–12. 12. v Khao Sok, které se řeší na místě. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v sekci 11 (Do kdy zrušit ubytování zdarma).
+- **Ubytování:** Všechny noci jsou rezervované kromě 10.–12. 12. v Khao Sok, které se řeší na místě. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny (sekce 17).
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci 11.
 
@@ -699,7 +699,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
 - **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce 16). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
-- **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce Do kdy zrušit ubytování zdarma níže. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci 0.
+- **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny (sekce 17). Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci 0.
 - **Vlak č. 43 a auto:** Jízdenky na 30. 11. do Hua Hin a 3. 12. do Prachuap kupte hned, jak se začnou prodávat (od asi 31. 10.). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
 - **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce 13).
@@ -717,24 +717,6 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce 16) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
-
-### Do kdy zrušit ubytování zdarma
-
-Ubytování je seřazené podle pořadí na cestě. Časy jsou thajské i české, v Thajsku je o 6 hodin víc než v Česku (v Česku platí zimní čas). U ubytování označených jako dvojí rezervace je potřeba zrušit jedno z dvojice, viz sekce 0.
-
-| Noci | Ubytování | Zrušit zdarma do (Thajsko) | Totéž v Česku |
-|---|---|---|---|
-| 27.–30. 11. | Ti Thong Hostel, Bangkok (Agoda) | ne 22. 11., 23:59 | ne 22. 11., 17:59 |
-| 30. 11.–3. 12. | Sam Roi Yot Sea Sight Resort (Agoda) | so 28. 11., 23:59 | so 28. 11., 17:59 |
-| 3.–4. 12. | Jungle Cafe and Guesthouse, Prachuap (Agoda) | ne 29. 11., 23:59 | ne 29. 11., 17:59 |
-| 4.–5. 12. | Tobedzz Hotel, Ranong (Agoda) | st 2. 12., 23:59 | st 2. 12., 17:59 |
-| 5.–8. 12. | Flower Power Village, Koh Phayam (Agoda) | pá 27. 11., 23:59 | pá 27. 11., 17:59 |
-| 8.–9. 12. | Flora Hostel KhaoSok (Booking.com), dvojí rezervace | út 8. 12., 18:00 | út 8. 12., 12:00 |
-| 8.–10. 12. | Bingo Hostel Khao Sok (Booking.com), dvojí rezervace | ne 6. 12., 23:59 | ne 6. 12., 17:59 |
-| 12.–14. 12. | Vacation House, Krabi (Booking.com) | pá 4. 12., 23:59 | pá 4. 12., 17:59 |
-| 14.–18. 12. | Pyramid Bungalow, Koh Yao Noi (Booking.com), dvojí rezervace | ne 6. 12., 23:59 | ne 6. 12., 17:59 |
-| 14.–18. 12. | Tabeak View Point, Koh Yao Noi (Booking.com), dvojí rezervace | po 14. 12., 18:00 | po 14. 12., 12:00 |
-| 18.–19. 12. | Wattana Bungalow, Nai Yang (Booking.com) | st 16. 12., 23:59 | st 16. 12., 17:59 |
 
 ## 12. Šnorchlování pro úplné začátečníky a noční safari
 
@@ -995,4 +977,22 @@ Etihad výraz partial refund na svých stránkách nepoužívá. U tarifu Comfor
 - **Od 24. 11.:** Vyplňte TDAC (sekce 11).
 - **Zhruba 25. 11. (30 hodin před odletem):** Online odbavení a palubní vstupenky do telefonu.
 - **Doma:** Zvažte zavazadla (30 kg na osobu, jeden kus nejvýš 32 kg), příruční zavazadlo do 7 kg a powerbanky dejte do příručního zavazadla.
+
+## 17. Do kdy zrušit ubytování zdarma
+
+Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko ukazují, do kdy jde ubytování zrušit zdarma, v thajském a v českém čase (v Thajsku je o 6 hodin víc, v Česku platí zimní čas). U ubytování označených jako dvojí rezervace je potřeba zrušit jedno z dvojice, viz sekce 0.
+
+| Ubytování (noci) | Thajsko | Česko |
+|---|---|---|
+| Ti Thong Hostel, Bangkok (Agoda)<br>27.–30. 11. | ne&nbsp;22.&nbsp;11.<br>23:59 | ne&nbsp;22.&nbsp;11.<br>17:59 |
+| Sam Roi Yot Sea Sight Resort (Agoda)<br>30. 11.–3. 12. | so&nbsp;28.&nbsp;11.<br>23:59 | so&nbsp;28.&nbsp;11.<br>17:59 |
+| Jungle Cafe and Guesthouse, Prachuap (Agoda)<br>3.–4. 12. | ne&nbsp;29.&nbsp;11.<br>23:59 | ne&nbsp;29.&nbsp;11.<br>17:59 |
+| Tobedzz Hotel, Ranong (Agoda)<br>4.–5. 12. | st&nbsp;2.&nbsp;12.<br>23:59 | st&nbsp;2.&nbsp;12.<br>17:59 |
+| Flower Power Village, Koh Phayam (Agoda)<br>5.–8. 12. | pá&nbsp;27.&nbsp;11.<br>23:59 | pá&nbsp;27.&nbsp;11.<br>17:59 |
+| Flora Hostel KhaoSok (Booking.com)<br>8.–9. 12., dvojí rezervace | út&nbsp;8.&nbsp;12.<br>18:00 | út&nbsp;8.&nbsp;12.<br>12:00 |
+| Bingo Hostel Khao Sok (Booking.com)<br>8.–10. 12., dvojí rezervace | ne&nbsp;6.&nbsp;12.<br>23:59 | ne&nbsp;6.&nbsp;12.<br>17:59 |
+| Vacation House, Krabi (Booking.com)<br>12.–14. 12. | pá&nbsp;4.&nbsp;12.<br>23:59 | pá&nbsp;4.&nbsp;12.<br>17:59 |
+| Pyramid Bungalow, Koh Yao Noi (Booking.com)<br>14.–18. 12., dvojí rezervace | ne&nbsp;6.&nbsp;12.<br>23:59 | ne&nbsp;6.&nbsp;12.<br>17:59 |
+| Tabeak View Point, Koh Yao Noi (Booking.com)<br>14.–18. 12., dvojí rezervace | po&nbsp;14.&nbsp;12.<br>18:00 | po&nbsp;14.&nbsp;12.<br>12:00 |
+| Wattana Bungalow, Nai Yang (Booking.com)<br>18.–19. 12. | st&nbsp;16.&nbsp;12.<br>23:59 | st&nbsp;16.&nbsp;12.<br>17:59 |
 `;

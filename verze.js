@@ -564,5 +564,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "dbfa958",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v45",
+    "datum": "9. 11. 2026",
+    "nazev": "Záložka Ubytování, termíny: zrušení zdarma",
+    "zmeny": [
+      "Nová hlavní záložka Ubytování, termíny (název ve dvou řádcích pod sebou) mezi Itinerářem a Na místě se sekcí 17 Do kdy zrušit ubytování zdarma. Tabulka termínů zrušení zdarma (thajský i český čas) je přesunutá z konce sekce 11.",
+      "Sekce 0 a 11: odkazy na tabulku míří na záložku Ubytování, termíny.",
+      "Web: záložka se ukazuje jen ve verzích, které ji mají, a otevře tabulku rovnou.",
+      "Počet fází (8) a noci (22) jsou beze změny."
+    ],
+    "commit": "750b02c",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

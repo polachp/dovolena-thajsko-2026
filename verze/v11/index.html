@@ -56,6 +56,7 @@ details.hdr[open]>summary::after{content:" −"}
 .tabs .wrap::-webkit-scrollbar{display:none}
 .tabs button{flex:0 0 auto;font-family:var(--display);font-weight:600;font-size:15px;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:12px 10px;cursor:pointer;min-height:46px;white-space:nowrap}
 .tabs button[aria-current="true"]{color:var(--accent);border-bottom-color:var(--accent)}
+.tabs button.dva{line-height:1.15;padding-top:6px;padding-bottom:6px;text-align:center}
 
 /* pruh fazi (jen na rozcestniku itineráře) */
 .route{padding-block:14px;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none}
@@ -221,6 +222,7 @@ footer a{color:var(--accent)}
   var SEKCE=[
     {id:'pred',  nazev:'Před cestou', popis:'Co zařídit, kolik to stojí, co čekat od počasí a od letu.'},
     {id:'itin',  nazev:'Itinerář',    popis:'Přehled trasy a jednotlivé fáze. Klepnutím otevřete detail fáze.'},
+    {id:'terminy', nazev:'Ubytování: termíny', radky:['Ubytování','termíny'], popis:'Do kdy jde které ubytování zrušit zdarma.', primo:true, volitelna:true},
     {id:'misto', nazev:'Na místě',    popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.'},
     {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.'}
   ];
@@ -334,8 +336,10 @@ footer a{color:var(--accent)}
   // ---- vykresleni ----
   var tabs=document.getElementById('tabs'), rail=document.getElementById('rail'), route=document.getElementById('route');
   SEKCE.forEach(function(s){
+    if(s.volitelna&&!vSekci(s.id).length) return; // záložka bez stránek (starší verze) se neukazuje
     var b=document.createElement('button');
-    b.type='button'; b.textContent=s.nazev; b.dataset.top=s.id;
+    b.type='button'; b.dataset.top=s.id;
+    if(s.radky){b.innerHTML=s.radky.map(esc).join('<br>'); b.classList.add('dva')} else b.textContent=s.nazev;
     b.addEventListener('click',function(){jdi(s.id,null)});
     tabs.appendChild(b);
   });
@@ -362,7 +366,7 @@ footer a{color:var(--accent)}
     if(s.id==='co-je-v-teto-verzi-nove-a-co-se-jeste-doresi'||/^0\./.test(s.uzly[0].textContent||'')) art.className='term';
     var cr=document.createElement('div'); cr.className='crumbs';
     cr.innerHTML='<a href="#/'+s.top+'">'+esc(sek.nazev)+'</a><span>›</span><span>'+esc(s.kratky)+'</span>';
-    main.appendChild(cr);
+    if(!sek.primo) main.appendChild(cr);
     s.uzly.forEach(function(n){art.appendChild(n)});
     var h2=art.querySelector('h2,h3');
     if(h2&&h2.dataset&&h2.dataset.faze){
@@ -375,7 +379,7 @@ footer a{color:var(--accent)}
     if(i>0) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i-1].id+'"><span class="k">Předchozí</span>'+esc(titulek(polozky[i-1]))+'</a>');
     if(i<polozky.length-1) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i+1].id+'"><span class="k">Další</span>'+esc(titulek(polozky[i+1]))+'</a>');
     pn.insertAdjacentHTML('beforeend','<a href="#/'+s.top+'"><span class="k">Zpět na</span>'+esc(sek.nazev)+'</a>');
-    main.appendChild(pn);
+    if(!sek.primo) main.appendChild(pn);
     vylepsi(art);
   }
   function vylepsi(kam){
@@ -406,6 +410,8 @@ footer a{color:var(--accent)}
     Array.prototype.forEach.call(tabs.children,function(b){b.setAttribute('aria-current',String(b.dataset.top===stav.top))});
   }
   function jdi(top,pageId,kotva,bezHash){
+    var sk=SEKCE.filter(function(x){return x.id===top})[0];
+    if(!pageId&&sk&&sk.primo){var pp=vSekci(top); if(pp.length===1) pageId=pp[0].id;} // záložka s jedinou stránkou ji otevře rovnou
     stav.top=top; stav.page=pageId;
     if(pageId&&podleId[pageId]) stranka(podleId[pageId]); else rozcestnik(top);
     lista();
