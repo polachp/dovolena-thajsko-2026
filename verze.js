@@ -490,5 +490,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "abf2a2f",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v39",
+    "datum": "9. 11. 2026",
+    "nazev": "Ubytování: bez recenzí, hodnocení a rozpisů cen",
+    "zmeny": [
+      "Smazané recenze a hodnocení ubytování: Pyramid Bungalow (fáze 7, věta Recenze, atmosféra podle recenzí, zdroj u půjčení skútru, řádek v rozpočtu), Wattana Bungalow (fáze 8, hodnocení 9,2 z 10) a Maikhao Beach Guest House (hodnocení 9,4 z 10).",
+      "Smazané rozpisy ceny po položkách u Vacation House (fáze 6) a Wattana Bungalow (fáze 8). Celkové ceny a podmínky zrušení zůstávají.",
+      "Počet fází (8), noci (22) a rozpočet jsou beze změny."
+    ],
+    "commit": "c2b5df2",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

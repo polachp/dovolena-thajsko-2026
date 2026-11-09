@@ -418,7 +418,7 @@ Skútr se půjčuje v Ao Nang, kde je půjčoven hodně, od 150 do 400 THB za de
 
 #### Ubytování
 
-[Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi), 49/1 Moo 3, Tambol Nongthalay, Krabi 81000 (Klong Muang pláž), tel. +66 89 971 1883. 12.–14. 12. (2 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, dvoulůžkový pokoj Standard s manželskou postelí. Příjezd v sobotu 12. 12. mezi 14:00 a 22:00, odjezd v pondělí 14. 12. mezi 7:00 a 12:00. Cena 2 340 THB za 2 noci (pokoj 1 988,11 THB, DPH 139,17 THB, poplatek za služby 212,73 THB), asi 1 520 Kč. Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku 4. 12. v 17:59), od 5. 12. 0:00 poplatek 2 340 THB, tedy 100 % ceny, stejně jako při nedostavení se. Booking.com strhne částku z karty automaticky, kdy přesně, neověřeno. Číslo rezervace a PIN jsou v potvrzovacím e-mailu. Malý penzion o 5 pokojích s klimatizací, u pláže Klong Muang (podle Trip.com do 100 m), asi 5 minut autem od pláže Tubkaek a asi 11 km od Ao Nang. Parkování zdarma.
+[Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi), 49/1 Moo 3, Tambol Nongthalay, Krabi 81000 (Klong Muang pláž), tel. +66 89 971 1883. 12.–14. 12. (2 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, dvoulůžkový pokoj Standard s manželskou postelí. Příjezd v sobotu 12. 12. mezi 14:00 a 22:00, odjezd v pondělí 14. 12. mezi 7:00 a 12:00. Cena 2 340 THB za 2 noci, asi 1 520 Kč. Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku 4. 12. v 17:59), od 5. 12. 0:00 poplatek 2 340 THB, tedy 100 % ceny, stejně jako při nedostavení se. Booking.com strhne částku z karty automaticky, kdy přesně, neověřeno. Číslo rezervace a PIN jsou v potvrzovacím e-mailu. Malý penzion o 5 pokojích s klimatizací, u pláže Klong Muang (podle Trip.com do 100 m), asi 5 minut autem od pláže Tubkaek a asi 11 km od Ao Nang. Parkování zdarma.
 
 #### Přesun dál
 
@@ -460,7 +460,7 @@ Longtailem z ostrova na celý den: vyhlídka (Hong Island View Point podle Googl
 
 #### Po ostrově: skútr, rýžová pole a rybářské vesnice
 
-Kolo asi 200 THB na den, skútr 250–350 THB na den, songthaew 100–200 THB za osobu a jízdu. Veřejná doprava tu není. Skútr půjčuje podle recenzí i hostitelka v Pyramid Bungalow (asi 200–250 THB na den, neověřeno).
+Kolo asi 200 THB na den, skútr 250–350 THB na den, songthaew 100–200 THB za osobu a jízdu. Veřejná doprava tu není. Skútr půjčuje i hostitelka v Pyramid Bungalow (asi 200–250 THB na den, neověřeno).
 
 - **Rýžová pole:** na západě uprostřed ostrova. Restaurace NAMM NATAWN stojí přímo v polích (podle Google Maps denně 10:30–18:30). Kavárna Viewpoint on Ricefields and Ocean má vyhlídkové plošiny nad poli a je dobrá na pozorování ptáků (podle Google Maps 10:00–19:30, ve středu zavřeno, tedy ne 16. 12.). Otevírací doby jsou neověřené.
 - **Rybářské vesnice na západě:** Tha Ton Do s molem u mangrovů, rybářskými loděmi a domy na kůlech. Podle zdrojů tam je západ slunce a ryby k večeři u mola. Od ubytování asi 5 km vzdušnou čarou, odhadem 15 minut skútrem. Rýžová pole a Tha Ton Do leží vedle sebe v rozmezí asi 2 km, takže se dají projet jednou trasou. Při odlivu bývají mangrovy blátivé, vyrazte kolem přílivu. Které restaurace u mola fungují v prosinci, neověřeno.
@@ -484,7 +484,7 @@ Koupat se dá hlavně při přílivu, při odlivu se odhalí široké plochy dna
 
 Rezervováno: **Pyramid Bungalow** (Booking.com), 4 noci 14.–18. 12., dvoulůžkový pokoj s manželskou postelí a terasou, s klimatizací (podle Anežky). Cena celkem 5 151 THB (asi 1 290 THB za noc, asi 3 350 Kč). Check-in 14:30–18:30, check-out 5:00–11:00. Telefon +66 95 850 3349. Zrušit zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), pozdní zrušení stojí 5 200 THB.
 
-Poloha: východní pobřeží mezi Pasai a Klong Jark, u vody, restaurace a obchůdek do 2 minut pěšky, k pláži Pasai asi 700 m. Pasai je nejživější část ostrova, u Pyramidu je podle recenzí místní atmosféra a málo turistů, v prosinci (vysoká sezóna) může být plněji. Hlasitý hmyz v noci. Na večeři je asi 300 m od ubytování restaurace Rice Paddy (podle Google Maps 4,6 z 796 hodnocení, otevřeno úterý až neděle 12:00–22:00, v pondělí zavřeno, neověřeno). Recenze (neověřeno pro naši rezervaci): bungalovy hned u vody, ochotná hostitelka, jednoduché, ale čisté pokoje.
+Poloha: východní pobřeží mezi Pasai a Klong Jark, u vody, restaurace a obchůdek do 2 minut pěšky, k pláži Pasai asi 700 m. Pasai je nejživější část ostrova, v prosinci (vysoká sezóna) může být plněji. Hlasitý hmyz v noci. Na večeři je asi 300 m od ubytování restaurace Rice Paddy (podle Google Maps 4,6 z 796 hodnocení, otevřeno úterý až neděle 12:00–22:00, v pondělí zavřeno, neověřeno).
 
 Druhá rezervace na stejné noci: **Tabeak View Point** (Booking.com), pokoj s oddělenými postelemi bez klimatizace, na svahu u Pasai s výhledem, 4 400 THB celkem. Zrušit zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00), pozdní zrušení stojí 1 100 THB. Jedno ze dvou ubytování je potřeba zrušit, rozhodnout nejpozději do 6. 12. v 17:59 českého času, protože Pyramid vyprší dřív.
 
@@ -584,11 +584,11 @@ Na letiště dorazit aspoň 3 hodiny před odletem, tedy asi v 18:00 (doporučen
 
 #### Ubytování
 
-Rezervováno: **Wattana Bungalow** (Booking.com), 1 noc 18.–19. 12., dvoulůžkový pokoj Standard s manželskou postelí nebo oddělenými postelemi. Cena asi 1 700 THB podle poplatku za zrušení, který je 100 % ceny (pokoj 1 432,18 THB plus DPH 100,25 THB, další položky na potvrzení vidět nebyly), asi 1 100 Kč. Check-in od 14:00, check-out do 12:00. Adresa: 92/3 Moo 5, T. Saku, A. Thalang, Phuket 83110 (Nai Yang pláž). Telefon +66 89 588 9165. Zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), od 17. 12. se platí celá cena 1 700 THB.
+Rezervováno: **Wattana Bungalow** (Booking.com), 1 noc 18.–19. 12., dvoulůžkový pokoj Standard s manželskou postelí nebo oddělenými postelemi. Cena asi 1 700 THB podle poplatku za zrušení, který je 100 % ceny, asi 1 100 Kč. Check-in od 14:00, check-out do 12:00. Adresa: 92/3 Moo 5, T. Saku, A. Thalang, Phuket 83110 (Nai Yang pláž). Telefon +66 89 588 9165. Zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), od 17. 12. se platí celá cena 1 700 THB.
 
-Podle inzerátu (Trip.com, neověřeno): sedm pokojů s klimatizací, recepce 24 hodin, úschova zavazadel, snídaně není, bar a obchůdek, odvoz na letiště hostitel nenabízí. Hodnocení 9,2 z 10 (Booking.com, na Trip.com ze 204 recenzí). Neověřeno: vzdálenost k pláži a k trhu.
+Podle inzerátu (Trip.com, neověřeno): sedm pokojů s klimatizací, recepce 24 hodin, úschova zavazadel, snídaně není, bar a obchůdek, odvoz na letiště hostitel nenabízí. Neověřeno: vzdálenost k pláži a k trhu.
 
-Riziko: zrušit zdarma jde jen do 16. 12., přitom lístek na loď se kupuje kolem 15. až 16. 12. podle předpovědi moře. Kdyby lodě 18. 12. nejely a jelo se až 19. 12., noc by propadla. Zvažované alternativy, které nejsou rezervované: Maikhao Beach Guest House (Mai Khao, u pláže s letadly, 9,4 z 10) a Suwita House (Nai Yang).
+Riziko: zrušit zdarma jde jen do 16. 12., přitom lístek na loď se kupuje kolem 15. až 16. 12. podle předpovědi moře. Kdyby lodě 18. 12. nejely a jelo se až 19. 12., noc by propadla. Zvažované alternativy, které nejsou rezervované: Maikhao Beach Guest House (Mai Khao, u pláže s letadly) a Suwita House (Nai Yang).
 
 #### Mapy
 
@@ -840,7 +840,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Dragon Crest | 200 THB na osobu | jen hotově |
 | Tha Pom Klong Song Nam (Krabi, volitelně) | vstup 50 THB na osobu | skútr nebo taxi z Krabi Town, mimo plán od v21 (varianty) |
 | Railay (volitelně) | 100 THB na osobu jedním směrem | loď z Ao Nang, lístek v kiosku, mimo plán od v21 (varianty) |
-| Koh Yao Noi: kolo, skútr, songthaew | asi 200 THB, 250–350 THB za den, 100–200 THB za jízdu | u Pyramid Bungalow podle recenzí asi 200–250 THB (neověřeno) |
+| Koh Yao Noi: kolo, skútr, songthaew | asi 200 THB, 250–350 THB za den, 100–200 THB za jízdu | u Pyramid Bungalow asi 200–250 THB (neověřeno) |
 | Půldenní šnorchlovací výlet | pod 2 000 THB na osobu | včetně masky, šnorchlu a ploutví |
 | Etické sloní útočiště (volitelně) | 50–80 USD na osobu | typické rozpětí půldenního programu, mimo plán od v21 (varianty) |
 | Phuket: taxi z mola Bang Rong do Nai Yang | 13–16 USD za auto | Rome2rio, neověřeno, Grab nebo Bolt u mola neověřené |

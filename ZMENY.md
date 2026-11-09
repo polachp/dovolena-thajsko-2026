@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v39: Ubytování: bez recenzí, hodnocení a rozpisů cen (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v39/) · [Markdown](verze/v39/thajsko-bangkok-phuket.md) · [rozdíl proti v38](https://github.com/polachp/dovolena-thajsko-2026/compare/abf2a2f...c2b5df2)
+
+- Smazané recenze a hodnocení ubytování: Pyramid Bungalow (fáze 7, věta Recenze, atmosféra podle recenzí, zdroj u půjčení skútru, řádek v rozpočtu), Wattana Bungalow (fáze 8, hodnocení 9,2 z 10) a Maikhao Beach Guest House (hodnocení 9,4 z 10).
+- Smazané rozpisy ceny po položkách u Vacation House (fáze 6) a Wattana Bungalow (fáze 8). Celkové ceny a podmínky zrušení zůstávají.
+- Počet fází (8), noci (22) a rozpočet jsou beze změny.
+
 ## v38: Krabi: bez shrnutí recenzí Vacation House (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v38/) · [Markdown](verze/v38/thajsko-bangkok-phuket.md) · [rozdíl proti v37](https://github.com/polachp/dovolena-thajsko-2026/compare/2cbcab2...abf2a2f)
