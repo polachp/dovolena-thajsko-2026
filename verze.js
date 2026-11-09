@@ -577,5 +577,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "750b02c",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v46",
+    "datum": "9. 11. 2026",
+    "nazev": "Záložka Na místě rozdělená na Zajímavosti a Na místě",
+    "zmeny": [
+      "Web: záložka Na místě je rozdělená na dvě. Nová záložka Zajímavosti drží sekce 1 (Úvod do Thajska), 2 (Zvířata na trase) a 12 (Šnorchlování a noční safari), záložka Na místě drží sekce 3 (Záchytné body pro Google Maps), 4 (Doprava), 7 (Jídlo), 9 (Etiketa), 10 (Praktické travel hacky) a 15 (Slovníček).",
+      "Pořadí záložek: Před cestou, Itinerář, Ubytování / termíny, Zajímavosti, Na místě, Verze.",
+      "Text itineráře se nemění, počet fází (8) a noci (22) jsou beze změny."
+    ],
+    "commit": "53b052f",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

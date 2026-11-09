@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v46: Záložka Na místě rozdělená na Zajímavosti a Na místě (9. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v46/) · [Markdown](verze/v46/thajsko-bangkok-phuket.md) · [rozdíl proti v45](https://github.com/polachp/dovolena-thajsko-2026/compare/750b02c...53b052f)
+
+- Web: záložka Na místě je rozdělená na dvě. Nová záložka Zajímavosti drží sekce 1 (Úvod do Thajska), 2 (Zvířata na trase) a 12 (Šnorchlování a noční safari), záložka Na místě drží sekce 3 (Záchytné body pro Google Maps), 4 (Doprava), 7 (Jídlo), 9 (Etiketa), 10 (Praktické travel hacky) a 15 (Slovníček).
+- Pořadí záložek: Před cestou, Itinerář, Ubytování / termíny, Zajímavosti, Na místě, Verze.
+- Text itineráře se nemění, počet fází (8) a noci (22) jsou beze změny.
+
 ## v45: Záložka Ubytování, termíny: zrušení zdarma (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v45/) · [Markdown](verze/v45/thajsko-bangkok-phuket.md) · [rozdíl proti v44](https://github.com/polachp/dovolena-thajsko-2026/compare/dbfa958...750b02c)
