@@ -4691,5 +4691,109 @@
       }
     },
     "commit": "0a125c8"
+  },
+  {
+    "id": "v50",
+    "datum": "9. 11. 2026",
+    "nazev": "Zajímavosti: povídání o místech a víc o zvířatech",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Nová sekce 18 Místa na trase: povídání do letadla, v záložce Zajímavosti. Ke každé z 8 fází je tam povídání o místě (jména, příroda, dějiny, proč je něco národní park), ne seznam toho, co kde uvidíte.",
+      "Sekce 2 Zvířata na trase: devět nových položek (varani v Bangkoku a na mokřadu, ptáci a serau v Sam Roi Yot, gaurové v Kui Buri, Koh Phayam, Rafflesia a velcí savci Khao Sok, brodiví ptáci na Koh Yao Noi, želvy v Nai Yang, gekoni) a doplněná úvodní věta.",
+      "Sekce 1 Úvod do Thajska: čtyři nová krátká čtení (proč se Siam stal Thajskem, 5. prosince, sloni v dějinách, přezdívky a pět tónů).",
+      "Co se nepodařilo ověřit, je v textu označené jako neověřené (například zvláštnosti kolem Thalangu, názvu Phuket a přejmenování parku Sirinat). U věcí, kde se zdroje rozcházejí, jsou uvedené oba údaje.",
+      "Záložka Zajímavosti: v hlavicka.kam patří do ní i sekce 18."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket, Nai Yang"
+        ]
+      ],
+      "kam": {
+        "0": "pred",
+        "6": "pred",
+        "8": "pred",
+        "11": "pred",
+        "13": "pred",
+        "14": "pred",
+        "16": "pred",
+        "1": "zajimavosti",
+        "2": "zajimavosti",
+        "3": "misto",
+        "4": "misto",
+        "7": "misto",
+        "9": "misto",
+        "10": "misto",
+        "12": "zajimavosti",
+        "15": "misto",
+        "17": "terminy",
+        "18": "zajimavosti"
+      }
+    },
+    "commit": ""
   }
 ]

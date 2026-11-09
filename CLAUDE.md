@@ -10,9 +10,9 @@ Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa
 
 ## Aktuální stav (aktualizuj při každé nové verzi)
 
-- Poslední verze: **v49** (9. 11. 2026), zdroj `verze/v49/thajsko-bangkok-phuket.md`.
-- Archiv: `verze/v1` až `verze/v48`, neměnit.
-- Sekce 0 až 17, itinerář je sekce 5. Záložky webu: Před cestou, Itinerář, Ubytování, termíny (od v45, sekce 17, v liště ve dvou řádcích pod sebou), Zajímavosti (od v46, sekce 1, 2 a 12), Na místě (od v46 sekce 3, 4, 7, 9, 10 a 15), Verze. Na telefonu se šest záložek zalomí do dvou řádků (pět nahoře, Verze pod nimi, dvouslovné názvy ve dvou řádcích, od v47). Rozřazení sekcí do záložek je v `hlavicka.kam` poslední verze.
+- Poslední verze: **v50** (9. 11. 2026), zdroj `verze/v50/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v49`, neměnit.
+- Sekce 0 až 18, itinerář je sekce 5. Záložky webu: Před cestou, Itinerář, Ubytování, termíny (od v45, sekce 17, v liště ve dvou řádcích pod sebou), Zajímavosti (od v46, sekce 1, 2 a 12, od v50 také 18), Na místě (od v46 sekce 3, 4, 7, 9, 10 a 15), Verze. Na telefonu se šest záložek zalomí do dvou řádků (pět nahoře, Verze pod nimi, dvouslovné názvy ve dvou řádcích, od v47). Rozřazení sekcí do záložek je v `hlavicka.kam` poslední verze.
 - Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 4 (8.–12. 12.), Krabi 2 (12.–14. 12.), Koh Yao Noi 4 (14.–18. 12.), Phuket, Nai Yang 1 (18.–19. 12.).
 - Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
 - Vyřazené varianty: Ban Krut (zůstává ve v3), Khao Lak (soubor `varianty/khao-lak.md`, původně fáze 6 ve v3 až v12), další místa v Krabi (soubor `varianty/krabi-dalsi-mista.md`, vyřazená ve v21 kvůli 2 nocím: kajaky v Ao Thalane, Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště), Phuket Town jako poslední noc (soubor `varianty/phuket-town.md`, původní fáze 8 ve v29, nahrazená vesnicí Nai Yang ve v30), Fun Friday na Boat Avenue a suvenýry na Phuketu (soubor `varianty/phuket-fun-friday-suvenyry.md`, vyřazené ve v31), vodopád Ngao u Ranongu (soubor `varianty/vodopad-ngao.md`, volitelná zastávka fáze 4, vyřazená ve v33), raft housy Praiwan a Keereewarin na jezeře Cheow Lan (soubor `varianty/raft-housy-cheow-lan.md`, odrážka bloku Noc na jezeře ve fázi 5, vyřazená ve v37).
@@ -51,7 +51,7 @@ Build připojuje za `verze.js` a `thajsko-obsah.js` v každém `index.html` otis
 
 - Česky, věcně, bez marketingového tónu.
 - Bez emoji. Bez pomlčky `—` a `–` mimo číselné rozsahy (2020–2024), místo nich čárka, dvojtečka, závorka nebo dvě věty.
-- Struktura sekcí je zavedená (číslované `##` sekce 0 až 17), drž ji. Novou sekci zakládej jen když se obsah opravdu nevejde jinam. Při přečíslování uprav všechny odkazy „sekce N“ a `hlavicka.kam`.
+- Struktura sekcí je zavedená (číslované `##` sekce 0 až 18), drž ji. Novou sekci zakládej jen když se obsah opravdu nevejde jinam. Při přečíslování uprav všechny odkazy „sekce N“ a `hlavicka.kam`.
 - Každá informace patří na jedno místo. Co se týká konkrétní fáze (program, ceny, přesun, ubytování), patří do fáze, obecné sekce jen odkazují. Sekce 0 drží jen to, co je nedořešené, historie změn patří do `zmeny` v `src/verze.json`.
 - Termíny zrušení ubytování zdarma jsou ve fázích (zdroj) a od v45 také seřazené podle pořadí na cestě v tabulce Do kdy zrušit ubytování zdarma v sekci 17 (záložka Ubytování, termíny), v thajském i českém čase. Když se rezervace nebo termín změní, uprav fázi i tabulku. V sekcích 3 a 11 se termíny neuvádějí, v sekci 0 jsou jen u dvojích rezervací a u Wattany, kde se podle nich rozhoduje.
 - Fáze jsou nadpisy `### Fáze N: Název (X nocí, datum)` v sekci 5 a web z nich dělá samostatné stránky. Každá fáze má stejnou stavbu:
@@ -65,7 +65,7 @@ Build připojuje za `verze.js` a `thajsko-obsah.js` v každém `index.html` otis
 
 ## Co je rozpracované
 
-Stav k v49. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
+Stav k v50. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
 
 - Fáze 1: blok Doprava po Bangkoku (metro modrou linkou, Airport Rail Link, lodě, Grab, čím pojedete po dnech) je podle zdrojů z listopadu 2026: bezkontaktní karta v metru platí od 1. 6. 2026, jednorázové žetony se mají od 1. 1. 2027 nahradit QR, ceny expresních lodí se v roce 2026 měnily. Na místě ověřit, jestli karta v turniketu projde, jinak hotovost na žeton.
 - Fáze 5: noc na jezeře Cheow Lan: přespání je rozhodnuté (balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna), rezervovat před odletem, do 25. 11. Zbývá zjistit cenu a kde balíček koupit. Jednodenní výlet je jen záloha. Rezervace je jeden ze dvou pevných bodů.
