@@ -690,5 +690,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "1bb305f",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v55",
+    "datum": "10. 11. 2026",
+    "nazev": "Přehledová mapa: zvětšování a menší kroužky",
+    "zmeny": [
+      "Na přehledové mapě jdou i na telefonu použít tlačítka +/− a mapu posouvat a zvětšovat prsty. Kroužky blízkých fází 6, 7 a 8 se při celkovém pohledu překrývaly a nešlo je rozklepnout.",
+      "Kroužky s čísly fází jsou menší."
+    ],
+    "commit": "3342ee1",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

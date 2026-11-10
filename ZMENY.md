@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v55: Přehledová mapa: zvětšování a menší kroužky (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v55/) · [Markdown](verze/v55/thajsko-bangkok-phuket.md) · [rozdíl proti v54](https://github.com/polachp/dovolena-thajsko-2026/compare/1bb305f...3342ee1)
+
+- Na přehledové mapě jdou i na telefonu použít tlačítka +/− a mapu posouvat a zvětšovat prsty. Kroužky blízkých fází 6, 7 a 8 se při celkovém pohledu překrývaly a nešlo je rozklepnout.
+- Kroužky s čísly fází jsou menší.
+
 ## v54: Přehledová mapa s popisky latinkou (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v54/) · [Markdown](verze/v54/thajsko-bangkok-phuket.md) · [rozdíl proti v53](https://github.com/polachp/dovolena-thajsko-2026/compare/b5b1f70...1bb305f)
