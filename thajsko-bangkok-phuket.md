@@ -198,8 +198,6 @@ Trasa vede ze severu na jih a nikde se nevrací. Je to osnova: dny si poskládá
 | 8 | Phuket, Nai Yang | 1 | 18.–19. 12. | přibl. 8.0900, 98.2970 |
 | | Celkem | 22 | 27. 11.–19. 12. | |
 
-Sloupec Střed na mapě říká, kde stojí kroužek fáze na přehledové mapě na úvodu záložky Itinerář. Kroužek je na jednom místě, kde spíte nebo které k fázi patří: Wat Pho (fáze 1), vesnice Bang Pu (2), kopec Khao Chong Krachok v Prachuap (3), ostrov Koh Phayam, kde strávíte 3 z 4 nocí (4), ředitelství parku Khao Sok (5), pláž Klong Muang u Vacation House (6), Pyramid Bungalow (7) a pláž Nai Yang (8). Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, ostatní jsou z tabulky v sekci Záchytné body pro Google Maps.
-
 Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Co je ještě nedořešené, je v sekci Co se ještě dořeší.
 
 ### Fáze 1: Bangkok, aklimatizace a klongy (3 noci, 27.–30. 11.)

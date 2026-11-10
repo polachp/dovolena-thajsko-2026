@@ -766,5 +766,15 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "0fc8377",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v61",
+    "datum": "10. 11. 2026",
+    "nazev": "Bez vysvětlujícího odstavce pod tabulkou fází",
+    "zmeny": [
+      "Pod tabulkou na úvodu Itinerář po fázích je smazaný odstavec, který vysvětloval sloupec Střed na mapě. Sloupec v tabulce zůstává a přehledová mapa se nemění."
+    ],
+    "commit": "5ae7eeb",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
