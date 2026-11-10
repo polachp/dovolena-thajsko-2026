@@ -9,6 +9,9 @@ Itinerář je volný: berte ho jako osnovu, ne jako pevný rozvrh. U každého p
 
 Co se mezi verzemi změnilo, najdete v záložce Verze.
 
+- **Vlak a auto na začátku trasy (fáze 1 až 3):** jízdenka na vlak č. 43 na 30. 11. (Bangkok → Hua Hin) není koupená, kupte ji hned, prodej už běží. Jízdenky na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) jdou nejspíš koupit až den předem, tedy 2. a 3. 12. Neověřeno, v D-Ticket nebo 12Go se ukáže, od kdy se prodávají (sekce Doprava). Auto v Hua Hin na 30. 11. až 3. 12. není zamluvené.
+- **Mezinárodní řidičský průkaz:** není vyřízený, potřebujete ho k autu v Hua Hin. Vyřiďte ho před odletem na úřadu obce s rozšířenou působností (sekce Předodletový checklist).
+- **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
 - **Doprava po Bangkoku (fáze 1):** platba bezkontaktní kartou v metru (od 1. 6. 2026) a ceny lodí jsou podle zdrojů, na místě ověřit, jestli karta v turniketu projde. Když ne, jde koupit žeton za hotovost.
 - **Noc na jezeře Cheow Lan (fáze 5):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá zjistit cenu a kde balíček koupit.
 - **Čtyřkolky v Khao Sok (fáze 5):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
@@ -176,7 +179,7 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Nai Yang (Wattana Bungalow) → letiště HKT | Grab, Bolt, taxi | asi 7 min (podle inzerátu 2,8 km) | neověřeno |
 
 - **Z letiště BKK:** Nepoužívejte drahé letištní taxíky. Airport Rail Link je ve spodním podlaží terminálu (značky Airport Rail Link nebo Train), jezdí zhruba 5:30 až půlnoc a jde zaplatit i bezkontaktní kartou. V Makkasanu se přestupuje na metro krytou chodbou asi 200–400 m, s jinými turnikety i jízdným. Do starého města jeďte modrou linkou na Sam Yot. Po půlnoci Grab nebo taxi s taxametrem.
-- **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jízdenky se prodávají zhruba 30 dní předem přes 12Go.asia nebo na nádraží, na 30. 11. tedy od asi 31. 10. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
+- **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jak dlouho předem jde jízdenka koupit, závisí na tom, jak velkou část celé trasy vlaku jedete: pod čtvrtinou trasy jen 1 den předem, od čtvrtiny do 59 % trasy zhruba 30 dní předem. Vlak č. 43 jede z Bangkoku až do Surat Thani. Úsek Bangkok → Hua Hin se proto prodává zhruba 30 dní předem přes D-Ticket (oficiální web a aplikace železnic), 12Go.asia nebo na nádraží, na 30. 11. tedy od asi 31. 10. Krátké úseky Hua Hin → Prachuap (3. 12., asi 89 km) a Prachuap → Chumphon (4. 12.) jsou pod čtvrtinou trasy, resp. na její hranici, takže se nejspíš prodávají jen den předem. Neověřeno: v D-Ticket nebo 12Go se ukáže, jestli jdou koupit dřív. Agentury jako 12Go ukazují data dřív, ale podle thaitrainguide to nejsou potvrzené prodeje. V prosinci hrozí vyprodání, proto jízdenku na 30. 11. kupte hned a ostatní hned v první den prodeje. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
 - **Lodě:** V hlavní sezóně kupte lístky 2 až 3 dny předem. Nenastupujte na přeplněnou loď ani za špatného počasí, lodě se při větru ruší.
 - **Taxi:** V Bangkoku ani na Phuketu nenastupujte do taxíku bez zapnutého taxametru. Používejte Grab nebo Bolt, kde cenu znáte předem.
 
@@ -303,7 +306,7 @@ Vstup do parku Khao Sam Roi Yot 200 THB na osobu a platí jen v den zakoupení. 
 
 #### Přesun dál
 
-Auto zpět do Hua Hin, vlak č. 43 v 10:31 do Prachuap Khiri Khan (asi 1 h 10 min).
+Auto zpět do Hua Hin, vlak č. 43 v 10:31 do Prachuap Khiri Khan (asi 1 h 10 min). Jízdenka na tento krátký úsek jde nejspíš koupit až den předem, tedy 2. 12. (sekce Doprava).
 
 #### Mapy
 
@@ -328,7 +331,7 @@ Malé klidné město u zálivu s promenádou. Jedno odpoledne a jedno ráno se d
 
 #### Přesun dál
 
-Vlak č. 43 v 11:41, v Chumphonu ve 14:05. Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia. Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
+Vlak č. 43 v 11:41, v Chumphonu ve 14:05. Jízdenku kupte co nejdřív, jde nejspíš až den předem, tedy 3. 12. (sekce Doprava). Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia. Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
 
 #### Mapy
 
@@ -765,12 +768,12 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Cestovní pas:** Musí být platný aspoň 6 měsíců od plánovaného data vstupu do Thajska. Digitální kopii si uložte do telefonu.
 - **Vstup bez víza:** Od 15. 9. 2026 už neplatí dřívější bezvízový pobyt na 60 dní. Občané ČR mají bezvízový pobyt na 30 dní a jen pro turistiku. Na imigračním úřadě ho lze jednou prodloužit o dalších 30 dní (zhruba za 1 900 THB). Váš pobyt 27. 11.–19. 12. (23 dní) se do 30 dní vejde. O vpuštění do země rozhoduje úředník, proto mějte po ruce letenku ven z Thajska a adresu prvního ubytování. Plánovaný vstupní poplatek pro turisty (podle zpráv z roku 2026 nově 300 THB na osobu u příletů letecky, zhruba 8 EUR) se zatím nevybírá. Má se podle oznámení platit nejspíš zabalený do ceny letenky, ne na přepážce, a náběh se opakovaně odkládal. Přesnou výši a to, jestli se v době vaší cesty vybírá, si krátce před odletem ověřte na stránkách ministerstva zahraničí.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
-- **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou.
+- **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou. Vyřiďte ho před odletem, auto v Hua Hin přebíráte 30. 11. Zjistěte si úřední hodiny úřadu a jestli je třeba objednání.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce Etihad Airways). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
 - **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
-- **Vlak č. 43 a auto:** Jízdenky na 30. 11. do Hua Hin a 3. 12. do Prachuap kupte hned, jak se začnou prodávat (od asi 31. 10.). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
-- **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12.
-- **Očkování a zdraví:** Aspoň 4–6 týdnů před odletem se poraďte s centrem cestovní medicíny (sekce Zdraví, bezpečnost a nouzová čísla).
+- **Vlak č. 43 a auto:** Jízdenku na 30. 11. do Hua Hin kupte hned, prodej běží od asi 31. 10. Jízdenky na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) jdou nejspíš koupit až den předem, tedy 2. a 3. 12. V D-Ticket nebo 12Go ověřte, od kdy se prodávají (sekce Doprava). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
+- **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12. Sjednejte ho nejpozději den před odletem. Storno (zrušení cesty) už sjednat nejde, pojišťovny ho dávají jen krátce po zaplacení cesty a letenky i ubytování jsou zaplacené. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky (fáze 5) a skútry (fáze 4, 6 a 7). Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění a pro skútr se bere oprávnění na motocykl, ne skupina B (v konkrétních podmínkách neověřeno).
+- **Očkování a zdraví:** Poraďte se co nejdřív s lékařem nebo centrem cestovní medicíny, ideálně 4–6 týdnů před odletem. I když zbývá méně času, lékař řekne, co ještě jde stihnout (sekce Zdraví, bezpečnost a nouzová čísla).
 - **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
 - **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce Praktické travel hacky). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
 - **Doklady:** Kopie pasu, pojistky a rezervací uložte offline v telefonu a jednu sadu mějte i na papíře.
@@ -779,11 +782,12 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 
 | Kdy | Co |
 |---|---|
-| Co nejdřív | Cestovní pojištění (nejlépe hned, kvůli krytí storna) |
-| Aspoň 4–6 týdnů před odletem | Konzultace v centru cestovní medicíny, případné očkování a mezinárodní řidičský průkaz (pro auto v Hua Hin) |
-| Hned teď | Jízdenky na vlak č. 43 (30. 11. a 3. 12., prodej od asi 31. 10.) a auto v Hua Hin |
+| Hned teď | Jízdenka na vlak č. 43 na 30. 11. (prodej od asi 31. 10.) a auto v Hua Hin na 30. 11. až 3. 12. |
+| Před odletem | Mezinárodní řidičský průkaz (pro auto v Hua Hin) a konzultace s lékařem nebo v centru cestovní medicíny, případné očkování (ideálně 4–6 týdnů předem, lékař řekne, co ještě jde stihnout) |
 | Do 25. 11. (před odletem) | Přespání na jezeře Cheow Lan: balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna |
-| Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
+| Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
+| Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Chumphonu do Ranongu 4. 12. v 15:00 (může být poslední spoj, ověřit na 12Go.asia), přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
+| Den předem (2. a 3. 12.) | Jízdenky na vlak č. 43 na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon), nejspíš jdou koupit až den předem (neověřeno, ověřit v D-Ticket nebo 12Go) |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce Etihad Airways) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
 

@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v57: Vlak, pojištění a přípravy před odletem (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v57/) · [Markdown](verze/v57/thajsko-bangkok-phuket.md) · [rozdíl proti v56](https://github.com/polachp/dovolena-thajsko-2026/compare/d09759a...5c7ac57)
+
+- Sekce Co se ještě dořeší má nové úkoly na začátku trasy: jízdenka na vlak č. 43 na 30. 11. a auto v Hua Hin (zatím nekoupené ani nezamluvené), mezinárodní řidičský průkaz a cestovní pojištění.
+- Sekce Doprava, fáze 2 a fáze 3: jízdenka jde podle pravidel železnic koupit zhruba 30 dní předem jen na úsek Bangkok → Hua Hin (30. 11.). Krátké úseky 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) nejspíš až den předem, což je neověřené a ukáže se v D-Ticket nebo 12Go.
+- Předodletový checklist: pojištění sjednat nejpozději den před odletem (storno už sjednat nejde), před koupí zkontrolovat, jestli kryje čtyřkolky a skútry, očkování bez pevné lhůty a mezinárodní řidičský průkaz vyřídit před odletem.
+- Tabulka Co zařídit a kdy je seřazená podle času. Přibyl minivan Chumphon → Ranong 4. 12., přesun Ranong → Khao Sok 8. 12. a řádek s jízdenkami na vlak, které se kupují den předem.
+
 ## v56: Mapa fáze 1: Bangkok (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v56/) · [Markdown](verze/v56/thajsko-bangkok-phuket.md) · [rozdíl proti v55](https://github.com/polachp/dovolena-thajsko-2026/compare/3342ee1...d09759a)
