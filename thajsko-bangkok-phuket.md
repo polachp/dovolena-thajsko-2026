@@ -502,7 +502,20 @@ Noci 10.–12. 12. zatím nejsou rezervované. Jedna z nich je na jezeře (viz b
 
 #### Mapy
 
-[Khao Sok, ředitelství parku](https://www.google.com/maps/search/?api=1&query=8.9165,98.5281) · [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village) · [molo Ratchaprapha (Cheow Lan)](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier,%20Cheow%20Lan%20Lake) · [vodopád Than Sawan](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) (souřadnice z jednoho zdroje) · [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) · [Khao Sok Elephant Sanctuary](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20Elephant%20Sanctuary%20Khlong%20Sok)
+Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
+
+| Místo | Typ | Souřadnice | Odkaz do Map |
+|---|---|---|---|
+| Jezero Cheow Lan (noc na plovoucím bungalovu) | must see | přibl. 8.9767, 98.8044 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.9767%2C98.8044) |
+| Khao Sok, ředitelství parku (vstup do pralesa, řeka Sok, noční safari) | must see | 8.9165, 98.5281 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) |
+| Bingo Hostel Khao Sok (ubytování 8.–10. 12.) | ubytování | přibl. 8.9137, 98.5266 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.9137%2C98.5266) |
+| Čtyřkolky Khao sok ATV Adventure (jízda 1,5 až 2 hodiny, odvoz z ubytování) | must see | přibl. 8.8923, 98.5529 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.8923%2C98.5529) |
+| Flora Hostel KhaoSok (ubytování 8.–9. 12., druhá rezervace na stejnou noc) | ubytování | přibl. 8.9088, 98.5233 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.9088%2C98.5233) |
+| Khao Sok Elephant Sanctuary (sloní útočiště ve vesnici Khlong Sok, nerezervováno) | volitelně | přibl. 8.8919, 98.5329 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.8919%2C98.5329) |
+| Vodopád Than Sawan (celodenní túra od ředitelství parku, 6 až 7 km jedním směrem) | volitelně | 8.96678, 98.54116 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) |
+| Molo Ratchaprapha (nástup na loď na jezero, od vesnice Khao Sok asi hodina autem) | doprava | přibl. 8.9771, 98.8204 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.9771%2C98.8204) |
+
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační. Jezero Cheow Lan má jediný údaj a bod leží uprostřed jezera, ne u mola ani u plovoucích bungalovů, místo srazu zjistěte u organizátora. Ředitelství parku sedí podle kódu místa z Google Maps (WG8H+75M) i podle bodu v sekci Záchytné body pro Google Maps. Bingo Hostel (WG7G+FJ), Flora Hostel (WG5F+G8), čtyřkolky (VHR3+W5) a sloní útočiště (VGRM+Q5) jsou podle kódů míst z Google Maps. Bingo je asi 350 m a Flora asi 1 km od ředitelství, což sedí s popisem Bookingu, že obě jsou kousek od vesnice, čtyřkolky jsou asi 4 km od ředitelství ve vesnici Khlong Sok. Sloní útočiště vychází asi 2,2 km od čtyřkolek a stejnou vzdálenost uvádí i cestovní web, takže jeho polohu potvrzují dva zdroje. Molo Ratchaprapha je z jednoho zdroje (cestovní web, který ho vede jako Cheow Lan Pier), leží asi 1,8 km východně od bodu jezera. Vodopád Than Sawan existuje, podle průvodců jde o túru 6 až 7 km od ředitelství a vzdušnou čarou od ředitelství vychází asi 6 km, což sedí, ale souřadnice jsou z jednoho zdroje a na místě je ověřte. Odkaz na vesnici otevře hledání podle názvu: [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village).
 
 ### Fáze 6: Krabi a Dragon Crest (2 noci, 12.–14. 12.)
 
@@ -535,7 +548,16 @@ Po 14. 12. na Koh Yao Noi z mola Nopparat Thara. Z ubytování taxi asi 25 minut
 
 #### Mapy
 
-[Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi) · [Dragon Crest (Khao Ngon Nak)](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest,%20Krabi) · [pláž Tub Kaek](https://www.google.com/maps/search/?api=1&query=Tubkaek%20Beach,%20Krabi) · [pláž Klong Muang](https://www.google.com/maps/search/?api=1&query=Klong%20Muang%20Beach,%20Krabi) · [Ao Nang](https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Beach,%20Krabi) · [molo Nopparat Thara](https://www.google.com/maps/search/?api=1&query=Nopparat%20Thara%20Pier,%20Krabi)
+Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
+
+| Místo | Typ | Souřadnice | Odkaz do Map |
+|---|---|---|---|
+| Dragon Crest (Khao Ngon Nak), začátek stezky | must see | přibl. 8.0992, 98.7484 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0992%2C98.7484) |
+| Vacation House (ubytování 12.–14. 12.) | ubytování | přibl. 8.0579, 98.7491 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0579%2C98.7491) |
+| Ao Nang (kam minivan z Khao Sok, půjčovny skútrů) | doprava | přibl. 8.0314, 98.8225 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0314%2C98.8225) |
+| Nopparat Thara, pláž s molem na západním konci (rychlá loď na Koh Yao Noi) | doprava | přibl. 8.0419, 98.8117 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0419%2C98.8117) |
+
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Dragon Crest je podle kódu místa z Google Maps (3PXX+M9J) u správy národního parku Khao Ngon Nak, asi 600 m od hotelu Amari Vogue, což sedí s popisem, že stezka začíná za hotelem. Přesné místo začátku stezky ověřte na místě. Vacation House má polohu z jediného zdroje (sedí na pláž Klong Muang a na vzdálenost k Ao Nang). Ao Nang je střed pláže ve třech zdrojích. U Nopparat Thara je bod střed pláže, molo je podle zdrojů na jejím západním konci, přesné místo otevře odkaz do Map z fáze, nebo [molo Nopparat Thara](https://www.google.com/maps/search/?api=1&query=Nopparat%20Thara%20Pier,%20Krabi) hledáním podle názvu. Pláže Tub Kaek a Klong Muang na mapě nejsou, odkazy: [pláž Tub Kaek](https://www.google.com/maps/search/?api=1&query=Tubkaek%20Beach,%20Krabi) · [pláž Klong Muang](https://www.google.com/maps/search/?api=1&query=Klong%20Muang%20Beach,%20Krabi).
 
 ### Fáze 7: Pomalý ostrov Koh Yao Noi (4 noci, 14.–18. 12.)
 
@@ -616,7 +638,25 @@ Obě lodě končí na molu Bang Rong. Odtud taxi do Nai Yang asi 19 minut a kole
 
 #### Mapy
 
-[Pyramid Bungalow](https://www.google.com/maps/search/?api=1&query=8.1068,98.6225) · [Tabeak View Point](https://www.google.com/maps/search/?api=1&query=8.1087,98.6206) · [pláž Pasai](https://www.google.com/maps/search/?api=1&query=8.1001,98.6199) · [pláž Tha Khao](https://www.google.com/maps/search/?api=1&query=8.1300,98.6223) · [molo Manoh](https://www.google.com/maps/search/?api=1&query=8.0979,98.5879) · [molo Laem Sai](https://www.google.com/maps/search/?api=1&query=Laem%20Sai%20Pier%20Koh%20Yao%20Noi) · [ostrov Koh Nok](https://www.google.com/maps/search/?api=1&query=8.0802,98.6269) · [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) · [NAMM NATAWN](https://www.google.com/maps/search/?api=1&query=8.1323,98.5958) · [Viewpoint on Ricefields and Ocean](https://www.google.com/maps/search/?api=1&query=8.1243,98.5959) · [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) · [vyhlídka Hornbill](https://www.google.com/maps/search/?api=1&query=Hornbill%20Viewpoint%20Koh%20Yao%20Noi)
+Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
+
+| Místo | Typ | Souřadnice | Odkaz do Map |
+|---|---|---|---|
+| Koh Nok, ostrov a vyhlídka (kajakem z pláže Pasai) | must see | 8.0802, 98.6269 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0802%2C98.6269) |
+| Koh Hong, celodenní výlet longtailem | must see | přibl. 8.0794, 98.6810 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0794%2C98.6810) |
+| NAMM NATAWN, restaurace v rýžových polích | must see | 8.1323, 98.5958 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1323%2C98.5958) |
+| Tha Ton Do, rybářská vesnice a restaurace u mola (večer po dni na skútru) | must see | přibl. 8.1414, 98.5981 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1414%2C98.5981) |
+| Viewpoint on Ricefields and Ocean, kavárna | volitelně | 8.1243, 98.5959 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1243%2C98.5959) |
+| Pláž Pasai | volitelně | 8.1001, 98.6199 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1001%2C98.6199) |
+| Pláž Tha Khao | volitelně | 8.1300, 98.6223 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1300%2C98.6223) |
+| Vyhlídka Hornbill nad Tha Khao, u ní skrytá pláž | volitelně | přibl. 8.1360, 98.6279 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1360%2C98.6279) |
+| Pyramid Bungalow (ubytování 14.–18. 12., s klimatizací) | ubytování | 8.1068, 98.6225 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1068%2C98.6225) |
+| Tabeak View Point (ubytování 14.–18. 12., bez klimatizace, druhá rezervace na stejné noci) | ubytování | 8.1087, 98.6206 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1087%2C98.6206) |
+| Molo Manoh (lodě z Krabi a z Phuketu) | doprava | 8.0979, 98.5879 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) |
+| Molo Laem Sai (přímá loď Koh Yao Sun Smile na Bang Rong, neověřeno) | doprava | přibl. 8.0819, 98.6089 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0819%2C98.6089) |
+| Molo Bang Rong na Phuketu (loď zpět 18. 12.) | doprava | 8.0496, 98.4159 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) |
+
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační. Koh Hong je Koh Hong u Krabi, na který se jezdí longtailem z Koh Yao Noi, ne stejnojmenný ostrov v zálivu Phang Nga, kam jezdí lodě z Phuketu. Bod je podle čtyř zdrojů (údaj o ostrově, kotviště v průvodci plachtění a v námořní aplikaci), které se shodují do asi 400 m. Ostatní body jsou z tabulky Záchytné body pro Google Maps a jinde ověřené nejsou, polohu ostrova Koh Nok (jeden článek píše o kajaku od západního pobřeží) a mola Manoh ověřte na místě. Molo Laem Sai je jen z jednoho zdroje (webu s lodními spoji), jehož jiná stránka měla obě mola popsaná opačně. Tato stránka klade Manoh asi 470 m od bodu v tabulce, což mluví pro její přiřazení, ale které molo je které, ověřte na místě. Tha Ton Do je podle kódu místa z Google Maps (4HRX+H6) a sedí s adresou 46/16 z průvodce, od ubytování Pyramid Bungalow vychází asi 5 km a od restaurace NAMM NATAWN asi 1 km, což odpovídá popisu fáze. Vyhlídka Hornbill je podle kódu místa z Google Maps (4JPH+C53) a leží asi 900 m od pláže Tha Khao, což sedí s popisem „nad Tha Khao“, z jiného zdroje ověřená není.
 
 ### Fáze 8: Phuket, Nai Yang, pláže, letadla, trh a odlet (1 noc, 18.–19. 12.)
 
@@ -698,7 +738,18 @@ Riziko: zrušit zdarma jde jen do 16. 12., přitom lístek na loď se kupuje kol
 
 #### Mapy
 
-[Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) · [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) · [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) · [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) · [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) · [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) · [správa parku Sirinat](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) · [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496,98.4159)
+Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
+
+| Místo | Typ | Souřadnice | Odkaz do Map |
+|---|---|---|---|
+| Pláž Nai Yang | must see | přibl. 8.0898, 98.2974 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0898%2C98.2974) |
+| Mai Khao, jižní konec pláže s letadly | volitelně | přibl. 8.1204, 98.3015 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1204%2C98.3015) |
+| Nai Yang Fresh Market, místní trh | volitelně | přibl. 8.0946, 98.3055 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0946%2C98.3055) |
+| Pláž Nai Thon | volitelně | přibl. 8.0580, 98.2778 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0580%2C98.2778) |
+| Wattana Bungalow (ubytování 18.–19. 12.) | ubytování | přibl. 8.0849, 98.3021 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0849%2C98.3021) |
+| Letiště Phuket (HKT), odlet 19. 12. ve 21:00 | doprava | přibl. 8.1131, 98.3167 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1131%2C98.3167) |
+
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Pláž Nai Yang a Nai Thon jsou střed pláže ve dvou až třech zdrojích, letiště sedí ve třech zdrojích. Mai Khao je dlouhá pláž, bod je podle jednoho zdroje její jižní konec u dráhy letiště, kde se fotí letadla, druhý zdroj dává střed pláže asi 4 km severněji. Trh má polohu z jednoho zdroje, odvozenou z adresy u chrámu Wat Mongkol Wararam, hodiny a dny ověřte na místě. Wattana Bungalow je podle kódu místa z Google Maps (38M2+XR), asi 750 m od pláže Nai Yang a asi 3,5 km od letiště, což sedí s popisem Bookingu (do 1 km od pláže, asi 3 km od letiště). Na mapě chybí sloní lávka Observe v Sakhu a správa parku Sirinat (poloha nenalezena). Odkazy na ně otevřou hledání podle názvu: [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) · [správa parku Sirinat](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket). Molo Bang Rong je na mapě fáze 7: [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159).
 
 ## Počasí, teploty a deště (listopad a první polovina prosince)
 

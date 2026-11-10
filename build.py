@@ -139,6 +139,7 @@ def zkontroluj_mapy_fazi(v: dict, md: str) -> None:
         m = re.match(r"Fáze (\d+):", blok)
         if not m:
             continue
+        blok = re.split(r"(?m)^## ", blok, maxsplit=1)[0]  # fáze končí u dalšího nadpisu ##, jinak by poslední fáze přibrala tabulky z dalších sekcí
         radky = [r for r in blok.split("\n") if r.startswith("|")]
         tabulky, akt = [], []
         for r in radky + [""]:

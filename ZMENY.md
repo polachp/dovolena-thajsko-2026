@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v62: Mapy fází 5 až 8 (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v62/) · [Markdown](verze/v62/thajsko-bangkok-phuket.md) · [rozdíl proti v61](https://github.com/polachp/dovolena-thajsko-2026/compare/5ae7eeb...5f34977)
+
+- Fáze 5 až 8 mají mapu nahoře na stránce fáze. Blok Mapy je u každé z nich tabulka (Místo, Typ, Souřadnice, Odkaz do Map) a body se barví podle typu: fáze 5 má 8 bodů, fáze 6 má 4, fáze 7 má 13 a fáze 8 má 6.
+- Na mapách jsou obě dvojité rezervace: Bingo Hostel a Flora Hostel ve fázi 5, Pyramid Bungalow a Tabeak View Point ve fázi 7. Bingo, Flora, čtyřkolky a sloní útočiště v Khao Sok, Tha Ton Do a vyhlídka Hornbill na Koh Yao Noi a Wattana Bungalow jsou podle kódů míst z Google Maps, ředitelství parku Khao Sok sedí i podle kódu místa. Sloní útočiště vychází 2,2 km od čtyřkolek, což potvrzuje i údaj z cestovního webu.
+- Souřadnice bez předpony přibl. jsou přepsané z tabulky Záchytné body pro Google Maps, ostatní jsou dohledané a orientační. Jedním zdrojem jsou jezero Cheow Lan, molo Ratchaprapha, vodopád Than Sawan, Vacation House, trh Nai Yang Fresh Market, jižní konec pláže Mai Khao a molo Laem Sai (jiná stránka téhož zdroje měla obě mola popsaná opačně, polohu mol ověřit na místě), u Dragon Crest a čtyřkolek je jen kód místa. Koh Hong (ostrov u Krabi) je ve čtyřech zdrojích.
+- Na mapách nejsou místa, jejichž polohu se nepodařilo najít: sloní lávka Observe a správa parku Sirinat ve fázi 8. Pláže Tub Kaek a Klong Muang ve fázi 6 jsou vynechané. Odkazy na ně zůstaly pod tabulkou každé fáze.
+
 ## v61: Bez vysvětlujícího odstavce pod tabulkou fází (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v61/) · [Markdown](verze/v61/thajsko-bangkok-phuket.md) · [rozdíl proti v60](https://github.com/polachp/dovolena-thajsko-2026/compare/0fc8377...5ae7eeb)

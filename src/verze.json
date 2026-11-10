@@ -5992,5 +5992,115 @@
       }
     },
     "commit": "5ae7eeb"
+  },
+  {
+    "id": "v62",
+    "datum": "10. 11. 2026",
+    "nazev": "Mapy fází 5 až 8",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 5 až 8 mají mapu nahoře na stránce fáze. Blok Mapy je u každé z nich tabulka (Místo, Typ, Souřadnice, Odkaz do Map) a body se barví podle typu: fáze 5 má 8 bodů, fáze 6 má 4, fáze 7 má 13 a fáze 8 má 6.",
+      "Na mapách jsou obě dvojité rezervace: Bingo Hostel a Flora Hostel ve fázi 5, Pyramid Bungalow a Tabeak View Point ve fázi 7. Bingo, Flora, čtyřkolky a sloní útočiště v Khao Sok, Tha Ton Do a vyhlídka Hornbill na Koh Yao Noi a Wattana Bungalow jsou podle kódů míst z Google Maps, ředitelství parku Khao Sok sedí i podle kódu místa. Sloní útočiště vychází 2,2 km od čtyřkolek, což potvrzuje i údaj z cestovního webu.",
+      "Souřadnice bez předpony přibl. jsou přepsané z tabulky Záchytné body pro Google Maps, ostatní jsou dohledané a orientační. Jedním zdrojem jsou jezero Cheow Lan, molo Ratchaprapha, vodopád Than Sawan, Vacation House, trh Nai Yang Fresh Market, jižní konec pláže Mai Khao a molo Laem Sai (jiná stránka téhož zdroje měla obě mola popsaná opačně, polohu mol ověřit na místě), u Dragon Crest a čtyřkolek je jen kód místa. Koh Hong (ostrov u Krabi) je ve čtyřech zdrojích.",
+      "Na mapách nejsou místa, jejichž polohu se nepodařilo najít: sloní lávka Observe a správa parku Sirinat ve fázi 8. Pláže Tub Kaek a Klong Muang ve fázi 6 jsou vynechané. Odkazy na ně zůstaly pod tabulkou každé fáze."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket, Nai Yang"
+        ]
+      ],
+      "kam": {
+        "Co se ještě dořeší": "pred",
+        "Úvod do Thajska": "zajimavosti",
+        "Zvířata na trase": "zajimavosti",
+        "Záchytné body pro Google Maps": "misto",
+        "Doprava": "misto",
+        "Počasí, teploty a deště": "pred",
+        "Jídlo, pití a bezpečné stravování": "misto",
+        "Seznam povinného vybavení": "pred",
+        "Etiketa": "misto",
+        "Praktické travel hacky": "misto",
+        "Předodletový checklist": "pred",
+        "Šnorchlování a noční safari": "zajimavosti",
+        "Zdraví, bezpečnost a nouzová čísla": "pred",
+        "Orientační rozpočet": "pred",
+        "Mini-slovníček thajských frází": "misto",
+        "Etihad Airways": "pred",
+        "Do kdy zrušit ubytování zdarma": "terminy",
+        "Místa na trase: Bangkok": "zajimavosti",
+        "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti",
+        "Místa na trase: Prachuap Khiri Khan": "zajimavosti",
+        "Místa na trase: Ranong a Koh Phayam": "zajimavosti",
+        "Místa na trase: Khao Sok": "zajimavosti",
+        "Místa na trase: Krabi": "zajimavosti",
+        "Místa na trase: Koh Yao Noi": "zajimavosti",
+        "Místa na trase: Phuket a Nai Yang": "zajimavosti"
+      }
+    },
+    "commit": "5f34977"
   }
 ]
