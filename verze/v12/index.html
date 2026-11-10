@@ -783,15 +783,16 @@ footer a{color:var(--accent)}
       var hl=Array.prototype.map.call(hr.children,function(h){return h.textContent.trim()});
       var ith=hl.indexOf('Thajsko'), icz=hl.indexOf('Česko');
       if(ith<0||icz<0) return;
-      var radky=[], th=document.createElement('th');
-      th.textContent='Zbývá'; hr.appendChild(th);
+      // stránka se při návratu vykresluje ze stejných uzlů: sloupec Zbývá a přepínač přidat jen jednou
+      var radky=[];
+      if(!hr.querySelector('th.zbyva-h')){var th=document.createElement('th'); th.className='zbyva-h'; th.textContent='Zbývá'; hr.appendChild(th)}
       hr.children[ith].classList.add('cas-th'); hr.children[icz].classList.add('cas-cz');
       Array.prototype.forEach.call(t.querySelectorAll('tbody tr'),function(tr){
-        var c=tr.children, td=document.createElement('td');
+        var c=tr.children, td=tr.querySelector('td.zbyva');
         if(c[ith]) c[ith].classList.add('cas-th');
         if(c[icz]) c[icz].classList.add('cas-cz');
         var m=c[ith]?c[ith].textContent.match(/(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{1,2}):(\d{2})/):null;
-        td.className='zbyva'; tr.appendChild(td);
+        if(!td){td=document.createElement('td'); td.className='zbyva'; tr.appendChild(td)}
         if(m) radky.push({tr:tr,td:td,kdy:Date.UTC(ROK_TERMINU,+m[2]-1,+m[1],+m[3]-7,+m[4])});
       });
       var p=document.createElement('div');
@@ -802,7 +803,9 @@ footer a{color:var(--accent)}
         Array.prototype.forEach.call(p.children,function(b){b.setAttribute('aria-pressed',String(b.dataset.cas===cas))});
       }
       p.addEventListener('click',function(e){var b=e.target.closest('button'); if(b) nastav(b.dataset.cas)});
-      var w=t.closest('.tw')||t; w.parentNode.insertBefore(p,w);
+      var w=t.closest('.tw')||t, stary=w.previousElementSibling;
+      if(stary&&stary.classList.contains('prepinac')) stary.remove();
+      w.parentNode.insertBefore(p,w);
       nastav('th');
       function tik(){
         if(!document.body.contains(t)){clearInterval(terminyTik); terminyTik=null; return}
