@@ -128,6 +128,52 @@ def zkontroluj_mapu(v: dict, md: str, povinna: bool) -> None:
         raise SystemExit(f"{v['id']}: sloupec Střed na mapě nesedí na fáze. Bez souřadnice: {chybi}. Fáze navíc: {navic}. Mimo Thajsko: {mimo}.")
 
 
+TYPY_BODU = {"must see", "volitelně", "ubytování", "doprava"}
+
+
+def zkontroluj_mapy_fazi(v: dict, md: str) -> None:
+    """Mapa fáze (od v56) se kreslí z tabulky v bloku Mapy dané fáze (sloupce Místo, Typ, Souřadnice, Odkaz do Map).
+    Fáze bez takové tabulky mapu nemá. Když ji má, musí mít každý řádek známý typ, souřadnici v Thajsku a odkaz do Google Maps,
+    jinak by bod na webu tiše chyběl."""
+    for blok in re.split(r"(?m)^### ", md)[1:]:
+        m = re.match(r"Fáze (\d+):", blok)
+        if not m:
+            continue
+        radky = [r for r in blok.split("\n") if r.startswith("|")]
+        tabulky, akt = [], []
+        for r in radky + [""]:
+            if r:
+                akt.append(r)
+            elif akt:
+                tabulky.append(akt)
+                akt = []
+        for t in tabulky:
+            hl = [c.strip() for c in t[0].strip().strip("|").split("|")]
+            if not all(k in hl for k in ("Místo", "Typ", "Souřadnice")):
+                continue
+            iM, iT, iS = hl.index("Místo"), hl.index("Typ"), hl.index("Souřadnice")
+            iO = hl.index("Odkaz do Map") if "Odkaz do Map" in hl else None
+            chyby = []
+            for r in t[2:]:
+                b = [c.strip() for c in r.strip().strip("|").split("|")]
+                if len(b) < len(hl):
+                    chyby.append(f"{r[:40]}: chybí sloupce")
+                    continue
+                s = re.search(r"(\d{1,2}\.\d+),\s*(\d{2,3}\.\d+)", b[iS])
+                if not b[iM]:
+                    chyby.append(f"{r[:40]}: prázdné místo")
+                if b[iT].lower() not in TYPY_BODU:
+                    chyby.append(f"{b[iM]}: neznámý typ {b[iT]!r}")
+                if not s or not (5.0 <= float(s.group(1)) <= 21.0 and 97.0 <= float(s.group(2)) <= 106.0):
+                    chyby.append(f"{b[iM]}: souřadnice chybí nebo jsou mimo Thajsko")
+                if iO is not None and "https://www.google.com/maps/" not in b[iO]:
+                    chyby.append(f"{b[iM]}: chybí odkaz do Google Maps")
+            if len(t) < 4:
+                chyby.append("tabulka má méně než dva body")
+            if chyby:
+                raise SystemExit(f"{v['id']}: mapa fáze {m.group(1)} nesedí: " + "; ".join(chyby))
+
+
 def main():
     verejne =[{**{k: v.get(k) for k in ("id", "datum", "nazev", "zmeny", "commit")}, "md": md_soubor(v)} for v in VERZE]
     (ROOT / "verze.js").write_text(
@@ -139,6 +185,7 @@ def main():
         md = (d / md_soubor(v)).read_text(encoding="utf-8")
         zkontroluj_kam(v, md)
         zkontroluj_mapu(v, md, v is VERZE[-1])
+        zkontroluj_mapy_fazi(v, md)
         (d / "thajsko-obsah.js").write_text(obsah_js(md), encoding="utf-8")
         (d / "index.html").write_text(stranka(v, "../../"), encoding="utf-8")
 
