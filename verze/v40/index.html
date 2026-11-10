@@ -228,9 +228,9 @@ footer a{color:var(--accent)}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=3fd29a0d"></script>
+<script src="../../verze.js?v=7d444bd1"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=3fd29a0d"></script>
+<script src="thajsko-obsah.js?v=7d444bd1"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -366,10 +366,10 @@ footer a{color:var(--accent)}
   // Body kroužků se berou z Markdownu: tabulka na úvodu Itinerář po fázích, sloupec "Střed na mapě" (souřadnice, u dohledaných s předponou "přibl.").
   // Verze bez toho sloupce mapu nemají a Leaflet se v nich vůbec nestahuje.
   // Podklad: s bezplatným klíčem CARTO Voyager (data OSM, popisky latinkou), bez klíče standardní mapa OSM (popisky v Thajsku thajsky).
-  var CARTO_KLIC='';
+  var CARTO_KLIC='cb1_55yv_1_5fd5c0342d94cca2715092c5'; // bezplatný veřejný klíč, nekomerční užití
   var ATTR_OSM='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
   var PODKLAD=CARTO_KLIC
-    ?{url:'https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png?key='+CARTO_KLIC,
+    ?{url:'https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key='+CARTO_KLIC,
       attr:ATTR_OSM+' &copy; <a href="https://carto.com/attributions">CARTO</a>',max:19}
     :{url:'https://tile.openstreetmap.org/{z}/{x}/{y}.png',attr:ATTR_OSM+' contributors',max:19};
   var LEAFLET='https://unpkg.com/leaflet@1.9.4/dist/';

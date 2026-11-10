@@ -679,5 +679,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "b5b1f70",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v54",
+    "datum": "10. 11. 2026",
+    "nazev": "Přehledová mapa s popisky latinkou",
+    "zmeny": [
+      "Přehledová mapa na úvodu záložky Itinerář má podklad CARTO Voyager z dat OpenStreetMap, popisky míst jsou latinkou. Ve v53 to byla standardní mapa OSM s thajskými popisky.",
+      "V rohu mapy zůstává atribuce OpenStreetMap a CARTO. Kdyby se klíč k podkladu vyprázdnil, mapa se vrátí ke standardnímu podkladu OSM."
+    ],
+    "commit": "1bb305f",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
