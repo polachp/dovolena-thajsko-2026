@@ -433,6 +433,30 @@ footer a{color:var(--accent)}
     return leafletSlib;
   }
   function zrusMapu(){if(mapaInst){mapaInst.remove(); mapaInst=null}}
+  // Zoom kolečkem jen s Ctrl (na Macu i Cmd), samotné kolečko dál posouvá stránku. Gesto sevření na touchpadu posílá kolečko s Ctrl, takže funguje taky.
+  // Výpočet kroku je převzatý z ScrollWheelZoom v Leafletu 1.9 (60 px na úroveň, sbírání událostí po 40 ms).
+  function zoomCtrlKoleckem(map,el){
+    var delta=0, start=null, casovac=null, bod=null;
+    function priblizit(){
+      var z=map.getZoom(), snap=map.options.zoomSnap||0;
+      var d4=delta/240, d=4*Math.log(2/(1+Math.exp(-Math.abs(d4))))/Math.LN2;
+      d=snap?Math.ceil(d/snap)*snap:d;
+      var cil=Math.max(map.getMinZoom(),Math.min(map.getMaxZoom(),z+(delta>0?d:-d)));
+      delta=0; start=null;
+      if(cil!==z) map.setZoomAround(bod,cil);
+    }
+    function kolecko(e){
+      if(!e.ctrlKey&&!e.metaKey) return;
+      e.preventDefault(); // jinak by prohlížeč zvětšil celou stránku
+      delta+=L.DomEvent.getWheelDelta(e);
+      bod=map.mouseEventToContainerPoint(e);
+      if(!start) start=Date.now();
+      clearTimeout(casovac);
+      casovac=setTimeout(priblizit,Math.max(40-(Date.now()-start),0));
+    }
+    el.addEventListener('wheel',kolecko,{passive:false});
+    map.on('unload',function(){el.removeEventListener('wheel',kolecko); clearTimeout(casovac)});
+  }
   function otevriHash(h){location.hash=h; zHashe(h,true); history.replaceState(null,'','#'+h)}
   // podklad mapy (dlaždice) a upozornění, když se nenačtou; společné pro přehledovou mapu i mapy fází
   function pridejPodklad(map,el,zprava){
@@ -454,9 +478,10 @@ footer a{color:var(--accent)}
       zrusMapu();
       var nazvy={};
       STRANKY.forEach(function(s){if(s.faze) nazvy[s.faze]=s.nazev});
-      // kroužky blízkých fází (6, 7, 8) se při celkovém pohledu překrývají, proto je vždy +/-, posouvání i zvětšení prsty; kolečkem myši se nezvětšuje, aby nebralo posouvání stránky
+      // kroužky blízkých fází (6, 7, 8) se při celkovém pohledu překrývají, proto je vždy +/-, posouvání i zvětšení prsty; kolečkem myši se zvětšuje jen s Ctrl, aby samotné kolečko nebralo posouvání stránky
       var map=L.map(el,{scrollWheelZoom:false,boxZoom:false});
       mapaInst=map;
+      zoomCtrlKoleckem(map,el);
       pridejPodklad(map,el,'Podklad mapy se nenačetl, chybí připojení. Čísla fází fungují dál.');
       var pts=body.map(function(b){return [b.lat,b.lon]});
       var barva=(getComputedStyle(document.documentElement).getPropertyValue('--accent')||'').trim()||'#0d6b67';
@@ -558,6 +583,7 @@ footer a{color:var(--accent)}
       zrusMapu();
       var map=L.map(el,{scrollWheelZoom:false,boxZoom:false});
       mapaInst=map;
+      zoomCtrlKoleckem(map,el);
       pridejPodklad(map,el,'Podklad mapy se nenačetl, chybí připojení. Body a odkazy do Google Maps fungují dál.');
       var vse=body.map(function(b){return [b.lat,b.lon]});
       body.forEach(function(b){
@@ -571,7 +597,7 @@ footer a{color:var(--accent)}
         m.bindPopup(popupBodu(b),{autoPanPadding:[12,12],maxWidth:260});
         m.addTo(map);
       });
-      // První pohled ukáže všechny body zdálky (od v60). Přiblížit jde tlačítky +/−, posouváním a zvětšením prsty.
+      // První pohled ukáže všechny body zdálky (od v60). Přiblížit jde tlačítky +/−, posouváním, zvětšením prsty a kolečkem s Ctrl.
       map.fitBounds(L.latLngBounds(vse),{padding:[30,30]});
     },function(){
       if(document.body.contains(el)) el.innerHTML='<p class="mapa-nic">Mapa se nenačetla, zřejmě chybí připojení. Odkazy do Google Maps jsou v bloku Mapy níže a offline mapy zůstávají v Google Maps.</p>';
