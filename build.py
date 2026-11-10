@@ -174,6 +174,78 @@ def zkontroluj_mapy_fazi(v: dict, md: str) -> None:
                 raise SystemExit(f"{v['id']}: mapa fáze {m.group(1)} nesedí: " + "; ".join(chyby))
 
 
+TABY = ["Před cestou", "Itinerář", "Ubytování, termíny", "Ubytování: termíny", "Ubytování", "Zajímavosti", "Na místě", "Verze"]  # musí sedět na SEKCE v src/sablona.html
+
+
+def _bez_zavorky(t: str) -> str:
+    return re.sub(r"\s*\([^)]*\)\s*$", "", t).strip()
+
+
+def _shoda(text: str, aliasy) -> bool:
+    """Začíná text některým z aliasů a za ním nepokračuje písmeno? (stejné pravidlo jako ve funkci shoda v šabloně)"""
+    return any(text.startswith(a) and not re.match(r"[A-Za-zÀ-ž0-9]", text[len(a):len(a) + 1]) for a in aliasy)
+
+
+def zkontroluj_odkazy(v: dict, md: str) -> None:
+    """Odkazy v textu (od v59) vyrábí web sám z frází jako "sekce Etiketa", "v záložce Itinerář", "fáze 5" a "viz Přesun dál", cíle bere z nadpisů verze.
+    Fráze, ke které se cíl nenajde, zůstane obyčejným textem. Tady se u poslední verze jen vypíše upozornění (build nepadá), ať se překlep nebo
+    zbytek starého číslování ("sekce Doprava a 5") opraví, než ho někdo hledá na webu. Pravidla musí sedět na funkci najdiOdkazy v src/sablona.html."""
+    sekce, fazi, bloky, faze_bloky, akt = {}, 0, {}, {}, None
+    for blok in re.split(r"(?m)^(?=## )", md):
+        if not blok.startswith("## "):
+            continue
+        t = re.sub(r"^\d+\.\s*", "", blok.split("\n", 1)[0][3:].strip())
+        if re.search(r"(?m)^### Fáze \d+:", blok):
+            sekce["Itinerář po fázích"] = t
+            continue
+        n = _bez_zavorky(t)
+        for a in {n, _bez_zavorky(re.split(r"[:(]", t)[0]), n.split(",")[0].strip()}:
+            if len(a) >= 4:
+                sekce[a] = t if sekce.get(a, t) == t else None  # stejné jméno u dvou sekcí = nejednoznačné
+    sekce = [a for a, t in sekce.items() if t]
+    for blok in re.split(r"(?m)^### ", md)[1:]:
+        m = re.match(r"Fáze (\d+):", blok)
+        if m:
+            fazi = max(fazi, int(m.group(1)))
+            al = set()
+            for h in re.findall(r"(?m)^#### (.+)$", blok):
+                n = _bez_zavorky(h.strip())
+                pred = n.split(":")[0].strip()
+                bez = pred.split(" a ")[0].strip()
+                al |= {x for x in (n, pred, bez if len(bez.split()) >= 2 else "") if len(x) >= 4}
+            faze_bloky[int(m.group(1))] = al
+    upoz, faze_ted = [], None
+    for radek in md.split("\n"):
+        mf = re.match(r"### Fáze (\d+):", radek)
+        if mf:
+            faze_ted = int(mf.group(1))
+        elif radek.startswith("## "):
+            faze_ted = None
+        if radek.startswith("#"):
+            continue
+        for m in re.finditer(r"(^|[^A-Za-zÀ-ž])(sekc(?:e|i|í|ích)|záložk(?:a|u|y|ou)|záložce|blok(?:u)?|viz)(?=\s)", radek):
+            kdy, zbytek = m.group(2), radek[m.end():].lstrip()  # mezera za spouštěcím slovem se nespotřebuje, ať může být předponou dalšího ("viz sekce X")
+            if kdy.startswith("sekc"):
+                nalezeno = next((a for a in sorted(sekce, key=len, reverse=True) if _shoda(zbytek, [a])), None)
+                if nalezeno and re.match(r"\s+a\s+\d", zbytek[len(nalezeno):]):
+                    upoz.append(f"zbytek starého číslování: {kdy} {zbytek[:len(nalezeno) + 8]!r}")
+                elif not nalezeno and re.match(r"[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ0-9]", zbytek):
+                    upoz.append(f"sekce, která neexistuje: {kdy} {zbytek[:40]!r}")
+            elif kdy.startswith("zál"):
+                if not _shoda(zbytek, TABY) and re.match(r"[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ0-9]", zbytek):
+                    upoz.append(f"záložka, která neexistuje: {kdy} {zbytek[:40]!r}")
+            elif kdy != "viz" and re.match(r"[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ0-9]", zbytek):
+                if not (faze_ted and _shoda(zbytek, faze_bloky.get(faze_ted, ()))):
+                    upoz.append(f"blok, který ve fázi neexistuje: {kdy} {zbytek[:40]!r}")
+        for m in re.finditer(r"(^|[^A-Za-zÀ-ž])[Ff]áz(?:e|i|í|ích|ím|emi)\s+(\d{1,2})((?:\s*(?:až|a)\s*\d{1,2}(?![\d]|\.\s*\d))*)(?![\d]|\.\s*\d)", radek):
+            for c in [m.group(2)] + re.findall(r"\d{1,2}", m.group(3)):
+                if not 1 <= int(c) <= fazi:
+                    upoz.append(f"fáze, která neexistuje: {m.group(0).strip()!r}")
+                    break
+    for u in dict.fromkeys(upoz):
+        print(f"Pozor ({v['id']}), odkaz v textu: {u}")
+
+
 def main():
     verejne =[{**{k: v.get(k) for k in ("id", "datum", "nazev", "zmeny", "commit")}, "md": md_soubor(v)} for v in VERZE]
     (ROOT / "verze.js").write_text(
@@ -186,6 +258,8 @@ def main():
         zkontroluj_kam(v, md)
         zkontroluj_mapu(v, md, v is VERZE[-1])
         zkontroluj_mapy_fazi(v, md)
+        if v is VERZE[-1]:
+            zkontroluj_odkazy(v, md)
         (d / "thajsko-obsah.js").write_text(obsah_js(md), encoding="utf-8")
         (d / "index.html").write_text(stranka(v, "../../"), encoding="utf-8")
 
