@@ -117,6 +117,28 @@ nav.rail{display:none}
 .mapa-nic,.mapa-offline{font-family:var(--display);font-size:13px;line-height:1.4;color:var(--muted)}
 .mapa-nic{margin:0;padding:16px}
 .mapa-offline{position:absolute;left:8px;right:8px;bottom:28px;z-index:500;padding:8px 12px;border-radius:8px;background:var(--surface);border:1px solid var(--line);pointer-events:none}
+/* mapa fáze (od v56): body z tabulky v bloku Mapy, barva a tvar podle typu */
+.mapa-wrap{margin:12px 0 16px}
+.mapa-wrap .mapa{margin:0}
+.mapa-bod{display:grid;place-items:center}
+.mapa-bod span{display:block;width:20px;height:20px;box-sizing:border-box;box-shadow:0 1px 4px rgba(0,0,0,.4);cursor:pointer}
+.mapa-bod.t-must span{border-radius:50%;background:var(--accent);border:3px solid var(--surface)}
+.mapa-bod.t-volit span{border-radius:50%;background:var(--surface);border:4px solid var(--saffron)}
+.mapa-bod.t-zazemi span{border-radius:4px;background:var(--muted);border:2px solid var(--surface)}
+.mapa-bod:focus{outline:none}
+.mapa-bod:focus-visible span{outline:2px solid var(--ink);outline-offset:2px}
+.mapa-legenda{display:flex;flex-wrap:wrap;gap:4px 16px;margin:8px 0 0;padding:0;list-style:none;font-family:var(--display);font-size:13px;color:var(--muted)}
+.mapa-legenda li{display:flex;align-items:center;gap:6px}
+.mapa-legenda i{display:block;width:14px;height:14px;box-sizing:border-box}
+.mapa-legenda .t-must i{border-radius:50%;background:var(--accent)}
+.mapa-legenda .t-volit i{border-radius:50%;background:var(--surface);border:3px solid var(--saffron)}
+.mapa-legenda .t-zazemi i{border-radius:3px;background:var(--muted)}
+.mapa-vse{font-family:var(--display);font-size:13px;min-height:34px;padding:4px 10px;border-radius:6px;border:2px solid rgba(0,0,0,.25);background:var(--surface);color:var(--ink);cursor:pointer}
+.mapa .leaflet-popup-content-wrapper,.mapa .leaflet-popup-tip{background:var(--surface);color:var(--ink)}
+.mapa .leaflet-popup-content{margin:10px 14px;font-family:var(--display);font-size:14px;line-height:1.35}
+.mapa-popup b{display:block;font-weight:600}
+.mapa-popup .typ,.mapa-popup .pribl{display:block;font-size:12px;color:var(--muted)}
+.mapa-popup a{display:inline-block;margin-top:6px;color:var(--accent);font-weight:600}
 
 /* stranka */
 .crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-family:var(--mono);font-size:12px;color:var(--muted);margin-bottom:10px}
@@ -228,9 +250,9 @@ footer a{color:var(--accent)}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=81aa1cd9"></script>
+<script src="../../verze.js?v=8f40d446"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=81aa1cd9"></script>
+<script src="thajsko-obsah.js?v=8f40d446"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -408,6 +430,20 @@ footer a{color:var(--accent)}
   }
   function zrusMapu(){if(mapaInst){mapaInst.remove(); mapaInst=null}}
   function otevriHash(h){location.hash=h; zHashe(h,true); history.replaceState(null,'','#'+h)}
+  // podklad mapy (dlaždice) a upozornění, když se nenačtou; společné pro přehledovou mapu i mapy fází
+  function pridejPodklad(map,el,zprava){
+    var ok=0, chyb=0, hlaseni=null;
+    L.tileLayer(PODKLAD.url,{attribution:PODKLAD.attr,maxZoom:PODKLAD.max}).addTo(map)
+      .on('tileload',function(){ok++; if(hlaseni){hlaseni.remove(); hlaseni=null}})
+      .on('tileerror',function(){
+        chyb++;
+        if(!ok&&!hlaseni&&chyb>=3){
+          hlaseni=document.createElement('div'); hlaseni.className='mapa-offline';
+          hlaseni.textContent=zprava;
+          el.appendChild(hlaseni);
+        }
+      });
+  }
   function mapaPrehled(el,body){
     nactiLeaflet().then(function(){
       if(!document.body.contains(el)) return; // mezitím se přešlo jinam
@@ -417,17 +453,7 @@ footer a{color:var(--accent)}
       // kroužky blízkých fází (6, 7, 8) se při celkovém pohledu překrývají, proto je vždy +/-, posouvání i zvětšení prsty; kolečkem myši se nezvětšuje, aby nebralo posouvání stránky
       var map=L.map(el,{scrollWheelZoom:false,boxZoom:false});
       mapaInst=map;
-      var ok=0, chyb=0, hlaseni=null;
-      L.tileLayer(PODKLAD.url,{attribution:PODKLAD.attr,maxZoom:PODKLAD.max}).addTo(map)
-        .on('tileload',function(){ok++; if(hlaseni){hlaseni.remove(); hlaseni=null}})
-        .on('tileerror',function(){
-          chyb++;
-          if(!ok&&!hlaseni&&chyb>=3){
-            hlaseni=document.createElement('div'); hlaseni.className='mapa-offline';
-            hlaseni.textContent='Podklad mapy se nenačetl, chybí připojení. Čísla fází fungují dál.';
-            el.appendChild(hlaseni);
-          }
-        });
+      pridejPodklad(map,el,'Podklad mapy se nenačetl, chybí připojení. Čísla fází fungují dál.');
       var pts=body.map(function(b){return [b.lat,b.lon]});
       var barva=(getComputedStyle(document.documentElement).getPropertyValue('--accent')||'').trim()||'#0d6b67';
       L.polyline(pts,{color:barva,weight:3,opacity:.85,interactive:false}).addTo(map);
@@ -446,6 +472,94 @@ footer a{color:var(--accent)}
     },function(){
       if(document.body.contains(el)) el.innerHTML='<p class="mapa-nic">Mapa se nenačetla, zřejmě chybí připojení. Fáze jsou níže v kartách a offline mapy zůstávají v Google Maps.</p>';
     });
+  }
+
+  // ---- mapa fáze (od v56) ----
+  // Body se berou z tabulky v bloku Mapy dané fáze (sloupce Místo, Typ, Souřadnice, Odkaz do Map). Fáze bez takové tabulky mapu nemá.
+  // Souřadnice s předponou "přibl." jsou dohledané a orientační, v bublině se to ukáže.
+  var TYPY={
+    'must see':{trida:'t-must',nazev:'Must see',legenda:'Must see',z:300},
+    'volitelně':{trida:'t-volit',nazev:'Volitelně',legenda:'Volitelně',z:200},
+    'ubytování':{trida:'t-zazemi',nazev:'Ubytování',legenda:'Ubytování a doprava',z:100},
+    'doprava':{trida:'t-zazemi',nazev:'Doprava',legenda:'Ubytování a doprava',z:100}
+  };
+  var GMAPS='https://www.google.com/maps/';
+  function bodyFaze(s){
+    if(s.mapaBody!==undefined) return s.mapaBody;
+    var out=[];
+    s.uzly.forEach(function(n){
+      if(n.nodeType!==1) return;
+      var tbl=n.tagName==='TABLE'?[n]:Array.prototype.slice.call(n.querySelectorAll('table'));
+      tbl.forEach(function(t){
+        var hl=Array.prototype.map.call(t.querySelectorAll('th'),function(h){return h.textContent.trim()});
+        var iM=hl.indexOf('Místo'), iT=hl.indexOf('Typ'), iS=hl.indexOf('Souřadnice'), iO=hl.indexOf('Odkaz do Map');
+        if(iM<0||iT<0||iS<0) return;
+        Array.prototype.forEach.call(t.querySelectorAll('tbody tr'),function(tr){
+          var td=tr.children, typ=(td[iT]?td[iT].textContent:'').trim().toLowerCase();
+          var txt=td[iS]?td[iS].textContent:'', m=txt.match(/(\d{1,2}\.\d+),\s*(\d{2,3}\.\d+)/);
+          if(!m||!TYPY[typ]) return;
+          var a=iO>=0&&td[iO]?td[iO].querySelector('a'):null, href=a?a.getAttribute('href'):'';
+          if(href.indexOf(GMAPS)!==0) href=GMAPS+'search/?api=1&query='+m[1]+'%2C'+m[2];
+          out.push({nazev:td[iM].textContent.trim(),typ:typ,lat:+m[1],lon:+m[2],pribl:/přibl/i.test(txt),href:href});
+        });
+      });
+    });
+    s.mapaBody=out.length>0?out:null;
+    return s.mapaBody;
+  }
+  function kmMezi(a,b){var k=Math.PI/180, x=(b[1]-a[1])*Math.cos((a[0]+b[0])/2*k), y=b[0]-a[0]; return Math.sqrt(x*x+y*y)*111.2}
+  function mediana(a){var s=a.slice().sort(function(x,y){return x-y}), m=Math.floor(s.length/2); return s.length%2?s[m]:(s[m-1]+s[m])/2}
+  function popupBodu(b){
+    var d=document.createElement('div'); d.className='mapa-popup';
+    var n=document.createElement('b'); n.textContent=b.nazev; d.appendChild(n);
+    var t=document.createElement('span'); t.className='typ'; t.textContent=TYPY[b.typ].nazev; d.appendChild(t);
+    if(b.pribl){var p=document.createElement('span'); p.className='pribl'; p.textContent='Poloha je přibližná'; d.appendChild(p)}
+    var a=document.createElement('a'); a.href=b.href; a.target='_blank'; a.rel='noopener'; a.textContent='Otevřít v Google Maps'; d.appendChild(a);
+    return d;
+  }
+  function mapaFaze(el,body){
+    nactiLeaflet().then(function(){
+      if(!document.body.contains(el)) return; // mezitím se přešlo jinam
+      zrusMapu();
+      var map=L.map(el,{scrollWheelZoom:false,boxZoom:false});
+      mapaInst=map;
+      pridejPodklad(map,el,'Podklad mapy se nenačetl, chybí připojení. Body a odkazy do Google Maps fungují dál.');
+      var vse=body.map(function(b){return [b.lat,b.lon]});
+      body.forEach(function(b){
+        var ty=TYPY[b.typ];
+        var m=L.marker([b.lat,b.lon],{
+          icon:L.divIcon({className:'mapa-bod '+ty.trida,html:'<span></span>',iconSize:[32,32],iconAnchor:[16,16],popupAnchor:[0,-12]}),
+          title:b.nazev,alt:b.nazev,keyboard:true,riseOnHover:true,zIndexOffset:ty.z
+        });
+        // prvek značky vzniká až po přidání na mapu, proto role a popisek až tehdy
+        m.on('add',function(){var e=m.getElement(); if(e){e.setAttribute('role','button'); e.setAttribute('aria-label',b.nazev+', '+ty.nazev.toLowerCase())}});
+        m.bindPopup(popupBodu(b),{autoPanPadding:[12,12],maxWidth:260});
+        m.addTo(map);
+      });
+      // První pohled: hustá střední část (body do 3,5 km od mediánu), ať se body ve starém městě nepřekrývají. Zbytek ukáže tlačítko Zobrazit vše.
+      var st=[mediana(body.map(function(b){return b.lat})),mediana(body.map(function(b){return b.lon}))];
+      var jadro=vse.filter(function(p){return kmMezi(st,p)<=3.5});
+      if(jadro.length>=3&&jadro.length<vse.length){
+        var ctl=L.control({position:'topright'});
+        ctl.onAdd=function(){
+          var bt=L.DomUtil.create('button','mapa-vse'); bt.type='button'; bt.textContent='Zobrazit vše'; bt.title='Zobrazit všechny body mapy';
+          L.DomEvent.disableClickPropagation(bt);
+          bt.addEventListener('click',function(){map.fitBounds(L.latLngBounds(vse),{padding:[30,30]})});
+          return bt;
+        };
+        ctl.addTo(map);
+        map.fitBounds(L.latLngBounds(jadro),{padding:[30,30]});
+      }else{
+        map.fitBounds(L.latLngBounds(vse),{padding:[30,30]});
+      }
+    },function(){
+      if(document.body.contains(el)) el.innerHTML='<p class="mapa-nic">Mapa se nenačetla, zřejmě chybí připojení. Odkazy do Google Maps jsou v bloku Mapy níže a offline mapy zůstávají v Google Maps.</p>';
+    });
+  }
+  function legendaFaze(body){
+    var videno={}, out=[];
+    body.forEach(function(b){var ty=TYPY[b.typ]; if(!videno[ty.trida]){videno[ty.trida]=1; out.push('<li class="'+ty.trida+'"><i></i>'+esc(ty.legenda)+'</li>')}});
+    return '<ul class="mapa-legenda" aria-label="Legenda mapy">'+out.join('')+'</ul>';
   }
 
   // ---- vykresleni ----
@@ -499,7 +613,16 @@ footer a{color:var(--accent)}
       h2.classList.add('phase');
       h2.innerHTML='<span class="tag">Fáze '+h2.dataset.faze+'</span><span>'+esc(h2.dataset.zbytek)+'</span>';
     }
+    // mapa fáze: pod krátkým popisem, jen u fáze, jejíž blok Mapy má tabulku bodů (od v56)
+    var mb=s.faze?bodyFaze(s):null;
+    if(mb&&h2){
+      var kam=h2.nextElementSibling&&h2.nextElementSibling.tagName==='P'?h2.nextElementSibling:h2;
+      var wm=document.createElement('div'); wm.className='mapa-wrap';
+      wm.innerHTML='<div class="mapa" id="mapa-faze" role="region" aria-label="Mapa fáze '+esc(String(s.faze))+'"></div>'+legendaFaze(mb);
+      kam.insertAdjacentElement('afterend',wm);
+    }
     main.appendChild(art);
+    if(mb&&h2) mapaFaze(art.querySelector('#mapa-faze'),mb);
     // predchozi a dalsi v ramci nadsekce
     var polozky=vSekci(s.top), i=polozky.indexOf(s), pn=document.createElement('div'); pn.className='prevnext';
     if(i>0) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i-1].id+'"><span class="k">Předchozí</span>'+esc(titulek(polozky[i-1]))+'</a>');

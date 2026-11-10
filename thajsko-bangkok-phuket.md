@@ -246,7 +246,27 @@ Vlak č. 43 v 7:30 z nádraží Krung Thep Aphiwat do Hua Hin (příjezd asi 10:
 
 #### Mapy
 
-[Sam Yot, staré město](https://www.google.com/maps/search/?api=1&query=MRT%20Sam%20Yot,%20Bangkok) · [Wat Pho](https://www.google.com/maps/search/?api=1&query=13.7465,100.4933) · [Wat Paknam Phasi Charoen](https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen,%20Bangkok) · [Wat Arun](https://www.google.com/maps/search/?api=1&query=Wat%20Arun,%20Bangkok) · [Lumphini Park](https://www.google.com/maps/search/?api=1&query=Lumphini%20Park,%20Bangkok) · [Zlatá hora (Wat Saket)](https://www.google.com/maps/search/?api=1&query=Wat%20Saket%20Golden%20Mount,%20Bangkok) · [nádraží Krung Thep Aphiwat](https://www.google.com/maps/search/?api=1&query=Krung%20Thep%20Aphiwat%20Central%20Terminal)
+Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
+
+| Místo | Typ | Souřadnice | Odkaz do Map |
+|---|---|---|---|
+| Wat Pho | must see | 13.7465, 100.4933 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7465%2C100.4933) |
+| Wat Paknam Phasi Charoen | must see | přibl. 13.7217, 100.4703 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7217%2C100.4703) |
+| Sraz na plavbu po klongech (Soi Phet Kasem 19, metro Bang Phai) | must see | přibl. 13.7246, 100.4647 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7246%2C100.4647) |
+| Wat Arun | must see | přibl. 13.7437, 100.4889 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7437%2C100.4889) |
+| Yaowarat, večerní street food | must see | přibl. 13.7411, 100.5083 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7411%2C100.5083) |
+| Lumphini Park | must see | přibl. 13.7306, 100.5417 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7306%2C100.5417) |
+| Zlatá hora (Wat Saket) | must see | přibl. 13.7539, 100.5070 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7539%2C100.5070) |
+| Talat Noi | volitelně | přibl. 13.7314, 100.5136 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7314%2C100.5136) |
+| Velký palác (v itineráři vynechaný) | volitelně | přibl. 13.7500, 100.4919 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7500%2C100.4919) |
+| Přívoz z mola Tha Tien k Wat Arun | volitelně | přibl. 13.7460, 100.4900 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7460%2C100.4900) |
+| Květinový trh Pak Khlong Talat (konec plavby) | volitelně | přibl. 13.7418, 100.4963 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7418%2C100.4963) |
+| Ti Thong Hostel | ubytování | přibl. 13.7477, 100.5001 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY) |
+| Metro Sam Yot | doprava | přibl. 13.7470, 100.5032 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7470%2C100.5032) |
+| Nádraží Krung Thep Aphiwat | doprava | přibl. 13.8050, 100.5417 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.8050%2C100.5417) |
+| Airport Rail Link Makkasan | doprava | přibl. 13.7510, 100.5613 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7510%2C100.5613) |
+
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát o desítky metrů vedle. U hostelu je to střed ulice Ti Thong, u srazu na plavbu stanice metra Bang Phai (sraz je podle prodejce v uličce Phet Kasem 19/1, asi 200 m od mola). Přesné místo otevře odkaz do Map.
 
 ### Fáze 2: Sam Roi Yot, mokřady, jeskyně a sloni (3 noci, 30. 11.–3. 12.)
 

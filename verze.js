@@ -701,5 +701,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "3342ee1",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v56",
+    "datum": "10. 11. 2026",
+    "nazev": "Mapa fáze 1: Bangkok",
+    "zmeny": [
+      "Fáze 1 má nahoře pod popisem mapu Bangkoku s 15 body. Must see, volitelné body a ubytování s dopravou jsou rozlišené barvou a tvarem, klepnutí na bod ukáže název a odkaz do Google Maps.",
+      "Blok Mapy ve fázi 1 je nově tabulka (místo, typ, souřadnice, odkaz do Map) a mapa se kreslí z ní. Souřadnice dohledané z veřejných zdrojů jsou označené přibl.",
+      "Do mapy přibyly Wat Arun, Yaowarat, Talat Noi, Velký palác, přívoz z mola Tha Tien, květinový trh Pak Khlong Talat, Ti Thong Hostel, metro Sam Yot, nádraží Krung Thep Aphiwat a Airport Rail Link Makkasan.",
+      "Mapa se nejdřív ukáže přiblížená na staré město, ať se body nepřekrývají, tlačítko Zobrazit vše ukáže i vzdálenější body (Wat Paknam, Lumphini, nádraží)."
+    ],
+    "commit": "d09759a",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

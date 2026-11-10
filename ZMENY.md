@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v56: Mapa fáze 1: Bangkok (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v56/) · [Markdown](verze/v56/thajsko-bangkok-phuket.md) · [rozdíl proti v55](https://github.com/polachp/dovolena-thajsko-2026/compare/3342ee1...d09759a)
+
+- Fáze 1 má nahoře pod popisem mapu Bangkoku s 15 body. Must see, volitelné body a ubytování s dopravou jsou rozlišené barvou a tvarem, klepnutí na bod ukáže název a odkaz do Google Maps.
+- Blok Mapy ve fázi 1 je nově tabulka (místo, typ, souřadnice, odkaz do Map) a mapa se kreslí z ní. Souřadnice dohledané z veřejných zdrojů jsou označené přibl.
+- Do mapy přibyly Wat Arun, Yaowarat, Talat Noi, Velký palác, přívoz z mola Tha Tien, květinový trh Pak Khlong Talat, Ti Thong Hostel, metro Sam Yot, nádraží Krung Thep Aphiwat a Airport Rail Link Makkasan.
+- Mapa se nejdřív ukáže přiblížená na staré město, ať se body nepřekrývají, tlačítko Zobrazit vše ukáže i vzdálenější body (Wat Paknam, Lumphini, nádraží).
+
 ## v55: Přehledová mapa: zvětšování a menší kroužky (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v55/) · [Markdown](verze/v55/thajsko-bangkok-phuket.md) · [rozdíl proti v54](https://github.com/polachp/dovolena-thajsko-2026/compare/1bb305f...3342ee1)
