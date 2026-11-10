@@ -800,5 +800,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "e0cc3d0",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v64",
+    "datum": "10. 11. 2026",
+    "nazev": "Doplněné body na mapách fází 2, 6, 7 a 8",
+    "zmeny": [
+      "Mapa fáze 2: přibyla jeskyně Phra Prathun (volitelně) a půjčovna aut Thai Rent A Car v Hua Hin (doprava), obě podle kódů míst z Google Maps a označené jako přibližné.",
+      "Mapa fáze 6: místo středu pláže Nopparat Thara je na mapě přímo molo (kód místa z Google Maps), přibyla pláž Klong Muang (volitelně) a poloha Vacation House je potvrzená dvěma zdroji.",
+      "Mapa fáze 7: poloha mola Laem Sai je potvrzená záznamem v Google Maps. Molo Manoh je označené jako přibližné, protože záznam Manoh Pier v Google Maps je veden jako cestovní kancelář a leží asi 2,1 km od bodu v tabulce.",
+      "Mapa fáze 8: přibyla sloní lávka Observe (volitelně, v bloku Observe je teď i adresa a kontakt) a poloha trhu Nai Yang Fresh Market je upřesněná kódem místa z Google Maps (posun asi 200 m). U Wattana Bungalow je doplněná vzdálenost k pláži a k trhu vzdušnou čarou.",
+      "Počty bodů na mapách: fáze 2 má 10, fáze 6 má 5, fáze 7 má 13, fáze 8 má 7."
+    ],
+    "commit": "89d0df6",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

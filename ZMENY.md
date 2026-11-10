@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v64: Doplněné body na mapách fází 2, 6, 7 a 8 (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v64/) · [Markdown](verze/v64/thajsko-bangkok-phuket.md) · [rozdíl proti v63](https://github.com/polachp/dovolena-thajsko-2026/compare/e0cc3d0...89d0df6)
+
+- Mapa fáze 2: přibyla jeskyně Phra Prathun (volitelně) a půjčovna aut Thai Rent A Car v Hua Hin (doprava), obě podle kódů míst z Google Maps a označené jako přibližné.
+- Mapa fáze 6: místo středu pláže Nopparat Thara je na mapě přímo molo (kód místa z Google Maps), přibyla pláž Klong Muang (volitelně) a poloha Vacation House je potvrzená dvěma zdroji.
+- Mapa fáze 7: poloha mola Laem Sai je potvrzená záznamem v Google Maps. Molo Manoh je označené jako přibližné, protože záznam Manoh Pier v Google Maps je veden jako cestovní kancelář a leží asi 2,1 km od bodu v tabulce.
+- Mapa fáze 8: přibyla sloní lávka Observe (volitelně, v bloku Observe je teď i adresa a kontakt) a poloha trhu Nai Yang Fresh Market je upřesněná kódem místa z Google Maps (posun asi 200 m). U Wattana Bungalow je doplněná vzdálenost k pláži a k trhu vzdušnou čarou.
+- Počty bodů na mapách: fáze 2 má 10, fáze 6 má 5, fáze 7 má 13, fáze 8 má 7.
+
 ## v63: Trh Nai Yang jako povinný bod (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v63/) · [Markdown](verze/v63/thajsko-bangkok-phuket.md) · [rozdíl proti v62](https://github.com/polachp/dovolena-thajsko-2026/compare/5f34977...e0cc3d0)
