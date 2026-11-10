@@ -10,8 +10,8 @@ Zadání dovolené: slow tempo, mladý pár, žádná masová turistická místa
 
 ## Aktuální stav (aktualizuj při každé nové verzi)
 
-- Poslední verze: **v56** (10. 11. 2026), zdroj `verze/v56/thajsko-bangkok-phuket.md`.
-- Archiv: `verze/v1` až `verze/v55`, neměnit.
+- Poslední verze: **v57** (10. 11. 2026), zdroj `verze/v57/thajsko-bangkok-phuket.md`.
+- Archiv: `verze/v1` až `verze/v56`, neměnit.
 - 26 sekcí (`##`), od v51 bez čísel (do v50 byly očíslované 0 až 18, ve starších verzích zůstávají), itinerář je sekce Itinerář po fázích. Záložky webu: Před cestou, Itinerář, Ubytování, termíny (od v45, sekce Do kdy zrušit ubytování zdarma, v liště ve dvou řádcích pod sebou), Zajímavosti (od v46 sekce Úvod do Thajska, Zvířata na trase a Šnorchlování a noční safari, od v50 povídání o místech, od v52 jako osm sekcí Místa na trase: Bangkok, Sam Roi Yot a Kui Buri, Prachuap Khiri Khan, Ranong a Koh Phayam, Khao Sok, Krabi, Koh Yao Noi a Phuket a Nai Yang), Na místě (od v46 sekce Záchytné body pro Google Maps, Doprava, Jídlo, pití a bezpečné stravování, Etiketa, Praktické travel hacky a Mini-slovníček thajských frází), Verze. Na telefonu se šest záložek zalomí do dvou řádků (pět nahoře, Verze pod nimi, dvouslovné názvy ve dvou řádcích, od v47). Rozřazení sekcí do záložek je v `hlavicka.kam` poslední verze.
 - Trasa: 8 fází, 22 nocí. Bangkok 3, Sam Roi Yot 3, Prachuap 1, Ranong 1 + Koh Phayam 3, Khao Sok 4 (8.–12. 12.), Krabi 2 (12.–14. 12.), Koh Yao Noi 4 (14.–18. 12.), Phuket, Nai Yang 1 (18.–19. 12.).
 - Pole `route` a `mista` v `src/verze.json` mají 8 položek, po jedné na fázi.
@@ -68,8 +68,9 @@ Build připojuje za `verze.js` a `thajsko-obsah.js` v každém `index.html` otis
 
 ## Co je rozpracované
 
-Stav k v56. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
+Stav k v57. Noci jsou přepočtené a sedí na 22, itinerář má novou strukturu (popis, co uvidíte, rozbalovací podrobnosti). Fáze 5 má volitelné sloní útočiště v Khao Sok, fáze 7 má program, rezervované ubytování a rozepsanou loď na Phuket, fáze 8 je nabídka možností v Nai Yang s rezervovaným ubytováním. Nedořešené zůstává:
 
+- Přípravy před odletem (v57): jízdenka na vlak č. 43 na 30. 11. (Bangkok → Hua Hin) není koupená, auto v Hua Hin na 30. 11. až 3. 12. není zamluvené, mezinárodní řidičský průkaz není vyřízený a cestovní pojištění není sjednané (sjednat nejpozději den před odletem, před koupí zkontrolovat, jestli kryje čtyřkolky a skútry). Jízdenky na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) jdou podle pravidel železnic nejspíš koupit až den předem, neověřeno (v D-Ticket nebo 12Go). Osobní údaje o očkování se na web nepíšou, checklist drží jen obecnou radu.
 - Mapy: přehledová mapa je hotová (v53, od v54 s popisky latinkou), mapa fáze 1 je hotová (v56, 15 bodů). Mapy fází 2 až 8 zatím nejsou, dělají se stejným způsobem (tabulka v bloku Mapy dané fáze). Ve fázi 1 jsou souřadnice jen u Wat Pho ověřené, ostatní jsou přibližné: Ti Thong Hostel je umístěný podle středu ulice Ti Thong Road, sraz na plavbu po klongech podle stanice metra Bang Phai (skutečný sraz je ve vedlejší uličce Soi Phet Kasem 19/1, asi 200 m od mola), nádraží Krung Thep Aphiwat a molo Tha Tien jsou z jediného zdroje. Ověřit přes odkaz do Google Maps na místě. V tabulce Záchytné body pro Google Maps má souřadnice jen 15 z 52 míst, ostatní se musí dohledat a označit jako přibližné.
 - Fáze 1: blok Doprava po Bangkoku (metro modrou linkou, Airport Rail Link, lodě, Grab, čím pojedete po dnech) je podle zdrojů z listopadu 2026: bezkontaktní karta v metru platí od 1. 6. 2026, jednorázové žetony se mají od 1. 1. 2027 nahradit QR, ceny expresních lodí se v roce 2026 měnily. Na místě ověřit, jestli karta v turniketu projde, jinak hotovost na žeton.
 - Fáze 5: noc na jezeře Cheow Lan: přespání je rozhodnuté (balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna), rezervovat před odletem, do 25. 11. Zbývá zjistit cenu a kde balíček koupit. Jednodenní výlet je jen záloha. Rezervace je jeden ze dvou pevných bodů.
