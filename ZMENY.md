@@ -2,6 +2,23 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v60: Průhledná kolečka a mapy zdálky (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v60/) · [Markdown](verze/v60/thajsko-bangkok-phuket.md) · [rozdíl proti v59](https://github.com/polachp/dovolena-thajsko-2026/compare/e7ff02b...0fc8377)
+
+- Kroužky fází na přehledové mapě jsou poloprůhledné světle zelené, takže pod nimi je vidět název místa z mapy a číslo je čitelné ve světlém i tmavém režimu. Klepnutí na číslo dál otevře fázi.
+- Kroužky blízkých fází (2 a 3, 6 až 8) se při celkovém pohledu mírně odsunou od sebe. Tenká čára a tečka ukážou skutečné místo na trase a po přiblížení se kroužek vrátí na své místo.
+- Mapy fází 1 až 4 se otevřou zdálky, vidět jsou všechny body najednou. Přiblížit jde tlačítky +/−, posouváním a prsty. Tlačítko Zobrazit vše zaniklo, protože už není co zobrazovat.
+
+## v59: Klikací odkazy v textu (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v59/) · [Markdown](verze/v59/thajsko-bangkok-phuket.md) · [rozdíl proti v58](https://github.com/polachp/dovolena-thajsko-2026/compare/ed5dbf4...e7ff02b)
+
+- Fráze v textu jako „v sekci Etiketa“, „v záložce Itinerář“, „fáze 5“ nebo „viz Přesun dál“ jsou nově klikací. Klepnutí otevře sekci, záložku, fázi nebo rozbalený blok, na který text odkazuje.
+- Odkazy se tvoří z nadpisů dané verze, takže fungují i ve starších verzích a nikdy nevedou na sekci, která v té verzi není. Co se nenajde, zůstane obyčejným textem.
+- Z odrážky o divokých slonech v Kui Buri (sekce Zvířata na trase) zmizela zastaralá věta „Prakticky viz sekce Doprava a 5.“. Praktické informace o Kui Buri jsou ve fázi 2 a v sekci Doprava.
+- Build u poslední verze vypíše upozornění, když fráze míří na neexistující sekci.
+
 ## v58: Mapy fází 2 až 4 (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v58/) · [Markdown](verze/v58/thajsko-bangkok-phuket.md) · [rozdíl proti v57](https://github.com/polachp/dovolena-thajsko-2026/compare/5c7ac57...ed5dbf4)

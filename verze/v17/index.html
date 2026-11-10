@@ -110,10 +110,12 @@ nav.rail{display:none}
 .mapa{height:clamp(280px,55vh,440px);margin:0 0 14px;border:1px solid var(--line);border-radius:12px}
 .mapa.leaflet-container{z-index:0;isolation:isolate;background:var(--accent-soft);font-family:var(--display)}
 .mapa .leaflet-control-attribution{font-size:10px}
-.mapa-cislo span{display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--surface);border:2px solid var(--accent);color:var(--accent);font-family:var(--mono);font-size:13px;font-weight:600;box-shadow:0 1px 5px rgba(0,0,0,.3);cursor:pointer}
-.mapa-cislo:hover span,.mapa-cislo:focus-visible span{background:var(--accent);color:var(--bg)}
+/* Kroužky fází (od v60): poloprůhledná světle zelená výplň, aby pod nimi byl vidět název místa z mapy. Podklad mapy (CARTO Voyager) je světlý i v tmavém režimu,
+   proto mají pevné barvy a ne proměnné motivu, jinak by v tmavém režimu číslo splynulo s mapou. Číslo má světlý lem, ať je čitelné i nad popisky mapy. */
+.mapa-cislo span{display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:rgba(165,222,176,.55);border:2px solid #0d6b67;color:#073f3c;font-family:var(--mono);font-size:14px;font-weight:700;line-height:1;text-shadow:0 0 2px #fff,0 0 3px #fff,0 0 5px #fff;box-shadow:0 0 0 1px rgba(255,255,255,.55);cursor:pointer}
+.mapa-cislo:hover span,.mapa-cislo:focus-visible span{background:rgba(165,222,176,.85)}
 .mapa-cislo:focus{outline:none}
-.mapa-cislo:focus-visible span{outline:2px solid var(--accent);outline-offset:2px}
+.mapa-cislo:focus-visible span{outline:2px solid #073f3c;outline-offset:2px}
 .mapa-nic,.mapa-offline{font-family:var(--display);font-size:13px;line-height:1.4;color:var(--muted)}
 .mapa-nic{margin:0;padding:16px}
 .mapa-offline{position:absolute;left:8px;right:8px;bottom:28px;z-index:500;padding:8px 12px;border-radius:8px;background:var(--surface);border:1px solid var(--line);pointer-events:none}
@@ -133,7 +135,6 @@ nav.rail{display:none}
 .mapa-legenda .t-must i{border-radius:50%;background:var(--accent)}
 .mapa-legenda .t-volit i{border-radius:50%;background:var(--surface);border:3px solid var(--saffron)}
 .mapa-legenda .t-zazemi i{border-radius:3px;background:var(--muted)}
-.mapa-vse{font-family:var(--display);font-size:13px;min-height:34px;padding:4px 10px;border-radius:6px;border:2px solid rgba(0,0,0,.25);background:var(--surface);color:var(--ink);cursor:pointer}
 .mapa .leaflet-popup-content-wrapper,.mapa .leaflet-popup-tip{background:var(--surface);color:var(--ink)}
 .mapa .leaflet-popup-content{margin:10px 14px;font-family:var(--display);font-size:14px;line-height:1.35}
 .mapa-popup b{display:block;font-weight:600}
@@ -154,6 +155,7 @@ article ul,article ol{padding-left:1.2em}
 article li{margin:.35em 0}
 article strong{font-weight:600}
 article a{color:var(--accent);text-underline-offset:2px}
+article a.xref{text-decoration-style:dotted;text-underline-offset:3px}
 article details.more{border:1px solid var(--line);border-radius:10px;background:var(--surface);margin:8px 0;padding:0 14px}
 article details.more[open]{padding-bottom:8px}
 article details.more>summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:10px;min-height:44px;padding:8px 0;font-family:var(--display);font-weight:600;font-size:15px}
@@ -250,9 +252,9 @@ footer a{color:var(--accent)}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=f5dee5e2"></script>
+<script src="../../verze.js?v=df063b26"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=f5dee5e2"></script>
+<script src="thajsko-obsah.js?v=df063b26"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -290,12 +292,14 @@ footer a{color:var(--accent)}
   // ---- rozpad na stranky ----
   var STRANKY=[], podleId={};
   // nadpis 4. urovne a vse za nim az k dalsimu nadpisu se zabali do rozbalovaciho bloku
-  function sbal(uzly){
+  // blok dostane id (stránka-název bloku), aby na něj šlo odkázat z textu (viz Odkazy v textu)
+  function sbal(uzly,pid){
     var out=[], det=null;
     uzly.forEach(function(n){
       if(n.nodeType===1&&/^H[1-3]$/.test(n.tagName)){det=null; out.push(n); return}
       if(n.nodeType===1&&n.tagName==='H4'){
         det=document.createElement('details'); det.className='more';
+        var bid=pid+'-'+(slug(n.textContent.trim())||'blok'); while(used[bid]) bid+='-x'; used[bid]=1; det.id=bid;
         var su=document.createElement('summary'); su.innerHTML=n.innerHTML; det.appendChild(su);
         out.push(det); return;
       }
@@ -303,7 +307,7 @@ footer a{color:var(--accent)}
     });
     return out;
   }
-  function pridej(s){s.uzly=sbal(s.uzly); STRANKY.push(s); return s}
+  function pridej(s){s.uzly=sbal(s.uzly,s.id); STRANKY.push(s); return s}
   function perex(uzly){
     for(var i=0;i<uzly.length;i++){
       var n=uzly[i];
@@ -333,7 +337,7 @@ footer a{color:var(--accent)}
     var jeItin=b.uzly.some(function(n){return n.nodeType===1&&n.tagName==='H3'&&/^Fáze \d+:/.test(n.textContent.trim())});
     if(!jeItin){
       // cislo sekce se na webu neukazuje (od v51 ani v nadpisech), slouzi jen k zarazeni do zalozky ve starsich verzich
-      pridej({id:b.h.id,top:KAM[cislo]||KAM[kratkySekce]||'misto',klic:'',nazev:nazev,
+      pridej({id:b.h.id,top:KAM[cislo]||KAM[kratkySekce]||'misto',klic:'',nazev:nazev,cislo:cislo,
               kratky:kratkySekce,uzly:b.uzly,perex:perex(b.uzly.slice(1))});
       return;
     }
@@ -344,8 +348,8 @@ footer a{color:var(--accent)}
       else if(akt3) akt3.uzly.push(n);
       else uvod.push(n);
     });
-    pridej({id:'prehled-trasy',top:'itin',klic:'Přehled',nazev:'Přehled trasy a nocí',kratky:'Přehled trasy',
-            uzly:uvod,perex:perex(uvod.slice(1)),rozcestnik:true});
+    pridej({id:'prehled-trasy',top:'itin',klic:'Přehled',nazev:'Přehled trasy a nocí',kratky:'Přehled trasy',cislo:cislo,
+            nadpis:nazev,uzly:uvod,perex:perex(uvod.slice(1)),rozcestnik:true});
     deti.forEach(function(c){
       var f=c.h.dataset.faze;
       if(f){
@@ -457,6 +461,7 @@ footer a{color:var(--accent)}
       var pts=body.map(function(b){return [b.lat,b.lon]});
       var barva=(getComputedStyle(document.documentElement).getPropertyValue('--accent')||'').trim()||'#0d6b67';
       L.polyline(pts,{color:barva,weight:3,opacity:.85,interactive:false}).addTo(map);
+      var znacky=[], spojnice=L.layerGroup().addTo(map);
       body.forEach(function(b){
         var nazev=nazvy[b.faze]||('Fáze '+b.faze);
         var m=L.marker([b.lat,b.lon],{
@@ -467,8 +472,40 @@ footer a{color:var(--accent)}
         m.on('add',function(){var e=m.getElement(); if(e){e.setAttribute('role','button'); e.setAttribute('aria-label',nazev)}});
         m.on('click',function(){otevriHash('faze-'+b.faze)});
         m.addTo(map);
+        znacky.push({m:m,ll:L.latLng(b.lat,b.lon)});
       });
+      // Kroužky blízkých fází (2 a 3, 6 až 8) by se při celkovém pohledu překrývaly a čísla by splynula. Proto se při každém přiblížení spočítá, které
+      // jsou blíž než MIN pixelů, a ty se mírně odsunou od sebe. Skutečné místo zůstane na čáře trasy (tečka a tenká spojnice), po přiblížení se kroužek vrátí.
+      var MIN=32;
+      function rozestup(){
+        spojnice.clearLayers();
+        var p=znacky.map(function(z){return map.latLngToLayerPoint(z.ll)});
+        var q=p.map(function(x){return L.point(x.x,x.y)});
+        for(var it=0; it<80; it++){
+          var zmena=false;
+          for(var i=0;i<q.length;i++) for(var j=i+1;j<q.length;j++){
+            var dx=q[j].x-q[i].x, dy=q[j].y-q[i].y, d=Math.sqrt(dx*dx+dy*dy);
+            if(d>=MIN-0.5) continue;
+            zmena=true;
+            if(d<0.01){dx=1; dy=0; d=1}
+            var k=(MIN-d)/2/d;
+            q[i].x-=dx*k; q[i].y-=dy*k; q[j].x+=dx*k; q[j].y+=dy*k;
+          }
+          if(!zmena) break;
+        }
+        znacky.forEach(function(z,i){
+          var posun=Math.sqrt(Math.pow(q[i].x-p[i].x,2)+Math.pow(q[i].y-p[i].y,2));
+          var ll=posun>0.5?map.layerPointToLatLng(q[i]):z.ll;
+          z.m.setLatLng(ll);
+          if(posun>3){
+            L.polyline([z.ll,ll],{color:'#0d6b67',weight:1.5,opacity:.9,interactive:false}).addTo(spojnice);
+            L.circleMarker(z.ll,{radius:3,color:'#fff',weight:1,fillColor:'#0d6b67',fillOpacity:1,interactive:false}).addTo(spojnice);
+          }
+        });
+      }
+      map.on('zoomend',rozestup);
       map.fitBounds(L.latLngBounds(pts),{padding:[34,34]});
+      rozestup();
     },function(){
       if(document.body.contains(el)) el.innerHTML='<p class="mapa-nic">Mapa se nenačetla, zřejmě chybí připojení. Fáze jsou níže v kartách a offline mapy zůstávají v Google Maps.</p>';
     });
@@ -507,8 +544,6 @@ footer a{color:var(--accent)}
     s.mapaBody=out.length>0?out:null;
     return s.mapaBody;
   }
-  function kmMezi(a,b){var k=Math.PI/180, x=(b[1]-a[1])*Math.cos((a[0]+b[0])/2*k), y=b[0]-a[0]; return Math.sqrt(x*x+y*y)*111.2}
-  function mediana(a){var s=a.slice().sort(function(x,y){return x-y}), m=Math.floor(s.length/2); return s.length%2?s[m]:(s[m-1]+s[m])/2}
   function popupBodu(b){
     var d=document.createElement('div'); d.className='mapa-popup';
     var n=document.createElement('b'); n.textContent=b.nazev; d.appendChild(n);
@@ -536,28 +571,111 @@ footer a{color:var(--accent)}
         m.bindPopup(popupBodu(b),{autoPanPadding:[12,12],maxWidth:260});
         m.addTo(map);
       });
-      // První pohled: hustá střední část (body do 3,5 km od mediánu), ať se body ve starém městě nepřekrývají. Zbytek ukáže tlačítko Zobrazit vše.
-      // U rozlehlejších fází (od v58) se okruh postupně zvětšuje na 8 a 15 km, dokud v něm nejsou aspoň tři body, aby první pohled ukázal hlavní místo pobytu.
-      var st=[mediana(body.map(function(b){return b.lat})),mediana(body.map(function(b){return b.lon}))];
-      var jadro=[], polomery=[3.5,8,15];
-      for(var pi=0;pi<polomery.length&&jadro.length<3;pi++){
-        jadro=vse.filter(function(p){return kmMezi(st,p)<=polomery[pi]});
-      }
-      if(vse.length>6&&jadro.length>=3&&jadro.length<vse.length){ // u mapy s málem bodů se rovnou ukáže všechno
-        var ctl=L.control({position:'topright'});
-        ctl.onAdd=function(){
-          var bt=L.DomUtil.create('button','mapa-vse'); bt.type='button'; bt.textContent='Zobrazit vše'; bt.title='Zobrazit všechny body mapy';
-          L.DomEvent.disableClickPropagation(bt);
-          bt.addEventListener('click',function(){map.fitBounds(L.latLngBounds(vse),{padding:[30,30]})});
-          return bt;
-        };
-        ctl.addTo(map);
-        map.fitBounds(L.latLngBounds(jadro),{padding:[30,30]});
-      }else{
-        map.fitBounds(L.latLngBounds(vse),{padding:[30,30]});
-      }
+      // První pohled ukáže všechny body zdálky (od v60). Přiblížit jde tlačítky +/−, posouváním a zvětšením prsty.
+      map.fitBounds(L.latLngBounds(vse),{padding:[30,30]});
     },function(){
       if(document.body.contains(el)) el.innerHTML='<p class="mapa-nic">Mapa se nenačetla, zřejmě chybí připojení. Odkazy do Google Maps jsou v bloku Mapy níže a offline mapy zůstávají v Google Maps.</p>';
+    });
+  }
+  // ---- odkazy v textu (od v59) ----
+  // Web v textu najde fráze jako "sekce Etiketa", "v záložce Itinerář", "fáze 5" a "viz Přesun dál" a udělá z nich odkaz. Cíle se berou z nadpisů dané verze,
+  // takže odkaz nikdy nevede na sekci, která v té verzi není. Ve verzích do v50 se sekce odkazují číslem ("sekce 18"), to se vyhodnotí podle čísla v nadpisu.
+  // Co se nenajde, zůstane obyčejným textem a zapíše se do window.ODKAZY_NENALEZENE (pro kontrolu).
+  var PISMENO=/[A-Za-zÀ-ž0-9]/;
+  function bezZavorky(t){return t.replace(/\s*\([^)]*\)\s*$/,'').trim()}
+  function seraz(seznam){return seznam.sort(function(a,b){return b.jm.length-a.jm.length})}
+  function cileSekci(){
+    var m={};
+    function zapis(jm,id){if(!jm||jm.length<4) return; if(m[jm]===undefined) m[jm]=id; else if(m[jm]!==id) m[jm]=null} // stejné jméno u dvou stránek = nejednoznačné, neodkazuje se
+    STRANKY.forEach(function(s){
+      if(s.faze||s.top==='verze') return;
+      var n=bezZavorky(s.nadpis||s.nazev);
+      zapis(n,s.id); zapis(bezZavorky(s.kratky),s.id);
+      zapis(n.split(',')[0].trim(),s.id); // Počasí, Zdraví, Jídlo: začátek dlouhého nadpisu
+    });
+    var out=[]; Object.keys(m).forEach(function(k){if(m[k]) out.push({jm:k,href:'#'+m[k]})});
+    return seraz(out);
+  }
+  function cileZalozek(){
+    var jm={'Před cestou':'pred','Itinerář':'itin','Ubytování, termíny':'terminy','Ubytování: termíny':'terminy','Ubytování':'terminy','Zajímavosti':'zajimavosti','Na místě':'misto','Verze':'verze'};
+    var out=[]; Object.keys(jm).forEach(function(k){if(vSekci(jm[k]).length) out.push({jm:k,href:'#/'+jm[k]})});
+    return seraz(out);
+  }
+  function cileBloku(art){
+    var m={};
+    function zapis(jm,id){if(jm&&jm.length>=4&&m[jm]===undefined) m[jm]=id}
+    Array.prototype.forEach.call(art.querySelectorAll(':scope > details.more'),function(d){
+      var t=d.firstChild.textContent.trim(), n=bezZavorky(t), pred=n.split(':')[0].trim(), bez=pred.split(' a ')[0].trim();
+      zapis(n,d.id); zapis(pred,d.id); if(bez.split(' ').length>=2) zapis(bez,d.id);
+    });
+    var out=[]; Object.keys(m).forEach(function(k){out.push({jm:k,href:'#'+m[k]})});
+    return seraz(out);
+  }
+  function shoda(text,i,cile){
+    for(var k=0;k<cile.length;k++){
+      var a=cile[k].jm;
+      if(text.substr(i,a.length)===a&&!PISMENO.test(text.charAt(i+a.length))) return cile[k];
+    }
+    return null;
+  }
+  var ODKAZY_NENALEZENE=window.ODKAZY_NENALEZENE=[];
+  function najdiOdkazy(text,ctx){
+    // před spouštěcím slovem musí být začátek textu nebo nepísmeno (lookbehind se nepoužívá, nezná ho starší Safari)
+    var spany=[], zachyt=/(^|[^A-Za-zÀ-ž])(sekc(?:e|i|í|ích)|záložk(?:a|u|y|ou)|záložce|blok(?:u)?|viz)\s+/g, m;
+    while((m=zachyt.exec(text))){
+      var kdy=m[2], zacatek=m.index+m[1].length, i=m.index+m[0].length, typ=/^sekc/.test(kdy)?'sekce':/^zál/.test(kdy)?'zalozka':'blok';
+      var c=typ==='sekce'?ctx.sekce:typ==='zalozka'?ctx.zalozky:ctx.bloky, nasel=shoda(text,i,c);
+      if(nasel){spany.push({od:zacatek,do:i+nasel.jm.length,href:nasel.href}); zachyt.lastIndex=i+nasel.jm.length; continue}
+      zachyt.lastIndex=i-1; // mezera před názvem zůstane jako předpona dalšího spouštěcího slova ("viz sekce Doprava")
+      if(typ==='sekce'){ // starší verze: číslo sekce z nadpisu ("sekce 4 a 5")
+        var n=/^(\d{1,2})(?![\d]|\.\s*\d)((?:\s*(?:a|až)\s*\d{1,2}(?![\d]|\.\s*\d))*)/.exec(text.slice(i));
+        if(n&&Object.keys(ctx.cisla).length){
+          var cil=ctx.cisla[n[1]], konec=i+n[1].length;
+          if(cil) spany.push({od:zacatek,do:konec,href:'#'+cil});
+          var re=/(\d{1,2})/g, zb=n[2], pos;
+          while((pos=re.exec(zb))){var cil2=ctx.cisla[pos[1]], od=konec+pos.index; if(cil2) spany.push({od:od,do:od+pos[1].length,href:'#'+cil2})}
+          zachyt.lastIndex=i+n[0].length; continue;
+        }
+      }
+      if(kdy!=='viz'&&/[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ0-9]/.test(text.charAt(i))) ODKAZY_NENALEZENE.push(text.slice(zacatek,zacatek+50));
+    }
+    var fz=/(^|[^A-Za-zÀ-ž])([Ff]áz(?:e|i|í|ích|ím|emi))\s+(\d{1,2})(?![\d]|\.\s*\d)((?:\s*(?:až|a)\s*\d{1,2}(?![\d]|\.\s*\d))*)/g;
+    while((m=fz.exec(text))){
+      var od0=m.index+m[1].length, cn=m[3], cilF=ctx.faze[cn];
+      var konecF=od0+m[2].length+(m[0].length-m[1].length-m[2].length-m[4].length);
+      if(cilF&&cilF!==ctx.ja) spany.push({od:od0,do:konecF,href:'#'+cilF}); else if(!cilF) ODKAZY_NENALEZENE.push(m[0]);
+      var re2=/(\d{1,2})/g, p2;
+      while((p2=re2.exec(m[4]))){
+        var c3=ctx.faze[p2[1]], od3=konecF+p2.index;
+        if(c3&&c3!==ctx.ja) spany.push({od:od3,do:od3+p2[1].length,href:'#'+c3}); else if(!c3) ODKAZY_NENALEZENE.push('fáze '+p2[1]);
+      }
+    }
+    spany.sort(function(a,b){return a.od-b.od});
+    var cisté=[], hranice=-1; spany.forEach(function(sp){if(sp.od>=hranice){cisté.push(sp); hranice=sp.do}});
+    return cisté;
+  }
+  function odkazy(art,s){
+    if(s.top==='verze') return;
+    var ctx={sekce:cileSekci(),zalozky:cileZalozek(),bloky:cileBloku(art),cisla:{},faze:{},ja:s.id};
+    STRANKY.forEach(function(x){
+      if(x.faze) ctx.faze[x.faze]=x.id;
+      if(x.cislo&&!x.faze) ctx.cisla[x.cislo]=x.id; // číslo sekce z nadpisu (verze do v50); nadpis Itinerář po fázích vede na Přehled trasy
+    });
+    var uzly=[], w=document.createTreeWalker(art,NodeFilter.SHOW_TEXT,{acceptNode:function(n){
+      if(!n.nodeValue||n.nodeValue.length<4) return NodeFilter.FILTER_REJECT;
+      for(var e=n.parentNode;e&&e!==art;e=e.parentNode) if(/^(A|BUTTON|SUMMARY|H1|H2|H3|H4|CODE|PRE|SCRIPT|STYLE)$/.test(e.tagName)) return NodeFilter.FILTER_REJECT;
+      return NodeFilter.FILTER_ACCEPT;
+    }});
+    while(w.nextNode()) uzly.push(w.currentNode);
+    uzly.forEach(function(u){
+      var sp=najdiOdkazy(u.nodeValue,ctx); if(!sp.length) return;
+      var txt=u.nodeValue, frag=document.createDocumentFragment(), poz=0;
+      sp.forEach(function(x){
+        if(x.od>poz) frag.appendChild(document.createTextNode(txt.slice(poz,x.od)));
+        var a=document.createElement('a'); a.className='xref'; a.href=x.href; a.textContent=txt.slice(x.od,x.do); frag.appendChild(a); poz=x.do;
+      });
+      if(poz<txt.length) frag.appendChild(document.createTextNode(txt.slice(poz)));
+      u.parentNode.replaceChild(frag,u);
     });
   }
   function legendaFaze(body){
@@ -633,6 +751,7 @@ footer a{color:var(--accent)}
     if(i<polozky.length-1) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i+1].id+'"><span class="k">Další</span>'+esc(titulek(polozky[i+1]))+'</a>');
     pn.insertAdjacentHTML('beforeend','<a href="#/'+s.top+'"><span class="k">Zpět na</span>'+esc(sek.nazev)+'</a>');
     if(!sek.primo) main.appendChild(pn);
+    odkazy(art,s);
     vylepsi(art);
   }
   function vylepsi(kam){
@@ -665,6 +784,10 @@ footer a{color:var(--accent)}
   function jdi(top,pageId,kotva,bezHash){
     var sk=SEKCE.filter(function(x){return x.id===top})[0];
     if(!pageId&&sk&&sk.primo){var pp=vSekci(top); if(pp.length===1) pageId=pp[0].id;} // záložka s jedinou stránkou ji otevře rovnou
+    if(pageId&&kotva&&stav.page===pageId&&stav.top===top){ // odkaz na blok na stejné stránce: jen rozbalit a doscrollovat, mapa se nepřekresluje
+      var cil=document.getElementById(kotva);
+      if(cil){var dd=cil.closest&&cil.closest('details'); if(dd) dd.open=true; cil.scrollIntoView(); if(!bezHash) history.replaceState(null,'','#'+kotva); return}
+    }
     stav.top=top; stav.page=pageId;
     if(pageId&&podleId[pageId]) stranka(podleId[pageId]); else rozcestnik(top);
     lista();

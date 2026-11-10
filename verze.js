@@ -741,5 +741,30 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "ed5dbf4",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v59",
+    "datum": "10. 11. 2026",
+    "nazev": "Klikací odkazy v textu",
+    "zmeny": [
+      "Fráze v textu jako „v sekci Etiketa“, „v záložce Itinerář“, „fáze 5“ nebo „viz Přesun dál“ jsou nově klikací. Klepnutí otevře sekci, záložku, fázi nebo rozbalený blok, na který text odkazuje.",
+      "Odkazy se tvoří z nadpisů dané verze, takže fungují i ve starších verzích a nikdy nevedou na sekci, která v té verzi není. Co se nenajde, zůstane obyčejným textem.",
+      "Z odrážky o divokých slonech v Kui Buri (sekce Zvířata na trase) zmizela zastaralá věta „Prakticky viz sekce Doprava a 5.“. Praktické informace o Kui Buri jsou ve fázi 2 a v sekci Doprava.",
+      "Build u poslední verze vypíše upozornění, když fráze míří na neexistující sekci."
+    ],
+    "commit": "e7ff02b",
+    "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v60",
+    "datum": "10. 11. 2026",
+    "nazev": "Průhledná kolečka a mapy zdálky",
+    "zmeny": [
+      "Kroužky fází na přehledové mapě jsou poloprůhledné světle zelené, takže pod nimi je vidět název místa z mapy a číslo je čitelné ve světlém i tmavém režimu. Klepnutí na číslo dál otevře fázi.",
+      "Kroužky blízkých fází (2 a 3, 6 až 8) se při celkovém pohledu mírně odsunou od sebe. Tenká čára a tečka ukážou skutečné místo na trase a po přiblížení se kroužek vrátí na své místo.",
+      "Mapy fází 1 až 4 se otevřou zdálky, vidět jsou všechny body najednou. Přiblížit jde tlačítky +/−, posouváním a prsty. Tlačítko Zobrazit vše zaniklo, protože už není co zobrazovat."
+    ],
+    "commit": "0fc8377",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
