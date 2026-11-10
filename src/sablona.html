@@ -894,6 +894,7 @@ footer a{color:var(--accent)}
   }
   document.addEventListener('click',function(e){
     var a=e.target.closest&&e.target.closest('a[href^="#"]'); if(!a) return;
+    if(a.closest('.leaflet-container')) return; // ovládání mapy (křížek bubliny má href="#close", tlačítka +/− "#") si obslouží Leaflet sám
     var h=a.getAttribute('href').slice(1); if(!h) return;
     e.preventDefault(); location.hash=h; zHashe(h,true); history.replaceState(null,'','#'+h);
   });
