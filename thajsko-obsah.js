@@ -1147,7 +1147,7 @@ Etihad výraz partial refund na svých stránkách nepoužívá. U tarifu Comfor
 
 ## Do kdy zrušit ubytování zdarma
 
-Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko ukazují, do kdy jde ubytování zrušit zdarma, v thajském a v českém čase (v Thajsku je o 6 hodin víc, v Česku platí zimní čas). U ubytování označených jako dvojí rezervace je potřeba zrušit jedno z dvojice, viz sekce Co se ještě dořeší.
+Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko ukazují, do kdy jde ubytování zrušit zdarma, v thajském a v českém čase (v Thajsku je o 6 hodin víc, v Česku platí zimní čas). Na webu je vidět jeden z nich podle přepínače nad tabulkou, výchozí je thajský čas. Sloupec Zbývá ukazuje, kolik času do termínu zbývá od teď, a obnovuje se sám. U ubytování označených jako dvojí rezervace je potřeba zrušit jedno z dvojice, viz sekce Co se ještě dořeší.
 
 | Ubytování (noci) | Thajsko | Česko |
 |---|---|---|

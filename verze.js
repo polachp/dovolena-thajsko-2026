@@ -814,5 +814,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "89d0df6",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v65",
+    "datum": "10. 11. 2026",
+    "nazev": "Odpočet a přepínač času u termínů zrušení ubytování",
+    "zmeny": [
+      "Tabulka Do kdy zrušit ubytování zdarma (záložka Ubytování, termíny) má nový sloupec Zbývá: kolik času do termínu zrušení zdarma zbývá od teď (například 3 dny 12 h), obnovuje se sám každých 30 sekund. Termíny, které vyprší do 3 dnů, jsou zvýrazněné, prošlé jsou šedé s textem vypršelo.",
+      "Nad tabulkou je přepínač Thajský čas a Český čas, výchozí je thajský. Tabulka ukazuje vždy jen sloupec vybraného času, odpočet je v obou případech stejný.",
+      "Úvod sekce Do kdy zrušit ubytování zdarma popisuje přepínač a sloupec Zbývá."
+    ],
+    "commit": "4bf18b6",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
