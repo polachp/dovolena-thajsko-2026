@@ -20,7 +20,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze.
 - **Dvojí rezervace na Koh Yao Noi (fáze 7):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
 - **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
 - **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
-- **Fáze 8 (Nai Yang):** program je nabídka možností, nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
+- **Fáze 8 (Nai Yang):** program je nabídka možností (jen trh je povinný bod), nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
 - **Ubytování:** Všechny noci jsou rezervované kromě 10.–12. 12. v Khao Sok: jedna z těch nocí je na jezeře (viz výše), druhá ve vesnici a rozhodne se později, jestli se rezervuje předem, nebo hledá na místě. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny.
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
@@ -145,7 +145,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 7 | Koh Yao Noi, Tha Ton Do | [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) | Rybářská vesnice na západě, molo u mangrovů a západ slunce (neověřeno) |
 | 8 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi, sem přijíždí lodě z Manoh i z Laem Sai |
 | 8 | Nai Yang, ubytování Wattana Bungalow | [Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) | Potvrzeno 18.–19. 12., rezervováno přes Booking.com, check-in od 14:00, check-out do 12:00 |
-| 8 | Nai Yang, Nai Yang Fresh Market | [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) | Volitelně, místní trh s jídlem a drobnostmi, podle Google Maps denně 16:00–19:00 (neověřeno) |
+| 8 | Nai Yang, Nai Yang Fresh Market | [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) | Povinný bod, místní trh s jídlem a drobnostmi, podle Google Maps denně 16:00–19:00 (neověřeno) |
 | 8 | Nai Yang, pláž | [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) | Klidná pláž s restauracemi na písku, západ slunce |
 | 8 | Mai Khao, pláž s letadly | [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) | Letadla přistávají nízko nad pláží, na procházku, ne na koupání |
 | 8 | Nai Thon, pláž | [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) | Volitelně, menší klidná pláž asi 10 minut jízdy od Nai Yang |
@@ -661,19 +661,19 @@ Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen ori
 
 ### Fáze 8: Phuket, Nai Yang, pláže, letadla, trh a odlet (1 noc, 18.–19. 12.)
 
-Poslední noc v klidné vesnici Nai Yang na severu Phuketu, pár minut od letiště. Program je jen nabídka možností, v sobotu 19. 12. odlétáte ve 21:00 a den si poskládáte na místě. Noc na Phuketu je zároveň pojistka: lodě se za špatného počasí ruší.
+Poslední noc v klidné vesnici Nai Yang na severu Phuketu, pár minut od letiště. Program je nabídka možností, jen trh Nai Yang Fresh Market je povinný bod. V sobotu 19. 12. odlétáte ve 21:00 a den si poskládáte na místě. Noc na Phuketu je zároveň pojistka: lodě se za špatného počasí ruší.
 
 - **Nai Yang:** vesnice u klidné pláže s malými restauracemi přímo na písku a západy slunce, voda je mělká.
-- **Trh Nai Yang Fresh Market (volitelně):** malý místní trh s jídlem a drobnostmi, podle Google Maps denně 16:00–19:00 (neověřeno).
+- **Trh Nai Yang Fresh Market:** malý místní trh s jídlem a drobnostmi, podle Google Maps denně 16:00–19:00 (neověřeno).
 - **Letadla nad pláží (volitelně):** velká letadla přistávají nízko nad pláží u letiště, na koukání a procházku, ne na koupání.
 - **Procházky po plážích (volitelně):** lehké trasy po písku mezi plážemi Mai Khao, Nai Yang a Nai Thon, asi 4 až 6 km.
 - **Sloní lávka Observe (volitelně):** lávka bez schodů v Sakhu, slony pozorujete z plošin, bez koupání a dotyků, nerezervováno.
 
 #### Program (možnosti, vybere se na místě)
 
-Nic z toho není pevné. Pevné jsou jen lodě a odlet.
+Kromě trhu v pátek večer, který je povinný bod, nic z toho není pevné. Pevné jsou jen lodě a odlet.
 
-- **Pá 18. 12.:** loď z Koh Yao Noi, taxi z mola Bang Rong do Nai Yang (asi 19 minut, neověřeno), check-in od 14:00. Odpoledne a večer na výběr: trh Nai Yang Fresh Market od 16:00, západ slunce a večeře v restauraci na pláži.
+- **Pá 18. 12.:** loď z Koh Yao Noi, taxi z mola Bang Rong do Nai Yang (asi 19 minut, neověřeno), check-in od 14:00. Odpoledne a večer: trh Nai Yang Fresh Market od 16:00 (povinný bod), pak západ slunce a večeře v restauraci na pláži.
 - **So 19. 12. ráno:** na výběr sloní lávka Observe, procházka po pláži Mai Khao nebo Nai Yang s letadly, snídaně v Nai Yang. Odhlášení do 12:00.
 - **So 19. 12. odpoledne:** zavazadla nechat v ubytování (neověřeno), pláž nebo kavárna. Na letišti být asi v 18:00, viz Odlet.
 
@@ -685,14 +685,14 @@ Nai Yang je malá vesnice a klidná pláž, kam se jezdí na letadla, jídlo na 
 - **Voda:** prosinec je hlavní sezóna (listopad až duben), moře je klidné, mělké a méně modré než jinde. Na pláži hlídejte vlajky, v monzunu jsou silné proudy.
 - **Parkování:** ulice k pláži je úzká a končí slepě, parkuje se u prvních restaurací.
 
-#### Trh Nai Yang Fresh Market (volitelně)
+#### Trh Nai Yang Fresh Market
 
 Malý místní trh s čerstvým ovocem, zeleninou, mořskými plody, hotovými thajskými jídly, kokosovými palačinkami a drobnostmi (oblečení, hračky). Suvenýrový trh to není. Proč jít: ochutnat místní jídlo mezi místními, bez davů, bez smlouvání.
 
 - **Kde:** naproti chrámu Wat Mongkhon Wararam na cestě k pláži Nai Yang, chrám je asi 500 m od pláže vedle hotelu Proud Phuket.
 - **Kdy:** podle Google Maps (stav z 5. 11. 2026) každý den 16:00–19:00, ve čtvrtek od 12:00. Starší zdroje uvádějí jen vybrané dny: út, čt, so 12:00–20:00 (Thailand Magazine), út, čt, so, ne kolem 16:00–19:00 (Phuket 101). V pátek 18. 12. má být podle Googlu otevřeno, ověřit na místě.
 - **Pozor:** Google popisuje místo jako obchod s potravinami v retro stylu s místními produkty, hotovými jídly a vínem, takže jde možná o jiný podnik s podobným názvem. Stánky se balí kolem 18:00, jít brzy po 16:00.
-- **Sobota:** trh končí v 19:00, na letišti máte být asi v 18:00, takže se hodí spíš na pátek večer.
+- **Sobota:** trh končí v 19:00, na letišti máte být asi v 18:00, takže ho zařaďte na pátek večer.
 
 #### Letadla a procházky po plážích (volitelně)
 
@@ -745,7 +745,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 |---|---|---|---|
 | Pláž Nai Yang | must see | přibl. 8.0898, 98.2974 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0898%2C98.2974) |
 | Mai Khao, jižní konec pláže s letadly | volitelně | přibl. 8.1204, 98.3015 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1204%2C98.3015) |
-| Nai Yang Fresh Market, místní trh | volitelně | přibl. 8.0946, 98.3055 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0946%2C98.3055) |
+| Nai Yang Fresh Market, místní trh | must see | přibl. 8.0946, 98.3055 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0946%2C98.3055) |
 | Pláž Nai Thon | volitelně | přibl. 8.0580, 98.2778 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0580%2C98.2778) |
 | Wattana Bungalow (ubytování 18.–19. 12.) | ubytování | přibl. 8.0849, 98.3021 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0849%2C98.3021) |
 | Letiště Phuket (HKT), odlet 19. 12. ve 21:00 | doprava | přibl. 8.1131, 98.3167 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1131%2C98.3167) |

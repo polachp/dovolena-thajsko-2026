@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v63: Trh Nai Yang jako povinný bod (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v63/) · [Markdown](verze/v63/thajsko-bangkok-phuket.md) · [rozdíl proti v62](https://github.com/polachp/dovolena-thajsko-2026/compare/5f34977...e0cc3d0)
+
+- Trh Nai Yang Fresh Market ve fázi 8 už není volitelný, je povinný bod: ve výčtu fáze, v programu na pátek 18. 12., v bloku Trh i v tabulce Záchytné body odpadlo označení volitelně a na mapě fáze 8 je trh jako must see.
+- Hodiny trhu zůstávají neověřené (Google Maps denně 16:00–19:00, starší zdroje jen vybrané dny), proto text dál radí přijít v pátek brzy po 16:00 a ověřit to na místě.
+
 ## v62: Mapy fází 5 až 8 (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v62/) · [Markdown](verze/v62/thajsko-bangkok-phuket.md) · [rozdíl proti v61](https://github.com/polachp/dovolena-thajsko-2026/compare/5ae7eeb...5f34977)

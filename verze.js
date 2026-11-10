@@ -789,5 +789,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "5f34977",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v63",
+    "datum": "10. 11. 2026",
+    "nazev": "Trh Nai Yang jako povinný bod",
+    "zmeny": [
+      "Trh Nai Yang Fresh Market ve fázi 8 už není volitelný, je povinný bod: ve výčtu fáze, v programu na pátek 18. 12., v bloku Trh i v tabulce Záchytné body odpadlo označení volitelně a na mapě fáze 8 je trh jako must see.",
+      "Hodiny trhu zůstávají neověřené (Google Maps denně 16:00–19:00, starší zdroje jen vybrané dny), proto text dál radí přijít v pátek brzy po 16:00 a ověřit to na místě."
+    ],
+    "commit": "e0cc3d0",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
