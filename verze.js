@@ -666,5 +666,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "6ddbd9e",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v53",
+    "datum": "10. 11. 2026",
+    "nazev": "Přehledová mapa trasy na úvodu Itinerář",
+    "zmeny": [
+      "Na úvodu záložky Itinerář je přehledová mapa jižního Thajska z dat OpenStreetMap: osm kroužků s čísly fází, spojených čarou od Bangkoku po Phuket. Klepnutí na číslo otevře danou fázi.",
+      "Tabulka na úvodu Itinerář po fázích má nový sloupec Střed na mapě se souřadnicí, kde stojí kroužek fáze. Souřadnice fází 2, 4, 6 a 8 jsou dohledané a označené jako přibližné, u ostatních jsou ze sekce Záchytné body pro Google Maps.",
+      "Dlaždice mapy se stahují z internetu a knihovna Leaflet se načítá jen na stránce s mapou. Bez připojení se místo podkladu ukáže krátké upozornění a čísla fází fungují dál. Offline mapy v Google Maps zůstávají beze změny.",
+      "Build hlídá, že poslední verze má souřadnici u každé fáze. Šablona mapu ukáže jen tam, kde tabulka sloupec má, starší verze se obsahem ani vzhledem nemění."
+    ],
+    "commit": "b5b1f70",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

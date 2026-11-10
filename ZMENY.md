@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v53: Přehledová mapa trasy na úvodu Itinerář (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v53/) · [Markdown](verze/v53/thajsko-bangkok-phuket.md) · [rozdíl proti v52](https://github.com/polachp/dovolena-thajsko-2026/compare/6ddbd9e...b5b1f70)
+
+- Na úvodu záložky Itinerář je přehledová mapa jižního Thajska z dat OpenStreetMap: osm kroužků s čísly fází, spojených čarou od Bangkoku po Phuket. Klepnutí na číslo otevře danou fázi.
+- Tabulka na úvodu Itinerář po fázích má nový sloupec Střed na mapě se souřadnicí, kde stojí kroužek fáze. Souřadnice fází 2, 4, 6 a 8 jsou dohledané a označené jako přibližné, u ostatních jsou ze sekce Záchytné body pro Google Maps.
+- Dlaždice mapy se stahují z internetu a knihovna Leaflet se načítá jen na stránce s mapou. Bez připojení se místo podkladu ukáže krátké upozornění a čísla fází fungují dál. Offline mapy v Google Maps zůstávají beze změny.
+- Build hlídá, že poslední verze má souřadnici u každé fáze. Šablona mapu ukáže jen tam, kde tabulka sloupec má, starší verze se obsahem ani vzhledem nemění.
+
 ## v52: Zajímavosti: povídání o místech jako osm karet (9. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v52/) · [Markdown](verze/v52/thajsko-bangkok-phuket.md) · [rozdíl proti v51](https://github.com/polachp/dovolena-thajsko-2026/compare/4469d60...6ddbd9e)

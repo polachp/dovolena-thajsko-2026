@@ -184,17 +184,19 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 
 Trasa vede ze severu na jih a nikde se nevrací. Je to osnova: dny si poskládáte podle počasí, nálady a kondice. Každá fáze má nahoře krátký popis a seznam toho, co uvidíte, podrobnosti (program, ceny, ubytování, přesun, mapy) jsou pod tím.
 
-| Fáze | Kde | Nocí | Datum |
-|---|---|---|---|
-| 1 | Bangkok | 3 | 27.–30. 11. |
-| 2 | Sam Roi Yot, auto z Hua Hin | 3 | 30. 11.–3. 12. |
-| 3 | Prachuap Khiri Khan | 1 | 3.–4. 12. |
-| 4 | Ranong (1 noc) a Koh Phayam (3 noci) | 4 | 4.–8. 12. |
-| 5 | Khao Sok a jezero Cheow Lan | 4 | 8.–12. 12. |
-| 6 | Krabi | 2 | 12.–14. 12. |
-| 7 | Koh Yao Noi | 4 | 14.–18. 12. |
-| 8 | Phuket, Nai Yang | 1 | 18.–19. 12. |
-| | Celkem | 22 | 27. 11.–19. 12. |
+| Fáze | Kde | Nocí | Datum | Střed na mapě |
+|---|---|---|---|---|
+| 1 | Bangkok | 3 | 27.–30. 11. | 13.7465, 100.4933 |
+| 2 | Sam Roi Yot, auto z Hua Hin | 3 | 30. 11.–3. 12. | přibl. 12.2060, 100.0100 |
+| 3 | Prachuap Khiri Khan | 1 | 3.–4. 12. | 11.8165, 99.7981 |
+| 4 | Ranong (1 noc) a Koh Phayam (3 noci) | 4 | 4.–8. 12. | přibl. 9.7400, 98.4030 |
+| 5 | Khao Sok a jezero Cheow Lan | 4 | 8.–12. 12. | 8.9165, 98.5281 |
+| 6 | Krabi | 2 | 12.–14. 12. | přibl. 8.0525, 98.7525 |
+| 7 | Koh Yao Noi | 4 | 14.–18. 12. | 8.1068, 98.6225 |
+| 8 | Phuket, Nai Yang | 1 | 18.–19. 12. | přibl. 8.0900, 98.2970 |
+| | Celkem | 22 | 27. 11.–19. 12. | |
+
+Sloupec Střed na mapě říká, kde stojí kroužek fáze na přehledové mapě na úvodu záložky Itinerář. Kroužek je na jednom místě, kde spíte nebo které k fázi patří: Wat Pho (fáze 1), vesnice Bang Pu (2), kopec Khao Chong Krachok v Prachuap (3), ostrov Koh Phayam, kde strávíte 3 z 4 nocí (4), ředitelství parku Khao Sok (5), pláž Klong Muang u Vacation House (6), Pyramid Bungalow (7) a pláž Nai Yang (8). Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, ostatní jsou z tabulky v sekci Záchytné body pro Google Maps.
 
 Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Co je ještě nedořešené, je v sekci Co se ještě dořeší.
 

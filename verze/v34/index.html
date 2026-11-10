@@ -106,6 +106,18 @@ nav.rail{display:none}
 .cards .p{display:block;font-size:13px;color:var(--muted);line-height:1.4}
 .secintro{margin:0 0 14px;color:var(--muted);font-size:.95rem;max-width:62ch}
 
+/* přehledová mapa (od v53); Leaflet se načítá až na stránce, kde mapa je */
+.mapa{height:clamp(280px,55vh,440px);margin:0 0 14px;border:1px solid var(--line);border-radius:12px}
+.mapa.leaflet-container{z-index:0;isolation:isolate;background:var(--accent-soft);font-family:var(--display)}
+.mapa .leaflet-control-attribution{font-size:10px}
+.mapa-cislo span{display:grid;place-items:center;width:36px;height:36px;border-radius:50%;background:var(--surface);border:2px solid var(--accent);color:var(--accent);font-family:var(--mono);font-size:14px;font-weight:600;box-shadow:0 1px 5px rgba(0,0,0,.3);cursor:pointer}
+.mapa-cislo:hover span,.mapa-cislo:focus-visible span{background:var(--accent);color:var(--bg)}
+.mapa-cislo:focus{outline:none}
+.mapa-cislo:focus-visible span{outline:2px solid var(--accent);outline-offset:2px}
+.mapa-nic,.mapa-offline{font-family:var(--display);font-size:13px;line-height:1.4;color:var(--muted)}
+.mapa-nic{margin:0;padding:16px}
+.mapa-offline{position:absolute;left:8px;right:8px;bottom:28px;z-index:500;padding:8px 12px;border-radius:8px;background:var(--surface);border:1px solid var(--line);pointer-events:none}
+
 /* stranka */
 .crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-family:var(--mono);font-size:12px;color:var(--muted);margin-bottom:10px}
 .crumbs a{color:var(--accent);text-decoration:none}
@@ -216,9 +228,9 @@ footer a{color:var(--accent)}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=f81632dc"></script>
+<script src="../../verze.js?v=89744040"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=f81632dc"></script>
+<script src="thajsko-obsah.js?v=89744040"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -350,6 +362,92 @@ footer a{color:var(--accent)}
   });
   function vSekci(top){return STRANKY.filter(function(s){return s.top===top})}
 
+  // ---- přehledová mapa (od v53) ----
+  // Body kroužků se berou z Markdownu: tabulka na úvodu Itinerář po fázích, sloupec "Střed na mapě" (souřadnice, u dohledaných s předponou "přibl.").
+  // Verze bez toho sloupce mapu nemají a Leaflet se v nich vůbec nestahuje.
+  // Podklad: s bezplatným klíčem CARTO Voyager (data OSM, popisky latinkou), bez klíče standardní mapa OSM (popisky v Thajsku thajsky).
+  var CARTO_KLIC='';
+  var ATTR_OSM='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
+  var PODKLAD=CARTO_KLIC
+    ?{url:'https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png?key='+CARTO_KLIC,
+      attr:ATTR_OSM+' &copy; <a href="https://carto.com/attributions">CARTO</a>',max:19}
+    :{url:'https://tile.openstreetmap.org/{z}/{x}/{y}.png',attr:ATTR_OSM+' contributors',max:19};
+  var LEAFLET='https://unpkg.com/leaflet@1.9.4/dist/';
+  var mapaBody, mapaInst=null, leafletSlib=null;
+  function bodyMapy(){
+    if(mapaBody!==undefined) return mapaBody;
+    mapaBody=null;
+    var s=STRANKY.filter(function(x){return x.id==='prehled-trasy'})[0], out=[];
+    if(s) s.uzly.forEach(function(n){
+      if(n.nodeType!==1) return;
+      var tbl=n.tagName==='TABLE'?[n]:Array.prototype.slice.call(n.querySelectorAll('table'));
+      tbl.forEach(function(t){
+        var hl=Array.prototype.map.call(t.querySelectorAll('th'),function(h){return h.textContent.trim()}), ix=hl.indexOf('Střed na mapě');
+        if(ix<0) return;
+        Array.prototype.forEach.call(t.querySelectorAll('tbody tr'),function(tr){
+          var td=tr.children, f=td[0]?td[0].textContent.trim():'', m=td[ix]?td[ix].textContent.match(/(\d{1,2}\.\d+),\s*(\d{2,3}\.\d+)/):null;
+          if(/^\d+$/.test(f)&&m) out.push({faze:+f,lat:+m[1],lon:+m[2]});
+        });
+      });
+    });
+    if(out.length>1){out.sort(function(a,b){return a.faze-b.faze}); mapaBody=out}
+    return mapaBody;
+  }
+  function nactiLeaflet(){
+    if(window.L&&window.L.map) return Promise.resolve();
+    if(leafletSlib) return leafletSlib;
+    leafletSlib=new Promise(function(ok,chyba){
+      var css=document.createElement('link'), js=document.createElement('script'), hotovo=0;
+      function dalsi(){if(++hotovo===2) ok()}
+      function selhalo(){leafletSlib=null; chyba(new Error('Leaflet se nenačetl'))}
+      css.rel='stylesheet'; css.href=LEAFLET+'leaflet.css'; css.onload=dalsi; css.onerror=selhalo;
+      js.src=LEAFLET+'leaflet.js'; js.onload=dalsi; js.onerror=selhalo;
+      document.head.appendChild(css); document.head.appendChild(js);
+    });
+    return leafletSlib;
+  }
+  function zrusMapu(){if(mapaInst){mapaInst.remove(); mapaInst=null}}
+  function otevriHash(h){location.hash=h; zHashe(h,true); history.replaceState(null,'','#'+h)}
+  function mapaPrehled(el,body){
+    nactiLeaflet().then(function(){
+      if(!document.body.contains(el)) return; // mezitím se přešlo jinam
+      zrusMapu();
+      var nazvy={}, dotyk=L.Browser.mobile;
+      STRANKY.forEach(function(s){if(s.faze) nazvy[s.faze]=s.nazev});
+      // na telefonu se mapa jedním prstem neposouvá, aby nebrala posouvání stránky; kroužky se klepají
+      var map=L.map(el,{scrollWheelZoom:false,boxZoom:false,dragging:!dotyk,touchZoom:!dotyk,doubleClickZoom:!dotyk,zoomControl:!dotyk});
+      mapaInst=map;
+      var ok=0, chyb=0, hlaseni=null;
+      L.tileLayer(PODKLAD.url,{attribution:PODKLAD.attr,maxZoom:PODKLAD.max}).addTo(map)
+        .on('tileload',function(){ok++; if(hlaseni){hlaseni.remove(); hlaseni=null}})
+        .on('tileerror',function(){
+          chyb++;
+          if(!ok&&!hlaseni&&chyb>=3){
+            hlaseni=document.createElement('div'); hlaseni.className='mapa-offline';
+            hlaseni.textContent='Podklad mapy se nenačetl, chybí připojení. Čísla fází fungují dál.';
+            el.appendChild(hlaseni);
+          }
+        });
+      var pts=body.map(function(b){return [b.lat,b.lon]});
+      var barva=(getComputedStyle(document.documentElement).getPropertyValue('--accent')||'').trim()||'#0d6b67';
+      L.polyline(pts,{color:barva,weight:3,opacity:.85,interactive:false}).addTo(map);
+      body.forEach(function(b){
+        var nazev=nazvy[b.faze]||('Fáze '+b.faze);
+        var m=L.marker([b.lat,b.lon],{
+          icon:L.divIcon({className:'mapa-cislo',html:'<span>'+b.faze+'</span>',iconSize:[36,36],iconAnchor:[18,18]}),
+          title:nazev,keyboard:true,riseOnHover:true
+        });
+        // prvek značky vzniká až po fitBounds, proto role a popisek až při přidání na mapu
+        m.on('add',function(){var e=m.getElement(); if(e){e.setAttribute('role','button'); e.setAttribute('aria-label',nazev)}});
+        m.on('click',function(){otevriHash('faze-'+b.faze)});
+        m.addTo(map);
+      });
+      map.fitBounds(L.latLngBounds(pts),{padding:[34,34]});
+    },function(){
+      if(document.body.contains(el)) el.innerHTML='<p class="mapa-nic">Mapa se nenačetla, zřejmě chybí připojení. Fáze jsou níže v kartách a offline mapy zůstávají v Google Maps.</p>';
+    });
+  }
+
   // ---- vykresleni ----
   var tabs=document.getElementById('tabs'), rail=document.getElementById('rail'), route=document.getElementById('route');
   var sest=SEKCE.filter(function(s){return !(s.volitelna&&!vSekci(s.id).length)}).length>=6; // od v46 šest záložek
@@ -374,14 +472,19 @@ footer a{color:var(--accent)}
   }
   function rozcestnik(top){
     var sek=SEKCE.filter(function(x){return x.id===top})[0], polozky=vSekci(top);
+    var body=top==='itin'?bodyMapy():null; // přehledová mapa jen tam, kde ji Markdown verze má
+    zrusMapu();
     main.innerHTML='';
     var h=document.createElement('div');
     h.innerHTML='<h2>'+esc(sek.nazev)+'</h2><p class="secintro">'+esc(sek.popis)+'</p>'+
+                (body?'<div class="mapa" id="mapa-prehled" role="region" aria-label="Přehledová mapa trasy"></div>':'')+
                 '<ul class="cards">'+polozky.map(kartaHtml).join('')+'</ul>';
     main.appendChild(h);
+    if(body) mapaPrehled(h.querySelector('#mapa-prehled'),body);
     route.hidden=(top!=='itin');
   }
   function stranka(s){
+    zrusMapu();
     main.innerHTML='';
     route.hidden=true;
     var sek=SEKCE.filter(function(x){return x.id===s.top})[0];
