@@ -782,12 +782,15 @@ footer a{color:var(--accent)}
     art.querySelectorAll('table').forEach(function(t){
       var hr=t.querySelector('thead tr'); if(!hr) return;
       var hl=Array.prototype.map.call(hr.children,function(h){return h.textContent.trim()});
-      var ith=hl.indexOf('Thajsko'), icz=hl.indexOf('Česko');
+      var ith=-1, icz=-1;
+      hl.forEach(function(x,i){if(/^Thajsko/.test(x)) ith=i; else if(/^Česko/.test(x)) icz=i});
       if(ith<0||icz<0) return;
       // stránka se při návratu vykresluje ze stejných uzlů: sloupec Zbývá a přepínač přidat jen jednou
       var radky=[];
       if(!hr.querySelector('th.zbyva-h')){var th=document.createElement('th'); th.className='zbyva-h'; th.textContent='Zbývá'; hr.appendChild(th)}
       hr.children[ith].classList.add('cas-th'); hr.children[icz].classList.add('cas-cz');
+      // popisek sloupce s termínem (v Markdownu zůstává jen Thajsko a Česko, podle toho se tabulka pozná)
+      hr.children[ith].innerHTML='Thajsko<br>termín zrušení'; hr.children[icz].innerHTML='Česko<br>termín zrušení';
       Array.prototype.forEach.call(t.querySelectorAll('tbody tr'),function(tr){
         var c=tr.children, td=tr.querySelector('td.zbyva');
         if(c[ith]) c[ith].classList.add('cas-th');
