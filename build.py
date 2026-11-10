@@ -88,8 +88,48 @@ def zkontroluj_kam(v: dict, md: str) -> None:
         raise SystemExit(f"{v['id']}: hlavicka.kam nesedí na nadpisy sekcí. Chybí v kam: {chybi}. Nemá nadpis: {navic}.")
 
 
+def souradnice_fazi(md: str):
+    """Sloupec "Střed na mapě" v tabulce na úvodu sekce Itinerář po fázích: {číslo fáze: (lat, lon) nebo None}.
+    Vrací None, když sekce nebo sloupec chybí (verze do v52 přehledovou mapu nemají)."""
+    m = re.search(r"(?m)^## Itinerář po fázích\s*$", md)
+    if not m:
+        return None
+    uvod = re.split(r"(?m)^### ", md[m.end():], maxsplit=1)[0]
+    radky = [r for r in uvod.split("\n") if r.startswith("|")]
+    if not radky:
+        return None
+    hlavicka = [c.strip() for c in radky[0].strip().strip("|").split("|")]
+    if "Střed na mapě" not in hlavicka:
+        return None
+    ix = hlavicka.index("Střed na mapě")
+    out = {}
+    for r in radky[2:]:
+        bunky = [c.strip() for c in r.strip().strip("|").split("|")]
+        if len(bunky) <= ix or not bunky[0].isdigit():
+            continue  # řádek Celkem
+        s = re.search(r"(\d{1,2}\.\d+),\s*(\d{2,3}\.\d+)", bunky[ix])
+        out[int(bunky[0])] = (float(s.group(1)), float(s.group(2))) if s else None
+    return out
+
+
+def zkontroluj_mapu(v: dict, md: str, povinna: bool) -> None:
+    """Přehledová mapa bere středy fází z Markdownu. Poslední verze musí mít souřadnici u každé fáze, jinak by mapa
+    tiše chyběla nebo by některý kroužek nestál nikde. Starší verze sloupec mít nemusí, ale když ho mají, musí sedět."""
+    body = souradnice_fazi(md)
+    if body is None:
+        if povinna:
+            raise SystemExit(f"{v['id']}: v tabulce na úvodu Itinerář po fázích chybí sloupec Střed na mapě, přehledová mapa by se nezobrazila.")
+        return
+    fazi = len(re.findall(r"(?m)^### Fáze \d+:", md))
+    chybi = [i for i in range(1, fazi + 1) if body.get(i) is None]
+    navic = [i for i in body if i < 1 or i > fazi]
+    mimo = [i for i, b in body.items() if b and not (5.0 <= b[0] <= 21.0 and 97.0 <= b[1] <= 106.0)]
+    if chybi or navic or mimo:
+        raise SystemExit(f"{v['id']}: sloupec Střed na mapě nesedí na fáze. Bez souřadnice: {chybi}. Fáze navíc: {navic}. Mimo Thajsko: {mimo}.")
+
+
 def main():
-    verejne = [{**{k: v.get(k) for k in ("id", "datum", "nazev", "zmeny", "commit")}, "md": md_soubor(v)} for v in VERZE]
+    verejne =[{**{k: v.get(k) for k in ("id", "datum", "nazev", "zmeny", "commit")}, "md": md_soubor(v)} for v in VERZE]
     (ROOT / "verze.js").write_text(
         "// Generováno skriptem build.py ze src/verze.json.\nwindow.THAJSKO_VERZE = "
         + json.dumps(verejne, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
@@ -98,6 +138,7 @@ def main():
         d = ROOT / "verze" / v["id"]
         md = (d / md_soubor(v)).read_text(encoding="utf-8")
         zkontroluj_kam(v, md)
+        zkontroluj_mapu(v, md, v is VERZE[-1])
         (d / "thajsko-obsah.js").write_text(obsah_js(md), encoding="utf-8")
         (d / "index.html").write_text(stranka(v, "../../"), encoding="utf-8")
 
