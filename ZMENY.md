@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v66: Přesun dál s datem a časem v nadpisu (10. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v66/) · [Markdown](verze/v66/thajsko-bangkok-phuket.md) · [rozdíl proti v65](https://github.com/polachp/dovolena-thajsko-2026/compare/4bf18b6...700ad86)
+
+- Každý blok Přesun dál ve fázích 1 až 7 má v nadpisu den odjezdu a přibližnou část dne, například Přesun dál (Po 30. 11., brzy ráno). Blok Odlet ve fázi 8 má stejně So 19. 12., večer. Odkazy viz Přesun dál a viz Odlet fungují dál.
+- Z textu bloků se vypustilo datum na začátku, které je teď v nadpisu.
+- Fáze 4: Přesun dál uvádí odjezd z ostrova dopoledne podle check-outu do 11:00.
+- Fáze 5: z bloku Přesun dál zmizela věta o příjezdu z Koh Phayam 8. 12. (první večer jen večeře ve vesnici), přesunula se do bloku Ve vesnici. Blok nově říká, že po noci ve vesnici se jede ráno, po noci na jezeře odpoledne.
+
 ## v65: Odpočet a přepínač času u termínů zrušení ubytování (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v65/) · [Markdown](verze/v65/thajsko-bangkok-phuket.md) · [rozdíl proti v64](https://github.com/polachp/dovolena-thajsko-2026/compare/89d0df6...4bf18b6)

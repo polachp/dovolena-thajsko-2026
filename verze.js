@@ -826,5 +826,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "4bf18b6",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v66",
+    "datum": "10. 11. 2026",
+    "nazev": "Přesun dál s datem a časem v nadpisu",
+    "zmeny": [
+      "Každý blok Přesun dál ve fázích 1 až 7 má v nadpisu den odjezdu a přibližnou část dne, například Přesun dál (Po 30. 11., brzy ráno). Blok Odlet ve fázi 8 má stejně So 19. 12., večer. Odkazy viz Přesun dál a viz Odlet fungují dál.",
+      "Z textu bloků se vypustilo datum na začátku, které je teď v nadpisu.",
+      "Fáze 4: Přesun dál uvádí odjezd z ostrova dopoledne podle check-outu do 11:00.",
+      "Fáze 5: z bloku Přesun dál zmizela věta o příjezdu z Koh Phayam 8. 12. (první večer jen večeře ve vesnici), přesunula se do bloku Ve vesnici. Blok nově říká, že po noci ve vesnici se jede ráno, po noci na jezeře odpoledne."
+    ],
+    "commit": "700ad86",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

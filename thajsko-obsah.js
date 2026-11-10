@@ -242,7 +242,7 @@ Většinu cest zvládnete metrem (modrá linka), Grabem a pěšky. Skytrain (BTS
 
 [Ti Thong Hostel](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY), 27.–30. 11., potvrzeno, rezervováno přes Agodu. Check-in od 14:00, check-out do 12:00. Zrušit zdarma do 22. 11. 23:59 thajského času (v Česku 22. 11. v 17:59).
 
-#### Přesun dál
+#### Přesun dál (Po 30. 11., brzy ráno)
 
 Vlak č. 43 v 7:30 z nádraží Krung Thep Aphiwat do Hua Hin (příjezd asi 10:31, od asi 412 THB). Na nádraží Grabem nebo metrem do Bang Sue. Jízdenky se prodávají zhruba 30 dní předem (sekce Doprava).
 
@@ -302,7 +302,7 @@ Vstup do parku Khao Sam Roi Yot 200 THB na osobu a platí jen v den zakoupení. 
 
 [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs), 30. 11.–3. 12., potvrzeno, rezervováno přes Agodu. Check-in od 14:00, check-out do 12:00. Zrušit zdarma do 28. 11. 23:59 thajského času (v Česku 28. 11. v 17:59). Ve vesnici Sam Roi Yot asi 7 km vzdušnou čarou severně od Bang Pu, pár minut pěšky k pláži.
 
-#### Přesun dál
+#### Přesun dál (Čt 3. 12., dopoledne)
 
 Auto zpět do Hua Hin, vlak č. 43 v 10:31 do Prachuap Khiri Khan (asi 1 h 10 min). Jízdenka na tento krátký úsek jde nejspíš koupit až den předem, tedy 2. 12. (sekce Doprava).
 
@@ -342,7 +342,7 @@ Malé klidné město u zálivu s promenádou. Jedno odpoledne a jedno ráno se d
 
 [Jungle Cafe and Guesthouse](https://www.google.com/maps/search/?api=1&query=Jungle%20Cafe%20and%20Guesthouse%20Prachuap%20Khiri%20Khan), 3.–4. 12., potvrzeno, rezervováno přes Agodu. Check-in od 14:00. Je u moře, ale mnohem dál od nádraží, takže počítejte s přesunem na nádraží (vzdálenost si ověřte v Mapách). Zrušit zdarma do 29. 11. 23:59 thajského času (v Česku 29. 11. v 17:59).
 
-#### Přesun dál
+#### Přesun dál (Pá 4. 12., před polednem)
 
 Vlak č. 43 v 11:41, v Chumphonu ve 14:05. Jízdenku kupte co nejdřív, jde nejspíš až den předem, tedy 3. 12. (sekce Doprava). Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia. Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
 
@@ -409,9 +409,9 @@ Jeden průvodce ho v prosinci viděl při brodění u Ao Khao Kwai, záruka žá
 
 [Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) u Ao Khao Kwai, 5.–8. 12., potvrzeno, rezervováno přes Agodu. Check-in od 13:00, check-out do 11:00. Zrušit zdarma do 27. 11. 23:59 thajského času (v Česku 27. 11. v 17:59). Asi 5 minut pěšky na pláž, bazén a restaurace. Na ostrově jsou jen dva bankomaty s poplatkem asi 220 THB (údaj z ledna 2024). Víkend 5.–7. 12. je prodloužený, na ostrově bude víc Thajců (sekce Počasí, teploty a deště).
 
-#### Přesun dál
+#### Přesun dál (Út 8. 12., dopoledne)
 
-Út 8. 12. lodí do Ranongu (jezdí zhruba každou hodinu) a autobusem nebo minivanem do Khao Sok (142 km, nejrychleji asi 2 h 50 min, spoje zhruba 8:00–18:15). Celkem s lodí 4–5 hodin. Celá doprava se dá objednat na ostrově v přístavu na místě, ideálně 1 až 2 dny předem.
+Z ostrova vyrazte dopoledne, check-out je do 11:00. Lodí do Ranongu (jezdí zhruba každou hodinu) a autobusem nebo minivanem do Khao Sok (142 km, nejrychleji asi 2 h 50 min, spoje zhruba 8:00–18:15). Celkem s lodí 4–5 hodin. Celá doprava se dá objednat na ostrově v přístavu na místě, ideálně 1 až 2 dny předem.
 
 #### Mapy
 
@@ -456,6 +456,7 @@ Přespání na jezeře je rozhodnuté. Noc 10.–11. nebo 11.–12. 12. se vyber
 
 #### Ve vesnici (vybrat na místě)
 
+- **Út 8. 12. večer:** příjezd z Koh Phayam, první večer jen večeře ve vesnici.
 - **Stezky u ředitelství:** mapu dá návštěvnické centrum.
 - **Tubing po řece Sok:** asi 2 hodiny, 300–950 THB. V prosinci může být řeka příliš mělká, zeptejte se.
 - **Kánoe nebo vor:** 400–950 THB na osobu.
@@ -499,9 +500,9 @@ Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený
 
 Noci 10.–12. 12. zatím nejsou rezervované. Jedna z nich je na jezeře (viz blok Noc na jezeře), druhá ve vesnici. Noc ve vesnici se rozhodne později, jestli se rezervuje předem, nebo hledá na místě, až bude jasná noc na jezeře. Při hledání bylo v Khao Sok hodně míst obsazených a 10. 12. je státní svátek. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
 
-#### Přesun dál
+#### Přesun dál (So 12. 12., ráno nebo odpoledne)
 
-Út 8. 12. příjezd z Koh Phayam, první večer jen večeře ve vesnici. So 12. 12. minivan do Krabi (požádejte o vysazení v Ao Nang, vysazení podle spoje je neověřené), 3–4 h (někdy až 5), spoje zhruba 7:30–16:30, den předem rezervovat. Když bude noc na jezeře ta poslední, po návratu kolem poledne by měl vyjít odpolední spoj, ověřte u organizátora.
+Minivan do Krabi (požádejte o vysazení v Ao Nang, vysazení podle spoje je neověřené), 3–4 h (někdy až 5), spoje zhruba 7:30–16:30, den předem rezervovat. Po noci ve vesnici jeďte ráno. Když bude noc na jezeře ta poslední, po návratu kolem poledne by měl vyjít odpolední spoj, ověřte u organizátora.
 
 #### Mapy
 
@@ -545,9 +546,9 @@ Skútr se půjčuje v Ao Nang, kde je půjčoven hodně, od 150 do 400 THB za de
 
 [Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi), 49/1 Moo 3, Tambol Nongthalay, Krabi 81000 (Klong Muang pláž), tel. +66 89 971 1883. 12.–14. 12. (2 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, dvoulůžkový pokoj Standard s manželskou postelí. Příjezd v sobotu 12. 12. mezi 14:00 a 22:00, odjezd v pondělí 14. 12. mezi 7:00 a 12:00. Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku 4. 12. v 17:59). Booking.com strhne částku z karty automaticky, kdy přesně, neověřeno. Číslo rezervace a PIN jsou v potvrzovacím e-mailu. Malý penzion o 5 pokojích s klimatizací, u pláže Klong Muang (podle Trip.com do 100 m), asi 5 minut autem od pláže Tubkaek a asi 11 km od Ao Nang. Parkování zdarma.
 
-#### Přesun dál
+#### Přesun dál (Po 14. 12., kolem poledne)
 
-Po 14. 12. na Koh Yao Noi z mola Nopparat Thara. Z ubytování taxi asi 25 minut (od Tub Kaek, neověřeno), rychlá loď 30 až 45 minut, od 650 THB, vystupuje se v Manoh. Odjezdy podle Travelfish (neověřeno): Green Planet 10:00 a 11:20, Bundhaya 10:30 a 15:00, Koh Yao Sun Smile 12:00 a 14:00, Supaporn 13:20. Podle Phuket Ferry (neověřeno) jede Green Planet v 10:00 a 11:20 a Koh Yao Sun Smile ve 12:00, 14:00 a 16:00, cena 600 až 650 THB, plavba 30 až 40 minut. Lístek jde koupit online na [phuketferry.com](https://www.phuketferry.com/nopparat-thara-pier-ao-nang.html) s okamžitým potvrzením a platbou kartou nebo PromptPay, trasu nabízejí i srovnávače Direct Ferries a Ferryscanner (přirážka neověřená). Jestli se dá koupit i na molu nebo přes hostitele, zdroje neuvádějí. Na 14. 12. zkuste koupit online spoj kolem 11:00 až 12:00, jinak lístek den až 2 dny předem, nejezděte poslední lodí. Taxi na molo domluvte předem, třeba přes hostitele.
+Na Koh Yao Noi z mola Nopparat Thara. Z ubytování taxi asi 25 minut (od Tub Kaek, neověřeno), rychlá loď 30 až 45 minut, od 650 THB, vystupuje se v Manoh. Odjezdy podle Travelfish (neověřeno): Green Planet 10:00 a 11:20, Bundhaya 10:30 a 15:00, Koh Yao Sun Smile 12:00 a 14:00, Supaporn 13:20. Podle Phuket Ferry (neověřeno) jede Green Planet v 10:00 a 11:20 a Koh Yao Sun Smile ve 12:00, 14:00 a 16:00, cena 600 až 650 THB, plavba 30 až 40 minut. Lístek jde koupit online na [phuketferry.com](https://www.phuketferry.com/nopparat-thara-pier-ao-nang.html) s okamžitým potvrzením a platbou kartou nebo PromptPay, trasu nabízejí i srovnávače Direct Ferries a Ferryscanner (přirážka neověřená). Jestli se dá koupit i na molu nebo přes hostitele, zdroje neuvádějí. Na 14. 12. zkuste koupit online spoj kolem 11:00 až 12:00, jinak lístek den až 2 dny předem, nejezděte poslední lodí. Taxi na molo domluvte předem, třeba přes hostitele.
 
 #### Mapy
 
@@ -625,9 +626,9 @@ Druhá rezervace na stejné noci: **Tabeak View Point** (Booking.com), pokoj s o
 
 Zvažovaná klidnější alternativa: Namtok Bungalows u Tha Khao (v džungli u skoro prázdné pláže, ventilátor, klimatizace za příplatek, dál od restaurací), nezarezervováno. Západní pobřeží jsme vyřadili, protože tam nejsou pláže ke koupání.
 
-#### Přesun dál
+#### Přesun dál (Pá 18. 12., kolem poledne)
 
-Pá 18. 12. rychlou lodí z Koh Yao Noi na molo Bang Rong na severovýchodě Phuketu, odtud taxi do Nai Yang (ubytování Wattana Bungalow, fáze 8). Časy a ceny jsou neověřené pro 18. 12., zdroje se v časech liší a provozovatelé je mění bez upozornění.
+Rychlou lodí z Koh Yao Noi na molo Bang Rong na severovýchodě Phuketu, odtud taxi do Nai Yang (ubytování Wattana Bungalow, fáze 8). Časy a ceny jsou neověřené pro 18. 12., zdroje se v časech liší a provozovatelé je mění bez upozornění.
 
 Dvě mola, ze kterých se dá jet:
 
@@ -727,9 +728,9 @@ Sloní útočiště Phuket Elephant Care, program Observe (v Google Maps Phuket 
 - **Národní park Sirinat (spíš ne):** vstup 200 THB za dospělého cizince, 100 THB za dítě, otevřeno 8:30–16:30 (jinde 8:00), správa parku je u pláže Nai Yang. Jedna recenze píše, že před 8:00 a po 16:00 se neplatí (neověřeno). Prkenná stezka v mangrovech je podle zdroje u správy parku, přesný začátek jsme nenašli. Park jsme kvůli odpadkům jako cíl procházky vyřadili.
 - **Phuket Town:** původní plán (Thalang Road, mookata, nedělní Walking Street) je ve [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md).
 
-#### Odlet
+#### Odlet (So 19. 12., večer)
 
-So 19. 12. let EY 413 z Phuketu (HKT) ve 21:00, Terminal I (podle e-ticketu), v Abu Dhabi přestup na EY 155 v neděli 20. 12. ve 2:40, přílet do Prahy v 6:15. Z ubytování se odhlašuje do 12:00, do odletu zbývá asi 9 hodin: zavazadla nechat v ubytování (neověřeno, inzerát uvádí úschovu zavazadel), nebo je vzít na letiště.
+Let EY 413 z Phuketu (HKT) ve 21:00, Terminal I (podle e-ticketu), v Abu Dhabi přestup na EY 155 v neděli 20. 12. ve 2:40, přílet do Prahy v 6:15. Z ubytování se odhlašuje do 12:00, do odletu zbývá asi 9 hodin: zavazadla nechat v ubytování (neověřeno, inzerát uvádí úschovu zavazadel), nebo je vzít na letiště.
 
 Na letiště dorazit aspoň 3 hodiny před odletem, tedy asi v 18:00 (doporučení ze sekce Etihad Airways, ne pravidlo Etihadu). Online odbavení se otevírá 30 hodin před odletem, to vychází asi na 18. 12. odpoledne (sekce Etihad Airways). Z Wattana Bungalow na letiště je podle inzerátu asi 2,8 km a 7 minut autem, Grabem, Boltem nebo taxi (cena a dostupnost neověřené).
 
