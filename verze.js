@@ -727,5 +727,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "5c7ac57",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v58",
+    "datum": "10. 11. 2026",
+    "nazev": "Mapy fází 2 až 4",
+    "zmeny": [
+      "Fáze 2 (Sam Roi Yot), fáze 3 (Prachuap Khiri Khan) a fáze 4 (Ranong a Koh Phayam) mají nahoře pod popisem mapu s body. Must see, volitelné body a ubytování s dopravou jsou rozlišené barvou a tvarem, klepnutí na bod ukáže název a odkaz do Google Maps.",
+      "Blok Mapy ve fázích 2 až 4 je nově tabulka (místo, typ, souřadnice, odkaz do Map) a mapa se kreslí z ní. Fáze 2 má 8 bodů, fáze 3 má 5 a fáze 4 má 12. Souřadnice dohledané z veřejných zdrojů jsou označené přibl.",
+      "Ve fázi 4 jsou mangrovy u Ao Khao Kwai mezi must see, jejich poloha je ale jen podle popisu průvodců a na místě se ověří.",
+      "Jeskyně Phra Prathun a půjčovna aut v Hua Hin na mapě nejsou, protože se jejich polohu nepodařilo dohledat. Odkazy do Map zůstaly v textu.",
+      "První pohled na mapu fáze ukáže u rozlehlých fází (Sam Roi Yot, Koh Phayam) hlavní místo pobytu: okruh se zvětšuje, dokud v něm nejsou aspoň tři body. Mapa s nejvýš šesti body ukáže rovnou všechno. Zbytek ukáže tlačítko Zobrazit vše."
+    ],
+    "commit": "ed5dbf4",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

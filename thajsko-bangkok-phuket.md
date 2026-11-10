@@ -309,7 +309,20 @@ Auto zpět do Hua Hin, vlak č. 43 v 10:31 do Prachuap Khiri Khan (asi 1 h 10 mi
 
 #### Mapy
 
-[Bang Pu, Khao Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bang%20Pu,%20Khao%20Sam%20Roi%20Yot%20National%20Park) · [půjčovna aut Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin,%20Soi%20Nong%20Kae) · [mokřad Bueng Bua](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot%20boardwalk) · [jeskyně Phraya Nakhon](https://www.google.com/maps/search/?api=1&query=Phraya%20Nakhon%20Cave) · [vyhlídka Khao Daeng](https://www.google.com/maps/search/?api=1&query=Khao%20Daeng%20Viewpoint) · [Kui Buri, Elephant Observatory](https://www.google.com/maps/search/?api=1&query=12.1385,99.6467)
+Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
+
+| Místo | Typ | Souřadnice | Odkaz do Map |
+|---|---|---|---|
+| Mokřad Bueng Bua, dřevěná lávka | must see | přibl. 12.2441, 99.9328 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2441%2C99.9328) |
+| Jeskyně Phraya Nakhon | must see | přibl. 12.2060, 100.0104 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2060%2C100.0104) |
+| Chrám Wat Khao Daeng a stezka na vyhlídku Khao Daeng | must see | přibl. 12.1286, 99.9537 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.1286%2C99.9537) |
+| Divocí sloni v Kui Buri (pozorovací místo Huai Luek) | must see | 12.1385, 99.6467 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.1385%2C99.6467) |
+| Pláž Laem Sala (začátek stezky k jeskyni) | volitelně | přibl. 12.2036, 100.0139 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2036%2C100.0139) |
+| Sam Roi Yot Sea Sight Resort | ubytování | přibl. 12.2453, 99.9805 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) |
+| Bang Pu, odtud se jde pěšky k jeskyni | doprava | přibl. 12.2067, 100.0095 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2067%2C100.0095) |
+| Nádraží Hua Hin | doprava | přibl. 12.5673, 99.9547 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5673%2C99.9547) |
+
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Chrám Wat Khao Daeng a začátek stezky na vyhlídku jsou jeden bod, vyhlídka je od něj kus do kopce. Ubytování je umístěné podle polohy v rezervačním portálu, přesné místo otevře odkaz do Map. Polohu jeskyně Phra Prathun a půjčovny aut se spolehlivě dohledat nepodařilo, proto nejsou na mapě: [jeskyně Phra Prathun](https://www.google.com/maps/search/?api=1&query=Phra%20Prathun%20Cave%20Sam%20Roi%20Yot), [půjčovna aut Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin,%20Soi%20Nong%20Kae).
 
 ### Fáze 3: Prachuap Khiri Khan, hulmani a chrám s opicemi (1 noc, 3.–4. 12.)
 
@@ -334,7 +347,17 @@ Vlak č. 43 v 11:41, v Chumphonu ve 14:05. Jízdenku kupte co nejdřív, jde nej
 
 #### Mapy
 
-[Prachuap Khiri Khan](https://www.google.com/maps/search/?api=1&query=Prachuap%20Khiri%20Khan) · [Khao Chong Krachok](https://www.google.com/maps/search/?api=1&query=11.8165,99.7981) · [pláž Ao Manao](https://www.google.com/maps/search/?api=1&query=Ao%20Manao%20Beach,%20Prachuap%20Khiri%20Khan)
+Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
+
+| Místo | Typ | Souřadnice | Odkaz do Map |
+|---|---|---|---|
+| Pláž Ao Manao (hulmani) | must see | přibl. 11.7750, 99.8056 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.7750%2C99.8056) |
+| Khao Chong Krachok, chrám a makakové | must see | 11.8165, 99.7981 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) |
+| Promenáda u zálivu (střed města) | must see | přibl. 11.8170, 99.8000 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8170%2C99.8000) |
+| Jungle Cafe and Guesthouse | ubytování | přibl. 11.8044, 99.7994 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8044%2C99.7994) |
+| Nádraží Prachuap Khiri Khan | doprava | přibl. 11.8078, 99.7938 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8078%2C99.7938) |
+
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Promenáda je dlouhý pás podél zálivu, bod je jen u středu města. Ubytování Jungle Cafe and Guesthouse (Beach Road 44/5) je na mapě podle polohy kavárny Jungle Cafe v sousedním domě, ze které majitel odkazuje do Map. Booking.com uvádí od ubytování asi 1,5 km ke Khao Chong Krachok, což sedí.
 
 ### Fáze 4: Ranong a Koh Phayam (1 noc v Ranongu a 3 noci na ostrově, 4.–8. 12.)
 
@@ -391,7 +414,24 @@ Jeden průvodce ho v prosinci viděl při brodění u Ao Khao Kwai, záruka žá
 
 #### Mapy
 
-[Ranong](https://www.google.com/maps/search/?api=1&query=Ranong) · [horké prameny Raksa Warin](https://www.google.com/maps/search/?api=1&query=Raksawarin%20Hot%20Springs,%20Ranong) · [molo Ranong Pier](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier,%20Koh%20Phayam%20boats) · [Koh Phayam](https://www.google.com/maps/search/?api=1&query=Koh%20Phayam) · [Ao Yai (Long Beach)](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Long%20Beach,%20Koh%20Phayam) · [Ao Khao Kwai (Buffalo Bay)](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai,%20Koh%20Phayam) · [Ao Kwang Peeb (Monkey Bay)](https://www.google.com/maps/search/?api=1&query=Ao%20Kwang%20Peeb,%20Koh%20Phayam)
+Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
+
+| Místo | Typ | Souřadnice | Odkaz do Map |
+|---|---|---|---|
+| Horké prameny Raksa Warin v Ranongu | must see | 9.9586, 98.6500 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9586%2C98.6500) |
+| Ao Yai (Long Beach), střed pláže | must see | 9.7237, 98.3929 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7237%2C98.3929) |
+| Ao Khao Kwai (Buffalo Bay), severní pláž u Hippie Baru | must see | přibl. 9.7634, 98.4080 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7634%2C98.4080) |
+| Hin Talu, skalní oblouky | must see | 9.7467, 98.4053 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7467%2C98.4053) |
+| Kajak v mangrovech, jižní konec zátoky Ao Khao Kwai | must see | přibl. 9.7440, 98.4045 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7440%2C98.4045) |
+| Ao Kwang Peeb, skrytá zátoka | volitelně | přibl. 9.7703, 98.4109 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7703%2C98.4109) |
+| Chrám Wat Koh Phayam u mola | volitelně | 9.7452, 98.4207 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7452%2C98.4207) |
+| Flower Power Village (ubytování 5.–8. 12.) | ubytování | 9.7596, 98.4108 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7596%2C98.4108) |
+| Tobedzz Hotel (ubytování 4.–5. 12.) | ubytování | 9.9552, 98.6374 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9552%2C98.6374) |
+| Autobusové nádraží Ranong | doprava | přibl. 9.9551, 98.6388 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9551%2C98.6388) |
+| Molo Ranong Pier (lodě na Koh Phayam) | doprava | přibl. 9.9475, 98.5988 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9475%2C98.5988) |
+| Molo Koh Phayam (příjezd na ostrov) | doprava | přibl. 9.7404, 98.4226 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7404%2C98.4226) |
+
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Ao Yai i Ao Khao Kwai jsou dlouhé pláže, bod je jen na jednom místě. Poloha mangrovů je podle popisů v průvodcích (jižní konec zátoky, kde se do ní vlévá říčka), přesné místo a půjčovnu kajaků zjistěte na recepci. Autobusové nádraží a obě mola mají polohu z jednoho zdroje. Flower Power Village a Tobedzz Hotel jsou na mapě podle kódů míst z Google Maps (QC56+R8 a XJ4P+3X). Flower Power sedí i na vzdálenosti 0,5 km od Ao Khao Kwai a 1,2 km od Ao Kwang Peeb, Tobedzz je asi 150 m od autobusového nádraží.
 
 ### Fáze 5: Khao Sok a jezero Cheow Lan (4 noci, 8.–12. 12.)
 

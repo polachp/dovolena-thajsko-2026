@@ -1,0 +1,716 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Thajsko Bangkok–Phuket</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;600;700&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Mobile first, stromova navigace: nadsekce -> seznam polozek -> jedna stranka. */
+:root{
+  --bg:#f2f4f0; --surface:#ffffff; --ink:#1a2420; --muted:#5b6862; --line:#d7ddd7;
+  --accent:#0d6b67; --accent-soft:#dcecea; --saffron:#b9770b; --saffron-soft:#f6ead2;
+  --display:"Familjen Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --body:"Literata", Georgia, "Times New Roman", serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --pad:max(16px,env(safe-area-inset-left,0px));
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
+  --accent:#5cc2bb; --accent-soft:#16312f; --saffron:#e3a63d; --saffron-soft:#33280f; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
+  --accent:#5cc2bb; --accent-soft:#16312f; --saffron:#e3a63d; --saffron-soft:#33280f; color-scheme:dark}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6;overflow-wrap:break-word}
+.wrap{max-width:1180px;margin:0 auto;padding-left:var(--pad);padding-right:var(--pad)}
+
+/* hlavicka */
+header.top{padding-block:18px 14px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(1.5rem,7vw,3rem);line-height:1.05;margin:.25em 0 .2em;text-wrap:balance;letter-spacing:-.01em}
+h1 .arrow{color:var(--accent)}
+.lede{max-width:62ch;color:var(--muted);margin:0;font-size:.95rem}
+.facts{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:12px;font-family:var(--mono);font-size:12px}
+.facts b{font-weight:500;color:var(--ink)} .facts span{color:var(--muted)}
+.odpocet{display:flex;align-items:baseline;flex-wrap:wrap;gap:2px 10px;margin-top:12px;padding:10px 14px;border-radius:10px;background:var(--accent-soft)}
+.odpocet .num{font-family:var(--display);font-weight:700;font-size:clamp(1.25rem,5.5vw,1.8rem);line-height:1.1;color:var(--accent);font-variant-numeric:tabular-nums}
+.odpocet .det{font-family:var(--mono);font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.verbar{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;margin-top:12px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.verbar .cur{color:var(--ink)}
+.verbar a{color:var(--accent);text-underline-offset:2px}
+.verbar .pill{display:inline-block;padding:1px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.verbar .pill.old{background:var(--saffron-soft);color:var(--saffron)}
+details.hdr{margin-top:10px}
+details.hdr>summary{font-family:var(--display);font-size:13px;color:var(--accent);cursor:pointer;list-style:none;min-height:30px}
+details.hdr>summary::-webkit-details-marker{display:none}
+details.hdr>summary::after{content:" +"}
+details.hdr[open]>summary::after{content:" −"}
+
+/* nadsekce */
+.tabs{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line)}
+.tabs .wrap{display:flex;flex-wrap:wrap;gap:0 2px}
+.tabs .wrap::-webkit-scrollbar{display:none}
+.tabs button{flex:0 0 auto;font-family:var(--display);font-weight:600;font-size:15px;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:12px 10px;cursor:pointer;min-height:46px;white-space:nowrap}
+.tabs button[aria-current="true"]{color:var(--accent);border-bottom-color:var(--accent)}
+.tabs button.dva{line-height:1.15;padding-top:6px;padding-bottom:6px;text-align:center}
+.tabs br.u,.tabs .zalom{display:none}
+@media (max-width:640px){
+  /* šest záložek: na telefonu pět v prvním řádku (dvouslovné názvy ve dvou řádcích), šestá pod nimi */
+  .tabs .wrap.sest{padding-left:4px;padding-right:4px;gap:0}
+  .tabs .wrap.sest button{flex:1 1 auto;font-size:14px;padding:6px;min-height:40px;line-height:1.15;text-align:center}
+  .tabs .wrap.sest button:last-of-type{flex:0 0 auto;padding-left:10px;padding-right:10px}
+  .tabs .wrap.sest .zalom{display:block;flex:0 0 100%;height:0}
+  .tabs .wrap.sest br.u{display:inline}
+}
+
+/* pruh fazi (jen na rozcestniku itineráře) */
+.route{padding-block:14px;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none}
+.route::-webkit-scrollbar{display:none}
+.route ol{list-style:none;margin:0;padding:0;display:flex;gap:0;min-width:max-content}
+.route li{position:relative;display:flex;padding-right:18px}
+.route li::before{content:"";position:absolute;top:13px;left:26px;right:0;height:2px;background:var(--line)}
+.route li:last-child::before{display:none}
+.route a{position:relative;display:flex;flex-direction:column;gap:3px;text-decoration:none;color:var(--ink);min-width:92px}
+.dot{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;font-family:var(--mono);font-size:12px;font-weight:500;background:var(--surface);border:2px solid var(--accent);color:var(--accent)}
+.route a:hover .dot,.route a:focus-visible .dot{background:var(--accent);color:var(--bg)}
+.route .pl{font-family:var(--display);font-weight:600;font-size:13px;line-height:1.2}
+.route .n{font-family:var(--mono);font-size:10px;color:var(--muted)}
+.route .side{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--saffron)}
+
+.layout{display:block;padding-block:16px 60px}
+
+/* postranni rozcestnik (desktop) */
+nav.rail{display:none}
+@media (min-width:900px){
+  .layout{display:grid;grid-template-columns:270px minmax(0,1fr);gap:44px;padding-block:26px 80px;align-items:start}
+  nav.rail{display:block;position:sticky;top:76px;align-self:start;max-height:calc(100vh - 96px);overflow:auto}
+  nav.rail p.eyebrow{margin:0 0 8px}
+  nav.rail ul{list-style:none;margin:0;padding:0;border-left:1px solid var(--line)}
+  nav.rail a{display:block;padding:7px 0 7px 12px;margin-left:-1px;border-left:2px solid transparent;color:var(--muted);text-decoration:none;font-family:var(--display);font-size:14px;line-height:1.3}
+  nav.rail a:hover{color:var(--ink)}
+  nav.rail a[aria-current="true"]{color:var(--accent);border-left-color:var(--accent);font-weight:600}
+  nav.rail .sub{font-family:var(--mono);font-size:11px;color:var(--muted);display:block;font-weight:400}
+}
+
+/* rozcestnik: dlazdice */
+.cards{display:grid;grid-template-columns:1fr;gap:8px;margin:0 0 8px;padding:0;list-style:none}
+@media (min-width:600px){.cards{grid-template-columns:1fr 1fr}}
+.cards a{display:block;padding:13px 15px;border:1px solid var(--line);border-radius:12px;background:var(--surface);text-decoration:none;color:var(--ink);min-height:46px}
+.cards a:hover{border-color:var(--accent)}
+.cards .k{font-family:var(--mono);font-size:11px;color:var(--accent);letter-spacing:.04em}
+.cards .t{display:block;font-family:var(--display);font-weight:600;font-size:16px;line-height:1.25;margin:2px 0 2px}
+.cards .p{display:block;font-size:13px;color:var(--muted);line-height:1.4}
+.secintro{margin:0 0 14px;color:var(--muted);font-size:.95rem;max-width:62ch}
+
+/* přehledová mapa (od v53); Leaflet se načítá až na stránce, kde mapa je */
+.mapa{height:clamp(280px,55vh,440px);margin:0 0 14px;border:1px solid var(--line);border-radius:12px}
+.mapa.leaflet-container{z-index:0;isolation:isolate;background:var(--accent-soft);font-family:var(--display)}
+.mapa .leaflet-control-attribution{font-size:10px}
+.mapa-cislo span{display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--surface);border:2px solid var(--accent);color:var(--accent);font-family:var(--mono);font-size:13px;font-weight:600;box-shadow:0 1px 5px rgba(0,0,0,.3);cursor:pointer}
+.mapa-cislo:hover span,.mapa-cislo:focus-visible span{background:var(--accent);color:var(--bg)}
+.mapa-cislo:focus{outline:none}
+.mapa-cislo:focus-visible span{outline:2px solid var(--accent);outline-offset:2px}
+.mapa-nic,.mapa-offline{font-family:var(--display);font-size:13px;line-height:1.4;color:var(--muted)}
+.mapa-nic{margin:0;padding:16px}
+.mapa-offline{position:absolute;left:8px;right:8px;bottom:28px;z-index:500;padding:8px 12px;border-radius:8px;background:var(--surface);border:1px solid var(--line);pointer-events:none}
+/* mapa fáze (od v56): body z tabulky v bloku Mapy, barva a tvar podle typu */
+.mapa-wrap{margin:12px 0 16px}
+.mapa-wrap .mapa{margin:0}
+.mapa-bod{display:grid;place-items:center}
+.mapa-bod span{display:block;width:20px;height:20px;box-sizing:border-box;box-shadow:0 1px 4px rgba(0,0,0,.4);cursor:pointer}
+.mapa-bod.t-must span{border-radius:50%;background:var(--accent);border:3px solid var(--surface)}
+.mapa-bod.t-volit span{border-radius:50%;background:var(--surface);border:4px solid var(--saffron)}
+.mapa-bod.t-zazemi span{border-radius:4px;background:var(--muted);border:2px solid var(--surface)}
+.mapa-bod:focus{outline:none}
+.mapa-bod:focus-visible span{outline:2px solid var(--ink);outline-offset:2px}
+.mapa-legenda{display:flex;flex-wrap:wrap;gap:4px 16px;margin:8px 0 0;padding:0;list-style:none;font-family:var(--display);font-size:13px;color:var(--muted)}
+.mapa-legenda li{display:flex;align-items:center;gap:6px}
+.mapa-legenda i{display:block;width:14px;height:14px;box-sizing:border-box}
+.mapa-legenda .t-must i{border-radius:50%;background:var(--accent)}
+.mapa-legenda .t-volit i{border-radius:50%;background:var(--surface);border:3px solid var(--saffron)}
+.mapa-legenda .t-zazemi i{border-radius:3px;background:var(--muted)}
+.mapa-vse{font-family:var(--display);font-size:13px;min-height:34px;padding:4px 10px;border-radius:6px;border:2px solid rgba(0,0,0,.25);background:var(--surface);color:var(--ink);cursor:pointer}
+.mapa .leaflet-popup-content-wrapper,.mapa .leaflet-popup-tip{background:var(--surface);color:var(--ink)}
+.mapa .leaflet-popup-content{margin:10px 14px;font-family:var(--display);font-size:14px;line-height:1.35}
+.mapa-popup b{display:block;font-weight:600}
+.mapa-popup .typ,.mapa-popup .pribl{display:block;font-size:12px;color:var(--muted)}
+.mapa-popup a{display:inline-block;margin-top:6px;color:var(--accent);font-weight:600}
+
+/* stranka */
+.crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-family:var(--mono);font-size:12px;color:var(--muted);margin-bottom:10px}
+.crumbs a{color:var(--accent);text-decoration:none}
+.back{display:inline-flex;align-items:center;gap:8px;font-family:var(--display);font-weight:600;font-size:14px;color:var(--accent);background:none;border:0;padding:10px 0;min-height:44px;cursor:pointer}
+article{min-width:0;max-width:760px}
+article h2{font-family:var(--display);font-weight:700;font-size:1.45rem;line-height:1.2;margin:0 0 .5em;text-wrap:balance;scroll-margin-top:64px}
+article h3{font-family:var(--display);font-weight:600;font-size:1.1rem;margin:1.7em 0 .4em;text-wrap:balance;scroll-margin-top:64px}
+article h3.phase{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline;padding:10px 14px;background:var(--accent-soft);border-radius:8px}
+article h3.phase .tag{font-family:var(--mono);font-size:12px;font-weight:500;color:var(--accent);white-space:nowrap}
+article p,article li{max-width:68ch}
+article ul,article ol{padding-left:1.2em}
+article li{margin:.35em 0}
+article strong{font-weight:600}
+article a{color:var(--accent);text-underline-offset:2px}
+article details.more{border:1px solid var(--line);border-radius:10px;background:var(--surface);margin:8px 0;padding:0 14px}
+article details.more[open]{padding-bottom:8px}
+article details.more>summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:10px;min-height:44px;padding:8px 0;font-family:var(--display);font-weight:600;font-size:15px}
+article details.more>summary::-webkit-details-marker{display:none}
+article details.more>summary::before{content:"+";font-family:var(--mono);color:var(--accent);width:1em;text-align:center}
+article details.more[open]>summary::before{content:"−"}article.term{background:var(--saffron-soft);border:1px solid color-mix(in srgb,var(--saffron) 35%,transparent);border-radius:12px;padding:14px 16px}
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1em 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.4}
+th,td{text-align:left;vertical-align:top;padding:8px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--display);font-weight:600;font-size:13px;background:var(--bg);white-space:nowrap}
+tr:last-child td{border-bottom:0}
+td{font-variant-numeric:tabular-nums}
+td:has(> .coord){white-space:nowrap}
+.copy{font-family:var(--mono);font-size:12px;border:1px solid var(--line);background:var(--bg);color:var(--accent);border-radius:4px;padding:4px 8px;cursor:pointer}
+.copy:focus-visible,a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.prevnext{display:flex;flex-wrap:wrap;gap:8px;margin-top:28px;padding-top:16px;border-top:1px solid var(--line)}
+.prevnext a{flex:1 1 180px;display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);text-decoration:none;color:var(--ink);font-family:var(--display);font-weight:600;font-size:14px;min-height:46px}
+.prevnext .k{display:block;font-family:var(--mono);font-size:11px;color:var(--muted);font-weight:400}
+.oldver{margin:0 0 16px;padding:12px 16px;border-radius:10px;background:var(--saffron-soft);border:1px solid var(--line)}
+.chlog h3{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}
+.chlog .meta{font-family:var(--mono);font-size:12px;color:var(--muted);font-weight:400}
+.chlog .lnk{font-family:var(--mono);font-size:13px;display:flex;flex-wrap:wrap;gap:6px 16px;margin:.2em 0 .6em}
+footer{padding-block:20px 40px;border-top:1px solid var(--line);font-family:var(--mono);font-size:11px;color:var(--muted)}
+footer a{color:var(--accent)}
+.up{position:fixed;right:14px;bottom:14px;z-index:40;display:none;width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:var(--surface);color:var(--accent);font-size:18px;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.12)}
+.up.show{display:block}
+@media (min-width:900px){.up{display:none !important}article h2{font-size:1.7rem}}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+</style>
+</head>
+<body>
+
+<header class="top"><div class="wrap">
+  <div class="eyebrow">Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026 · verze v58 (10. 11. 2026)</div>
+  <h1>Bangkok <span class="arrow">→</span> Phuket</h1>
+  <div class="odpocet" id="odpocet" hidden>
+    <span class="num" id="odpocetNum"></span>
+    <span class="det" id="odpocetDet"></span>
+  </div>
+  <details class="hdr">
+    <summary>Fakta a verze</summary>
+    <div class="facts">
+    <div><span>Fáze </span><b>8</b></div>
+    <div><span>Nocí v Thajsku </span><b>22</b></div>
+    <div><span>Termín </span><b>27. 11.–19. 12.</b></div>
+    <div><span>Bezvízový pobyt </span><b>23 z 30 dní</b></div>
+    </div>
+    <div class="verbar" id="verbar"></div>
+  </details>
+</div></header>
+
+<div class="tabs"><div class="wrap" id="tabs" aria-label="Hlavní sekce"></div></div>
+
+<div class="route" id="route" hidden><div class="wrap">
+  <ol>
+    <li><a href="#faze-1"><span class="side">Město</span><span class="dot">1</span><span class="pl">Bangkok</span><span class="n">27.–30. 11.</span></a></li>
+    <li><a href="#faze-2"><span class="side">&nbsp;</span><span class="dot">2</span><span class="pl">Sam Roi Yot</span><span class="n">30. 11.–3. 12.</span></a></li>
+    <li><a href="#faze-3"><span class="side">Záliv</span><span class="dot">3</span><span class="pl">Prachuap</span><span class="n">3.–4. 12.</span></a></li>
+    <li><a href="#faze-4"><span class="side">&nbsp;</span><span class="dot">4</span><span class="pl">Ranong, Koh Phayam</span><span class="n">4.–8. 12.</span></a></li>
+    <li><a href="#faze-5"><span class="side">Prales</span><span class="dot">5</span><span class="pl">Khao Sok, Cheow Lan</span><span class="n">8.–12. 12.</span></a></li>
+    <li><a href="#faze-6"><span class="side">Andaman</span><span class="dot">6</span><span class="pl">Krabi</span><span class="n">12.–14. 12.</span></a></li>
+    <li><a href="#faze-7"><span class="side">&nbsp;</span><span class="dot">7</span><span class="pl">Koh Yao Noi</span><span class="n">14.–18. 12.</span></a></li>
+    <li><a href="#faze-8"><span class="side">&nbsp;</span><span class="dot">8</span><span class="pl">Phuket, Nai Yang</span><span class="n">18.–19. 12.</span></a></li>
+  </ol>
+</div></div>
+
+<div class="wrap layout">
+  <nav class="rail" id="rail" aria-label="Položky sekce"></nav>
+  <div id="main">
+    <p>Obsah se načítá. Pokud se nezobrazí, zkontrolujte připojení k internetu. Text je i v souboru <a href="thajsko-bangkok-phuket.md">thajsko-bangkok-phuket.md</a>.</p>
+  </div>
+</div>
+
+<button class="up" id="up" type="button" aria-label="Nahoru">↑</button>
+
+<footer><div class="wrap">Zdroj: Kompletní thajský slow-travel manuál, @Anezka. Časy a ceny jsou orientační, ověřte před cestou. Celý text: <a href="thajsko-bangkok-phuket.md">thajsko-bangkok-phuket.md</a>.</div></footer>
+
+<script>window.CFG={"id": "v58", "base": "../../", "kam": {"Co se ještě dořeší": "pred", "Úvod do Thajska": "zajimavosti", "Zvířata na trase": "zajimavosti", "Záchytné body pro Google Maps": "misto", "Doprava": "misto", "Počasí, teploty a deště": "pred", "Jídlo, pití a bezpečné stravování": "misto", "Seznam povinného vybavení": "pred", "Etiketa": "misto", "Praktické travel hacky": "misto", "Předodletový checklist": "pred", "Šnorchlování a noční safari": "zajimavosti", "Zdraví, bezpečnost a nouzová čísla": "pred", "Orientační rozpočet": "pred", "Mini-slovníček thajských frází": "misto", "Etihad Airways": "pred", "Do kdy zrušit ubytování zdarma": "terminy", "Místa na trase: Bangkok": "zajimavosti", "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti", "Místa na trase: Prachuap Khiri Khan": "zajimavosti", "Místa na trase: Ranong a Koh Phayam": "zajimavosti", "Místa na trase: Khao Sok": "zajimavosti", "Místa na trase: Krabi": "zajimavosti", "Místa na trase: Koh Yao Noi": "zajimavosti", "Místa na trase: Phuket a Nai Yang": "zajimavosti"}};</script>
+<script>
+// Odpocet do odletu. Datum se nastavuje v build.py (konstanta ODLET).
+(function(){
+  var odlet=new Date('2026-11-26T00:00:00+01:00'), el=document.getElementById('odpocet');
+  if(!el||isNaN(odlet)) return;
+  var num=document.getElementById('odpocetNum'), det=document.getElementById('odpocetDet');
+  var datum=odlet.toLocaleDateString('cs-CZ',{day:'numeric',month:'numeric',year:'numeric'});
+  function sklon(n){return n===1?'den':(n>=2&&n<=4?'dny':'dní')}
+  function tik(){
+    var zbyva=odlet-new Date();
+    if(zbyva<=0){num.textContent='Letíme!';det.textContent='odlet '+datum;return}
+    var dny=Math.floor(zbyva/864e5), hod=Math.floor(zbyva/36e5)%24, min=Math.floor(zbyva/6e4)%60;
+    num.textContent=dny+' '+sklon(dny);
+    det.textContent='a '+hod+' h '+min+' min do odletu · '+datum;
+  }
+  tik(); el.hidden=false; setInterval(tik,10000);
+})();
+</script>
+<script src="../../verze.js?v=5b9696a2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="thajsko-obsah.js?v=5b9696a2"></script>
+<script>
+(function(){
+  var main=document.getElementById('main');
+  if(!window.marked||!window.THAJSKO_MD) return;
+  var CFG=window.CFG||{}, V=window.THAJSKO_VERZE||[], REPO='https://github.com/polachp/dovolena-thajsko-2026';
+  function esc(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+
+  // ---- nadsekce ----
+  var SEKCE=[
+    {id:'pred',  nazev:'Před cestou', radkyUzke:['Před','cestou'], popis:'Co zařídit, kolik to stojí, co čekat od počasí a od letu.'},
+    {id:'itin',  nazev:'Itinerář',    popis:'Přehled trasy a jednotlivé fáze. Klepnutím otevřete detail fáze.'},
+    {id:'terminy', nazev:'Ubytování: termíny', radky:['Ubytování','termíny'], popis:'Do kdy jde které ubytování zrušit zdarma.', primo:true, volitelna:true},
+    {id:'zajimavosti', nazev:'Zajímavosti', popis:'Kultura a historie, zvířata na trase, šnorchlování a noční safari.', volitelna:true},
+    {id:'misto', nazev:'Na místě',    radkyUzke:['Na','místě'], popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.', popisSZajimavostmi:'Mapy, doprava, jídlo, etiketa, praktické tipy a slovníček.'},
+    {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.'}
+  ];
+  // sekce -> nadsekce: do v50 podle cisla v nadpisu (## 4. Doprava), od v51 podle nazvu (cast nadpisu pred dvojteckou nebo zavorkou)
+  // verze muze mit vlastni rozrazeni (hlavicka.kam v src/verze.json), jinak plati cislovani do v13
+  var KAM=CFG.kam||{0:'pred',5:'pred',8:'pred',10:'pred',13:'pred',15:'pred',16:'pred',18:'pred',
+           1:'misto',2:'misto',3:'misto',4:'misto',7:'misto',9:'misto',11:'misto',12:'misto',14:'misto',17:'misto'};
+
+  // ---- markdown ----
+  var tmp=document.createElement('div');
+  tmp.innerHTML=marked.parse(window.THAJSKO_MD);
+  var h1=tmp.querySelector('h1'); if(h1) h1.remove();
+  function slug(t){return t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60)}
+  var used={};
+  tmp.querySelectorAll('h2,h3').forEach(function(h){
+    var t=h.textContent.trim(), m=t.match(/^Fáze (\d+):\s*(.*)$/), id;
+    if(h.tagName==='H3'&&m){id='faze-'+m[1];h.dataset.faze=m[1];h.dataset.zbytek=m[2];}
+    else id=slug(t)||'s';
+    while(used[id]) id+='-x'; used[id]=1; h.id=id;
+  });
+
+  // ---- rozpad na stranky ----
+  var STRANKY=[], podleId={};
+  // nadpis 4. urovne a vse za nim az k dalsimu nadpisu se zabali do rozbalovaciho bloku
+  function sbal(uzly){
+    var out=[], det=null;
+    uzly.forEach(function(n){
+      if(n.nodeType===1&&/^H[1-3]$/.test(n.tagName)){det=null; out.push(n); return}
+      if(n.nodeType===1&&n.tagName==='H4'){
+        det=document.createElement('details'); det.className='more';
+        var su=document.createElement('summary'); su.innerHTML=n.innerHTML; det.appendChild(su);
+        out.push(det); return;
+      }
+      if(det) det.appendChild(n); else out.push(n);
+    });
+    return out;
+  }
+  function pridej(s){s.uzly=sbal(s.uzly); STRANKY.push(s); return s}
+  function perex(uzly){
+    for(var i=0;i<uzly.length;i++){
+      var n=uzly[i];
+      if(n.nodeType===1&&(n.tagName==='P'||n.tagName==='UL')){
+        var t=n.textContent.replace(/\s+/g,' ').trim();
+        if(t.length>120) t=t.slice(0,117).replace(/[\s,;:.]+\S*$/,'')+'...';
+        return t;
+      }
+    }
+    return '';
+  }
+  var bloky=[], akt=null;
+  Array.prototype.slice.call(tmp.childNodes).forEach(function(n){
+    if(n.nodeType===1&&n.tagName==='H2'){akt={h:n,uzly:[n]};bloky.push(akt)}
+    else if(akt) akt.uzly.push(n);
+  });
+  // sekce, jejichz nadpis zacina stejne pred dvojteckou (Místa na trase: Bangkok, Místa na trase: Krabi), maji v kartach a menu cely nazev bez zavorky
+  var zacatky={};
+  bloky.forEach(function(b){
+    var z=b.h.textContent.trim().replace(/^\d+\.\s*/,'').split(/[:(]/)[0].trim();
+    zacatky[z]=(zacatky[z]||0)+1;
+  });
+  bloky.forEach(function(b){
+    var t=b.h.textContent.trim(), m=t.match(/^(\d+)\.\s*(.*)$/);
+    var cislo=m?m[1]:null, nazev=m?m[2]:t, kratkySekce=nazev.split(/[:(]/)[0].trim();
+    if(zacatky[kratkySekce]>1) kratkySekce=nazev.split('(')[0].trim();
+    var jeItin=b.uzly.some(function(n){return n.nodeType===1&&n.tagName==='H3'&&/^Fáze \d+:/.test(n.textContent.trim())});
+    if(!jeItin){
+      // cislo sekce se na webu neukazuje (od v51 ani v nadpisech), slouzi jen k zarazeni do zalozky ve starsich verzich
+      pridej({id:b.h.id,top:KAM[cislo]||KAM[kratkySekce]||'misto',klic:'',nazev:nazev,
+              kratky:kratkySekce,uzly:b.uzly,perex:perex(b.uzly.slice(1))});
+      return;
+    }
+    // sekce 6: uvod jako prehled, kazdy H3 jako vlastni stranka
+    var uvod=[b.h], zbytek=[], akt3=null, deti=[];
+    b.uzly.slice(1).forEach(function(n){
+      if(n.nodeType===1&&n.tagName==='H3'){akt3={h:n,uzly:[n]};deti.push(akt3)}
+      else if(akt3) akt3.uzly.push(n);
+      else uvod.push(n);
+    });
+    pridej({id:'prehled-trasy',top:'itin',klic:'Přehled',nazev:'Přehled trasy a nocí',kratky:'Přehled trasy',
+            uzly:uvod,perex:perex(uvod.slice(1)),rozcestnik:true});
+    deti.forEach(function(c){
+      var f=c.h.dataset.faze;
+      if(f){
+        var zb=c.h.dataset.zbytek||'', mm=zb.match(/^(.*?)\s*\(([^)]*)\)\s*$/);
+        pridej({id:c.h.id,top:'itin',klic:'Fáze '+f,nazev:'Fáze '+f+': '+zb,
+                kratky:mm?mm[1]:zb,sub:mm?mm[2]:'',uzly:c.uzly,perex:perex(c.uzly.slice(1)),faze:+f});
+      } else {
+        var t3=c.h.textContent.trim();
+        pridej({id:c.h.id,top:'misto',klic:'Itinerář',nazev:t3,kratky:t3.split(/[:(]/)[0].trim(),
+                uzly:c.uzly,perex:perex(c.uzly.slice(1))});
+      }
+    });
+  });
+  // zmenovy list jako stranka
+  var latest=V.length?V[V.length-1].id:CFG.id, me=V.filter(function(v){return v.id===CFG.id})[0];
+  if(V.length){
+    var box=document.createElement('div'), c='<h2 id="zmenovy-list">Změnový list</h2><div class="chlog">';
+    V.slice().reverse().forEach(function(v){
+      var prev=V[V.indexOf(v)-1];
+      c+='<h3>'+esc(v.id)+': '+esc(v.nazev)+' <span class="meta">'+esc(v.datum)+(v.id===latest?' · aktuální':'')+(v.id===CFG.id?' · právě zobrazená':'')+'</span></h3>';
+      c+='<div class="lnk"><a href="'+CFG.base+'verze/'+v.id+'/">web '+esc(v.id)+'</a><a href="'+CFG.base+'verze/'+v.id+'/'+(v.md||'thajsko-phuket-bangkok.md')+'">Markdown</a>'+(prev&&prev.commit&&v.commit?'<a href="'+REPO+'/compare/'+prev.commit+'...'+v.commit+'">rozdíl proti '+esc(prev.id)+'</a>':'')+'</div>';
+      c+='<ul>'+v.zmeny.map(function(z){return '<li>'+esc(z)+'</li>'}).join('')+'</ul>';
+    });
+    box.innerHTML=c+'</div>';
+    pridej({id:'zmenovy-list',top:'verze',klic:'',nazev:'Změnový list',kratky:'Změnový list',
+            uzly:Array.prototype.slice.call(box.childNodes),perex:'Co se změnilo v jednotlivých verzích.'});
+  }
+  // index id -> stranka
+  STRANKY.forEach(function(s){
+    podleId[s.id]=s;
+    s.uzly.forEach(function(n){
+      if(n.nodeType!==1) return;
+      if(n.id) podleId[n.id]=s;
+      n.querySelectorAll&&n.querySelectorAll('[id]').forEach(function(e){podleId[e.id]=s});
+    });
+  });
+  function vSekci(top){return STRANKY.filter(function(s){return s.top===top})}
+
+  // ---- přehledová mapa (od v53) ----
+  // Body kroužků se berou z Markdownu: tabulka na úvodu Itinerář po fázích, sloupec "Střed na mapě" (souřadnice, u dohledaných s předponou "přibl.").
+  // Verze bez toho sloupce mapu nemají a Leaflet se v nich vůbec nestahuje.
+  // Podklad: s bezplatným klíčem CARTO Voyager (data OSM, popisky latinkou), bez klíče standardní mapa OSM (popisky v Thajsku thajsky).
+  var CARTO_KLIC='cb1_55yv_1_5fd5c0342d94cca2715092c5'; // bezplatný veřejný klíč, nekomerční užití
+  var ATTR_OSM='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
+  var PODKLAD=CARTO_KLIC
+    ?{url:'https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key='+CARTO_KLIC,
+      attr:ATTR_OSM+' &copy; <a href="https://carto.com/attributions">CARTO</a>',max:19}
+    :{url:'https://tile.openstreetmap.org/{z}/{x}/{y}.png',attr:ATTR_OSM+' contributors',max:19};
+  var LEAFLET='https://unpkg.com/leaflet@1.9.4/dist/';
+  var mapaBody, mapaInst=null, leafletSlib=null;
+  function bodyMapy(){
+    if(mapaBody!==undefined) return mapaBody;
+    mapaBody=null;
+    var s=STRANKY.filter(function(x){return x.id==='prehled-trasy'})[0], out=[];
+    if(s) s.uzly.forEach(function(n){
+      if(n.nodeType!==1) return;
+      var tbl=n.tagName==='TABLE'?[n]:Array.prototype.slice.call(n.querySelectorAll('table'));
+      tbl.forEach(function(t){
+        var hl=Array.prototype.map.call(t.querySelectorAll('th'),function(h){return h.textContent.trim()}), ix=hl.indexOf('Střed na mapě');
+        if(ix<0) return;
+        Array.prototype.forEach.call(t.querySelectorAll('tbody tr'),function(tr){
+          var td=tr.children, f=td[0]?td[0].textContent.trim():'', m=td[ix]?td[ix].textContent.match(/(\d{1,2}\.\d+),\s*(\d{2,3}\.\d+)/):null;
+          if(/^\d+$/.test(f)&&m) out.push({faze:+f,lat:+m[1],lon:+m[2]});
+        });
+      });
+    });
+    if(out.length>1){out.sort(function(a,b){return a.faze-b.faze}); mapaBody=out}
+    return mapaBody;
+  }
+  function nactiLeaflet(){
+    if(window.L&&window.L.map) return Promise.resolve();
+    if(leafletSlib) return leafletSlib;
+    leafletSlib=new Promise(function(ok,chyba){
+      var css=document.createElement('link'), js=document.createElement('script'), hotovo=0;
+      function dalsi(){if(++hotovo===2) ok()}
+      function selhalo(){leafletSlib=null; chyba(new Error('Leaflet se nenačetl'))}
+      css.rel='stylesheet'; css.href=LEAFLET+'leaflet.css'; css.onload=dalsi; css.onerror=selhalo;
+      js.src=LEAFLET+'leaflet.js'; js.onload=dalsi; js.onerror=selhalo;
+      document.head.appendChild(css); document.head.appendChild(js);
+    });
+    return leafletSlib;
+  }
+  function zrusMapu(){if(mapaInst){mapaInst.remove(); mapaInst=null}}
+  function otevriHash(h){location.hash=h; zHashe(h,true); history.replaceState(null,'','#'+h)}
+  // podklad mapy (dlaždice) a upozornění, když se nenačtou; společné pro přehledovou mapu i mapy fází
+  function pridejPodklad(map,el,zprava){
+    var ok=0, chyb=0, hlaseni=null;
+    L.tileLayer(PODKLAD.url,{attribution:PODKLAD.attr,maxZoom:PODKLAD.max}).addTo(map)
+      .on('tileload',function(){ok++; if(hlaseni){hlaseni.remove(); hlaseni=null}})
+      .on('tileerror',function(){
+        chyb++;
+        if(!ok&&!hlaseni&&chyb>=3){
+          hlaseni=document.createElement('div'); hlaseni.className='mapa-offline';
+          hlaseni.textContent=zprava;
+          el.appendChild(hlaseni);
+        }
+      });
+  }
+  function mapaPrehled(el,body){
+    nactiLeaflet().then(function(){
+      if(!document.body.contains(el)) return; // mezitím se přešlo jinam
+      zrusMapu();
+      var nazvy={};
+      STRANKY.forEach(function(s){if(s.faze) nazvy[s.faze]=s.nazev});
+      // kroužky blízkých fází (6, 7, 8) se při celkovém pohledu překrývají, proto je vždy +/-, posouvání i zvětšení prsty; kolečkem myši se nezvětšuje, aby nebralo posouvání stránky
+      var map=L.map(el,{scrollWheelZoom:false,boxZoom:false});
+      mapaInst=map;
+      pridejPodklad(map,el,'Podklad mapy se nenačetl, chybí připojení. Čísla fází fungují dál.');
+      var pts=body.map(function(b){return [b.lat,b.lon]});
+      var barva=(getComputedStyle(document.documentElement).getPropertyValue('--accent')||'').trim()||'#0d6b67';
+      L.polyline(pts,{color:barva,weight:3,opacity:.85,interactive:false}).addTo(map);
+      body.forEach(function(b){
+        var nazev=nazvy[b.faze]||('Fáze '+b.faze);
+        var m=L.marker([b.lat,b.lon],{
+          icon:L.divIcon({className:'mapa-cislo',html:'<span>'+b.faze+'</span>',iconSize:[30,30],iconAnchor:[15,15]}),
+          title:nazev,keyboard:true,riseOnHover:true
+        });
+        // prvek značky vzniká až po fitBounds, proto role a popisek až při přidání na mapu
+        m.on('add',function(){var e=m.getElement(); if(e){e.setAttribute('role','button'); e.setAttribute('aria-label',nazev)}});
+        m.on('click',function(){otevriHash('faze-'+b.faze)});
+        m.addTo(map);
+      });
+      map.fitBounds(L.latLngBounds(pts),{padding:[34,34]});
+    },function(){
+      if(document.body.contains(el)) el.innerHTML='<p class="mapa-nic">Mapa se nenačetla, zřejmě chybí připojení. Fáze jsou níže v kartách a offline mapy zůstávají v Google Maps.</p>';
+    });
+  }
+
+  // ---- mapa fáze (od v56) ----
+  // Body se berou z tabulky v bloku Mapy dané fáze (sloupce Místo, Typ, Souřadnice, Odkaz do Map). Fáze bez takové tabulky mapu nemá.
+  // Souřadnice s předponou "přibl." jsou dohledané a orientační, v bublině se to ukáže.
+  var TYPY={
+    'must see':{trida:'t-must',nazev:'Must see',legenda:'Must see',z:300},
+    'volitelně':{trida:'t-volit',nazev:'Volitelně',legenda:'Volitelně',z:200},
+    'ubytování':{trida:'t-zazemi',nazev:'Ubytování',legenda:'Ubytování a doprava',z:100},
+    'doprava':{trida:'t-zazemi',nazev:'Doprava',legenda:'Ubytování a doprava',z:100}
+  };
+  var GMAPS='https://www.google.com/maps/';
+  function bodyFaze(s){
+    if(s.mapaBody!==undefined) return s.mapaBody;
+    var out=[];
+    s.uzly.forEach(function(n){
+      if(n.nodeType!==1) return;
+      var tbl=n.tagName==='TABLE'?[n]:Array.prototype.slice.call(n.querySelectorAll('table'));
+      tbl.forEach(function(t){
+        var hl=Array.prototype.map.call(t.querySelectorAll('th'),function(h){return h.textContent.trim()});
+        var iM=hl.indexOf('Místo'), iT=hl.indexOf('Typ'), iS=hl.indexOf('Souřadnice'), iO=hl.indexOf('Odkaz do Map');
+        if(iM<0||iT<0||iS<0) return;
+        Array.prototype.forEach.call(t.querySelectorAll('tbody tr'),function(tr){
+          var td=tr.children, typ=(td[iT]?td[iT].textContent:'').trim().toLowerCase();
+          var txt=td[iS]?td[iS].textContent:'', m=txt.match(/(\d{1,2}\.\d+),\s*(\d{2,3}\.\d+)/);
+          if(!m||!TYPY[typ]) return;
+          var a=iO>=0&&td[iO]?td[iO].querySelector('a'):null, href=a?a.getAttribute('href'):'';
+          if(href.indexOf(GMAPS)!==0) href=GMAPS+'search/?api=1&query='+m[1]+'%2C'+m[2];
+          out.push({nazev:td[iM].textContent.trim(),typ:typ,lat:+m[1],lon:+m[2],pribl:/přibl/i.test(txt),href:href});
+        });
+      });
+    });
+    s.mapaBody=out.length>0?out:null;
+    return s.mapaBody;
+  }
+  function kmMezi(a,b){var k=Math.PI/180, x=(b[1]-a[1])*Math.cos((a[0]+b[0])/2*k), y=b[0]-a[0]; return Math.sqrt(x*x+y*y)*111.2}
+  function mediana(a){var s=a.slice().sort(function(x,y){return x-y}), m=Math.floor(s.length/2); return s.length%2?s[m]:(s[m-1]+s[m])/2}
+  function popupBodu(b){
+    var d=document.createElement('div'); d.className='mapa-popup';
+    var n=document.createElement('b'); n.textContent=b.nazev; d.appendChild(n);
+    var t=document.createElement('span'); t.className='typ'; t.textContent=TYPY[b.typ].nazev; d.appendChild(t);
+    if(b.pribl){var p=document.createElement('span'); p.className='pribl'; p.textContent='Poloha je přibližná'; d.appendChild(p)}
+    var a=document.createElement('a'); a.href=b.href; a.target='_blank'; a.rel='noopener'; a.textContent='Otevřít v Google Maps'; d.appendChild(a);
+    return d;
+  }
+  function mapaFaze(el,body){
+    nactiLeaflet().then(function(){
+      if(!document.body.contains(el)) return; // mezitím se přešlo jinam
+      zrusMapu();
+      var map=L.map(el,{scrollWheelZoom:false,boxZoom:false});
+      mapaInst=map;
+      pridejPodklad(map,el,'Podklad mapy se nenačetl, chybí připojení. Body a odkazy do Google Maps fungují dál.');
+      var vse=body.map(function(b){return [b.lat,b.lon]});
+      body.forEach(function(b){
+        var ty=TYPY[b.typ];
+        var m=L.marker([b.lat,b.lon],{
+          icon:L.divIcon({className:'mapa-bod '+ty.trida,html:'<span></span>',iconSize:[32,32],iconAnchor:[16,16],popupAnchor:[0,-12]}),
+          title:b.nazev,alt:b.nazev,keyboard:true,riseOnHover:true,zIndexOffset:ty.z
+        });
+        // prvek značky vzniká až po přidání na mapu, proto role a popisek až tehdy
+        m.on('add',function(){var e=m.getElement(); if(e){e.setAttribute('role','button'); e.setAttribute('aria-label',b.nazev+', '+ty.nazev.toLowerCase())}});
+        m.bindPopup(popupBodu(b),{autoPanPadding:[12,12],maxWidth:260});
+        m.addTo(map);
+      });
+      // První pohled: hustá střední část (body do 3,5 km od mediánu), ať se body ve starém městě nepřekrývají. Zbytek ukáže tlačítko Zobrazit vše.
+      // U rozlehlejších fází (od v58) se okruh postupně zvětšuje na 8 a 15 km, dokud v něm nejsou aspoň tři body, aby první pohled ukázal hlavní místo pobytu.
+      var st=[mediana(body.map(function(b){return b.lat})),mediana(body.map(function(b){return b.lon}))];
+      var jadro=[], polomery=[3.5,8,15];
+      for(var pi=0;pi<polomery.length&&jadro.length<3;pi++){
+        jadro=vse.filter(function(p){return kmMezi(st,p)<=polomery[pi]});
+      }
+      if(vse.length>6&&jadro.length>=3&&jadro.length<vse.length){ // u mapy s málem bodů se rovnou ukáže všechno
+        var ctl=L.control({position:'topright'});
+        ctl.onAdd=function(){
+          var bt=L.DomUtil.create('button','mapa-vse'); bt.type='button'; bt.textContent='Zobrazit vše'; bt.title='Zobrazit všechny body mapy';
+          L.DomEvent.disableClickPropagation(bt);
+          bt.addEventListener('click',function(){map.fitBounds(L.latLngBounds(vse),{padding:[30,30]})});
+          return bt;
+        };
+        ctl.addTo(map);
+        map.fitBounds(L.latLngBounds(jadro),{padding:[30,30]});
+      }else{
+        map.fitBounds(L.latLngBounds(vse),{padding:[30,30]});
+      }
+    },function(){
+      if(document.body.contains(el)) el.innerHTML='<p class="mapa-nic">Mapa se nenačetla, zřejmě chybí připojení. Odkazy do Google Maps jsou v bloku Mapy níže a offline mapy zůstávají v Google Maps.</p>';
+    });
+  }
+  function legendaFaze(body){
+    var videno={}, out=[];
+    body.forEach(function(b){var ty=TYPY[b.typ]; if(!videno[ty.trida]){videno[ty.trida]=1; out.push('<li class="'+ty.trida+'"><i></i>'+esc(ty.legenda)+'</li>')}});
+    return '<ul class="mapa-legenda" aria-label="Legenda mapy">'+out.join('')+'</ul>';
+  }
+
+  // ---- vykresleni ----
+  var tabs=document.getElementById('tabs'), rail=document.getElementById('rail'), route=document.getElementById('route');
+  var sest=SEKCE.filter(function(s){return !(s.volitelna&&!vSekci(s.id).length)}).length>=6; // od v46 šest záložek
+  if(sest) tabs.classList.add('sest');
+  SEKCE.forEach(function(s,i){
+    if(s.volitelna&&!vSekci(s.id).length) return; // záložka bez stránek (starší verze) se neukazuje
+    if(sest&&i===SEKCE.length-1){var z=document.createElement('span'); z.className='zalom'; tabs.appendChild(z)} // poslední záložka na telefonu na druhý řádek
+    if(s.popisSZajimavostmi&&vSekci('zajimavosti').length) s.popis=s.popisSZajimavostmi; // Na místě bez zajímavostí (od v46 jsou zvlášť)
+    var b=document.createElement('button');
+    b.type='button'; b.dataset.top=s.id;
+    if(s.radky){b.innerHTML=s.radky.map(esc).join('<br>'); b.classList.add('dva')}
+    else if(sest&&s.radkyUzke){b.innerHTML=s.radkyUzke.map(esc).join(' <br class="u">'); b.classList.add('dva')}
+    else b.textContent=s.nazev;
+    b.addEventListener('click',function(){jdi(s.id,null)});
+    tabs.appendChild(b);
+  });
+  var stav={top:'itin',page:null};
+  function titulek(s){return s.klic&&s.klic!=='Itinerář'?s.klic+': '+s.kratky:(s.klic?s.nazev:s.kratky)}
+  function kartaHtml(s){
+    return '<li><a href="#'+s.id+'">'+(s.klic?'<span class="k">'+esc(s.klic)+(s.sub?' · '+esc(s.sub):'')+'</span>':'')+
+      '<span class="t">'+esc(s.kratky)+'</span>'+(s.perex?'<span class="p">'+esc(s.perex)+'</span>':'')+'</a></li>';
+  }
+  function rozcestnik(top){
+    var sek=SEKCE.filter(function(x){return x.id===top})[0], polozky=vSekci(top);
+    var body=top==='itin'?bodyMapy():null; // přehledová mapa jen tam, kde ji Markdown verze má
+    zrusMapu();
+    main.innerHTML='';
+    var h=document.createElement('div');
+    h.innerHTML='<h2>'+esc(sek.nazev)+'</h2><p class="secintro">'+esc(sek.popis)+'</p>'+
+                (body?'<div class="mapa" id="mapa-prehled" role="region" aria-label="Přehledová mapa trasy"></div>':'')+
+                '<ul class="cards">'+polozky.map(kartaHtml).join('')+'</ul>';
+    main.appendChild(h);
+    if(body) mapaPrehled(h.querySelector('#mapa-prehled'),body);
+    route.hidden=(top!=='itin');
+  }
+  function stranka(s){
+    zrusMapu();
+    main.innerHTML='';
+    route.hidden=true;
+    var sek=SEKCE.filter(function(x){return x.id===s.top})[0];
+    var art=document.createElement('article');
+    if(s.id==='co-je-v-teto-verzi-nove-a-co-se-jeste-doresi'||/^0\./.test(s.uzly[0].textContent||'')) art.className='term';
+    var cr=document.createElement('div'); cr.className='crumbs';
+    cr.innerHTML='<a href="#/'+s.top+'">'+esc(sek.nazev)+'</a><span>›</span><span>'+esc(s.kratky)+'</span>';
+    if(!sek.primo) main.appendChild(cr);
+    s.uzly.forEach(function(n){art.appendChild(n)});
+    var h2=art.querySelector('h2,h3');
+    if(h2&&h2.dataset&&h2.dataset.faze){
+      h2.classList.add('phase');
+      h2.innerHTML='<span class="tag">Fáze '+h2.dataset.faze+'</span><span>'+esc(h2.dataset.zbytek)+'</span>';
+    }
+    // mapa fáze: pod krátkým popisem, jen u fáze, jejíž blok Mapy má tabulku bodů (od v56)
+    var mb=s.faze?bodyFaze(s):null;
+    if(mb&&h2){
+      var kam=h2.nextElementSibling&&h2.nextElementSibling.tagName==='P'?h2.nextElementSibling:h2;
+      var wm=document.createElement('div'); wm.className='mapa-wrap';
+      wm.innerHTML='<div class="mapa" id="mapa-faze" role="region" aria-label="Mapa fáze '+esc(String(s.faze))+'"></div>'+legendaFaze(mb);
+      kam.insertAdjacentElement('afterend',wm);
+    }
+    main.appendChild(art);
+    if(mb&&h2) mapaFaze(art.querySelector('#mapa-faze'),mb);
+    // predchozi a dalsi v ramci nadsekce
+    var polozky=vSekci(s.top), i=polozky.indexOf(s), pn=document.createElement('div'); pn.className='prevnext';
+    if(i>0) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i-1].id+'"><span class="k">Předchozí</span>'+esc(titulek(polozky[i-1]))+'</a>');
+    if(i<polozky.length-1) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i+1].id+'"><span class="k">Další</span>'+esc(titulek(polozky[i+1]))+'</a>');
+    pn.insertAdjacentHTML('beforeend','<a href="#/'+s.top+'"><span class="k">Zpět na</span>'+esc(sek.nazev)+'</a>');
+    if(!sek.primo) main.appendChild(pn);
+    vylepsi(art);
+  }
+  function vylepsi(kam){
+    kam.querySelectorAll('table').forEach(function(t){
+      if(t.parentNode.classList.contains('tw')) return;
+      var w=document.createElement('div');w.className='tw';t.parentNode.insertBefore(w,t);w.appendChild(t);
+    });
+    kam.querySelectorAll('td').forEach(function(td){
+      var v=td.textContent.trim();
+      if(td.querySelector('.coord')) return;
+      if(/^\d{1,2}\.\d{3,5}, \d{2,3}\.\d{3,5}$/.test(v)){
+        td.innerHTML='<span class="coord">'+v+'</span> <button class="copy" type="button">kopírovat</button>';
+        td.querySelector('button').addEventListener('click',function(e){
+          var b=e.currentTarget, done=function(){b.textContent='zkopírováno';setTimeout(function(){b.textContent='kopírovat'},1500)};
+          try{navigator.clipboard.writeText(v).then(done,function(){sel(td)})}catch(_){sel(td)}
+        });
+      }
+    });
+  }
+  function sel(el){var r=document.createRange();r.selectNodeContents(el.querySelector('.coord'));var s=getSelection();s.removeAllRanges();s.addRange(r)}
+  function lista(){
+    var polozky=vSekci(stav.top), sek=SEKCE.filter(function(x){return x.id===stav.top})[0];
+    rail.innerHTML='<p class="eyebrow">'+esc(sek.nazev)+'</p><ul>'+
+      polozky.map(function(s){
+        return '<li><a href="#'+s.id+'"'+(stav.page===s.id?' aria-current="true"':'')+'>'+esc(s.kratky)+
+               (s.klic||s.sub?'<span class="sub">'+esc([s.klic,s.sub].filter(Boolean).join(' · '))+'</span>':'')+'</a></li>';
+      }).join('')+'</ul>';
+    Array.prototype.forEach.call(tabs.children,function(b){if(b.dataset.top) b.setAttribute('aria-current',String(b.dataset.top===stav.top))});
+  }
+  function jdi(top,pageId,kotva,bezHash){
+    var sk=SEKCE.filter(function(x){return x.id===top})[0];
+    if(!pageId&&sk&&sk.primo){var pp=vSekci(top); if(pp.length===1) pageId=pp[0].id;} // záložka s jedinou stránkou ji otevře rovnou
+    stav.top=top; stav.page=pageId;
+    if(pageId&&podleId[pageId]) stranka(podleId[pageId]); else rozcestnik(top);
+    lista();
+    if(!bezHash) history.replaceState(null,'',pageId?'#'+pageId:'#/'+top);
+    if(kotva){var el=document.getElementById(kotva); if(el){var d=el.closest&&el.closest('details'); if(d) d.open=true; el.scrollIntoView();return}}
+    window.scrollTo({top:0});
+  }
+  function zHashe(h,bezHash){
+    h=(h||'').replace(/^#/,'');
+    if(!h) return jdi('itin',null,null,bezHash);
+    if(h.charAt(0)==='/'){
+      var t=h.slice(1).split('/')[0];
+      if(SEKCE.some(function(s){return s.id===t})) return jdi(t,null,null,bezHash);
+      return jdi('itin',null,null,bezHash);
+    }
+    var s=podleId[h];
+    if(s) return jdi(s.top,s.id,s.id===h?null:h,bezHash);
+    jdi('itin',null,null,bezHash);
+  }
+  document.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('a[href^="#"]'); if(!a) return;
+    var h=a.getAttribute('href').slice(1); if(!h) return;
+    e.preventDefault(); location.hash=h; zHashe(h,true); history.replaceState(null,'','#'+h);
+  });
+  window.addEventListener('hashchange',function(){zHashe(location.hash,true)});
+
+  // verze v hlavicce
+  var bar=document.getElementById('verbar');
+  if(bar&&me){
+    var isOld=CFG.id!==latest;
+    var others=V.slice().reverse().filter(function(v){return v.id!==CFG.id}).map(function(v){return '<a href="'+CFG.base+'verze/'+v.id+'/">'+v.id+(v.id===latest?' (aktuální)':'')+'</a>'}).join(' ');
+    bar.innerHTML='<span class="pill'+(isOld?' old':'')+'">'+esc(me.id)+(isOld?' starší verze':' aktuální')+'</span><span class="cur">'+esc(me.datum)+' · '+esc(me.nazev)+'</span>'+(others?'<span>Další verze: '+others+'</span>':'');
+  }
+  if(me&&CFG.id!==latest){
+    var w=document.createElement('p');w.className='oldver';
+    w.innerHTML='Prohlížíte starší verzi '+esc(me.id)+' ('+esc(me.datum)+'). Aktuální je <a href="'+CFG.base+'">'+esc(latest)+'</a>.';
+    document.querySelector('header.top .wrap').appendChild(w);
+  }
+
+  zHashe(location.hash,true);
+
+  var up=document.getElementById('up');
+  up.addEventListener('click',function(){window.scrollTo({top:0})});
+  addEventListener('scroll',function(){up.classList.toggle('show',scrollY>600)},{passive:true});
+})();
+</script>
+
+</body>
+</html>

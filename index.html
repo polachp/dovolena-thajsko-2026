@@ -187,7 +187,7 @@ footer a{color:var(--accent)}
 <body>
 
 <header class="top"><div class="wrap">
-  <div class="eyebrow">Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026 · verze v57 (10. 11. 2026)</div>
+  <div class="eyebrow">Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026 · verze v58 (10. 11. 2026)</div>
   <h1>Bangkok <span class="arrow">→</span> Phuket</h1>
   <div class="odpocet" id="odpocet" hidden>
     <span class="num" id="odpocetNum"></span>
@@ -231,7 +231,7 @@ footer a{color:var(--accent)}
 
 <footer><div class="wrap">Zdroj: Kompletní thajský slow-travel manuál, @Anezka. Časy a ceny jsou orientační, ověřte před cestou. Celý text: <a href="thajsko-bangkok-phuket.md">thajsko-bangkok-phuket.md</a>.</div></footer>
 
-<script>window.CFG={"id": "v57", "base": "./", "kam": {"Co se ještě dořeší": "pred", "Úvod do Thajska": "zajimavosti", "Zvířata na trase": "zajimavosti", "Záchytné body pro Google Maps": "misto", "Doprava": "misto", "Počasí, teploty a deště": "pred", "Jídlo, pití a bezpečné stravování": "misto", "Seznam povinného vybavení": "pred", "Etiketa": "misto", "Praktické travel hacky": "misto", "Předodletový checklist": "pred", "Šnorchlování a noční safari": "zajimavosti", "Zdraví, bezpečnost a nouzová čísla": "pred", "Orientační rozpočet": "pred", "Mini-slovníček thajských frází": "misto", "Etihad Airways": "pred", "Do kdy zrušit ubytování zdarma": "terminy", "Místa na trase: Bangkok": "zajimavosti", "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti", "Místa na trase: Prachuap Khiri Khan": "zajimavosti", "Místa na trase: Ranong a Koh Phayam": "zajimavosti", "Místa na trase: Khao Sok": "zajimavosti", "Místa na trase: Krabi": "zajimavosti", "Místa na trase: Koh Yao Noi": "zajimavosti", "Místa na trase: Phuket a Nai Yang": "zajimavosti"}};</script>
+<script>window.CFG={"id": "v58", "base": "./", "kam": {"Co se ještě dořeší": "pred", "Úvod do Thajska": "zajimavosti", "Zvířata na trase": "zajimavosti", "Záchytné body pro Google Maps": "misto", "Doprava": "misto", "Počasí, teploty a deště": "pred", "Jídlo, pití a bezpečné stravování": "misto", "Seznam povinného vybavení": "pred", "Etiketa": "misto", "Praktické travel hacky": "misto", "Předodletový checklist": "pred", "Šnorchlování a noční safari": "zajimavosti", "Zdraví, bezpečnost a nouzová čísla": "pred", "Orientační rozpočet": "pred", "Mini-slovníček thajských frází": "misto", "Etihad Airways": "pred", "Do kdy zrušit ubytování zdarma": "terminy", "Místa na trase: Bangkok": "zajimavosti", "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti", "Místa na trase: Prachuap Khiri Khan": "zajimavosti", "Místa na trase: Ranong a Koh Phayam": "zajimavosti", "Místa na trase: Khao Sok": "zajimavosti", "Místa na trase: Krabi": "zajimavosti", "Místa na trase: Koh Yao Noi": "zajimavosti", "Místa na trase: Phuket a Nai Yang": "zajimavosti"}};</script>
 <script>
 // Odpocet do odletu. Datum se nastavuje v build.py (konstanta ODLET).
 (function(){
@@ -250,9 +250,9 @@ footer a{color:var(--accent)}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="./verze.js?v=53d03cd1"></script>
+<script src="./verze.js?v=5b9696a2"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=53d03cd1"></script>
+<script src="thajsko-obsah.js?v=5b9696a2"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -537,9 +537,13 @@ footer a{color:var(--accent)}
         m.addTo(map);
       });
       // První pohled: hustá střední část (body do 3,5 km od mediánu), ať se body ve starém městě nepřekrývají. Zbytek ukáže tlačítko Zobrazit vše.
+      // U rozlehlejších fází (od v58) se okruh postupně zvětšuje na 8 a 15 km, dokud v něm nejsou aspoň tři body, aby první pohled ukázal hlavní místo pobytu.
       var st=[mediana(body.map(function(b){return b.lat})),mediana(body.map(function(b){return b.lon}))];
-      var jadro=vse.filter(function(p){return kmMezi(st,p)<=3.5});
-      if(jadro.length>=3&&jadro.length<vse.length){
+      var jadro=[], polomery=[3.5,8,15];
+      for(var pi=0;pi<polomery.length&&jadro.length<3;pi++){
+        jadro=vse.filter(function(p){return kmMezi(st,p)<=polomery[pi]});
+      }
+      if(vse.length>6&&jadro.length>=3&&jadro.length<vse.length){ // u mapy s málem bodů se rovnou ukáže všechno
         var ctl=L.control({position:'topright'});
         ctl.onAdd=function(){
           var bt=L.DomUtil.create('button','mapa-vse'); bt.type='button'; bt.textContent='Zobrazit vše'; bt.title='Zobrazit všechny body mapy';

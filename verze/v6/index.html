@@ -251,9 +251,9 @@ footer a{color:var(--accent)}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=0a2b0817"></script>
+<script src="../../verze.js?v=e86df869"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=0a2b0817"></script>
+<script src="thajsko-obsah.js?v=e86df869"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -538,9 +538,13 @@ footer a{color:var(--accent)}
         m.addTo(map);
       });
       // První pohled: hustá střední část (body do 3,5 km od mediánu), ať se body ve starém městě nepřekrývají. Zbytek ukáže tlačítko Zobrazit vše.
+      // U rozlehlejších fází (od v58) se okruh postupně zvětšuje na 8 a 15 km, dokud v něm nejsou aspoň tři body, aby první pohled ukázal hlavní místo pobytu.
       var st=[mediana(body.map(function(b){return b.lat})),mediana(body.map(function(b){return b.lon}))];
-      var jadro=vse.filter(function(p){return kmMezi(st,p)<=3.5});
-      if(jadro.length>=3&&jadro.length<vse.length){
+      var jadro=[], polomery=[3.5,8,15];
+      for(var pi=0;pi<polomery.length&&jadro.length<3;pi++){
+        jadro=vse.filter(function(p){return kmMezi(st,p)<=polomery[pi]});
+      }
+      if(vse.length>6&&jadro.length>=3&&jadro.length<vse.length){ // u mapy s málem bodů se rovnou ukáže všechno
         var ctl=L.control({position:'topright'});
         ctl.onAdd=function(){
           var bt=L.DomUtil.create('button','mapa-vse'); bt.type='button'; bt.textContent='Zobrazit vše'; bt.title='Zobrazit všechny body mapy';
