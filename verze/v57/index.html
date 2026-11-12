@@ -5,23 +5,35 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Thajsko Bangkok–Phuket</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;1,6..72,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,400..800;1,400..600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<meta name="color-scheme" content="light dark">
+<script>
+// Režim zobrazení (od 12. 11. 2026): bez volby podle telefonu, ruční volba Světlý nebo Tmavý se pamatuje v tomto prohlížeči (záložka Více).
+// Nastavuje se hned v hlavičce, aby stránka při načtení neproblikla v druhém režimu.
+(function(){try{var m=localStorage.getItem('motiv'); if(m==='light'||m==='dark') document.documentElement.setAttribute('data-theme',m)}catch(e){}})();
+</script>
 <style>
 /* Mobile first, stromova navigace: nadsekce -> seznam polozek -> jedna stranka. */
+/* Paleta Nefrit (směr A Kapesní průvodce, od 12. 11. 2026). Kontrast textu k pozadí je v obou režimech aspoň 6:1. */
 :root{
-  --bg:#edf2ef; --surface:#ffffff; --ink:#16231f; --muted:#53625b; --line:#cfd9d4;
-  --accent:#0b5d55; --accent-soft:#dbe9e4; --accent-mid:#8fb3aa; --rail-num:#5f8f85; --ik-soft:#bfe0d6; --saffron:#b9770b; --saffron-soft:#f6ead2; --saffron-text:#8a5600;
-  --display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
-  --body:"Newsreader", Georgia, "Times New Roman", serif;
-  --mono:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --bg:#f5f6f1; --surface:#ffffff; --ink:#17211d; --muted:#55625c; --line:#dfe3dc;
+  --accent:#0e6b5a; --accent-soft:#dcebe5; --accent-mid:#8fbcb0; --rail-num:#5f8f85; --ik-soft:#c5e1d7; --saffron:#b86e00; --saffron-soft:#f6ead2; --saffron-text:#8a5300;
+  --warn:#b3261e; --on-accent:#ffffff; --rest:#d3dbd5;
+  --display:"Hanken Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --body:"Hanken Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
   --pad:max(16px,env(safe-area-inset-left,0px));
+  --nav-h:64px;
+  color-scheme:light;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
-  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --rail-num:#5d9188; --ik-soft:#1f4b45; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}}
+  --bg:#0f1513; --surface:#18201d; --ink:#e4ebe7; --muted:#9aa8a1; --line:#2a3631;
+  --accent:#5cc7ae; --accent-soft:#17332d; --accent-mid:#2f6458; --rail-num:#5d9188; --ik-soft:#1f4b42; --saffron:#e8b04a; --saffron-soft:#33280f; --saffron-text:#e8b04a;
+  --warn:#ff8a80; --on-accent:#08201b; --rest:#2c3833; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
-  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --rail-num:#5d9188; --ik-soft:#1f4b45; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}
+  --bg:#0f1513; --surface:#18201d; --ink:#e4ebe7; --muted:#9aa8a1; --line:#2a3631;
+  --accent:#5cc7ae; --accent-soft:#17332d; --accent-mid:#2f6458; --rail-num:#5d9188; --ik-soft:#1f4b42; --saffron:#e8b04a; --saffron-soft:#33280f; --saffron-text:#e8b04a;
+  --warn:#ff8a80; --on-accent:#08201b; --rest:#2c3833; color-scheme:dark}
 
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -50,21 +62,20 @@ details.hdr>summary::-webkit-details-marker{display:none}
 details.hdr>summary::after{content:" +"}
 details.hdr[open]>summary::after{content:" −"}
 
-/* nadsekce */
-.tabs{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line)}
-.tabs .wrap{display:flex;flex-wrap:wrap;gap:0 2px}
-.tabs .wrap::-webkit-scrollbar{display:none}
-.tabs button{flex:0 0 auto;font-family:var(--display);font-weight:600;font-size:15px;background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:12px 10px;cursor:pointer;min-height:46px;white-space:nowrap}
-.tabs button[aria-current="true"]{color:var(--accent);border-bottom-color:var(--accent)}
-.tabs button.dva{line-height:1.15;padding-top:6px;padding-bottom:6px;text-align:center}
-.tabs br.u,.tabs .zalom{display:none}
-@media (max-width:640px){
-  /* šest záložek: na telefonu pět v prvním řádku (dvouslovné názvy ve dvou řádcích), šestá pod nimi */
-  .tabs .wrap.sest{padding-left:4px;padding-right:4px;gap:0}
-  .tabs .wrap.sest button{flex:1 1 auto;font-size:14px;padding:6px;min-height:40px;line-height:1.15;text-align:center}
-  .tabs .wrap.sest .zalom~button{flex:0 0 auto;padding-left:10px;padding-right:10px}
-  .tabs .wrap.sest .zalom{display:block;flex:0 0 100%;height:0}
-  .tabs .wrap.sest br.u{display:inline}
+/* hlavní navigace (od 12. 11. 2026): čtyři položky Dnes, Trasa, Průvodce, Více. Na telefonu lišta dole u palce, od 900 px nahoře pod hlavičkou. */
+.tabs{position:fixed;left:0;right:0;bottom:0;z-index:30;background:var(--surface);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom,0px)}
+.tabs .wrap{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));padding-left:4px;padding-right:4px}
+.tabs button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;min-height:var(--nav-h);padding:6px 2px;background:none;border:0;color:var(--muted);font-family:var(--display);font-weight:600;font-size:12.5px;cursor:pointer}
+.tabs button svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.tabs button[aria-current="true"]{color:var(--accent);font-weight:700}
+body{padding-bottom:calc(var(--nav-h) + env(safe-area-inset-bottom,0px))}
+@media (min-width:900px){
+  .tabs{position:sticky;top:0;bottom:auto;border-top:0;border-bottom:1px solid var(--line);background:var(--bg);padding-bottom:0}
+  .tabs .wrap{display:flex;gap:4px;padding-left:var(--pad);padding-right:var(--pad)}
+  .tabs button{flex-direction:row;gap:8px;min-height:52px;padding:0 14px;font-size:15px;border-bottom:3px solid transparent}
+  .tabs button svg{width:20px;height:20px}
+  .tabs button[aria-current="true"]{border-bottom-color:var(--accent)}
+  body{padding-bottom:0}
 }
 
 /* pruh fazi (jen na rozcestniku itineráře) */
@@ -312,6 +323,60 @@ article details.more[open]>.tw{margin-left:0}
   article h3.phase .cislo b{font-size:112px}
   article ul.see .lbl{font-size:16px}
 }
+
+/* ---- směr A Kapesní průvodce (od 12. 11. 2026) ---- */
+.up{bottom:calc(var(--nav-h) + 14px + env(safe-area-inset-bottom,0px))}
+/* na podstránkách se hlavička zúží na jeden řádek, ať je obsah hned nahoře */
+body.podstranka header.top{padding-block:10px 6px}
+body.podstranka header.top h1{font-size:1.15rem;margin:0}
+body.podstranka header.top .eyebrow,body.podstranka header.top .lede,body.podstranka header.top .odpocet,body.podstranka header.top details.hdr{display:none}
+.eyebrow,.lbl-m{font-family:var(--mono);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:800;letter-spacing:-.02em}
+#main>div>h2,article h2{font-weight:800;letter-spacing:-.015em}
+.cards a{border-radius:16px}
+.cards .k{font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;font-weight:500}
+article h3.phase .cislo b,.prevnext .pn-n,.chlog .vid{font-weight:800;letter-spacing:-.04em}
+@media (min-width:900px){nav.rail .rn{font-weight:800}}
+/* skupina záložek (Průvodce, Více): mezititulek nad kartami každé části */
+.skupina{margin:22px 0 8px;display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.skupina h3{margin:0;font-family:var(--display);font-size:1.1rem;font-weight:800}
+.skupina a{font-family:var(--display);font-size:14px;font-weight:600;color:var(--accent);text-decoration:none;white-space:nowrap}
+/* přepínač režimu zobrazení (záložka Více) */
+.rezim{display:flex;flex-direction:column;gap:8px;margin:0 0 8px;padding:16px;border:1px solid var(--line);border-radius:16px;background:var(--surface)}
+.rezim p{margin:0;font-size:14px;color:var(--muted)}
+.rezim .prepinac{margin:0;align-self:flex-start}
+/* záložka Dnes */
+.dnes{display:flex;flex-direction:column;gap:12px;max-width:640px}
+.dnes .kde{display:flex;flex-direction:column;gap:2px;margin-bottom:2px}
+.dnes .kde h2{margin:0;font-family:var(--display);font-size:clamp(2rem,9vw,2.6rem);line-height:1.02;font-weight:800;letter-spacing:-.02em}
+.dnes .kde p{margin:0;color:var(--muted);font-size:15px}
+.dnes .pas{display:grid;grid-template-columns:repeat(var(--n,8),minmax(0,1fr));gap:4px}
+.dnes .pas i{display:block;height:6px;border-radius:3px;background:var(--rest)}
+.dnes .pas i.hotovo{background:var(--accent)}
+.dnes .pas i.ted{background:linear-gradient(90deg,var(--accent) var(--p,50%),var(--accent-soft) var(--p,50%))}
+.dnes .pas-po{display:flex;justify-content:space-between;font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:6px}
+.karta{display:flex;flex-direction:column;gap:8px;padding:16px;border:1px solid var(--line);border-radius:16px;background:var(--surface);color:var(--ink);text-decoration:none}
+.karta.hl{border:2px solid var(--accent)}
+.karta.hlidat{border-left:6px solid var(--warn)}
+.karta .lbl-m.hl{color:var(--accent)}
+.karta .lbl-m.w{color:var(--warn)}
+.karta .t{margin:0;font-family:var(--display);font-size:17px;font-weight:700;line-height:1.3}
+.karta .t.velky{font-size:20px}
+.karta .p{margin:0;font-size:14.5px;line-height:1.5;color:var(--muted)}
+.karta .radek{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.karta .cas{font-family:var(--mono);font-size:12px;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+.karta ul.lhuty{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.karta ul.lhuty li{display:flex;justify-content:space-between;align-items:baseline;gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:15px}
+.karta ul.lhuty li:first-child{border-top:0;padding-top:2px}
+.karta ul.lhuty .z{font-family:var(--mono);font-size:12.5px;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+.karta ul.lhuty .z.brzy{color:var(--warn);font-weight:500}
+.karta .opt{font-family:var(--display);font-size:12px;font-weight:600;color:var(--saffron-text);margin-left:6px;white-space:nowrap}
+.tlacitka{display:flex;flex-wrap:wrap;gap:8px}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 16px;border-radius:12px;font-family:var(--display);font-size:15px;font-weight:700;text-decoration:none;background:var(--accent-soft);color:var(--ink)}
+.btn.pl{background:var(--accent);color:var(--on-accent)}
+.dnes .odpocet-velky{font-family:var(--display);font-weight:800;font-size:clamp(2.4rem,11vw,3.4rem);line-height:1;letter-spacing:-.02em;color:var(--accent);font-variant-numeric:tabular-nums}
+body.na-dnes header.top .odpocet{display:none}
+@media (min-width:900px){body.na-dnes .layout{grid-template-columns:minmax(0,1fr)}body.na-dnes nav.rail{display:none}}
 </style>
 </head>
 <body>
@@ -335,7 +400,7 @@ article details.more[open]>.tw{margin-left:0}
   </details>
 </div></header>
 
-<div class="tabs"><div class="wrap" id="tabs" aria-label="Hlavní sekce"></div></div>
+<nav class="tabs" aria-label="Hlavní navigace"><div class="wrap" id="tabs"></div></nav>
 
 <div class="route" id="route" hidden><div class="wrap">
   <ol>
@@ -883,22 +948,30 @@ article details.more[open]>.tw{margin-left:0}
 
   // ---- vykresleni ----
   var tabs=document.getElementById('tabs'), rail=document.getElementById('rail'), route=document.getElementById('route');
-  var sest=SEKCE.filter(function(s){return !(s.volitelna&&!vSekci(s.id).length)}).length>=6; // od v46 šest záložek
-  if(sest) tabs.classList.add('sest');
-  SEKCE.forEach(function(s,i){
-    if(s.volitelna&&!vSekci(s.id).length) return; // záložka bez stránek (starší verze) se neukazuje
-    var prvniDruhy=vSekci('varianty').length?'varianty':'verze'; // na telefonu Varianty (když jsou) a Verze ve druhém řádku
-    if(sest&&s.id===prvniDruhy){var z=document.createElement('span'); z.className='zalom'; tabs.appendChild(z)}
-    if(s.popisSZajimavostmi&&vSekci('zajimavosti').length) s.popis=s.popisSZajimavostmi; // Na místě bez zajímavostí (od v46 jsou zvlášť)
+  // Hlavní navigace (od 12. 11. 2026): sedm sekcí (SEKCE) je seskupených do čtyř položek lišty. Sekce i jejich adresy (#/pred, #/itin, ...) zůstávají,
+  // takže odkazy v textu ("v záložce Itinerář", "sekce Doprava") fungují dál. Skupina Trasa je přímo sekce Itinerář.
+  var SKUPINY=[
+    {id:'dnes', nazev:'Dnes', sekce:[], ikona:'<circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/>'},
+    {id:'trasa', nazev:'Trasa', sekce:['itin'], ikona:'<circle cx="6" cy="18" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M8.5 18H15a3 3 0 0 0 0-6H9a3 3 0 0 1 0-6h6.5"/>'},
+    {id:'pruvodce', nazev:'Průvodce', sekce:['zajimavosti','misto'], popis:'Místa na trase, kultura a zvířata, doprava, jídlo, etiketa a slovníček.',
+     ikona:'<path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/>'},
+    {id:'vice', nazev:'Více', sekce:['pred','terminy','varianty','verze'], popis:'Příprava před cestou, termíny zrušení ubytování, odložené varianty, verze itineráře a režim zobrazení.',
+     ikona:'<path d="M4 6h16M4 12h16M4 18h10"/>'}
+  ];
+  function skupinaSekce(top){
+    for(var i=0;i<SKUPINY.length;i++){if(SKUPINY[i].id===top||SKUPINY[i].sekce.indexOf(top)>=0) return SKUPINY[i].id}
+    return 'trasa';
+  }
+  function jeSkupina(id){return id==='dnes'||id==='pruvodce'||id==='vice'}
+  SEKCE.forEach(function(s){if(s.popisSZajimavostmi&&vSekci('zajimavosti').length) s.popis=s.popisSZajimavostmi}); // Na místě bez zajímavostí (od v46 jsou zvlášť)
+  SKUPINY.forEach(function(g){
     var b=document.createElement('button');
-    b.type='button'; b.dataset.top=s.id;
-    if(s.radky){b.innerHTML=s.radky.map(esc).join('<br>'); b.classList.add('dva')}
-    else if(sest&&s.radkyUzke){b.innerHTML=s.radkyUzke.map(esc).join(' <br class="u">'); b.classList.add('dva')}
-    else b.textContent=s.nazev;
-    b.addEventListener('click',function(){jdi(s.id,null)});
+    b.type='button'; b.dataset.skupina=g.id;
+    b.innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true">'+g.ikona+'</svg><span>'+esc(g.nazev)+'</span>';
+    b.addEventListener('click',function(){jdi(g.id==='trasa'?'itin':g.id,null)});
     tabs.appendChild(b);
   });
-  var stav={top:'itin',page:null};
+  var stav={top:'dnes',page:null};
   function titulek(s){return s.klic&&s.klic!=='Itinerář'?s.klic+': '+s.kratky:(s.klic?s.nazev:s.kratky)}
   function kartaHtml(s){
     return '<li><a href="#'+s.id+'">'+(s.klic?'<span class="k">'+esc(s.klic)+(s.sub?' · '+esc(s.sub):'')+'</span>':'')+
@@ -1085,8 +1158,146 @@ article details.more[open]>.tw{margin-left:0}
       }
     });
   }
+  // ---- stránka skupiny Průvodce a Více (od 12. 11. 2026): karty všech částí skupiny pod mezititulky, ve Více navíc režim zobrazení ----
+  function skupinaStranka(g){
+    zrusMapu();
+    main.innerHTML='';
+    route.hidden=true;
+    var h='<h2>'+esc(g.nazev)+'</h2><p class="secintro">'+esc(g.popis||'')+'</p>';
+    if(g.id==='vice') h+='<div class="rezim"><h3 class="lbl-m" style="margin:0">Režim zobrazení</h3><p>Bez volby se web řídí nastavením telefonu. Volba platí jen v tomto prohlížeči.</p>'+
+      '<div class="prepinac" role="group" aria-label="Režim zobrazení"><button type="button" data-motiv="auto">Podle telefonu</button><button type="button" data-motiv="light">Světlý</button><button type="button" data-motiv="dark">Tmavý</button></div></div>';
+    g.sekce.forEach(function(id){
+      var pol=vSekci(id); if(!pol.length) return;
+      var sk=SEKCE.filter(function(x){return x.id===id})[0];
+      h+='<div class="skupina"><h3>'+esc(sk.nazev)+'</h3>'+(pol.length>1?'<a href="#/'+id+'">Celá část</a>':'')+'</div>';
+      h+='<ul class="cards">'+pol.map(kartaHtml).join('')+'</ul>';
+    });
+    var box=document.createElement('div'); box.innerHTML=h; main.appendChild(box);
+    var p=box.querySelector('.rezim .prepinac');
+    if(p){
+      var ted=function(){try{return localStorage.getItem('motiv')||'auto'}catch(e){return 'auto'}};
+      var oznac=function(){var m=ted(); Array.prototype.forEach.call(p.children,function(b){b.setAttribute('aria-pressed',String(b.dataset.motiv===m))})};
+      p.addEventListener('click',function(e){
+        var b=e.target.closest('button'); if(!b) return;
+        var m=b.dataset.motiv;
+        try{if(m==='auto') localStorage.removeItem('motiv'); else localStorage.setItem('motiv',m)}catch(_){}
+        if(m==='auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme',m);
+        oznac();
+      });
+      oznac();
+    }
+  }
+  // ---- záložka Dnes (od 12. 11. 2026) ----
+  // Před cestou: odpočet, nejbližší termíny zrušení a co se ještě dořeší. Během cesty: aktuální fáze podle data, postup po trase, bloky fáze a další fáze.
+  // Data fází se čtou z nadpisů fází ("3 noci, 27.–30. 11."), termíny z tabulky Do kdy zrušit ubytování zdarma. Pro kontrolu jde datum přepsat parametrem ?dnes=2026-12-15.
+  var DEN=864e5;
+  function dnesDatum(){
+    var m=location.search.match(/[?&]dnes=(\d{4})-(\d{2})-(\d{2})/);
+    var d=m?new Date(+m[1],+m[2]-1,+m[3],12):new Date();
+    return d;
+  }
+  function rozsahFaze(s){
+    var m=(s.sub||'').match(/(\d{1,2})\.\s*(?:(\d{1,2})\.\s*)?[–-]\s*(\d{1,2})\.\s*(\d{1,2})\.\s*$/);
+    if(!m) return null;
+    var m2=+m[4], m1=m[2]?+m[2]:m2;
+    return {od:new Date(ROK_TERMINU,m1-1,+m[1]),do:new Date(ROK_TERMINU,m2-1,+m[3])};
+  }
+  function lhuty(){
+    var out=[];
+    STRANKY.forEach(function(s){
+      s.uzly.forEach(function(n){
+        if(n.nodeType!==1) return;
+        var tbl=n.tagName==='TABLE'?[n]:Array.prototype.slice.call(n.querySelectorAll('table'));
+        tbl.forEach(function(t){
+          var hr=t.querySelector('thead tr'); if(!hr) return;
+          var ith=-1; Array.prototype.forEach.call(hr.children,function(h,i){if(/^Thajsko/.test(h.textContent.trim())) ith=i});
+          if(ith<0||!Array.prototype.some.call(hr.children,function(h){return /^Česko/.test(h.textContent.trim())})) return;
+          Array.prototype.forEach.call(t.querySelectorAll('tbody tr'),function(tr){
+            var c=tr.children, mm=c[ith]?c[ith].textContent.match(/(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{1,2}):(\d{2})/):null;
+            if(!mm) return;
+            var tmpd=document.createElement('div'); tmpd.innerHTML=(c[0].innerHTML||'').split(/<br\s*\/?>/i)[0];
+            out.push({nazev:tmpd.textContent.replace(/\s*\([^)]*\)\s*$/,'').trim(),dvoji:/dvojí/i.test(c[0].textContent),
+                      kdy:Date.UTC(ROK_TERMINU,+mm[2]-1,+mm[1],+mm[3]-7,+mm[4]),stranka:s.id});
+          });
+        });
+      });
+    });
+    return out.sort(function(a,b){return a.kdy-b.kdy});
+  }
+  function blokFaze(s,re){
+    for(var i=0;i<s.uzly.length;i++){var n=s.uzly[i]; if(n.nodeType===1&&n.tagName==='DETAILS'&&re.test(n.firstChild.textContent.trim())) return n}
+    return null;
+  }
+  // první věta popisu fáze (perex na kartách je zkrácený na 120 znaků, tady by končil uprostřed věty)
+  function prvniVeta(s){
+    for(var i=1;i<s.uzly.length;i++){var n=s.uzly[i]; if(n.nodeType===1&&n.tagName==='P'){var t=n.textContent.replace(/\s+/g,' ').trim(), m=t.match(/^.*?[.!?](?=\s|$)/); return m?m[0]:t}}
+    return s.perex||'';
+  }
+  function dnesStranka(){
+    zrusMapu();
+    main.innerHTML='';
+    route.hidden=true;
+    var dnes=dnesDatum(), den0=new Date(dnes.getFullYear(),dnes.getMonth(),dnes.getDate());
+    var fz=vSekci('itin').filter(function(x){return x.faze}).map(function(s){return {s:s,r:rozsahFaze(s)}}).filter(function(x){return x.r});
+    var n=fz.length, i=-1;
+    fz.forEach(function(x,k){if(den0>=x.r.od&&den0<x.r.do) i=k});
+    var datumTxt=dnes.toLocaleDateString('cs-CZ',{weekday:'short',day:'numeric',month:'numeric'});
+    var h='<div class="dnes">';
+    var ted=Date.now();
+    if(location.search.indexOf('dnes=')>=0) ted=dnes.getTime();
+    var lh=lhuty().filter(function(x){return x.kdy>ted}).slice(0,3);
+    function lhutyKarta(){
+      if(!lh.length) return '';
+      var nej=lh[0], ms=nej.kdy-ted;
+      return '<a class="karta hlidat" href="#'+nej.stranka+'"><div class="radek"><span class="lbl-m w">Nejbližší termíny zrušení zdarma</span></div><ul class="lhuty">'+
+        lh.map(function(x){var z=x.kdy-ted; return '<li><span>'+esc(x.nazev)+(x.dvoji?' <span class="opt">dvojí rezervace</span>':'')+'</span><span class="z'+(z<3*DEN?' brzy':'')+'">'+esc(zbyvaText(z))+'</span></li>'}).join('')+
+        '</ul><span class="p">Všechny termíny v thajském i českém čase</span></a>';
+    }
+    function stranka1(re){return STRANKY.filter(function(s){return re.test(s.kratky||'')})[0]}
+    if(n&&i<0&&den0<fz[0].r.od){
+      // před cestou
+      var odlet=new Date('2026-11-26T00:00:00+01:00'), zb=odlet-ted, dny=Math.floor(zb/DEN), hod=Math.floor(zb/36e5)%24;
+      h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+'</span>';
+      h+=zb>0?'<span class="odpocet-velky">'+dny+' '+(dny===1?'den':(dny>=2&&dny<=4?'dny':'dní'))+'</span><p>a '+hod+' h do odletu, '+esc(odlet.toLocaleDateString('cs-CZ',{weekday:'long',day:'numeric',month:'numeric'}))+'</p>':'<h2>Letíte</h2><p>Přílet do první fáze '+esc(fz[0].s.sub)+'</p>';
+      h+='</div>';
+      h+=lhutyKarta();
+      var cd=stranka1(/^Co se ještě dořeší/), ch=stranka1(/^Předodletový checklist/);
+      if(cd) h+='<a class="karta" href="#'+cd.id+'"><span class="lbl-m">Před odletem</span><p class="t">Co se ještě dořeší</p>'+(cd.perex?'<p class="p">'+esc(cd.perex)+'</p>':'')+'</a>';
+      if(ch) h+='<a class="karta" href="#'+ch.id+'"><span class="lbl-m">Před odletem</span><p class="t">Předodletový checklist</p></a>';
+      h+='<a class="karta" href="#'+fz[0].s.id+'"><span class="lbl-m">První fáze · '+esc(fz[0].s.sub)+'</span><p class="t">'+esc(fz[0].s.kratky)+'</p>'+(fz[0].s.perex?'<p class="p">'+esc(fz[0].s.perex)+'</p>':'')+'</a>';
+    } else if(i>=0){
+      // během cesty
+      var x=fz[i], noci=Math.round((x.r.do-x.r.od)/DEN), noc=Math.floor((den0-x.r.od)/DEN)+1;
+      var celkem=Math.round((fz[n-1].r.do-fz[0].r.od)/DEN)+1, denC=Math.floor((den0-fz[0].r.od)/DEN)+1;
+      h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+' · den '+denC+' z '+celkem+'</span><h2>'+esc(x.s.kratky)+'</h2><p>Fáze '+x.s.faze+' z '+n+' · noc '+noc+' z '+noci+'</p></div>';
+      var pas=''; for(var k=0;k<n;k++) pas+='<i class="'+(k<i?'hotovo':(k===i?'ted':''))+'"'+(k===i?' style="--p:'+Math.round((noc-.5)/noci*100)+'%"':'')+'></i>';
+      h+='<div><div class="pas" style="--n:'+n+'" role="img" aria-label="Postup po trase: fáze '+x.s.faze+' z '+n+'">'+pas+'</div><div class="pas-po"><span>'+esc(fz[0].s.kratky.split(',')[0])+'</span><span>'+esc(fz[n-1].s.kratky.split(',')[0])+'</span></div></div>';
+      var bp=blokFaze(x.s,/^Program/), bu=blokFaze(x.s,/^Ubytování/), bd=blokFaze(x.s,/^(Přesun dál|Odlet)/);
+      h+='<div class="karta hl"><span class="lbl-m hl">Teď tady</span>'+(prvniVeta(x.s)?'<p class="t velky">'+esc(prvniVeta(x.s))+'</p>':'')+
+         '<div class="tlacitka"><a class="btn pl" href="#'+x.s.id+'">Otevřít fázi</a>'+(bp?'<a class="btn" href="#'+bp.id+'">Program</a>':'')+(bu?'<a class="btn" href="#'+bu.id+'">Ubytování</a>':'')+'</div></div>';
+      h+=lhutyKarta();
+      if(bd){var tt=bd.firstChild.textContent.trim(); h+='<a class="karta" href="#'+bd.id+'"><span class="lbl-m">'+esc(/^Odlet/.test(tt)?'Odlet':'Další přesun')+'</span><p class="t">'+esc(tt.replace(/^(Přesun dál|Odlet)\s*/,'').replace(/^\(|\)$/g,'')||tt)+'</p></a>'}
+      if(i<n-1) h+='<a class="karta" href="#'+fz[i+1].s.id+'"><span class="lbl-m">Další fáze · '+esc(fz[i+1].s.sub)+'</span><p class="t">'+esc(fz[i+1].s.kratky)+'</p></a>';
+    } else {
+      h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+'</span><h2>Cesta skončila</h2><p>Itinerář zůstává k nahlédnutí v záložce Trasa.</p></div>';
+      h+='<a class="karta" href="#/itin"><p class="t">Celá trasa</p></a>';
+    }
+    h+='</div>';
+    main.innerHTML=h;
+  }
   function sel(el){var r=document.createRange();r.selectNodeContents(el.querySelector('.coord'));var s=getSelection();s.removeAllRanges();s.addRange(r)}
   function lista(){
+    var aktivni=skupinaSekce(stav.top);
+    Array.prototype.forEach.call(tabs.children,function(b){if(b.dataset.skupina) b.setAttribute('aria-current',String(b.dataset.skupina===aktivni))});
+    if(jeSkupina(stav.top)){
+      // stránka skupiny: v postranní liště (desktop) části skupiny, Dnes lištu nemá
+      var g=SKUPINY.filter(function(x){return x.id===stav.top})[0];
+      rail.innerHTML=g.sekce.length?'<p class="eyebrow">'+esc(g.nazev)+'</p><ul>'+g.sekce.filter(function(id){return vSekci(id).length}).map(function(id){
+        var sk=SEKCE.filter(function(x){return x.id===id})[0];
+        return '<li><a href="#/'+id+'">'+esc(sk.nazev)+'</a></li>';
+      }).join('')+'</ul>':'';
+      return;
+    }
     var polozky=vSekci(stav.top), sek=SEKCE.filter(function(x){return x.id===stav.top})[0];
     rail.innerHTML='<p class="eyebrow">'+esc(sek.nazev)+'</p><ul>'+
       polozky.map(function(s){
@@ -1096,9 +1307,20 @@ article details.more[open]>.tw{margin-left:0}
         return '<li><a href="#'+s.id+'"'+(stav.page===s.id?' aria-current="true"':'')+'>'+esc(s.kratky)+
                (s.klic||s.sub?'<span class="sub">'+esc([s.klic,s.sub].filter(Boolean).join(' · '))+'</span>':'')+'</a></li>';
       }).join('')+'</ul>';
-    Array.prototype.forEach.call(tabs.children,function(b){if(b.dataset.top) b.setAttribute('aria-current',String(b.dataset.top===stav.top))});
   }
   function jdi(top,pageId,kotva,bezHash){
+    if(top==='trasa') top='itin';
+    if(jeSkupina(top)){
+      stav.top=top; stav.page=null;
+      document.body.classList.remove('podstranka');
+      document.body.classList.toggle('na-dnes',top==='dnes');
+      if(top==='dnes') dnesStranka(); else skupinaStranka(SKUPINY.filter(function(x){return x.id===top})[0]);
+      lista();
+      if(!bezHash) history.replaceState(null,'','#/'+top);
+      window.scrollTo({top:0});
+      return;
+    }
+    document.body.classList.remove('na-dnes');
     var sk=SEKCE.filter(function(x){return x.id===top})[0];
     if(!pageId&&sk&&sk.primo){var pp=vSekci(top); if(pp.length===1) pageId=pp[0].id;} // záložka s jedinou stránkou ji otevře rovnou
     if(pageId&&kotva&&stav.page===pageId&&stav.top===top){ // odkaz na blok na stejné stránce: jen rozbalit a doscrollovat, mapa se nepřekresluje
@@ -1106,6 +1328,7 @@ article details.more[open]>.tw{margin-left:0}
       if(cil){var dd=cil.closest&&cil.closest('details'); if(dd) dd.open=true; cil.scrollIntoView(); if(!bezHash) history.replaceState(null,'','#'+kotva); return}
     }
     stav.top=top; stav.page=pageId;
+    document.body.classList.toggle('podstranka',!!(pageId&&podleId[pageId]));
     if(pageId&&podleId[pageId]) stranka(podleId[pageId]); else rozcestnik(top);
     lista();
     if(!bezHash) history.replaceState(null,'',pageId?'#'+pageId:'#/'+top);
@@ -1114,10 +1337,10 @@ article details.more[open]>.tw{margin-left:0}
   }
   function zHashe(h,bezHash){
     h=(h||'').replace(/^#/,'');
-    if(!h) return jdi('itin',null,null,bezHash);
+    if(!h) return jdi('dnes',null,null,bezHash);
     if(h.charAt(0)==='/'){
       var t=h.slice(1).split('/')[0];
-      if(SEKCE.some(function(s){return s.id===t})) return jdi(t,null,null,bezHash);
+      if(SEKCE.some(function(s){return s.id===t})||jeSkupina(t)||t==='trasa') return jdi(t,null,null,bezHash);
       return jdi('itin',null,null,bezHash);
     }
     var s=podleId[h];
