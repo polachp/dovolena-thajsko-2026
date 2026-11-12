@@ -389,6 +389,9 @@ article h3.phase .cislo b,.prevnext .pn-n,.chlog .vid{font-weight:800;letter-spa
 .karta .prog{display:flex;flex-direction:column;gap:2px}
 .karta .prog .p{color:var(--ink);font-size:15.5px}
 .karta .prog .p a{color:var(--accent)}
+.pocasi-odkaz{margin:8px 0 0;font-family:var(--display);font-size:14px;font-weight:600}
+.pocasi-odkaz a{color:var(--accent)}
+.karta ul.lhuty li .btn{min-height:40px;padding:0 14px;font-size:14px}
 .tlacitka{display:flex;flex-wrap:wrap;gap:8px}
 .btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 16px;border-radius:12px;font-family:var(--display);font-size:15px;font-weight:700;text-decoration:none;background:var(--accent-soft);color:var(--ink)}
 .btn.pl{background:var(--accent);color:var(--on-accent)}
@@ -683,7 +686,7 @@ body.na-dnes header.top .odpocet{display:none}
         if(ix<0) return;
         Array.prototype.forEach.call(t.querySelectorAll('tbody tr'),function(tr){
           var td=tr.children, f=td[0]?td[0].textContent.trim():'', m=td[ix]?td[ix].textContent.match(/(\d{1,2}\.\d+),\s*(\d{2,3}\.\d+)/):null;
-          if(/^\d+$/.test(f)&&m) out.push({faze:+f,lat:+m[1],lon:+m[2]});
+          if(/^\d+$/.test(f)&&m) out.push({faze:+f,lat:+m[1],lon:+m[2],kde:td[1]?td[1].textContent.trim():''});
         });
       });
     });
@@ -1055,7 +1058,9 @@ body.na-dnes header.top .odpocet{display:none}
     if(mb&&h2){
       var kam=h2.nextElementSibling&&h2.nextElementSibling.tagName==='P'?h2.nextElementSibling:h2;
       var wm=document.createElement('div'); wm.className='mapa-wrap';
-      wm.innerHTML='<div class="mapa" id="mapa-faze" role="region" aria-label="Mapa fáze '+esc(String(s.faze))+'"></div>'+legendaFaze(mb);
+      var bpf=bodFaze(s.faze);
+      wm.innerHTML='<div class="mapa" id="mapa-faze" role="region" aria-label="Mapa fáze '+esc(String(s.faze))+'"></div>'+legendaFaze(mb)+
+        (bpf?'<p class="pocasi-odkaz"><a href="'+meteoblue(bpf)+'" target="_blank" rel="noopener">Počasí na meteoblue: týdenní předpověď</a></p>':'');
       kam.insertAdjacentElement('afterend',wm);
     }
     main.appendChild(art);
@@ -1303,6 +1308,18 @@ body.na-dnes header.top .odpocet{display:none}
     });
     return out;
   }
+  // ---- počasí: odkazy na týdenní předpověď meteoblue podle souřadnic fáze (od 12. 11. 2026) ----
+  // Souřadnice jsou ze sloupce Střed na mapě (tabulka na úvodu Itinerář po fázích). meteoblue umí adresu podle souřadnic (8.107N98.623E).
+  function meteoblue(b){return 'https://www.meteoblue.com/cs/po%C4%8Das%C3%AD/t%C3%BDden/'+b.lat.toFixed(3)+'N'+b.lon.toFixed(3)+'E'}
+  function bodFaze(f){var bb=bodyMapy()||[]; for(var i=0;i<bb.length;i++) if(bb[i].faze===f) return bb[i]; return null}
+  function odData(r){return r.od.getDate()+'. '+(r.od.getMonth()+1)+'.'}
+  function pocasiKarta(radky){
+    radky=radky.filter(function(r){return r.b});
+    if(!radky.length) return '';
+    return '<div class="karta"><span class="lbl-m">Počasí, předpověď meteoblue</span><ul class="lhuty">'+radky.map(function(r){
+      return '<li><span>'+esc(r.stitek)+'<span class="z" style="display:block;margin-top:2px">'+esc(r.b.kde)+'</span></span><a class="btn" href="'+meteoblue(r.b)+'" target="_blank" rel="noopener">Týden</a></li>';
+    }).join('')+'</ul><span class="p">Otevře se web meteoblue, potřebuje připojení.</span></div>';
+  }
   function dnesStranka(){
     zrusMapu();
     main.innerHTML='';
@@ -1333,6 +1350,8 @@ body.na-dnes header.top .odpocet{display:none}
       h+=zb>0?'<span class="odpocet-velky">'+dny+' '+(dny===1?'den':(dny>=2&&dny<=4?'dny':'dní'))+'</span><p>a '+hod+' h do odletu, '+esc(odlet.toLocaleDateString('cs-CZ',{weekday:'long',day:'numeric',month:'numeric'}))+'</p>':'<h2>Letíte</h2><p>Přílet do první fáze '+esc(fz[0].s.sub)+'</p>';
       h+='</div>';
       h+=lhutyKarta();
+      h+=pocasiKarta([{stitek:'První místo, od '+odData(fz[0].r),b:bodFaze(fz[0].s.faze)},
+                      fz[1]?{stitek:'Pak, od '+odData(fz[1].r),b:bodFaze(fz[1].s.faze)}:{}]);
       var cd=stranka1(/^Co se ještě dořeší/), ch=stranka1(/^Předodletový checklist/);
       if(cd) h+='<a class="karta" href="#'+cd.id+'"><span class="lbl-m">Před odletem</span><p class="t">Co se ještě dořeší</p>'+(cd.perex?'<p class="p">'+esc(cd.perex)+'</p>':'')+'</a>';
       if(ch) h+='<a class="karta" href="#'+ch.id+'"><span class="lbl-m">Před odletem</span><p class="t">Předodletový checklist</p></a>';
@@ -1351,6 +1370,8 @@ body.na-dnes header.top .odpocet{display:none}
          (prog.length?prog.map(function(p){return '<div class="prog"><span class="cas">'+esc(p.stitek)+'</span><p class="p">'+p.html+'</p></div>'}).join(''):
           (prvniVeta(x.s)?'<p class="t velky">'+esc(prvniVeta(x.s))+'</p>':''))+
          '<div class="tlacitka"><a class="btn pl" href="#'+x.s.id+'">Otevřít fázi</a>'+(bp?'<a class="btn" href="#'+bp.id+'">Program</a>':'')+(bu?'<a class="btn" href="#'+bu.id+'">Ubytování</a>':'')+'</div></div>';
+      h+=pocasiKarta([{stitek:'Teď',b:bodFaze(x.s.faze)},
+                      i<n-1?{stitek:'Další místo, od '+odData(fz[i+1].r),b:bodFaze(fz[i+1].s.faze)}:{}]);
       h+=lhutyKarta();
       if(bd){var tt=bd.firstChild.textContent.trim(); h+='<a class="karta" href="#'+bd.id+'"><span class="lbl-m">'+esc(/^Odlet/.test(tt)?'Odlet':'Další přesun')+'</span><p class="t">'+esc(tt.replace(/^(Přesun dál|Odlet)\s*/,'').replace(/^\(|\)$/g,'')||tt)+'</p></a>'}
       if(i<n-1) h+='<a class="karta" href="#'+fz[i+1].s.id+'"><span class="lbl-m">Další fáze · '+esc(fz[i+1].s.sub)+'</span><p class="t">'+esc(fz[i+1].s.kratky)+'</p></a>';
