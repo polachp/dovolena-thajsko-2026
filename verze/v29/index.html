@@ -10,7 +10,7 @@
 /* Mobile first, stromova navigace: nadsekce -> seznam polozek -> jedna stranka. */
 :root{
   --bg:#edf2ef; --surface:#ffffff; --ink:#16231f; --muted:#53625b; --line:#cfd9d4;
-  --accent:#0b5d55; --accent-soft:#dbe9e4; --accent-mid:#8fb3aa; --saffron:#b9770b; --saffron-soft:#f6ead2; --saffron-text:#8a5600;
+  --accent:#0b5d55; --accent-soft:#dbe9e4; --accent-mid:#8fb3aa; --rail-num:#5f8f85; --saffron:#b9770b; --saffron-soft:#f6ead2; --saffron-text:#8a5600;
   --display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
   --body:"Newsreader", Georgia, "Times New Roman", serif;
   --mono:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
@@ -18,10 +18,10 @@
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
-  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}}
+  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --rail-num:#5d9188; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
-  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}
+  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --rail-num:#5d9188; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}
 
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -266,6 +266,12 @@ article details.more>summary::before{font-family:var(--display);font-weight:500;
 article details.more[open]>:not(summary){margin-left:26px}
 article details.more[open]>.tw{margin-left:0}
 @media (min-width:900px){
+  nav.rail li.f a{display:flex;align-items:flex-start;gap:12px;padding-top:9px;padding-bottom:9px}
+  nav.rail .rn{flex:none;min-width:28px;font-family:var(--display);font-weight:800;font-variation-settings:"wdth" 75;font-size:34px;line-height:.8;letter-spacing:-.02em;color:var(--rail-num)}
+  nav.rail ul:has(li.f) li:not(.f) a{padding-left:52px}
+  nav.rail a:hover .rn{color:var(--accent)}
+  nav.rail a[aria-current="true"] .rn{color:var(--accent)}
+  nav.rail .vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
   body{font-size:17px}
   article h2{font-size:2rem}
   article h3.phase .cislo b{font-size:112px}
@@ -978,6 +984,9 @@ article details.more[open]>.tw{margin-left:0}
     var polozky=vSekci(stav.top), sek=SEKCE.filter(function(x){return x.id===stav.top})[0];
     rail.innerHTML='<p class="eyebrow">'+esc(sek.nazev)+'</p><ul>'+
       polozky.map(function(s){
+        // fáze mají v liště velké číslo (od 12. 11. 2026), pod názvem pak jen noci a datum
+        if(s.faze) return '<li class="f"><a href="#'+s.id+'"'+(stav.page===s.id?' aria-current="true"':'')+'><span class="rn" aria-hidden="true">'+s.faze+'</span>'+
+               '<span class="rt"><span class="vh">Fáze '+s.faze+': </span>'+esc(s.kratky)+(s.sub?'<span class="sub">'+esc(s.sub)+'</span>':'')+'</span></a></li>';
         return '<li><a href="#'+s.id+'"'+(stav.page===s.id?' aria-current="true"':'')+'>'+esc(s.kratky)+
                (s.klic||s.sub?'<span class="sub">'+esc([s.klic,s.sub].filter(Boolean).join(' · '))+'</span>':'')+'</a></li>';
       }).join('')+'</ul>';
