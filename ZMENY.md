@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v67: Lékárnička bodově s názvy léků z ČR (12. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v67/) · [Markdown](verze/v67/thajsko-bangkok-phuket.md) · [rozdíl proti v66](https://github.com/polachp/dovolena-thajsko-2026/compare/700ad86...5afa328)
+
+- Sekce Zdraví, bezpečnost a nouzová čísla: blok Malá lékárnička je nově stručný seznam po skupinách s příklady přípravků běžných v české lékárně (Paralen, Ibalgin, Orsalit, Loperon, Linex Forte, Kinedryl, Zyrtec, Fenistil, Panthenol, Betadine).
+- Nově přibyl lék na nevolnost při plavbě, antihistaminikum a upozornění, že léky s pseudoefedrinem a kodeinem patří v Thajsku i v SAE (přestup v Abu Dhabi) mezi omezené (neověřeno v úředním zdroji).
+- Obsah itineráře, počty nocí a data jsou beze změny proti v66.
+
 ## v66: Přesun dál s datem a časem v nadpisu (10. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v66/) · [Markdown](verze/v66/thajsko-bangkok-phuket.md) · [rozdíl proti v65](https://github.com/polachp/dovolena-thajsko-2026/compare/4bf18b6...700ad86)

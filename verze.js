@@ -839,5 +839,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "700ad86",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v67",
+    "datum": "12. 11. 2026",
+    "nazev": "Lékárnička bodově s názvy léků z ČR",
+    "zmeny": [
+      "Sekce Zdraví, bezpečnost a nouzová čísla: blok Malá lékárnička je nově stručný seznam po skupinách s příklady přípravků běžných v české lékárně (Paralen, Ibalgin, Orsalit, Loperon, Linex Forte, Kinedryl, Zyrtec, Fenistil, Panthenol, Betadine).",
+      "Nově přibyl lék na nevolnost při plavbě, antihistaminikum a upozornění, že léky s pseudoefedrinem a kodeinem patří v Thajsku i v SAE (přestup v Abu Dhabi) mezi omezené (neověřeno v úředním zdroji).",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v66."
+    ],
+    "commit": "5afa328",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

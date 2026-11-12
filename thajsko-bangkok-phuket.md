@@ -965,7 +965,17 @@ Průkaz evropského zdravotního pojištění v Thajsku neplatí. Při vážněj
 
 ### Malá lékárnička
 
-Rehydratační sáčky, náplasti a obvaz, dezinfekce, přípravek na spáleniny a štípance, léky na bolest a horečku a vaše pravidelné léky v originálním balení. Lék proti průjmu s loperamidem (například Loperon) na akutní potíže na cestě, ale neužívejte ho při horečce nebo krvi ve stolici. Probiotika (biokultury) na podporu střevní mikroflóry, nejlépe nasazená pár dní před odletem. Další léky proberte s lékařem.
+Jen pár věcí, většinu dalších koupíte v thajské lékárně. Názvy jsou příklady přípravků z české lékárny, konkrétní volbu proberte s lékárníkem nebo lékařem.
+
+- **Bolest a horečka:** Paralen (paracetamol) nebo Ibalgin (ibuprofen).
+- **Průjem:** rehydratační sáčky (například Orsalit), Loperon (loperamid) na akutní potíže na cestě, ne při horečce nebo krvi ve stolici. Probiotika (například Linex Forte nebo Biopron) nejlépe pár dní před odletem.
+- **Nevolnost na lodi:** Kinedryl, asi půl hodiny před plavbou (lodě na Koh Phayam, po jezeře Cheow Lan, na Koh Yao Noi a odtud na Phuket).
+- **Alergie a štípance:** Zyrtec nebo Analergin (cetirizin) v tabletách, Fenistil gel na štípance.
+- **Spálení od slunce:** Panthenol sprej.
+- **Drobná zranění:** dezinfekce (Betadine nebo Octenisept), náplasti a obvaz.
+- **Pravidelné léky:** v originálním balení, u léků na předpis anglická zpráva od lékaře.
+- **Co nevozit:** léky s pseudoefedrinem (například Modafen nebo Nurofen Stopgrip) a s kodeinem. Thajsko i SAE (přestup v Abu Dhabi) je řadí mezi omezené léky a vyžadují k nim předpis nebo povolení. Neověřeno v úředním zdroji, při pochybnostech ověřte na stránkách thajského úřadu pro léčiva (en.fda.moph.go.th).
+- Lékárničku vezměte do příručního zavazadla.
 
 ## Orientační rozpočet
 
