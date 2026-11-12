@@ -10,7 +10,7 @@ Itinerář jižního Thajska podle manuálu od Anežky. Aktuální verze: směr 
 Jediný soubor, který se edituje ručně, je Markdown poslední verze:
 
 ```
-verze/v68/thajsko-bangkok-phuket.md
+verze/v69/thajsko-bangkok-phuket.md
 ```
 
 Poslední verze je poslední záznam v `src/verze.json`, název jejího Markdownu je v poli `md`.
@@ -27,7 +27,7 @@ Generované soubory, do kterých se nikdy nepíše ručně (build je přepíše)
 
 Editace kořenového `thajsko-bangkok-phuket.md` je typická chyba: soubor vypadá jako hlavní zdroj, ale je to kopie a příští build ji přepíše. Totéž platí pro editaci přes webové rozhraní GitHubu.
 
-Starší verze (`verze/v1` až `verze/v67`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
+Starší verze (`verze/v1` až `verze/v68`) se neupravují, slouží jako archiv. Číslo poslední verze se v tomto souboru i v `CLAUDE.md` přepisuje s každou novou verzí.
 
 ## Struktura
 

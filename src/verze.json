@@ -6758,5 +6758,116 @@
       }
     },
     "commit": "bb4e669"
+  },
+  {
+    "id": "v69",
+    "datum": "12. 11. 2026",
+    "nazev": "Co se ještě dořeší: nové pořadí, rozpočet a termíny",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Sekce Co se ještě dořeší má nové pořadí: nejdřív úkoly před odletem (vlak a auto, řidičský průkaz, pojištění, noc na jezeře Cheow Lan, vstupní pravidla), pak body podle fází 5 až 8 a nakonec ubytování.",
+      "Vyřazen bod Doprava po Bangkoku, nic se v něm nerozhoduje a ověření karty v metru zůstává ve fázi 1.",
+      "Nový bod Rozpočet: sekce Orientační rozpočet zatím nepřepočítává změny od verze 21 a slouží jako horní odhad.",
+      "Úvod sekce upozorňuje, že termíny zrušení ubytování zdarma vyprší už ve druhé polovině listopadu, s odkazem na záložku Ubytování, termíny.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v68."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "8"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–3. 12.",
+        "3.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          "Záliv",
+          "Prachuap"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket, Nai Yang"
+        ]
+      ],
+      "kam": {
+        "Co se ještě dořeší": "pred",
+        "Úvod do Thajska": "zajimavosti",
+        "Zvířata na trase": "zajimavosti",
+        "Záchytné body pro Google Maps": "misto",
+        "Doprava": "misto",
+        "Počasí, teploty a deště": "pred",
+        "Jídlo, pití a bezpečné stravování": "misto",
+        "Seznam povinného vybavení": "pred",
+        "Etiketa": "misto",
+        "Praktické travel hacky": "misto",
+        "Předodletový checklist": "pred",
+        "Šnorchlování a noční safari": "zajimavosti",
+        "Zdraví, bezpečnost a nouzová čísla": "pred",
+        "Orientační rozpočet": "pred",
+        "Mini-slovníček thajských frází": "misto",
+        "Etihad Airways": "pred",
+        "Do kdy zrušit ubytování zdarma": "terminy",
+        "Místa na trase: Bangkok": "zajimavosti",
+        "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti",
+        "Místa na trase: Prachuap Khiri Khan": "zajimavosti",
+        "Místa na trase: Ranong a Koh Phayam": "zajimavosti",
+        "Místa na trase: Khao Sok": "zajimavosti",
+        "Místa na trase: Krabi": "zajimavosti",
+        "Místa na trase: Koh Yao Noi": "zajimavosti",
+        "Místa na trase: Phuket a Nai Yang": "zajimavosti"
+      }
+    },
+    "commit": ""
   }
 ]
