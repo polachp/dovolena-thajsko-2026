@@ -851,5 +851,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "5afa328",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v68",
+    "datum": "12. 11. 2026",
+    "nazev": "Lékárnička v seznamu vybavení",
+    "zmeny": [
+      "Blok Malá lékárnička se přesunul ze sekce Zdraví, bezpečnost a nouzová čísla na konec sekce Seznam povinného vybavení, obsah je beze změny.",
+      "V sekci Zdraví, bezpečnost a nouzová čísla zůstal odkaz na lékárničku, odkaz v sekci Jídlo, pití a bezpečné stravování vede nově do seznamu vybavení.",
+      "Obsah itineráře, počty nocí a data jsou beze změny proti v67."
+    ],
+    "commit": "bb4e669",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

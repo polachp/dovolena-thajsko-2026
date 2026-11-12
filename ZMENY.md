@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v68: Lékárnička v seznamu vybavení (12. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v68/) · [Markdown](verze/v68/thajsko-bangkok-phuket.md) · [rozdíl proti v67](https://github.com/polachp/dovolena-thajsko-2026/compare/5afa328...bb4e669)
+
+- Blok Malá lékárnička se přesunul ze sekce Zdraví, bezpečnost a nouzová čísla na konec sekce Seznam povinného vybavení, obsah je beze změny.
+- V sekci Zdraví, bezpečnost a nouzová čísla zůstal odkaz na lékárničku, odkaz v sekci Jídlo, pití a bezpečné stravování vede nově do seznamu vybavení.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v67.
+
 ## v67: Lékárnička bodově s názvy léků z ČR (12. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v67/) · [Markdown](verze/v67/thajsko-bangkok-phuket.md) · [rozdíl proti v66](https://github.com/polachp/dovolena-thajsko-2026/compare/700ad86...5afa328)

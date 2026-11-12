@@ -818,7 +818,7 @@ Thajská kuchyně není jen pálivá. Pálivost si můžete zvolit, a když to v
 - Pijte výhradně balenou vodu a používejte ji i při čištění zubů.
 - Jezte jídlo, které je čerstvě a důkladně tepelně upravené přímo před vámi na woku.
 - Před jídlem si myjte ruce nebo používejte dezinfekci.
-- Při průjmu hodně pijte. Léky do lékárničky a kdy jít k lékaři jsou v sekci Zdraví, bezpečnost a nouzová čísla.
+- Při průjmu hodně pijte. Léky do lékárničky jsou v sekci Seznam povinného vybavení, kdy jít k lékaři v sekci Zdraví, bezpečnost a nouzová čísla.
 
 ## Seznam povinného vybavení
 
@@ -835,6 +835,20 @@ Pobalte se na lehko, drobnosti dokoupíte na místě. Tady je výběr věcí, kt
 - **Maska a šnorchl (volitelné):** Na výletech se půjčují, vlastní maska ale líp sedí a netěsní (sekce Šnorchlování a noční safari).
 - **Lehká mikina nebo šátek:** Klimatizace v letadlech, vlacích a minibusech bývá silná.
 - **Aplikace v mobilu:** 12Go.asia (vlaky, minibusy a lodě), Grab a Bolt (taxi), Agoda (ubytování), Google Translate (stáhněte si offline balíček thajštiny), Airalo (eSIM) a offline mapy v Google Maps. Příliv a odliv: web [Tide-forecast.com](https://www.tide-forecast.com/) (zdarma, předpověď na 30 dní, stačí si dát záložku). Pro Koh Phayam hledejte stanici Ranong, pro Koh Yao Noi Phuket nebo Krabi (Koh Yao Noi ani Phang Nga tam nejsou). Je to předpověď pro nejbližší stanici, ne pro konkrétní zátoku, takže se na místě ještě zeptejte v ubytování. Příliv se hodí pro kajak v mangrovech i pro koupání na Koh Yao Noi.
+
+### Malá lékárnička
+
+Jen pár věcí, většinu dalších koupíte v thajské lékárně. Názvy jsou příklady přípravků z české lékárny, konkrétní volbu proberte s lékárníkem nebo lékařem.
+
+- **Bolest a horečka:** Paralen (paracetamol) nebo Ibalgin (ibuprofen).
+- **Průjem:** rehydratační sáčky (například Orsalit), Loperon (loperamid) na akutní potíže na cestě, ne při horečce nebo krvi ve stolici. Probiotika (například Linex Forte nebo Biopron) nejlépe pár dní před odletem.
+- **Nevolnost na lodi:** Kinedryl, asi půl hodiny před plavbou (lodě na Koh Phayam, po jezeře Cheow Lan, na Koh Yao Noi a odtud na Phuket).
+- **Alergie a štípance:** Zyrtec nebo Analergin (cetirizin) v tabletách, Fenistil gel na štípance.
+- **Spálení od slunce:** Panthenol sprej.
+- **Drobná zranění:** dezinfekce (Betadine nebo Octenisept), náplasti a obvaz.
+- **Pravidelné léky:** v originálním balení, u léků na předpis anglická zpráva od lékaře.
+- **Co nevozit:** léky s pseudoefedrinem (například Modafen nebo Nurofen Stopgrip) a s kodeinem. Thajsko i SAE (přestup v Abu Dhabi) je řadí mezi omezené léky a vyžadují k nim předpis nebo povolení. Neověřeno v úředním zdroji, při pochybnostech ověřte na stránkách thajského úřadu pro léčiva (en.fda.moph.go.th).
+- Lékárničku vezměte do příručního zavazadla.
 
 ## Etiketa: jak nebýt za hloupé turisty
 
@@ -963,19 +977,7 @@ Poraďte se aspoň 4–6 týdnů před odletem s lékařem v centru cestovní me
 
 Průkaz evropského zdravotního pojištění v Thajsku neplatí. Při vážnějším problému zavolejte nejdřív asistenční službu pojišťovny, která doporučí nemocnici a zajistí garanci úhrady. Soukromé nemocnice často chtějí zálohu nebo záruku pojišťovny. Uschovejte si všechny doklady a účty pro pozdější proplacení.
 
-### Malá lékárnička
-
-Jen pár věcí, většinu dalších koupíte v thajské lékárně. Názvy jsou příklady přípravků z české lékárny, konkrétní volbu proberte s lékárníkem nebo lékařem.
-
-- **Bolest a horečka:** Paralen (paracetamol) nebo Ibalgin (ibuprofen).
-- **Průjem:** rehydratační sáčky (například Orsalit), Loperon (loperamid) na akutní potíže na cestě, ne při horečce nebo krvi ve stolici. Probiotika (například Linex Forte nebo Biopron) nejlépe pár dní před odletem.
-- **Nevolnost na lodi:** Kinedryl, asi půl hodiny před plavbou (lodě na Koh Phayam, po jezeře Cheow Lan, na Koh Yao Noi a odtud na Phuket).
-- **Alergie a štípance:** Zyrtec nebo Analergin (cetirizin) v tabletách, Fenistil gel na štípance.
-- **Spálení od slunce:** Panthenol sprej.
-- **Drobná zranění:** dezinfekce (Betadine nebo Octenisept), náplasti a obvaz.
-- **Pravidelné léky:** v originálním balení, u léků na předpis anglická zpráva od lékaře.
-- **Co nevozit:** léky s pseudoefedrinem (například Modafen nebo Nurofen Stopgrip) a s kodeinem. Thajsko i SAE (přestup v Abu Dhabi) je řadí mezi omezené léky a vyžadují k nim předpis nebo povolení. Neověřeno v úředním zdroji, při pochybnostech ověřte na stránkách thajského úřadu pro léčiva (en.fda.moph.go.th).
-- Lékárničku vezměte do příručního zavazadla.
+Co vzít do lékárničky, najdete v sekci Seznam povinného vybavení.
 
 ## Orientační rozpočet
 
