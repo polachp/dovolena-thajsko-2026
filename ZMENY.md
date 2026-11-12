@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v69: Co se ještě dořeší: nové pořadí, rozpočet a termíny (12. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v69/) · [Markdown](verze/v69/thajsko-bangkok-phuket.md) · [rozdíl proti v68](https://github.com/polachp/dovolena-thajsko-2026/compare/bb4e669...4d211dd)
+
+- Sekce Co se ještě dořeší má nové pořadí: nejdřív úkoly před odletem (vlak a auto, řidičský průkaz, pojištění, noc na jezeře Cheow Lan, vstupní pravidla), pak body podle fází 5 až 8 a nakonec ubytování.
+- Vyřazen bod Doprava po Bangkoku, nic se v něm nerozhoduje a ověření karty v metru zůstává ve fázi 1.
+- Nový bod Rozpočet: sekce Orientační rozpočet zatím nepřepočítává změny od verze 21 a slouží jako horní odhad.
+- Úvod sekce upozorňuje, že termíny zrušení ubytování zdarma vyprší už ve druhé polovině listopadu, s odkazem na záložku Ubytování, termíny.
+- Obsah itineráře, počty nocí a data jsou beze změny proti v68.
+
 ## v68: Lékárnička v seznamu vybavení (12. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v68/) · [Markdown](verze/v68/thajsko-bangkok-phuket.md) · [rozdíl proti v67](https://github.com/polachp/dovolena-thajsko-2026/compare/5afa328...bb4e669)
