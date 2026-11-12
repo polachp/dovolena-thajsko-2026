@@ -4,8 +4,23 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Thajsko Bangkok–Phuket</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,400..800;1,400..600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="manifest" href="../../manifest.webmanifest">
+<link rel="apple-touch-icon" href="../../ikona-180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="../../ikona-192.png">
+<meta name="theme-color" content="#0e6b5a" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1513" media="(prefers-color-scheme: dark)">
+<link rel="preload" href="../../fonts/hanken-grotesk-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+/* Písma jsou uložená v repu (od 12. 11. 2026, licence OFL ve složce fonts/): žádný požadavek na Google, fungují offline. latin-ext nese české znaky. */
+@font-face{font-family:"Hanken Grotesk";font-style:normal;font-weight:100 900;font-display:swap;src:url(../../fonts/hanken-grotesk-latin-wght-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Hanken Grotesk";font-style:normal;font-weight:100 900;font-display:swap;src:url(../../fonts/hanken-grotesk-latin-ext-wght-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Hanken Grotesk";font-style:italic;font-weight:100 900;font-display:swap;src:url(../../fonts/hanken-grotesk-latin-wght-italic.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Hanken Grotesk";font-style:italic;font-weight:100 900;font-display:swap;src:url(../../fonts/hanken-grotesk-latin-ext-wght-italic.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:400;font-display:swap;src:url(../../fonts/ibm-plex-mono-latin-400-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:400;font-display:swap;src:url(../../fonts/ibm-plex-mono-latin-ext-400-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:500;font-display:swap;src:url(../../fonts/ibm-plex-mono-latin-500-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:500;font-display:swap;src:url(../../fonts/ibm-plex-mono-latin-ext-500-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+</style>
 <meta name="color-scheme" content="light dark">
 <script>
 // Režim zobrazení (od 12. 11. 2026): bez volby podle telefonu, ruční volba Světlý nebo Tmavý se pamatuje v tomto prohlížeči (záložka Více).
@@ -371,11 +386,19 @@ article h3.phase .cislo b,.prevnext .pn-n,.chlog .vid{font-weight:800;letter-spa
 .karta ul.lhuty .z{font-family:var(--mono);font-size:12.5px;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
 .karta ul.lhuty .z.brzy{color:var(--warn);font-weight:500}
 .karta .opt{font-family:var(--display);font-size:12px;font-weight:600;color:var(--saffron-text);margin-left:6px;white-space:nowrap}
+.karta .prog{display:flex;flex-direction:column;gap:2px}
+.karta .prog .p{color:var(--ink);font-size:15.5px}
+.karta .prog .p a{color:var(--accent)}
 .tlacitka{display:flex;flex-wrap:wrap;gap:8px}
 .btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 16px;border-radius:12px;font-family:var(--display);font-size:15px;font-weight:700;text-decoration:none;background:var(--accent-soft);color:var(--ink)}
 .btn.pl{background:var(--accent);color:var(--on-accent)}
 .dnes .odpocet-velky{font-family:var(--display);font-weight:800;font-size:clamp(2.4rem,11vw,3.4rem);line-height:1;letter-spacing:-.02em;color:var(--accent);font-variant-numeric:tabular-nums}
 body.na-dnes header.top .odpocet{display:none}
+.offline-pas{position:fixed;left:0;right:0;bottom:calc(var(--nav-h) + env(safe-area-inset-bottom,0px));z-index:31;padding:8px var(--pad);background:var(--saffron-soft);color:var(--ink);border-top:1px solid var(--line);font-family:var(--display);font-size:13.5px;line-height:1.35}
+@media (min-width:900px){.offline-pas{bottom:0}}
+.offline-stav{display:flex;flex-direction:column;gap:6px;margin:0 0 8px;padding:16px;border:1px solid var(--line);border-radius:16px;background:var(--surface)}
+.offline-stav p{margin:0;font-size:14px;color:var(--muted);line-height:1.5}
+.offline-stav b{color:var(--ink)}
 @media (min-width:900px){body.na-dnes .layout{grid-template-columns:minmax(0,1fr)}body.na-dnes nav.rail{display:none}}
 </style>
 </head>
@@ -423,11 +446,22 @@ body.na-dnes header.top .odpocet{display:none}
   </div>
 </div>
 
+<div class="offline-pas" id="offlinePas" role="status" hidden>Bez připojení. Zobrazuje se verze uložená v telefonu, mapy jen v místech, která už jste si jednou prohlédli.</div>
 <button class="up" id="up" type="button" aria-label="Nahoru">↑</button>
 
 <footer><div class="wrap">Zdroj: Kompletní thajský slow-travel manuál, @Anezka. Časy a ceny jsou orientační, ověřte před cestou. Celý text: <a href="thajsko-bangkok-phuket.md">thajsko-bangkok-phuket.md</a>.</div></footer>
 
 <script>window.CFG={"id": "v10", "base": "../../"};</script>
+<script>
+// Offline režim (od 12. 11. 2026): service worker sw.js z kořene webu uloží aktuální verzi při první návštěvě. Pás dole hlásí, když chybí připojení.
+(function(){
+  if('serviceWorker' in navigator&&location.protocol!=='file:'){
+    addEventListener('load',function(){navigator.serviceWorker.register((window.CFG.base||'./')+'sw.js',{scope:window.CFG.base||'./'}).catch(function(){})});
+  }
+  function pas(){var p=document.getElementById('offlinePas'); if(p) p.hidden=navigator.onLine}
+  addEventListener('online',pas); addEventListener('offline',pas); addEventListener('DOMContentLoaded',pas);
+})();
+</script>
 <script>
 // Odpocet do odletu. Datum se nastavuje v build.py (konstanta ODLET).
 (function(){
@@ -448,7 +482,7 @@ body.na-dnes header.top .odpocet{display:none}
 </script>
 <script src="../../verze.js?v=dcdbf38e"></script>
 <script src="../../varianty.js?v=dcdbf38e"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="../../vendor/marked.min.js"></script>
 <script src="thajsko-obsah.js?v=dcdbf38e"></script>
 <script>
 (function(){
@@ -635,7 +669,7 @@ body.na-dnes header.top .odpocet{display:none}
     ?{url:'https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key='+CARTO_KLIC,
       attr:ATTR_OSM+' &copy; <a href="https://carto.com/attributions">CARTO</a>',max:19}
     :{url:'https://tile.openstreetmap.org/{z}/{x}/{y}.png',attr:ATTR_OSM+' contributors',max:19};
-  var LEAFLET='https://unpkg.com/leaflet@1.9.4/dist/';
+  var LEAFLET=(CFG.base||'./')+'vendor/leaflet/'; // Leaflet 1.9.4 uložený v repu (od 12. 11. 2026), funguje offline
   var mapaBody, mapaInst=null, leafletSlib=null;
   function bodyMapy(){
     if(mapaBody!==undefined) return mapaBody;
@@ -698,7 +732,7 @@ body.na-dnes header.top .odpocet{display:none}
   // podklad mapy (dlaždice) a upozornění, když se nenačtou; společné pro přehledovou mapu i mapy fází
   function pridejPodklad(map,el,zprava){
     var ok=0, chyb=0, hlaseni=null;
-    L.tileLayer(PODKLAD.url,{attribution:PODKLAD.attr,maxZoom:PODKLAD.max}).addTo(map)
+    L.tileLayer(PODKLAD.url,{attribution:PODKLAD.attr,maxZoom:PODKLAD.max,crossOrigin:CARTO_KLIC?'anonymous':undefined}).addTo(map) // CARTO posílá CORS, offline režim pak zobrazené dlaždice umí uložit
       .on('tileload',function(){ok++; if(hlaseni){hlaseni.remove(); hlaseni=null}})
       .on('tileerror',function(){
         chyb++;
@@ -1167,6 +1201,8 @@ body.na-dnes header.top .odpocet{display:none}
     var h='<h2>'+esc(g.nazev)+'</h2><p class="secintro">'+esc(g.popis||'')+'</p>';
     if(g.id==='vice') h+='<div class="rezim"><h3 class="lbl-m" style="margin:0">Režim zobrazení</h3><p>Bez volby se web řídí nastavením telefonu. Volba platí jen v tomto prohlížeči.</p>'+
       '<div class="prepinac" role="group" aria-label="Režim zobrazení"><button type="button" data-motiv="auto">Podle telefonu</button><button type="button" data-motiv="light">Světlý</button><button type="button" data-motiv="dark">Tmavý</button></div></div>';
+    if(g.id==='vice') h+='<div class="offline-stav"><h3 class="lbl-m" style="margin:0">Offline</h3><p id="offlineStav">Zjišťuji, co je uložené v telefonu.</p>'+
+      '<p>Na iPhonu web přidejte na plochu (Sdílet, Přidat na plochu), jinak Safari uložená data po týdnu bez návštěvy smaže. Mapy fungují bez signálu jen v místech, která jste si s připojením už jednou prohlédli, nejvýš 30 dní. Odkazy do Google Maps potřebují signál, nebo offline mapy uložené v aplikaci Google Maps.</p></div>';
     g.sekce.forEach(function(id){
       var pol=vSekci(id); if(!pol.length) return;
       var sk=SEKCE.filter(function(x){return x.id===id})[0];
@@ -1174,6 +1210,19 @@ body.na-dnes header.top .odpocet{display:none}
       h+='<ul class="cards">'+pol.map(kartaHtml).join('')+'</ul>';
     });
     var box=document.createElement('div'); box.innerHTML=h; main.appendChild(box);
+    var os=box.querySelector('#offlineStav');
+    if(os){
+      if(!('serviceWorker' in navigator)) os.textContent='Tento prohlížeč offline režim nepodporuje.';
+      else navigator.serviceWorker.ready.then(function(reg){
+        var hotovo=false;
+        navigator.serviceWorker.addEventListener('message',function(e){
+          if(!e.data||e.data.typ!=='stav'||!document.body.contains(os)) return; hotovo=true;
+          os.innerHTML='<b>Web je uložený v telefonu</b> a funguje i bez signálu (verze '+esc(CFG.id||'')+'). Uložených mapových dlaždic: '+e.data.dlazdic+'.';
+        });
+        if(reg.active) reg.active.postMessage({typ:'stav'});
+        setTimeout(function(){if(!hotovo&&document.body.contains(os)) os.textContent='Web se ukládá do telefonu, hotovo bude po prvním obnovení stránky.'},2500);
+      });
+    }
     var p=box.querySelector('.rezim .prepinac');
     if(p){
       var ted=function(){try{return localStorage.getItem('motiv')||'auto'}catch(e){return 'auto'}};
@@ -1234,6 +1283,26 @@ body.na-dnes header.top .odpocet{display:none}
     for(var i=1;i<s.uzly.length;i++){var n=s.uzly[i]; if(n.nodeType===1&&n.tagName==='P'){var t=n.textContent.replace(/\s+/g,' ').trim(), m=t.match(/^.*?[.!?](?=\s|$)/); return m?m[0]:t}}
     return s.perex||'';
   }
+  // program dne: položky bloku Program po dnech, jejichž tučný štítek obsahuje dnešní datum ("Pá 27. 11.", "Čt 3. 12. odpoledne", "Út 15. až čt 17. 12.")
+  function programDne(s,den0){
+    var b=blokFaze(s,/^Program/); if(!b) return [];
+    var out=[];
+    Array.prototype.forEach.call(b.querySelectorAll('li'),function(li){
+      var st=li.querySelector('strong'); if(!st||li.firstElementChild!==st) return;
+      var t=st.textContent.trim(), re=/(\d{1,2})\.(?:\s*(\d{1,2})\.)?/g, m, tok=[];
+      while((m=re.exec(t))) tok.push({d:+m[1],m:m[2]?+m[2]:0});
+      if(!tok.length) return;
+      for(var k=tok.length-1,mes=0;k>=0;k--){if(tok[k].m) mes=tok[k].m; else tok[k].m=mes}
+      var dny=tok.filter(function(x){return x.m}).map(function(x){return +new Date(ROK_TERMINU,x.m-1,x.d)}), d0=+den0;
+      if(!dny.length) return;
+      var shoda=/až/.test(t)&&dny.length>1?(d0>=dny[0]&&d0<=dny[dny.length-1]):dny.indexOf(d0)>=0;
+      if(!shoda) return;
+      var c=li.cloneNode(true); c.removeChild(c.querySelector('strong'));
+      var html=c.innerHTML.replace(/^\s*:?\s*/,''); html=html.charAt(0).toUpperCase()+html.slice(1);
+      out.push({stitek:t.replace(/:\s*$/,''),html:html});
+    });
+    return out;
+  }
   function dnesStranka(){
     zrusMapu();
     main.innerHTML='';
@@ -1242,6 +1311,8 @@ body.na-dnes header.top .odpocet{display:none}
     var fz=vSekci('itin').filter(function(x){return x.faze}).map(function(s){return {s:s,r:rozsahFaze(s)}}).filter(function(x){return x.r});
     var n=fz.length, i=-1;
     fz.forEach(function(x,k){if(den0>=x.r.od&&den0<x.r.do) i=k});
+    var denOdletu=false;
+    if(i<0&&n&&+den0===+fz[n-1].r.do){i=n-1; denOdletu=true} // den odletu patří k poslední fázi
     var datumTxt=dnes.toLocaleDateString('cs-CZ',{weekday:'short',day:'numeric',month:'numeric'});
     var h='<div class="dnes">';
     var ted=Date.now();
@@ -1270,11 +1341,15 @@ body.na-dnes header.top .odpocet{display:none}
       // během cesty
       var x=fz[i], noci=Math.round((x.r.do-x.r.od)/DEN), noc=Math.floor((den0-x.r.od)/DEN)+1;
       var celkem=Math.round((fz[n-1].r.do-fz[0].r.od)/DEN)+1, denC=Math.floor((den0-fz[0].r.od)/DEN)+1;
-      h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+' · den '+denC+' z '+celkem+'</span><h2>'+esc(x.s.kratky)+'</h2><p>Fáze '+x.s.faze+' z '+n+' · noc '+noc+' z '+noci+'</p></div>';
+      h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+' · den '+denC+' z '+celkem+'</span><h2>'+esc(x.s.kratky)+'</h2><p>Fáze '+x.s.faze+' z '+n+' · '+(denOdletu?'den odletu':'noc '+noc+' z '+noci)+'</p></div>';
+      if(denOdletu) noc=noci;
       var pas=''; for(var k=0;k<n;k++) pas+='<i class="'+(k<i?'hotovo':(k===i?'ted':''))+'"'+(k===i?' style="--p:'+Math.round((noc-.5)/noci*100)+'%"':'')+'></i>';
       h+='<div><div class="pas" style="--n:'+n+'" role="img" aria-label="Postup po trase: fáze '+x.s.faze+' z '+n+'">'+pas+'</div><div class="pas-po"><span>'+esc(fz[0].s.kratky.split(',')[0])+'</span><span>'+esc(fz[n-1].s.kratky.split(',')[0])+'</span></div></div>';
       var bp=blokFaze(x.s,/^Program/), bu=blokFaze(x.s,/^Ubytování/), bd=blokFaze(x.s,/^(Přesun dál|Odlet)/);
-      h+='<div class="karta hl"><span class="lbl-m hl">Teď tady</span>'+(prvniVeta(x.s)?'<p class="t velky">'+esc(prvniVeta(x.s))+'</p>':'')+
+      var prog=programDne(x.s,den0);
+      h+='<div class="karta hl"><span class="lbl-m hl">'+(prog.length?'Program na dnes':'Teď tady')+'</span>'+
+         (prog.length?prog.map(function(p){return '<div class="prog"><span class="cas">'+esc(p.stitek)+'</span><p class="p">'+p.html+'</p></div>'}).join(''):
+          (prvniVeta(x.s)?'<p class="t velky">'+esc(prvniVeta(x.s))+'</p>':''))+
          '<div class="tlacitka"><a class="btn pl" href="#'+x.s.id+'">Otevřít fázi</a>'+(bp?'<a class="btn" href="#'+bp.id+'">Program</a>':'')+(bu?'<a class="btn" href="#'+bu.id+'">Ubytování</a>':'')+'</div></div>';
       h+=lhutyKarta();
       if(bd){var tt=bd.firstChild.textContent.trim(); h+='<a class="karta" href="#'+bd.id+'"><span class="lbl-m">'+esc(/^Odlet/.test(tt)?'Odlet':'Další přesun')+'</span><p class="t">'+esc(tt.replace(/^(Přesun dál|Odlet)\s*/,'').replace(/^\(|\)$/g,'')||tt)+'</p></a>'}

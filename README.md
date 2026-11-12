@@ -34,7 +34,10 @@ Starší verze (`verze/v1` až `verze/v68`) se neupravují, slouží jako archiv
 - `verze/vN/<md>`: zdrojový text verze N, jediné místo, kde se text edituje
 - `src/verze.json`: seznam verzí, změnový list a údaje do hlavičky webu
 - `src/sablona.html`: šablona stránky (od 12. 11. 2026 vzhled Kapesní průvodce s paletou Nefrit, světlý i tmavý režim, navigace Dnes, Trasa, Průvodce, Více; popis v `CLAUDE.md`)
-- `build.py`: vygeneruje `index.html`, `verze/*/index.html`, `thajsko-obsah.js`, `verze.js`, `ZMENY.md` a kopii Markdownu v kořeni
+- `src/sw.js`: šablona service workeru pro offline režim, `build.py` z ní dělá `sw.js` v kořeni (needitovat)
+- `fonts/`, `vendor/`: písma a knihovny (Leaflet, marked) uložené v repu, aby web fungoval offline
+- `manifest.webmanifest`, `ikona-*.png`: přidání webu na plochu telefonu
+- `build.py`: vygeneruje `index.html`, `verze/*/index.html`, `thajsko-obsah.js`, `verze.js`, `ZMENY.md`, `sw.js` a kopii Markdownu v kořeni
 - `varianty/`: vyřazené části itineráře uložené jako záložní varianty (na webu v záložce Varianty), například [Khao Lak](varianty/khao-lak.md), [další místa v Krabi](varianty/krabi-dalsi-mista.md), [Phuket Town jako poslední noc](varianty/phuket-town.md), [Fun Friday a suvenýry na Phuketu](varianty/phuket-fun-friday-suvenyry.md), [vodopád Ngao u Ranongu](varianty/vodopad-ngao.md) a [raft housy na jezeře Cheow Lan](varianty/raft-housy-cheow-lan.md)
 - `CLAUDE.md`: postup pro práci s repem v Claude session
 

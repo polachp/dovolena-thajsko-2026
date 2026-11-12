@@ -259,6 +259,28 @@ def zkontroluj_odkazy(v: dict, md: str) -> None:
         print(f"Pozor ({v['id']}), odkaz v textu: {u}")
 
 
+SW_STALE = ["fonts/hanken-grotesk-latin-wght-normal.woff2", "fonts/hanken-grotesk-latin-ext-wght-normal.woff2",
+            "fonts/hanken-grotesk-latin-wght-italic.woff2", "fonts/hanken-grotesk-latin-ext-wght-italic.woff2",
+            "fonts/ibm-plex-mono-latin-400-normal.woff2", "fonts/ibm-plex-mono-latin-ext-400-normal.woff2",
+            "fonts/ibm-plex-mono-latin-500-normal.woff2", "fonts/ibm-plex-mono-latin-ext-500-normal.woff2",
+            "vendor/marked.min.js", "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css",
+            "manifest.webmanifest", "ikona-192.png", "ikona-180.png"]
+
+
+def zapis_sw(posledni: dict) -> None:
+    """Offline režim (od 12. 11. 2026): sw.js ze šablony src/sw.js. Při první návštěvě se uloží aktuální verze webu
+    (stránka, obsah, fonty, Leaflet). VERZE je otisk všech těch souborů, takže každá změna obsahu nebo šablony
+    znamená nový service worker a telefon si při příští návštěvě s připojením stáhne novou kopii."""
+    b = bust(posledni)
+    soubory = ["./", f"verze.js?v={b}", f"varianty.js?v={b}", f"thajsko-obsah.js?v={b}"] + SW_STALE
+    h = hashlib.sha1()
+    for s in ["index.html", "verze.js", "varianty.js", "thajsko-obsah.js"] + SW_STALE + ["src/sw.js"]:
+        h.update((ROOT / s).read_bytes())
+    sw = (ROOT / "src/sw.js").read_text(encoding="utf-8")
+    sw = sw.replace("{{VERZE}}", h.hexdigest()[:10]).replace("{{SOUBORY}}", json.dumps(soubory, ensure_ascii=False))
+    (ROOT / "sw.js").write_text("// Generováno skriptem build.py ze src/sw.js, needitovat ručně.\n" + sw, encoding="utf-8")
+
+
 def main():
     verejne =[{**{k: v.get(k) for k in ("id", "datum", "nazev", "zmeny", "commit")}, "md": md_soubor(v)} for v in VERZE]
     (ROOT / "verze.js").write_text(
@@ -287,6 +309,7 @@ def main():
     shutil.copyfile(d / md_soubor(posledni), ROOT / md_soubor(posledni))
     shutil.copyfile(d / "thajsko-obsah.js", ROOT / "thajsko-obsah.js")
     (ROOT / "index.html").write_text(stranka(posledni, "./"), encoding="utf-8")
+    zapis_sw(posledni)
 
     a, z = posledni.get("smer", SMER_VYCHOZI)
     radky = ["# Změnový list", "", f"Itinerář Thajsko, aktuálně směr {a} → {z}. Nejnovější verze nahoře.", ""]
