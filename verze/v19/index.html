@@ -269,6 +269,10 @@ article details.more[open]>.tw{margin-left:0}
   nav.rail li.f a{display:flex;align-items:flex-start;gap:12px;padding-top:9px;padding-bottom:9px}
   nav.rail .rn{flex:none;min-width:28px;font-family:var(--display);font-weight:800;font-variation-settings:"wdth" 75;font-size:34px;line-height:.8;letter-spacing:-.02em;color:var(--rail-num)}
   nav.rail ul:has(li.f) li:not(.f) a{padding-left:52px}
+  /* všechny řádky lišty fází stejně vysoké (podle nejvyššího), aby čísla měla pravidelné rozestupy */
+  nav.rail ul:has(li.f){display:grid;grid-auto-rows:1fr}
+  nav.rail ul:has(li.f)>li{display:flex}
+  nav.rail ul:has(li.f)>li>a{flex:1}
   nav.rail a:hover .rn{color:var(--accent)}
   nav.rail a[aria-current="true"] .rn{color:var(--accent)}
   nav.rail .vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
