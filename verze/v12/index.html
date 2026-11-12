@@ -230,7 +230,18 @@ td.zbyva.brzy{color:var(--saffron-text)}
 th{font-size:13.5px}
 td{font-variant-numeric:tabular-nums}
 .copy{font-size:12.5px}
-.prevnext .k{font-size:12.5px}
+.prevnext{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px;margin-top:28px;padding-top:0;border-top:0}
+.prevnext a{display:flex;flex-direction:column;gap:6px;padding:12px 14px 14px;border-radius:10px;font-size:15px;font-weight:700;line-height:1.25}
+.prevnext a:hover{border-color:var(--accent)}
+.prevnext a.prev{grid-column:1}
+.prevnext a.next{grid-column:2;text-align:right;align-items:flex-end}
+.prevnext .k{display:flex;align-items:center;gap:4px;font-family:var(--display);font-size:13.5px;font-weight:600;color:var(--accent)}
+.prevnext .pn-t{display:flex;flex-direction:column;gap:4px}
+.prevnext a.next .pn-t{align-items:flex-end}
+.prevnext .pn-n{font-weight:800;font-variation-settings:"wdth" 75;font-size:30px;line-height:.85;letter-spacing:-.02em;color:var(--accent)}
+.prevnext a.zpet{grid-column:1/-1;flex-direction:row;align-items:center;gap:10px;min-height:48px;padding:10px 14px;background:none;font-weight:600;color:var(--accent)}
+.prevnext .sip{width:18px;height:18px;flex:none;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.prevnext a.zpet .sip{width:20px;height:20px}
 .chlog .meta{font-size:13px}
 .chlog .lnk{font-size:14px}
 footer{font-size:13px}
@@ -843,6 +854,9 @@ article details.more[open]>.tw{margin-left:0}
     if(body) mapaPrehled(h.querySelector('#mapa-prehled'),body);
     route.hidden=(top!=='itin');
   }
+  var SIP_L='<svg class="sip" viewBox="0 0 20 20" aria-hidden="true"><path d="M12.5 4.5 7 10l5.5 5.5"/></svg>';
+  var SIP_P='<svg class="sip" viewBox="0 0 20 20" aria-hidden="true"><path d="M7.5 4.5 13 10l-5.5 5.5"/></svg>';
+  var SIP_SEZNAM='<svg class="sip" viewBox="0 0 20 20" aria-hidden="true"><path d="M7 5.5h9M7 10h9M7 14.5h9M3.5 5.5h.01M3.5 10h.01M3.5 14.5h.01"/></svg>';
   function stranka(s){
     zrusMapu();
     main.innerHTML='';
@@ -877,9 +891,15 @@ article details.more[open]>.tw{margin-left:0}
     if(mb&&h2) mapaFaze(art.querySelector('#mapa-faze'),mb);
     // predchozi a dalsi v ramci nadsekce
     var polozky=vSekci(s.top), i=polozky.indexOf(s), pn=document.createElement('div'); pn.className='prevnext';
-    if(i>0) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i-1].id+'"><span class="k">Předchozí</span>'+esc(titulek(polozky[i-1]))+'</a>');
-    if(i<polozky.length-1) pn.insertAdjacentHTML('beforeend','<a href="#'+polozky[i+1].id+'"><span class="k">Další</span>'+esc(titulek(polozky[i+1]))+'</a>');
-    pn.insertAdjacentHTML('beforeend','<a href="#/'+s.top+'"><span class="k">Zpět na</span>'+esc(sek.nazev)+'</a>');
+    // od 12. 11. 2026: předchozí vlevo se šipkou doleva, další vpravo se šipkou doprava, fáze s velkým číslem jako v liště; zpět na přehled jako řádek pod nimi
+    function pnOdkaz(x,kam){
+      var nad=kam==='prev'?SIP_L+'<span>Předchozí</span>':'<span>Další</span>'+SIP_P;
+      var t=x.faze?'<span class="pn-t"><b class="pn-n">'+x.faze+'</b><span>'+esc(x.kratky)+'</span></span>':'<span class="pn-t"><span>'+esc(x.kratky)+'</span></span>';
+      return '<a class="'+kam+'" href="#'+x.id+'" aria-label="'+(kam==='prev'?'Předchozí':'Další')+': '+esc(titulek(x))+'"><span class="k">'+nad+'</span>'+t+'</a>';
+    }
+    if(i>0) pn.insertAdjacentHTML('beforeend',pnOdkaz(polozky[i-1],'prev'));
+    if(i<polozky.length-1) pn.insertAdjacentHTML('beforeend',pnOdkaz(polozky[i+1],'next'));
+    pn.insertAdjacentHTML('beforeend','<a class="zpet" href="#/'+s.top+'">'+SIP_SEZNAM+'<span>Zpět na '+esc(sek.nazev)+'</span></a>');
     if(!sek.primo) main.appendChild(pn);
     odkazy(art,s);
     vylepsi(art);
