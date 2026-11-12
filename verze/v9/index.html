@@ -264,7 +264,9 @@ article ul.see>li{position:relative;padding-left:22px;margin:0 0 12px}
 article ul.see>li::before{content:"";position:absolute;left:2px;top:6px;width:11px;height:11px;border-radius:50%;background:var(--accent);box-sizing:border-box}
 article ul.see>li.v::before{background:transparent;border:3px solid var(--saffron)}
 article ul.see .lbl{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 8px;font-family:var(--display);font-size:15px;font-weight:700;line-height:1.3}
-article ul.see .opt{font-size:13px;font-weight:600;color:var(--saffron-text)}
+article .opt{font-family:var(--display);font-size:13px;font-weight:600;color:var(--saffron-text);margin-left:8px;white-space:nowrap}
+article ul.see .opt{margin-left:0}
+article details.more>summary .opt{margin-left:0}
 article ul.see .txt{display:block}
 article li::marker{color:var(--accent)}
 /* rozbalovací bloky: řádky oddělené linkou místo karet */
@@ -902,8 +904,26 @@ article details.more[open]>.tw{margin-left:0}
     pn.insertAdjacentHTML('beforeend','<a class="zpet" href="#/'+s.top+'">'+SIP_SEZNAM+'<span>Zpět na '+esc(sek.nazev)+'</span></a>');
     if(!sek.primo) main.appendChild(pn);
     odkazy(art,s);
+    volitelne(art);
     vylepsi(art);
     terminy(art);
+  }
+  // ---- „(volitelně)“ kdekoli v textu a v nadpisech bloků jako šafránový popisek, stejně jako v seznamu co uvidíte (od 12. 11. 2026) ----
+  // Dvojtečka hned za závorkou (- **Vodopád (volitelně):** text) zůstane za popiskem.
+  function volitelne(art){
+    var w=document.createTreeWalker(art,NodeFilter.SHOW_TEXT,{acceptNode:function(n){
+      if(n.nodeValue.indexOf('(volitelně)')<0) return NodeFilter.FILTER_REJECT;
+      for(var e=n.parentNode;e&&e!==art;e=e.parentNode) if(/^(A|CODE|PRE|SCRIPT|STYLE|TH|TD)$/.test(e.tagName)||(e.classList&&e.classList.contains('opt'))) return NodeFilter.FILTER_REJECT;
+      return NodeFilter.FILTER_ACCEPT}});
+    var uzly=[]; while(w.nextNode()) uzly.push(w.currentNode);
+    uzly.forEach(function(u){
+      var cast=u.nodeValue.split(/\s*\(volitelně\)(:?)/), frag=document.createDocumentFragment();
+      for(var i=0;i<cast.length;i+=2){
+        if(cast[i]) frag.appendChild(document.createTextNode(cast[i]));
+        if(i+1<cast.length){var o=document.createElement('span'); o.className='opt'; o.textContent='volitelně'; frag.appendChild(o); if(cast[i+1]) frag.appendChild(document.createTextNode(':'))}
+      }
+      u.parentNode.replaceChild(frag,u);
+    });
   }
   // ---- seznam co uvidíte u fáze: první seznam, jehož položky začínají tučným názvem (- **Místo:** věta) ----
   // Název dostane vlastní řádek, „(volitelně)“ se ukáže jako popisek a značka před položkou je prstenec místo plného kruhu.
