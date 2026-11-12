@@ -10,7 +10,7 @@
 /* Mobile first, stromova navigace: nadsekce -> seznam polozek -> jedna stranka. */
 :root{
   --bg:#edf2ef; --surface:#ffffff; --ink:#16231f; --muted:#53625b; --line:#cfd9d4;
-  --accent:#0b5d55; --accent-soft:#dbe9e4; --accent-mid:#8fb3aa; --rail-num:#5f8f85; --saffron:#b9770b; --saffron-soft:#f6ead2; --saffron-text:#8a5600;
+  --accent:#0b5d55; --accent-soft:#dbe9e4; --accent-mid:#8fb3aa; --rail-num:#5f8f85; --ik-soft:#bfe0d6; --saffron:#b9770b; --saffron-soft:#f6ead2; --saffron-text:#8a5600;
   --display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
   --body:"Newsreader", Georgia, "Times New Roman", serif;
   --mono:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
@@ -18,10 +18,10 @@
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
-  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --rail-num:#5d9188; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}}
+  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --rail-num:#5d9188; --ik-soft:#1f4b45; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#101614; --surface:#18201d; --ink:#e3e9e5; --muted:#9aa8a1; --line:#2c3833;
-  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --rail-num:#5d9188; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}
+  --accent:#5cc2bb; --accent-soft:#16312f; --accent-mid:#2f5e57; --rail-num:#5d9188; --ik-soft:#1f4b45; --saffron:#e3a63d; --saffron-soft:#33280f; --saffron-text:#e3a63d; color-scheme:dark}
 
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -245,6 +245,15 @@ td{font-variant-numeric:tabular-nums}
 .chlog .meta{font-size:13px}
 .chlog .lnk{font-size:14px}
 footer{font-size:13px}
+.chlog h3{display:grid;grid-template-columns:auto minmax(0,1fr);column-gap:12px;align-items:baseline;margin:1.6em 0 .3em}
+.chlog .vid{grid-row:1/3;font-weight:800;font-variation-settings:"wdth" 75;font-size:30px;line-height:.9;color:var(--accent);min-width:52px}
+.chlog .vn{font-weight:700;font-size:17px;line-height:1.25}
+.chlog .meta{display:flex;flex-wrap:wrap;align-items:center;gap:4px 8px;font-size:13px}
+.chlog .stit{padding:0 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent);font-weight:600}
+.chlog .stit.stara{background:var(--saffron-soft);color:var(--saffron-text)}
+.chlog .lnk,.chlog ul{margin-left:64px}
+.chlog ul{padding-left:1.1em}
+@media (max-width:480px){.chlog .lnk,.chlog ul{margin-left:0}}
 /* hlavička fáze: velké číslo fáze, pruh postupu po trase, noci a datum pod názvem */
 article h3.phase{display:block;padding:0;background:none;border-radius:0;margin:0 0 .3em}
 article h3.phase .postup{display:flex;align-items:center;gap:3px;margin:0 0 10px;font-size:13px;font-weight:500;color:var(--muted)}
@@ -266,7 +275,6 @@ article ul.see>li.v::before{background:transparent;border:3px solid var(--saffro
 article ul.see .lbl{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 8px;font-family:var(--display);font-size:15px;font-weight:700;line-height:1.3}
 article .opt{font-family:var(--display);font-size:13px;font-weight:600;color:var(--saffron-text);margin-left:8px;white-space:nowrap}
 article ul.see .opt{margin-left:0}
-article details.more>summary .opt{margin-left:0}
 article ul.see .txt{display:block}
 article li::marker{color:var(--accent)}
 /* rozbalovací bloky: řádky oddělené linkou místo karet */
@@ -275,8 +283,18 @@ article details.more:not(details.more+details.more){border-top:1px solid var(--l
 article details.more+:not(details.more){margin-top:16px}
 article details.more[open]{padding-bottom:12px}
 article details.more>summary{gap:12px;padding:10px 0;font-size:16px}
-article details.more>summary::before{font-family:var(--display);font-weight:500;font-size:20px;line-height:1;width:14px}
-article details.more[open]>:not(summary){margin-left:26px}
+article details.more>summary::before{content:none}
+article details.more[open]>summary::before{content:none}
+article details.more>summary .t{flex:1;min-width:0}
+article details.more>summary .ik{flex:none;width:28px;display:grid;place-items:center;color:var(--accent)}
+article details.more>summary .ik svg{width:26px;height:26px;display:block}
+article details.more>summary .ik .sf{fill:var(--ik-soft);stroke:none}
+article details.more>summary .ik .ln{fill:none;stroke:currentColor;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round}
+article details.more>summary .ik i{display:block;width:6px;height:6px;border-radius:50%;background:var(--accent-mid)}
+article details.more>summary .chev{flex:none;width:18px;height:18px;fill:none;stroke:var(--accent);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;transition:transform .15s}
+article details.more[open]>summary .chev{transform:rotate(180deg)}
+@media (prefers-reduced-motion:reduce){article details.more>summary .chev{transition:none}}
+article details.more[open]>:not(summary){margin-left:40px}
 article details.more[open]>.tw{margin-left:0}
 @media (min-width:900px){
   nav.rail li.f a{display:flex;align-items:flex-start;gap:12px;padding-top:9px;padding-bottom:9px}
@@ -370,7 +388,7 @@ article details.more[open]>.tw{margin-left:0}
     {id:'terminy', nazev:'Ubytování: termíny', radky:['Ubytování','termíny'], popis:'Do kdy jde které ubytování zrušit zdarma.', primo:true, volitelna:true},
     {id:'zajimavosti', nazev:'Zajímavosti', popis:'Kultura a historie, zvířata na trase, šnorchlování a noční safari.', volitelna:true},
     {id:'misto', nazev:'Na místě',    radkyUzke:['Na','místě'], popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.', popisSZajimavostmi:'Mapy, doprava, jídlo, etiketa, praktické tipy a slovníček.'},
-    {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.'}
+    {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.', primo:true}
   ];
   // sekce -> nadsekce: do v50 podle cisla v nadpisu (## 4. Doprava), od v51 podle nazvu (cast nadpisu pred dvojteckou nebo zavorkou)
   // verze muze mit vlastni rozrazeni (hlavicka.kam v src/verze.json), jinak plati cislovani do v13
@@ -401,7 +419,7 @@ article details.more[open]>.tw{margin-left:0}
       if(n.nodeType===1&&n.tagName==='H4'){
         det=document.createElement('details'); det.className='more';
         var bid=pid+'-'+(slug(n.textContent.trim())||'blok'); while(used[bid]) bid+='-x'; used[bid]=1; det.id=bid;
-        var su=document.createElement('summary'); su.innerHTML=n.innerHTML; det.appendChild(su);
+        var su=document.createElement('summary'); su.innerHTML=ikonaBloku(n.textContent.trim())+'<span class="t">'+n.innerHTML+'</span>'+SIP_DOLU; det.appendChild(su);
         out.push(det); return;
       }
       if(det) det.appendChild(n); else out.push(n);
@@ -409,6 +427,21 @@ article details.more[open]>.tw{margin-left:0}
     return out;
   }
   function pridej(s){s.uzly=sbal(s.uzly,s.id); STRANKY.push(s); return s}
+  // ikony opakujících se bloků (od 12. 11. 2026, styl duotón: linka a pod částí ikony světlá plocha), ostatní bloky mají tečku
+  var IKONY={
+    program:['<rect x="3.5" y="5" width="17" height="4.5" rx="1.5"/>','<rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 9.5h17M8 3v4M16 3v4M7.5 13.5h3M13.5 13.5h3M7.5 16.5h3"/>'],
+    ubytovani:['<rect x="10.5" y="9" width="10.5" height="5.5" rx="2.5"/>','<path d="M3 18.5V6.5M3 14.5h18v4M21 14.5v-2.5a3 3 0 0 0-3-3h-7.5v5.5"/><circle cx="6.75" cy="11.25" r="1.75"/>'],
+    vstupy:['<path d="M4 7.5A1.5 1.5 0 0 1 5.5 6h9v12h-9A1.5 1.5 0 0 1 4 16.5v-2.25a2.25 2.25 0 0 0 0-4.5z"/>','<path d="M4 7.5A1.5 1.5 0 0 1 5.5 6h13A1.5 1.5 0 0 1 20 7.5v2.25a2.25 2.25 0 0 0 0 4.5v2.25A1.5 1.5 0 0 1 18.5 18h-13A1.5 1.5 0 0 1 4 16.5v-2.25a2.25 2.25 0 0 0 0-4.5z"/><path d="M14.5 6v2M14.5 11v2M14.5 16v2"/>'],
+    presun:['<circle cx="5.5" cy="18" r="3.5"/>','<circle cx="5.5" cy="18" r="2"/><path d="M7.5 18h7a3 3 0 0 0 0-6h-5a3 3 0 0 1 0-6h9.5M16.5 3.5 19 6l-2.5 2.5"/>'],
+    odlet:['<path d="M7 9.5l3.3 4.1 8-3a1.8 1.8 0 0 0-1.2-3.4z"/>','<path d="M3 19.5h18M4.5 14.5l2.2 1.1a2 2 0 0 0 1.6.1l11-4.2a1.8 1.8 0 0 0-1.2-3.4l-3.6 1.2-5.3-3.6-1.9.7 3.3 4.1-3.6 1.3-2.4-1.6-1.4.5z"/>'],
+    mapy:['<path d="M9 4.5v13l6 2v-13z"/>','<path d="M9 4.5 3.5 6.5v13l5.5-2 6 2 5.5-2v-13l-5.5 2z"/><path d="M9 4.5v13M15 6.5v13"/>']
+  };
+  var SIP_DOLU='<svg class="chev" viewBox="0 0 20 20" aria-hidden="true"><path d="M5.5 8 10 12.5 14.5 8"/></svg>';
+  function ikonaBloku(t){
+    var k=/^Program/.test(t)?'program':/^Ubytování/.test(t)?'ubytovani':/^Vstupy/.test(t)?'vstupy':/^Přesun dál/.test(t)?'presun':/^Odlet/.test(t)?'odlet':/^Mapy/.test(t)?'mapy':null;
+    if(!k) return '<span class="ik"><i></i></span>';
+    return '<span class="ik"><svg viewBox="0 0 24 24" aria-hidden="true"><g class="sf">'+IKONY[k][0]+'</g><g class="ln">'+IKONY[k][1]+'</g></svg></span>';
+  }
   function perex(uzly){
     for(var i=0;i<uzly.length;i++){
       var n=uzly[i];
@@ -467,10 +500,10 @@ article details.more[open]>.tw{margin-left:0}
   // zmenovy list jako stranka
   var latest=V.length?V[V.length-1].id:CFG.id, me=V.filter(function(v){return v.id===CFG.id})[0];
   if(V.length){
-    var box=document.createElement('div'), c='<h2 id="zmenovy-list">Změnový list</h2><div class="chlog">';
+    var box=document.createElement('div'), c='<h2 id="zmenovy-list">Změnový list</h2><p class="secintro">Co se v které verzi itineráře změnilo, nejnovější nahoře. U každé verze je odkaz na její web a text.</p><div class="chlog">';
     V.slice().reverse().forEach(function(v){
       var prev=V[V.indexOf(v)-1];
-      c+='<h3>'+esc(v.id)+': '+esc(v.nazev)+' <span class="meta">'+esc(v.datum)+(v.id===latest?' · aktuální':'')+(v.id===CFG.id?' · právě zobrazená':'')+'</span></h3>';
+      c+='<h3><b class="vid">'+esc(v.id)+'</b><span class="vn">'+esc(v.nazev)+'</span><span class="meta">'+esc(v.datum)+(v.id===latest?'<span class="stit">aktuální</span>':'')+(v.id===CFG.id&&v.id!==latest?'<span class="stit stara">právě zobrazená</span>':'')+'</span></h3>';
       c+='<div class="lnk"><a href="'+CFG.base+'verze/'+v.id+'/">web '+esc(v.id)+'</a><a href="'+CFG.base+'verze/'+v.id+'/'+(v.md||'thajsko-phuket-bangkok.md')+'">Markdown</a>'+(prev&&prev.commit&&v.commit?'<a href="'+REPO+'/compare/'+prev.commit+'...'+v.commit+'">rozdíl proti '+esc(prev.id)+'</a>':'')+'</div>';
       c+='<ul>'+v.zmeny.map(function(z){return '<li>'+esc(z)+'</li>'}).join('')+'</ul>';
     });
