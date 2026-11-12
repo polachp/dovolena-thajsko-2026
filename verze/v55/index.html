@@ -392,6 +392,13 @@ article h3.phase .cislo b,.prevnext .pn-n,.chlog .vid{font-weight:800;letter-spa
 .karta .prog{display:flex;flex-direction:column;gap:2px}
 .karta .prog .p{color:var(--ink);font-size:15.5px}
 .karta .prog .p a{color:var(--accent)}
+.crumbs{flex-wrap:nowrap;gap:10px}
+.crumbs .cesta{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.crumbs .sipky{display:flex;gap:6px;flex:none}
+.crumbs .sipka{width:40px;height:40px;display:grid;place-items:center;border:1px solid var(--line);border-radius:50%;background:var(--surface);color:var(--accent);text-decoration:none}
+.crumbs a.sipka:hover{border-color:var(--accent)}
+.crumbs span.sipka{color:var(--rest);background:none}
+.crumbs .sipka .sip{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
 .pocasi-odkaz{margin:8px 0 0;font-family:var(--display);font-size:14px;font-weight:600}
 .pocasi-odkaz a{color:var(--accent)}
 .karta ul.lhuty li .btn{min-height:40px;padding:0 14px;font-size:14px}
@@ -1065,7 +1072,15 @@ body.na-dnes header.top .odpocet{display:none}
     var art=document.createElement('article');
     if(s.id==='co-je-v-teto-verzi-nove-a-co-se-jeste-doresi'||/^0\./.test(s.uzly[0].textContent||'')) art.className='term';
     var cr=document.createElement('div'); cr.className='crumbs';
-    cr.innerHTML='<a href="#/'+s.top+'">'+esc(sek.nazev)+'</a><span>›</span><span>'+esc(s.kratky)+'</span>';
+    // drobečková navigace a vpravo malé šipky na předchozí a další stránku stejné části, u fází na předchozí a další fázi (od 12. 11. 2026)
+    var pol0=vSekci(s.top), i0=pol0.indexOf(s), pr0=i0>0?pol0[i0-1]:null, dl0=i0<pol0.length-1?pol0[i0+1]:null;
+    function sipka(x,kam){
+      var ik=kam==='prev'?SIP_L:SIP_P, slovo=kam==='prev'?'Předchozí':'Další';
+      return x?'<a class="sipka" href="#'+x.id+'" aria-label="'+slovo+': '+esc(titulek(x))+'" title="'+esc(titulek(x))+'">'+ik+'</a>'
+              :'<span class="sipka" aria-hidden="true">'+ik+'</span>';
+    }
+    cr.innerHTML='<span class="cesta"><a href="#/'+s.top+'">'+esc(sek.nazev)+'</a> › <span>'+esc(s.kratky)+'</span></span>'+
+      (pol0.length>1?'<span class="sipky">'+sipka(pr0,'prev')+sipka(dl0,'next')+'</span>':'');
     if(!sek.primo) main.appendChild(cr);
     s.uzly.forEach(function(n){art.appendChild(n)});
     var h2=art.querySelector('h2,h3');
