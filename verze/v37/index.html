@@ -62,7 +62,7 @@ details.hdr[open]>summary::after{content:" −"}
   /* šest záložek: na telefonu pět v prvním řádku (dvouslovné názvy ve dvou řádcích), šestá pod nimi */
   .tabs .wrap.sest{padding-left:4px;padding-right:4px;gap:0}
   .tabs .wrap.sest button{flex:1 1 auto;font-size:14px;padding:6px;min-height:40px;line-height:1.15;text-align:center}
-  .tabs .wrap.sest button:last-of-type{flex:0 0 auto;padding-left:10px;padding-right:10px}
+  .tabs .wrap.sest .zalom~button{flex:0 0 auto;padding-left:10px;padding-right:10px}
   .tabs .wrap.sest .zalom{display:block;flex:0 0 100%;height:0}
   .tabs .wrap.sest br.u{display:inline}
 }
@@ -380,9 +380,10 @@ article details.more[open]>.tw{margin-left:0}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=d2fe1caf"></script>
+<script src="../../verze.js?v=8580bdd0"></script>
+<script src="../../varianty.js?v=8580bdd0"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=d2fe1caf"></script>
+<script src="thajsko-obsah.js?v=8580bdd0"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -397,6 +398,7 @@ article details.more[open]>.tw{margin-left:0}
     {id:'terminy', nazev:'Ubytování: termíny', radky:['Ubytování','termíny'], popis:'Do kdy jde které ubytování zrušit zdarma.', primo:true, volitelna:true},
     {id:'zajimavosti', nazev:'Zajímavosti', popis:'Kultura a historie, zvířata na trase, šnorchlování a noční safari.', volitelna:true},
     {id:'misto', nazev:'Na místě',    radkyUzke:['Na','místě'], popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.', popisSZajimavostmi:'Mapy, doprava, jídlo, etiketa, praktické tipy a slovníček.'},
+    {id:'varianty', nazev:'Varianty', popis:'Odložené části itineráře: co jsme vyřadili, ale může se hodit, když se plán změní.', volitelna:true},
     {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.', primo:true}
   ];
   // sekce -> nadsekce: do v50 podle cisla v nadpisu (## 4. Doprava), od v51 podle nazvu (cast nadpisu pred dvojteckou nebo zavorkou)
@@ -520,6 +522,32 @@ article details.more[open]>.tw{margin-left:0}
     pridej({id:'zmenovy-list',top:'verze',klic:'',nazev:'Změnový list',kratky:'Změnový list',
             uzly:Array.prototype.slice.call(box.childNodes),perex:'Co se změnilo v jednotlivých verzích.'});
   }
+  // odložené varianty ze složky varianty/ (od 12. 11. 2026): každý soubor je jedna stránka záložky Varianty.
+  // Nadpisy se posunou o úroveň níž (# je název stránky, ### jsou rozbalovací bloky), odkazy ../ míří do kořene webu.
+  var VARIANTY=window.THAJSKO_VARIANTY||[], VAR_ID={};
+  VARIANTY.forEach(function(x){VAR_ID[x.soubor]='varianta-'+slug(x.soubor.replace(/\.md$/,''))});
+  VARIANTY.forEach(function(x){
+    var box=document.createElement('div');
+    box.innerHTML=marked.parse(x.md.replace(/^(#{1,5}) /gm,'#$1 '));
+    var h=box.querySelector('h2'), nazev=h?h.textContent.replace(/^Záložní varianta:\s*/,'').trim():x.soubor;
+    nazev=nazev.charAt(0).toUpperCase()+nazev.slice(1);
+    if(h) h.textContent=nazev;
+    box.querySelectorAll('a[href]').forEach(function(a){
+      var href=a.getAttribute('href'), m=href.match(/(?:^|\/)varianty\/([^\/#?]+\.md)$/)||href.match(/^([^\/#?:]+\.md)$/);
+      if(m&&VAR_ID[m[1]]) a.setAttribute('href','#'+VAR_ID[m[1]]);
+      else if(/^\.\.\//.test(href)) a.setAttribute('href',CFG.base+href.slice(3));
+    });
+    var uz=Array.prototype.slice.call(box.childNodes);
+    pridej({id:VAR_ID[x.soubor],top:'varianty',klic:'',nazev:nazev,kratky:nazev,uzly:uz,perex:perex(uz.slice(1))});
+  });
+  // odkazy z itineráře na soubory variant na GitHubu vedou na stránku v záložce Varianty
+  STRANKY.forEach(function(s){
+    s.uzly.forEach(function(n){
+      if(n.nodeType!==1) return;
+      var aa=n.tagName==='A'?[n]:Array.prototype.slice.call(n.querySelectorAll('a[href]'));
+      aa.forEach(function(a){var m=(a.getAttribute('href')||'').match(/varianty\/([^\/#?]+\.md)$/); if(m&&VAR_ID[m[1]]) a.setAttribute('href','#'+VAR_ID[m[1]])});
+    });
+  });
   // index id -> stranka
   STRANKY.forEach(function(s){
     podleId[s.id]=s;
@@ -757,7 +785,7 @@ article details.more[open]>.tw{margin-left:0}
     var m={};
     function zapis(jm,id){if(!jm||jm.length<4) return; if(m[jm]===undefined) m[jm]=id; else if(m[jm]!==id) m[jm]=null} // stejné jméno u dvou stránek = nejednoznačné, neodkazuje se
     STRANKY.forEach(function(s){
-      if(s.faze||s.top==='verze') return;
+      if(s.faze||s.top==='verze'||s.top==='varianty') return;
       var n=bezZavorky(s.nadpis||s.nazev);
       zapis(n,s.id); zapis(bezZavorky(s.kratky),s.id);
       zapis(n.split(',')[0].trim(),s.id); // Počasí, Zdraví, Jídlo: začátek dlouhého nadpisu
@@ -824,7 +852,7 @@ article details.more[open]>.tw{margin-left:0}
     return cisté;
   }
   function odkazy(art,s){
-    if(s.top==='verze') return;
+    if(s.top==='verze'||s.top==='varianty') return;
     var ctx={sekce:cileSekci(),zalozky:cileZalozek(),bloky:cileBloku(art),cisla:{},faze:{},ja:s.id};
     STRANKY.forEach(function(x){
       if(x.faze) ctx.faze[x.faze]=x.id;
@@ -859,7 +887,8 @@ article details.more[open]>.tw{margin-left:0}
   if(sest) tabs.classList.add('sest');
   SEKCE.forEach(function(s,i){
     if(s.volitelna&&!vSekci(s.id).length) return; // záložka bez stránek (starší verze) se neukazuje
-    if(sest&&i===SEKCE.length-1){var z=document.createElement('span'); z.className='zalom'; tabs.appendChild(z)} // poslední záložka na telefonu na druhý řádek
+    var prvniDruhy=vSekci('varianty').length?'varianty':'verze'; // na telefonu Varianty (když jsou) a Verze ve druhém řádku
+    if(sest&&s.id===prvniDruhy){var z=document.createElement('span'); z.className='zalom'; tabs.appendChild(z)}
     if(s.popisSZajimavostmi&&vSekci('zajimavosti').length) s.popis=s.popisSZajimavostmi; // Na místě bez zajímavostí (od v46 jsou zvlášť)
     var b=document.createElement('button');
     b.type='button'; b.dataset.top=s.id;

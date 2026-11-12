@@ -35,7 +35,7 @@ Starší verze (`verze/v1` až `verze/v68`) se neupravují, slouží jako archiv
 - `src/verze.json`: seznam verzí, změnový list a údaje do hlavičky webu
 - `src/sablona.html`: šablona stránky
 - `build.py`: vygeneruje `index.html`, `verze/*/index.html`, `thajsko-obsah.js`, `verze.js`, `ZMENY.md` a kopii Markdownu v kořeni
-- `varianty/`: vyřazené části itineráře uložené jako záložní varianty (build je nezpracovává), například [Khao Lak](varianty/khao-lak.md), [další místa v Krabi](varianty/krabi-dalsi-mista.md), [Phuket Town jako poslední noc](varianty/phuket-town.md), [Fun Friday a suvenýry na Phuketu](varianty/phuket-fun-friday-suvenyry.md), [vodopád Ngao u Ranongu](varianty/vodopad-ngao.md) a [raft housy na jezeře Cheow Lan](varianty/raft-housy-cheow-lan.md)
+- `varianty/`: vyřazené části itineráře uložené jako záložní varianty (na webu v záložce Varianty), například [Khao Lak](varianty/khao-lak.md), [další místa v Krabi](varianty/krabi-dalsi-mista.md), [Phuket Town jako poslední noc](varianty/phuket-town.md), [Fun Friday a suvenýry na Phuketu](varianty/phuket-fun-friday-suvenyry.md), [vodopád Ngao u Ranongu](varianty/vodopad-ngao.md) a [raft housy na jezeře Cheow Lan](varianty/raft-housy-cheow-lan.md)
 - `CLAUDE.md`: postup pro práci s repem v Claude session
 
 ## Jak udělat změnu v itineráři

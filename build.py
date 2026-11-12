@@ -27,6 +27,18 @@ MISTA_VYCHOZI = [
 ]
 
 
+# Odložené varianty (složka varianty/) se od 12. 11. 2026 ukazují na webu v záložce Varianty, v tomto pořadí (podle trasy).
+# Soubor, který tu není, se přidá na konec podle abecedy.
+VARIANTY_PORADI = ["vodopad-ngao.md", "raft-housy-cheow-lan.md", "khao-lak.md", "krabi-dalsi-mista.md",
+                   "phuket-town.md", "phuket-fun-friday-suvenyry.md"]
+
+
+def varianty() -> list:
+    soubory = sorted((ROOT / "varianty").glob("*.md"), key=lambda f: (
+        VARIANTY_PORADI.index(f.name) if f.name in VARIANTY_PORADI else len(VARIANTY_PORADI), f.name))
+    return [{"soubor": f.name, "md": f.read_text(encoding="utf-8")} for f in soubory]
+
+
 def obsah_js(md: str) -> str:
     for bad in ("`", "${", "\\"):
         if bad in md:
@@ -64,7 +76,7 @@ def stranka(v: dict, base: str) -> str:
 def bust(v):
     """Krátký otisk obsahu: připojuje se za názvy skriptů, aby prohlížeč po nové verzi nenačetl starý obsah z mezipaměti."""
     md = (ROOT / "verze" / v["id"] / md_soubor(v)).read_text(encoding="utf-8")
-    return hashlib.sha1((json.dumps(VERZE, ensure_ascii=False) + md).encode("utf-8")).hexdigest()[:8]
+    return hashlib.sha1((json.dumps(VERZE, ensure_ascii=False) + md + json.dumps(varianty(), ensure_ascii=False)).encode("utf-8")).hexdigest()[:8]
 
 
 def zkontroluj_kam(v: dict, md: str) -> None:
@@ -252,6 +264,10 @@ def main():
     (ROOT / "verze.js").write_text(
         "// Generováno skriptem build.py ze src/verze.json.\nwindow.THAJSKO_VERZE = "
         + json.dumps(verejne, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
+
+    (ROOT / "varianty.js").write_text(
+        "// Generováno skriptem build.py ze složky varianty/, needitovat ručně.\nwindow.THAJSKO_VARIANTY = "
+        + json.dumps(varianty(), ensure_ascii=False) + ";\n", encoding="utf-8")
 
     for v in VERZE:
         d = ROOT / "verze" / v["id"]
