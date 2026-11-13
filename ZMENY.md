@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v74: Fáze 2: druhá rezervace v Sam Roi Yot (Driftwood and Jolie Cottages) (13. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v74/) · [Markdown](verze/v74/thajsko-bangkok-phuket.md) · [rozdíl proti v73](https://github.com/polachp/dovolena-thajsko-2026/compare/ad32a30...3df9f94)
+
+- Fáze 2, blok Ubytování: noci 30. 11.–3. 12. jsou nově zarezervované dvakrát. Kromě Sam Roi Yot Sea Sight Resort je to Driftwood and Jolie Cottages (Booking.com, chata s 1 ložnicí, 2 dospělí, check-in 14:00 až 18:00, check-out 7:00 až 12:00, snídaně v ceně není).
+- Driftwood se dá zrušit zdarma do 24. 11. 23:59 thajského času (v Česku 17:59), potom se platí celá cena 3 968 THB. Sea Sight zůstává zdarma do 28. 11. Jedno ze dvou ubytování je potřeba zrušit, rozhodnout nejpozději do 24. 11.
+- Tabulka Do kdy zrušit ubytování zdarma, sekce Co se ještě dořeší, Záchytné body pro Google Maps a mapa fáze 2 mají nové ubytování. Poloha a vybavení Driftwood jsou podle inzerátů a neověřené, souřadnice na mapě jsou označené jako přibližné.
+- Obsah ostatních fází, počty nocí a data jsou beze změny proti v73.
+
 ## v73: Ubytování v Sam Roi Yot: nová rezervace přes Booking.com, jiný pokoj (13. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v73/) · [Markdown](verze/v73/thajsko-bangkok-phuket.md) · [rozdíl proti v72](https://github.com/polachp/dovolena-thajsko-2026/compare/27ea818...ad32a30)
