@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v70: Khao Sok: srovnání nabídek na jezeře Cheow Lan (13. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v70/) · [Markdown](verze/v70/thajsko-bangkok-phuket.md) · [rozdíl proti v69](https://github.com/polachp/dovolena-thajsko-2026/compare/4d211dd...16e10ce)
+
+- Fáze 5: nový rozbalovací blok Srovnání nabídek na jezeře s tabulkou raft housů a nabídek agentur (koupelna, cena za dva, hodnocení raft housu z Google Maps, poznámky), stav k 13. 11. 2026.
+- V tabulce je nově Smiley Lakehouse (Signature AC Lake House, noc 11.–12. 12.) a u vyřazených nabídek (raft house Krison, Phupha Waree) značka NEBRAT.
+- Blok Noc na jezeře má odrážku s odkazem na srovnání.
+- Obsah ostatních fází, počty nocí a data jsou beze změny proti v69.
+
 ## v69: Co se ještě dořeší: nové pořadí, rozpočet a termíny (12. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v69/) · [Markdown](verze/v69/thajsko-bangkok-phuket.md) · [rozdíl proti v68](https://github.com/polachp/dovolena-thajsko-2026/compare/bb4e669...4d211dd)

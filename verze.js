@@ -877,5 +877,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "4d211dd",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v70",
+    "datum": "13. 11. 2026",
+    "nazev": "Khao Sok: srovnání nabídek na jezeře Cheow Lan",
+    "zmeny": [
+      "Fáze 5: nový rozbalovací blok Srovnání nabídek na jezeře s tabulkou raft housů a nabídek agentur (koupelna, cena za dva, hodnocení raft housu z Google Maps, poznámky), stav k 13. 11. 2026.",
+      "V tabulce je nově Smiley Lakehouse (Signature AC Lake House, noc 11.–12. 12.) a u vyřazených nabídek (raft house Krison, Phupha Waree) značka NEBRAT.",
+      "Blok Noc na jezeře má odrážku s odkazem na srovnání.",
+      "Obsah ostatních fází, počty nocí a data jsou beze změny proti v69."
+    ],
+    "commit": "16e10ce",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
