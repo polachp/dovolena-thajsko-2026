@@ -902,5 +902,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "303c0b0",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v72",
+    "datum": "13. 11. 2026",
+    "nazev": "Srovnání nabídek na jezeře: Sai Chon vyřazený, červené řádky na konci",
+    "zmeny": [
+      "Fáze 5, blok Srovnání nabídek na jezeře: obě nabídky s raft housem Sai Chon (Village Khaosok Tour) jsou označené NEBRAT kvůli špatným recenzím a jsou červené.",
+      "Všechny řádky NEBRAT (deset) jsou na konci tabulky, ostatní řádky zůstaly ve stejném pořadí.",
+      "Úvod bloku: kandidáti jsou Phutawan a Smiley.",
+      "Obsah ostatních fází, počty nocí a data jsou beze změny proti v71."
+    ],
+    "commit": "27ea818",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

@@ -459,25 +459,15 @@ Přespání na jezeře je rozhodnuté. Noc 10.–11. nebo 11.–12. 12. se vyber
 
 #### Srovnání nabídek na jezeře (stav k 13. 11.)
 
-Porovnání nabídek na jednu noc na raft housu, ze kterých se vybírá noc na jezeře. Zatím není vybráno. Kandidáti bez raft housu Krison jsou Phutawan, Sai Chon (nabídka Noc 3) a Smiley. Celkem za dva zahrnuje výlet i poplatky (park, molo, jeskyně), pokud není uvedeno jinak. Ceny jsou v bahtech podle nabídek od provozovatelů a agentur a podle webu Smiley, u nabídek v USD je přepočet kurzem 32,5 THB za dolar (neověřeno). Hodnocení raft housů je z Google Maps.
+Porovnání nabídek na jednu noc na raft housu, ze kterých se vybírá noc na jezeře. Zatím není vybráno. Kandidáti jsou Phutawan a Smiley, vyřazené nabídky jsou označené NEBRAT, červené a seřazené na konci tabulky. Celkem za dva zahrnuje výlet i poplatky (park, molo, jeskyně), pokud není uvedeno jinak. Ceny jsou v bahtech podle nabídek od provozovatelů a agentur a podle webu Smiley, u nabídek v USD je přepočet kurzem 32,5 THB za dolar (neověřeno). Hodnocení raft housů je z Google Maps.
 
 | Nabídka | Koupelna | Celkem za 2 (THB) | Raft house (Google Maps) | Poznámka |
 |---|---|---|---|---|
-| Flora Hostel | sdílená | 5 680 | Paetontai / Ton Toey (3,2 z 36) | **NEBRAT**: příšerné recenze |
-| Village Khaosok Tour (pravděpodobně Noc 3) | sdílená | 6 280 | Sai Chon (3,6 z 336) | skupina 15–20 lidí, storno ani změna data nejsou možné, park 540 na osobu; jedna recenze 1 z 5 si stěžuje na špinavý a rozbitý pokoj, před platbou požádat o čerstvé fotky |
-| Village Khaosok Tour (pravděpodobně Noc 3) | soukromá | 7 080 | Sai Chon (3,6 z 336) | totéž |
-| Noc 2, Khaosok Pu Tour | sdílená | 6 080 | Kaisorn / Krai Son (3,7 z 135) | **NEBRAT**: raft house Krison; jeskyně 200 platí zvlášť, bez večerního safari |
-| Noc 2, Khaosok Pu Tour | soukromá | 7 480 | Kaisorn / Krai Son (3,7 z 135) | **NEBRAT**: totéž |
-| Noc 5 | sdílená | 5 680 | Krison (podle nabídky) | **NEBRAT**: Krison a návrat na molo už v 10:30; odvoz z hotelu a jídlo v ceně, storno 3–4 dny předem |
-| Noc 5 | soukromá | 7 080 | Krison (podle nabídky) | **NEBRAT**: totéž |
-| Noc 7, Green Mountain View | sdílená | 6 080 | Krai Sorn (3,7 z 135) | **NEBRAT**: Krison; storno týden předem zdarma, platba v den výletu; operátor 4,6 a 4,8 na Googlu |
-| Noc 7, Green Mountain View | soukromá | 6 680 | Krai Sorn (3,7 z 135) | **NEBRAT**: Krison; nejisté, zda je v ceně jeskyně (+400, pokud ne) |
 | Bingo Hostel, malá skupina | neuvedeno | 6 780 | neuveden | hostel má skvělé hodnocení, raft house neznáme |
 | Bingo Hostel, větší skupina | neuvedeno | 6 680 | neuveden | ověřit, zda sdílený pokoj není cizí člověk |
 | Phutawan, skleněno-dřevěný domek | sdílená | 6 080 + 7 % DPH + doprava | Phutawan (4,2 z ~650) | po započtení dopravy asi 7 600–8 600; nevratná záloha; průvodci neumějí anglicky |
 | Phutawan, kapsle | sdílená | 6 680 + 7 % DPH + doprava | Phutawan (4,2 z ~650) | totéž |
 | Smiley Lakehouse, Signature AC Lake House (11.–12. 12.) | soukromá | 8 480 (7 800 + park a molo 680); s odvozem do Ao Nang (550 na osobu) 9 580 | Smiley (4,2 z 806) | klimatizace; v ceně odvoz z vesnice na molo a zpět, 4 jídla, 2 safari lodí a kajaky; 1. den v 16:00 Diamond Cave (bez Coral Cave), návrat na molo 14:20; záloha 40 % nevratná, doplatek hotově při check-inu; web nabízí u ubytování volbu Shared nebo Private (+2 000), potvrdit, že pokoj pro dva je soukromý bez příplatku; 13. 11. byl poslední volný pokoj, ostatní noci 8.–12. 12. plné |
-| Noc 9, Phupha Waree (Premier Lake Room) | neuvedeno | 15 580 | Phupha Waree (4,2 z 510) | **NEBRAT**: příliš drahé; klimatizace a soukromá koupelna, chráněná zátoka |
 | Ample Forest, SeekSophie 3D2N (farma a raft house) | raft house sdílená | ≈11 850 | neuveden (nejspíš Krai Son) | alternativa, ne náhrada; 331 USD za dva; farma Google 4,8 z 75; poplatky 540 na osobu navíc |
 | Praiwan, SeekSophie 2D1N (chata) | sdílená | 7 789 + doprava | Praiwan (4,3 z 223) | storno nelze; jen ventilátor; po započtení dopravy přes 11 000 |
 | Praiwan, SeekSophie 2D1N (Deluxe) | vlastní | 9 091 + doprava | Praiwan (4,3 z 223) | totéž, pohodlnější pokoj |
@@ -485,6 +475,16 @@ Porovnání nabídek na jednu noc na raft housu, ze kterých se vybírá noc na 
 | Panvaree The Greenery (luxus) | neuvedeno | ≈24 280 | Panvaree (4,8 podle dřívějšího hledání) | soukromý výlet, jen pro srovnání |
 | GetYourGuide 2D1N | neuvedeno | ≈11 100 | neuveden | od 171 USD na osobu, storno zdarma do 24 h, termín nejasný |
 | SeekSophie kapslový raft house | sdílená | ≈6 960 | neuveden | asi 214 USD za dva, pokoj soukromý jen pro skupinu, poplatky neznámé |
+| Flora Hostel | sdílená | 5 680 | Paetontai / Ton Toey (3,2 z 36) | **NEBRAT**: příšerné recenze |
+| Village Khaosok Tour (pravděpodobně Noc 3) | sdílená | 6 280 | Sai Chon (3,6 z 336) | **NEBRAT**: špatné recenze, jedna recenze 1 z 5 si stěžuje na špinavý a rozbitý pokoj; skupina 15–20 lidí, storno ani změna data nejsou možné, park 540 na osobu |
+| Village Khaosok Tour (pravděpodobně Noc 3) | soukromá | 7 080 | Sai Chon (3,6 z 336) | **NEBRAT**: totéž |
+| Noc 2, Khaosok Pu Tour | sdílená | 6 080 | Kaisorn / Krai Son (3,7 z 135) | **NEBRAT**: raft house Krison; jeskyně 200 platí zvlášť, bez večerního safari |
+| Noc 2, Khaosok Pu Tour | soukromá | 7 480 | Kaisorn / Krai Son (3,7 z 135) | **NEBRAT**: totéž |
+| Noc 5 | sdílená | 5 680 | Krison (podle nabídky) | **NEBRAT**: Krison a návrat na molo už v 10:30; odvoz z hotelu a jídlo v ceně, storno 3–4 dny předem |
+| Noc 5 | soukromá | 7 080 | Krison (podle nabídky) | **NEBRAT**: totéž |
+| Noc 7, Green Mountain View | sdílená | 6 080 | Krai Sorn (3,7 z 135) | **NEBRAT**: Krison; storno týden předem zdarma, platba v den výletu; operátor 4,6 a 4,8 na Googlu |
+| Noc 7, Green Mountain View | soukromá | 6 680 | Krai Sorn (3,7 z 135) | **NEBRAT**: Krison; nejisté, zda je v ceně jeskyně (+400, pokud ne) |
+| Noc 9, Phupha Waree (Premier Lake Room) | neuvedeno | 15 580 | Phupha Waree (4,2 z 510) | **NEBRAT**: příliš drahé; klimatizace a soukromá koupelna, chráněná zátoka |
 
 #### Ve vesnici (vybrat na místě)
 

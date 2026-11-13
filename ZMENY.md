@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v72: Srovnání nabídek na jezeře: Sai Chon vyřazený, červené řádky na konci (13. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v72/) · [Markdown](verze/v72/thajsko-bangkok-phuket.md) · [rozdíl proti v71](https://github.com/polachp/dovolena-thajsko-2026/compare/303c0b0...27ea818)
+
+- Fáze 5, blok Srovnání nabídek na jezeře: obě nabídky s raft housem Sai Chon (Village Khaosok Tour) jsou označené NEBRAT kvůli špatným recenzím a jsou červené.
+- Všechny řádky NEBRAT (deset) jsou na konci tabulky, ostatní řádky zůstaly ve stejném pořadí.
+- Úvod bloku: kandidáti jsou Phutawan a Smiley.
+- Obsah ostatních fází, počty nocí a data jsou beze změny proti v71.
+
 ## v71: Srovnání nabídek na jezeře: červené řádky NEBRAT (13. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v71/) · [Markdown](verze/v71/thajsko-bangkok-phuket.md) · [rozdíl proti v70](https://github.com/polachp/dovolena-thajsko-2026/compare/16e10ce...303c0b0)
