@@ -915,5 +915,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "27ea818",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v73",
+    "datum": "13. 11. 2026",
+    "nazev": "Ubytování v Sam Roi Yot: nová rezervace přes Booking.com, jiný pokoj",
+    "zmeny": [
+      "Fáze 2, blok Ubytování: Sam Roi Yot Sea Sight Resort je nově rezervovaný přes Booking.com (dřív Agoda), pokoj Deluxe Cottage with Private Terrace, 2 dospělí. Příjezd 30. 11. mezi 14:00 a 22:00, odjezd 3. 12. do 12:00.",
+      "Termín zrušení zdarma zůstává 28. 11. 23:59 thajského času (v Česku 17:59). V tabulce Do kdy zrušit ubytování zdarma se změnilo jen to, kde je rezervace (Booking.com místo Agody).",
+      "Záchytné body pro Google Maps: check-in v Sam Roi Yot je 14:00 až 22:00.",
+      "Obsah ostatních fází, počty nocí a data jsou beze změny proti v72."
+    ],
+    "commit": "ad32a30",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

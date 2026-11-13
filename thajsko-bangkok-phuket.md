@@ -105,7 +105,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 1 | Bangkok, Airport Rail Link (Phaya Thai, Makkasan) | [Phaya Thai](https://www.google.com/maps/search/?api=1&query=Phaya%20Thai%20Airport%20Rail%20Link%20Station%20Bangkok), [Makkasan](https://www.google.com/maps/search/?api=1&query=Makkasan%20Airport%20Rail%20Link%20Station%20Bangkok) | Přestup na skytrain BTS a metro MRT po příletu na letiště BKK |
 | 1 | Bangkok, Krung Thep Aphiwat Central Terminal | [Krung Thep Aphiwat Central Terminal](https://www.google.com/maps/search/?api=1&query=Krung%20Thep%20Aphiwat%20Central%20Terminal) | Nádraží, ze kterého odjíždějí vlaky na jih |
 | 1 | Bangkok, Wat Paknam Phasi Charoen (metro Bang Phai, východ 1) | [Wat Paknam Phasi Charoen](https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen%20Bangkok) | Obří Buddha a skleněná stupa, nejlépe hned po otevření v 8:00 |
-| 2 | Sam Roi Yot, ubytování Sam Roi Yot Sea Sight Resort | [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) | Potvrzeno 30. 11.–3. 12., check-in od 14:00, check-out do 12:00, asi 7 km vzdušnou čarou severně od Bang Pu |
+| 2 | Sam Roi Yot, ubytování Sam Roi Yot Sea Sight Resort | [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) | Potvrzeno 30. 11.–3. 12., check-in 14:00 až 22:00, check-out do 12:00, asi 7 km vzdušnou čarou severně od Bang Pu |
 | 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
 | 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | [Bueng Bua Thung Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot) | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
 | 2 | Bang Pu (Sam Roi Yot), pláž a molo | [Bang Pu Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bang%20Pu%20Village%20Sam%20Roi%20Yot%20Prachuap%20Khiri%20Khan) | Výchozí bod k pláži Laem Sala a jeskyni Phraya Nakhon |
@@ -301,7 +301,7 @@ Vstup do parku Khao Sam Roi Yot 200 THB na osobu a platí jen v den zakoupení. 
 
 #### Ubytování
 
-[Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs), 30. 11.–3. 12., potvrzeno, rezervováno přes Agodu. Check-in od 14:00, check-out do 12:00. Zrušit zdarma do 28. 11. 23:59 thajského času (v Česku 28. 11. v 17:59). Ve vesnici Sam Roi Yot asi 7 km vzdušnou čarou severně od Bang Pu, pár minut pěšky k pláži.
+[Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs), 30. 11.–3. 12. (3 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, pokoj Deluxe Cottage with Private Terrace. Příjezd v pondělí 30. 11. mezi 14:00 a 22:00, odjezd ve čtvrtek 3. 12. do 12:00. Zrušit zdarma do 28. 11. 23:59 thajského času (v Česku 28. 11. v 17:59). Ve vesnici Sam Roi Yot asi 7 km vzdušnou čarou severně od Bang Pu, pár minut pěšky k pláži.
 
 #### Přesun dál (Čt 3. 12., dopoledne)
 
@@ -1196,7 +1196,7 @@ Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko uka
 | Ubytování (noci) | Thajsko | Česko |
 |---|---|---|
 | Ti Thong Hostel, Bangkok (Agoda)<br>27.–30. 11. | ne&nbsp;22.&nbsp;11.<br>23:59 | ne&nbsp;22.&nbsp;11.<br>17:59 |
-| Sam Roi Yot Sea Sight Resort (Agoda)<br>30. 11.–3. 12. | so&nbsp;28.&nbsp;11.<br>23:59 | so&nbsp;28.&nbsp;11.<br>17:59 |
+| Sam Roi Yot Sea Sight Resort (Booking.com)<br>30. 11.–3. 12. | so&nbsp;28.&nbsp;11.<br>23:59 | so&nbsp;28.&nbsp;11.<br>17:59 |
 | Jungle Cafe and Guesthouse, Prachuap (Agoda)<br>3.–4. 12. | ne&nbsp;29.&nbsp;11.<br>23:59 | ne&nbsp;29.&nbsp;11.<br>17:59 |
 | Tobedzz Hotel, Ranong (Agoda)<br>4.–5. 12. | st&nbsp;2.&nbsp;12.<br>23:59 | st&nbsp;2.&nbsp;12.<br>17:59 |
 | Flower Power Village, Koh Phayam (Agoda)<br>5.–8. 12. | pá&nbsp;27.&nbsp;11.<br>23:59 | pá&nbsp;27.&nbsp;11.<br>17:59 |

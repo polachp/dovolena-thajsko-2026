@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v73: Ubytování v Sam Roi Yot: nová rezervace přes Booking.com, jiný pokoj (13. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v73/) · [Markdown](verze/v73/thajsko-bangkok-phuket.md) · [rozdíl proti v72](https://github.com/polachp/dovolena-thajsko-2026/compare/27ea818...ad32a30)
+
+- Fáze 2, blok Ubytování: Sam Roi Yot Sea Sight Resort je nově rezervovaný přes Booking.com (dřív Agoda), pokoj Deluxe Cottage with Private Terrace, 2 dospělí. Příjezd 30. 11. mezi 14:00 a 22:00, odjezd 3. 12. do 12:00.
+- Termín zrušení zdarma zůstává 28. 11. 23:59 thajského času (v Česku 17:59). V tabulce Do kdy zrušit ubytování zdarma se změnilo jen to, kde je rezervace (Booking.com místo Agody).
+- Záchytné body pro Google Maps: check-in v Sam Roi Yot je 14:00 až 22:00.
+- Obsah ostatních fází, počty nocí a data jsou beze změny proti v72.
+
 ## v72: Srovnání nabídek na jezeře: Sai Chon vyřazený, červené řádky na konci (13. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v72/) · [Markdown](verze/v72/thajsko-bangkok-phuket.md) · [rozdíl proti v71](https://github.com/polachp/dovolena-thajsko-2026/compare/303c0b0...27ea818)
