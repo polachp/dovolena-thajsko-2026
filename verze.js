@@ -890,5 +890,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "16e10ce",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v71",
+    "datum": "13. 11. 2026",
+    "nazev": "Srovnání nabídek na jezeře: červené řádky NEBRAT",
+    "zmeny": [
+      "Fáze 5, blok Srovnání nabídek na jezeře: řádky, ve kterých je napsáno NEBRAT, mají červený text (osm vyřazených nabídek).",
+      "U Smiley Lakehouse je ve sloupci Koupelna jen soukromá, bez poznámky o webu Smiley.",
+      "Obsah ostatních fází, počty nocí a data jsou beze změny proti v70."
+    ],
+    "commit": "303c0b0",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

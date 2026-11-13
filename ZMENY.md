@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v71: Srovnání nabídek na jezeře: červené řádky NEBRAT (13. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v71/) · [Markdown](verze/v71/thajsko-bangkok-phuket.md) · [rozdíl proti v70](https://github.com/polachp/dovolena-thajsko-2026/compare/16e10ce...303c0b0)
+
+- Fáze 5, blok Srovnání nabídek na jezeře: řádky, ve kterých je napsáno NEBRAT, mají červený text (osm vyřazených nabídek).
+- U Smiley Lakehouse je ve sloupci Koupelna jen soukromá, bez poznámky o webu Smiley.
+- Obsah ostatních fází, počty nocí a data jsou beze změny proti v70.
+
 ## v70: Khao Sok: srovnání nabídek na jezeře Cheow Lan (13. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v70/) · [Markdown](verze/v70/thajsko-bangkok-phuket.md) · [rozdíl proti v69](https://github.com/polachp/dovolena-thajsko-2026/compare/4d211dd...16e10ce)
