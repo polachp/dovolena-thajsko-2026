@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v75: Fáze 5: nabídka Phutawan na jezeře upřesněná (cena, program, podmínky) (14. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v75/) · [Markdown](verze/v75/thajsko-bangkok-phuket.md) · [rozdíl proti v74](https://github.com/polachp/dovolena-thajsko-2026/compare/3df9f94...d430e9d)
+
+- Fáze 5, Srovnání nabídek na jezeře: řádek Phutawan, kapsle má nově údaje z WhatsAppu provozovatele. Balíček 2 dny a 1 noc 2 800 THB na osobu a vstup 540 THB na osobu (celkem za dva 6 680 THB), v ceně loď, 3 jídla a aktivity, pokoj soukromý s ventilátorem a sdíleným WC, záloha po rezervaci se nevrací.
+- Pod tabulkou je program Phutawan na 2 dny a 1 noc z fotky od provozovatele (Guilin a Coral Cave s bambusovým vorem, ranní safari, odjezd v 9:30), poznámky provozovatele (bez anglických průvodců, loď se sdílí s další skupinou) a co chybí zjistit (DPH, kancelář a doprava, termín 10.–11. 12., záloha).
+- Sekce Co se ještě dořeší: noc na jezeře čeká na výběr mezi Phutawan a Smiley, u Phutawan chybí DPH, doprava, termín a podmínky zálohy. Nadpis bloku Srovnání nabídek má stav k 14. 11.
+- Obsah ostatních fází, počty nocí a data jsou beze změny proti v74.
+
 ## v74: Fáze 2: druhá rezervace v Sam Roi Yot (Driftwood and Jolie Cottages) (13. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v74/) · [Markdown](verze/v74/thajsko-bangkok-phuket.md) · [rozdíl proti v73](https://github.com/polachp/dovolena-thajsko-2026/compare/ad32a30...3df9f94)

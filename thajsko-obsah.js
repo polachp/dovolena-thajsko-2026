@@ -14,7 +14,7 @@ Nejdřív úkoly před odletem, pak body podle fází.
 - **Vlak a auto na začátku trasy (fáze 1 až 3):** jízdenka na vlak č. 43 na 30. 11. (Bangkok → Hua Hin) není koupená, kupte ji hned, prodej už běží. Jízdenky na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) jdou nejspíš koupit až den předem, tedy 2. a 3. 12. Neověřeno, v D-Ticket nebo 12Go se ukáže, od kdy se prodávají (sekce Doprava). Auto v Hua Hin na 30. 11. až 3. 12. není zamluvené.
 - **Mezinárodní řidičský průkaz:** není vyřízený, potřebujete ho k autu v Hua Hin. Vyřiďte ho před odletem na úřadu obce s rozšířenou působností (sekce Předodletový checklist).
 - **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
-- **Noc na jezeře Cheow Lan (fáze 5):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá zjistit cenu a kde balíček koupit.
+- **Noc na jezeře Cheow Lan (fáze 5):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá vybrat mezi Phutawan a Smiley (porovnání viz fáze 5). U Phutawan chybí DPH, kde je kancelář a cena dopravy, potvrzený termín 10.–11. 12. a výše a podmínky nevratné zálohy.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
 - **Dvojí rezervace v Sam Roi Yot (fáze 2):** noci 30. 11.–3. 12. jsou zarezervované v Driftwood and Jolie Cottages i v Sam Roi Yot Sea Sight Resort. Jedno je potřeba zrušit: Driftwood zdarma do 24. 11. 23:59 thajského času (v Česku v 17:59), Sea Sight zdarma do 28. 11. 23:59 thajského času (v Česku v 17:59). Driftwood má check-in jen do 18:00, snídaně v ceně není a k pláži je asi 2 km, Sea Sight je od pláže pár minut pěšky (podrobnosti: fáze 2).
 - **Dvojí rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve Flora Hostel KhaoSok i v Bingo Hostel Khao Sok. Jednu rezervaci je potřeba zrušit: Bingo zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora zdarma do 8. 12. 18:00 thajského času (v Česku ve 12:00). Zrušením Bingo by zůstala nezarezervovaná i noc 9.–10. 12.
@@ -464,7 +464,7 @@ Přespání na jezeře je rozhodnuté. Noc 10.–11. nebo 11.–12. 12. se vyber
 - Konkrétní nabídky, ceny a podmínky jsou porovnané v bloku Srovnání nabídek na jezeře níže.
 - Na jezeře se platí hotově (poplatek asi 300 THB, molo 40 THB na osobu), elektřina jde jen pár hodin z generátoru a signál většinou není. V prosinci je sezóna, rezervujte s předstihem.
 
-#### Srovnání nabídek na jezeře (stav k 13. 11.)
+#### Srovnání nabídek na jezeře (stav k 14. 11.)
 
 Porovnání nabídek na jednu noc na raft housu, ze kterých se vybírá noc na jezeře. Zatím není vybráno. Kandidáti jsou Phutawan a Smiley, vyřazené nabídky jsou označené NEBRAT, červené a seřazené na konci tabulky. Celkem za dva zahrnuje výlet i poplatky (park, molo, jeskyně), pokud není uvedeno jinak. Ceny jsou v bahtech podle nabídek od provozovatelů a agentur a podle webu Smiley, u nabídek v USD je přepočet kurzem 32,5 THB za dolar (neověřeno). Hodnocení raft housů je z Google Maps.
 
@@ -473,7 +473,7 @@ Porovnání nabídek na jednu noc na raft housu, ze kterých se vybírá noc na 
 | Bingo Hostel, malá skupina | neuvedeno | 6 780 | neuveden | hostel má skvělé hodnocení, raft house neznáme |
 | Bingo Hostel, větší skupina | neuvedeno | 6 680 | neuveden | ověřit, zda sdílený pokoj není cizí člověk |
 | Phutawan, skleněno-dřevěný domek | sdílená | 6 080 + 7 % DPH + doprava | Phutawan (4,2 z ~650) | po započtení dopravy asi 7 600–8 600; nevratná záloha; průvodci neumějí anglicky |
-| Phutawan, kapsle | sdílená | 6 680 + 7 % DPH + doprava | Phutawan (4,2 z ~650) | totéž |
+| Phutawan, kapsle | sdílená | 6 680 (2 × 2 800 balíček + 2 × 540 vstup) + doprava, DPH neověřeno | Phutawan (4,2 z ~650) | podle WhatsAppu z 14. 11.: soukromý pokoj s ventilátorem, WC se sdílí s dalším hostem, v ceně loď, 3 jídla a aktivity; záloha po rezervaci se nevrací (výše neověřená); volné 10.–11. 12. není potvrzené; po započtení DPH 7 % a dopravy asi 8 300–9 200 (odhad); program viz níže |
 | Smiley Lakehouse, Signature AC Lake House (11.–12. 12.) | soukromá | 8 480 (7 800 + park a molo 680); s odvozem do Ao Nang (550 na osobu) 9 580 | Smiley (4,2 z 806) | klimatizace; v ceně odvoz z vesnice na molo a zpět, 4 jídla, 2 safari lodí a kajaky; 1. den v 16:00 Diamond Cave (bez Coral Cave), návrat na molo 14:20; záloha 40 % nevratná, doplatek hotově při check-inu; web nabízí u ubytování volbu Shared nebo Private (+2 000), potvrdit, že pokoj pro dva je soukromý bez příplatku; 13. 11. byl poslední volný pokoj, ostatní noci 8.–12. 12. plné |
 | Ample Forest, SeekSophie 3D2N (farma a raft house) | raft house sdílená | ≈11 850 | neuveden (nejspíš Krai Son) | alternativa, ne náhrada; 331 USD za dva; farma Google 4,8 z 75; poplatky 540 na osobu navíc |
 | Praiwan, SeekSophie 2D1N (chata) | sdílená | 7 789 + doprava | Praiwan (4,3 z 223) | storno nelze; jen ventilátor; po započtení dopravy přes 11 000 |
@@ -492,6 +492,13 @@ Porovnání nabídek na jednu noc na raft housu, ze kterých se vybírá noc na 
 | Noc 7, Green Mountain View | sdílená | 6 080 | Krai Sorn (3,7 z 135) | **NEBRAT**: Krison; storno týden předem zdarma, platba v den výletu; operátor 4,6 a 4,8 na Googlu |
 | Noc 7, Green Mountain View | soukromá | 6 680 | Krai Sorn (3,7 z 135) | **NEBRAT**: Krison; nejisté, zda je v ceně jeskyně (+400, pokud ne) |
 | Noc 9, Phupha Waree (Premier Lake Room) | neuvedeno | 15 580 | Phupha Waree (4,2 z 510) | **NEBRAT**: příliš drahé; klimatizace a soukromá koupelna, chráněná zátoka |
+
+Phutawan, program na 2 dny a 1 noc (z fotky programu od provozovatele, 14. 11.):
+
+- **Den 1:** 10:00 sraz v kanceláři Phutawan Raft House (kde je, neověřeno), 10:30 cesta na raft house, 11:00 check-in, 12:00 oběd. V 13:00 Guilin of Thailand (Khao Sam Kloe) a Coral Cave s bambusovým vorem, v 16:30 zpět na raft house, plavání nebo kánoe (záloha 200 THB na pádlo), v 18:00 večeře.
+- **Den 2:** 6:00 ranní safari, 8:00 snídaně, 9:30 odjezd z raft housu.
+- **Poznámky provozovatele:** bez anglicky mluvících průvodců, 2 až 4 hosté sdílejí loď s další skupinou, cizinci platí za vstup do parku 500 THB. V chatu uvedli 540 THB na osobu, odhad je 300 park, 40 molo a 200 Coral Cave (neověřeno).
+- **Co chybí zjistit:** zda je v ceně DPH 7 %, kde je kancelář a kolik stojí doprava k ní, zda je volné 10.–11. 12., kolik činí záloha a zda se vrací, když výlet zruší počasí. Před platbou ověřit, že číslo, ze kterého provozovatel píše na WhatsAppu, patří Phutawan.
 
 #### Ve vesnici (vybrat na místě)
 

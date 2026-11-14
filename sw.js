@@ -7,8 +7,8 @@
 // - Ostatní soubory webu (skripty s otiskem ?v=..., fonty, Leaflet, ikony): nejdřív uložená kopie, jinak síť a uložit.
 // - Mapové dlaždice CARTO: ukládají se jen ty, které si už někdo zobrazil (žádné hromadné stahování), nejvýš 30 dní
 //   (podmínky CARTO: cache v zařízení nejvýš 30 dní) a nejvýš MAX_DLAZDIC kusů. Dlaždice OSM se neukládají (OSM offline použití zakazuje).
-var VERZE = '780e88588f';
-var SOUBORY = ["./", "verze.js?v=862fe24f", "varianty.js?v=862fe24f", "thajsko-obsah.js?v=862fe24f", "fonts/hanken-grotesk-latin-wght-normal.woff2", "fonts/hanken-grotesk-latin-ext-wght-normal.woff2", "fonts/hanken-grotesk-latin-wght-italic.woff2", "fonts/hanken-grotesk-latin-ext-wght-italic.woff2", "fonts/ibm-plex-mono-latin-400-normal.woff2", "fonts/ibm-plex-mono-latin-ext-400-normal.woff2", "fonts/ibm-plex-mono-latin-500-normal.woff2", "fonts/ibm-plex-mono-latin-ext-500-normal.woff2", "vendor/marked.min.js", "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css", "manifest.webmanifest", "ikona-192.png", "ikona-180.png"];
+var VERZE = 'fa0fbd8df0';
+var SOUBORY = ["./", "verze.js?v=a2934e1b", "varianty.js?v=a2934e1b", "thajsko-obsah.js?v=a2934e1b", "fonts/hanken-grotesk-latin-wght-normal.woff2", "fonts/hanken-grotesk-latin-ext-wght-normal.woff2", "fonts/hanken-grotesk-latin-wght-italic.woff2", "fonts/hanken-grotesk-latin-ext-wght-italic.woff2", "fonts/ibm-plex-mono-latin-400-normal.woff2", "fonts/ibm-plex-mono-latin-ext-400-normal.woff2", "fonts/ibm-plex-mono-latin-500-normal.woff2", "fonts/ibm-plex-mono-latin-ext-500-normal.woff2", "vendor/marked.min.js", "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css", "manifest.webmanifest", "ikona-192.png", "ikona-180.png"];
 var CACHE = 'thajsko-' + VERZE;
 var CACHE_STRANKY = 'thajsko-stranky';
 var CACHE_DLAZDICE = 'thajsko-dlazdice';

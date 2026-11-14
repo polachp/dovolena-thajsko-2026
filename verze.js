@@ -941,5 +941,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "3df9f94",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v75",
+    "datum": "14. 11. 2026",
+    "nazev": "Fáze 5: nabídka Phutawan na jezeře upřesněná (cena, program, podmínky)",
+    "zmeny": [
+      "Fáze 5, Srovnání nabídek na jezeře: řádek Phutawan, kapsle má nově údaje z WhatsAppu provozovatele. Balíček 2 dny a 1 noc 2 800 THB na osobu a vstup 540 THB na osobu (celkem za dva 6 680 THB), v ceně loď, 3 jídla a aktivity, pokoj soukromý s ventilátorem a sdíleným WC, záloha po rezervaci se nevrací.",
+      "Pod tabulkou je program Phutawan na 2 dny a 1 noc z fotky od provozovatele (Guilin a Coral Cave s bambusovým vorem, ranní safari, odjezd v 9:30), poznámky provozovatele (bez anglických průvodců, loď se sdílí s další skupinou) a co chybí zjistit (DPH, kancelář a doprava, termín 10.–11. 12., záloha).",
+      "Sekce Co se ještě dořeší: noc na jezeře čeká na výběr mezi Phutawan a Smiley, u Phutawan chybí DPH, doprava, termín a podmínky zálohy. Nadpis bloku Srovnání nabídek má stav k 14. 11.",
+      "Obsah ostatních fází, počty nocí a data jsou beze změny proti v74."
+    ],
+    "commit": "d430e9d",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
