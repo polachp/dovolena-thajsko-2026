@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v78: Fáze 1: dodávka Vivatrip jako alternativa k vlaku do Hua Hin (14. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v78/) · [Markdown](verze/v78/thajsko-bangkok-phuket.md) · [rozdíl proti v77](https://github.com/polachp/dovolena-thajsko-2026/compare/02dae0b...399039f)
+
+- Fáze 1, Přesun dál: nový odstavec s alternativou k vlaku, dodávkou Vivatrip v 9:00 z uličky Rong Mai (příjezd ve 12:10 k Clock Tower v Hua Hin), s výhodami, nevýhodami a vlivem na pondělní program. Podle Anežky je ulička Rong Mai asi 2 km od ubytování a dodávku by volila.
+- Sekce Doprava: nový řádek tabulky s dodávkou. Fáze 2 (program 30. 11.), Co se ještě dořeší a Předodletový checklist: zmínka, že místo vlaku jde jet dodávkou.
+- Vlak č. 43 v 7:30 zůstává jako základní varianta, obsah ostatních fází, počty nocí a data jsou beze změny proti v77.
+
 ## v77: Fáze 5: poloha Little wild house na mapě (14. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v77/) · [Markdown](verze/v77/thajsko-bangkok-phuket.md) · [rozdíl proti v76](https://github.com/polachp/dovolena-thajsko-2026/compare/f682877...02dae0b)
