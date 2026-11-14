@@ -967,5 +967,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "f682877",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v77",
+    "datum": "14. 11. 2026",
+    "nazev": "Fáze 5: poloha Little wild house na mapě",
+    "zmeny": [
+      "Fáze 5, Mapy: nový bod Little wild house Khaosok (přibl. 8.9091, 98.5233, podle kódu místa z Google Maps WG5F+J8). Je asi 30 m od Flora Hostel a asi 900 m od ředitelství parku, telefon v Mapách sedí s potvrzením rezervace.",
+      "Sekce Záchytné body pro Google Maps a blok Ubytování ve fázi 5: odkaz na Little wild house míří na souřadnice místo hledání podle názvu, věta o poloze je upravená.",
+      "Obsah ostatních fází, počty nocí a data jsou beze změny proti v76."
+    ],
+    "commit": "02dae0b",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

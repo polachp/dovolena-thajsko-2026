@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v77: Fáze 5: poloha Little wild house na mapě (14. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v77/) · [Markdown](verze/v77/thajsko-bangkok-phuket.md) · [rozdíl proti v76](https://github.com/polachp/dovolena-thajsko-2026/compare/f682877...02dae0b)
+
+- Fáze 5, Mapy: nový bod Little wild house Khaosok (přibl. 8.9091, 98.5233, podle kódu místa z Google Maps WG5F+J8). Je asi 30 m od Flora Hostel a asi 900 m od ředitelství parku, telefon v Mapách sedí s potvrzením rezervace.
+- Sekce Záchytné body pro Google Maps a blok Ubytování ve fázi 5: odkaz na Little wild house míří na souřadnice místo hledání podle názvu, věta o poloze je upravená.
+- Obsah ostatních fází, počty nocí a data jsou beze změny proti v76.
+
 ## v76: Fáze 5: nové ubytování Little wild house Khaosok (8.–11. 12.) (14. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v76/) · [Markdown](verze/v76/thajsko-bangkok-phuket.md) · [rozdíl proti v75](https://github.com/polachp/dovolena-thajsko-2026/compare/d430e9d...f682877)
