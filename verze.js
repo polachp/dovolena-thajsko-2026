@@ -991,5 +991,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "399039f",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v79",
+    "datum": "15. 11. 2026",
+    "nazev": "Fáze 3: Prachuap jako první kandidát na vyřazení",
+    "zmeny": [
+      "Fáze 3: popis na začátku fáze (a tím i na kartě v přehledu) nově říká, že Prachuap je první kandidát na vyřazení a že podobnou atmosféru dá Sam Roi Yot.",
+      "Sekce Co se ještě dořeší: nová odrážka Prachuap (fáze 3) s termínem rozhodnutí do 29. 11. (zrušení Jungle Cafe zdarma) a poznámkou k vlaku 4. 12. z Hua Hin do Chumphonu. Kam by se uvolněná noc přidala, zůstává nerozhodnuté.",
+      "Počet fází, nocí i data jsou beze změny proti v78."
+    ],
+    "commit": "62581c0",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

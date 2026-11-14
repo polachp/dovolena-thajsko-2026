@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v79: Fáze 3: Prachuap jako první kandidát na vyřazení (15. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v79/) · [Markdown](verze/v79/thajsko-bangkok-phuket.md) · [rozdíl proti v78](https://github.com/polachp/dovolena-thajsko-2026/compare/399039f...62581c0)
+
+- Fáze 3: popis na začátku fáze (a tím i na kartě v přehledu) nově říká, že Prachuap je první kandidát na vyřazení a že podobnou atmosféru dá Sam Roi Yot.
+- Sekce Co se ještě dořeší: nová odrážka Prachuap (fáze 3) s termínem rozhodnutí do 29. 11. (zrušení Jungle Cafe zdarma) a poznámkou k vlaku 4. 12. z Hua Hin do Chumphonu. Kam by se uvolněná noc přidala, zůstává nerozhodnuté.
+- Počet fází, nocí i data jsou beze změny proti v78.
+
 ## v78: Fáze 1: dodávka Vivatrip jako alternativa k vlaku do Hua Hin (14. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v78/) · [Markdown](verze/v78/thajsko-bangkok-phuket.md) · [rozdíl proti v77](https://github.com/polachp/dovolena-thajsko-2026/compare/02dae0b...399039f)

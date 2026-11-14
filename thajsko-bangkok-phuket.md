@@ -16,6 +16,7 @@ Nejdřív úkoly před odletem, pak body podle fází.
 - **Noc na jezeře Cheow Lan (fáze 5):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá vybrat mezi Phutawan a Smiley (porovnání viz fáze 5). U Phutawan chybí DPH, kde je kancelář a cena dopravy, potvrzený termín 10.–11. 12. a výše a podmínky nevratné zálohy.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
 - **Dvojí rezervace v Sam Roi Yot (fáze 2):** noci 30. 11.–3. 12. jsou zarezervované v Driftwood and Jolie Cottages i v Sam Roi Yot Sea Sight Resort. Jedno je potřeba zrušit: Driftwood zdarma do 24. 11. 23:59 thajského času (v Česku v 17:59), Sea Sight zdarma do 28. 11. 23:59 thajského času (v Česku v 17:59). Driftwood má check-in jen do 18:00, snídaně v ceně není a k pláži je asi 2 km, Sea Sight je od pláže pár minut pěšky (podrobnosti: fáze 2).
+- **Prachuap (fáze 3):** první kandidát na vyřazení, rozhodnout nejpozději do 29. 11. 23:59 thajského času (v Česku v 17:59), protože Jungle Cafe se do té doby dá zrušit zdarma. Po vyřazení by byla volná noc, kam se přidá, je nerozhodnuté, a vlak 4. 12. by jel z Hua Hin rovnou do Chumphonu (podle dopočtu vzdálenosti se jízdenka na ten úsek prodává 30 dní předem, neověřeno v D-Ticket nebo 12Go).
 - **Překrývající se rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve třech ubytováních (Flora Hostel KhaoSok, Bingo Hostel Khao Sok a Little wild house Khaosok), noc 9.–10. 12. v Bingo a v Little wild house, noc 10.–11. 12. jen v Little wild house (8.–11. 12.). Little wild house pokrývá všechny tři noci, takže kdyby zůstal on, jdou Flora i Bingo zrušit beze zbytku. Kdyby zůstalo Bingo, zbývá zarezervovat noc 10.–11. 12. Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora do 8. 12. 18:00 thajského času (v Česku ve 12:00). Nejdřív tedy vyprší Little wild house, pak Bingo a nakonec Flora.
 - **Čtyřkolky v Khao Sok (fáze 5):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
@@ -341,7 +342,7 @@ Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen ori
 
 ### Fáze 3: Prachuap Khiri Khan, hulmani a chrám s opicemi (1 noc, 3.–4. 12.)
 
-Malé klidné město u zálivu s promenádou. Jedno odpoledne a jedno ráno se dvěma druhy opic.
+Malé klidné město u zálivu s promenádou. Jedno odpoledne a jedno ráno se dvěma druhy opic. První kandidát na vyřazení: když se bude ubírat, vypadne tahle noc a podobnou atmosféru dá Sam Roi Yot.
 
 - **Ao Manao:** klidná zátoka v areálu letecké základny, kde žijí hulmani s bílými kruhy kolem očí.
 - **Khao Chong Krachok:** 396 schodů k chrámu s výhledem na záliv a s makaky.
