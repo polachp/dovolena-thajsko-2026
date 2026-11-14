@@ -954,5 +954,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "d430e9d",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v76",
+    "datum": "14. 11. 2026",
+    "nazev": "Fáze 5: nové ubytování Little wild house Khaosok (8.–11. 12.)",
+    "zmeny": [
+      "Fáze 5, Ubytování: nová rezervace Little wild house Khaosok (Booking.com, 8.–11. 12., 3 noci, 2 dospělí, pokoj se sdílenou koupelnou, check-in 15:00–18:00, check-out 8:00–11:00, zrušit zdarma do 4. 12. 23:59 thajského času). Noci se kryjí s Flora Hostel a Bingo Hostel, texty u obou jsou upravené.",
+      "Sekce Co se ještě dořeší: překrývající se rezervace v Khao Sok jsou nově tři (Flora, Bingo, Little wild house) s termíny zrušení. Noc 10.–11. 12. pokrývá Little wild house, zatím nezarezervovaná je jen noc 11.–12. 12., noc na jezeře 10.–11. 12. by se s Little wild house kryla.",
+      "Tabulka Do kdy zrušit ubytování zdarma: nový řádek Little wild house (pá 4. 12., 23:59 thajského času, v Česku v 17:59). Sekce Záchytné body pro Google Maps: nový řádek s odkazem na hledání podle názvu.",
+      "Little wild house zatím není v mapě fáze 5, poloha není ověřená. Obsah ostatních fází, počty nocí a data jsou beze změny proti v75."
+    ],
+    "commit": "f682877",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

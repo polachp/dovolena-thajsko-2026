@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v76: Fáze 5: nové ubytování Little wild house Khaosok (8.–11. 12.) (14. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v76/) · [Markdown](verze/v76/thajsko-bangkok-phuket.md) · [rozdíl proti v75](https://github.com/polachp/dovolena-thajsko-2026/compare/d430e9d...f682877)
+
+- Fáze 5, Ubytování: nová rezervace Little wild house Khaosok (Booking.com, 8.–11. 12., 3 noci, 2 dospělí, pokoj se sdílenou koupelnou, check-in 15:00–18:00, check-out 8:00–11:00, zrušit zdarma do 4. 12. 23:59 thajského času). Noci se kryjí s Flora Hostel a Bingo Hostel, texty u obou jsou upravené.
+- Sekce Co se ještě dořeší: překrývající se rezervace v Khao Sok jsou nově tři (Flora, Bingo, Little wild house) s termíny zrušení. Noc 10.–11. 12. pokrývá Little wild house, zatím nezarezervovaná je jen noc 11.–12. 12., noc na jezeře 10.–11. 12. by se s Little wild house kryla.
+- Tabulka Do kdy zrušit ubytování zdarma: nový řádek Little wild house (pá 4. 12., 23:59 thajského času, v Česku v 17:59). Sekce Záchytné body pro Google Maps: nový řádek s odkazem na hledání podle názvu.
+- Little wild house zatím není v mapě fáze 5, poloha není ověřená. Obsah ostatních fází, počty nocí a data jsou beze změny proti v75.
+
 ## v75: Fáze 5: nabídka Phutawan na jezeře upřesněná (cena, program, podmínky) (14. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v75/) · [Markdown](verze/v75/thajsko-bangkok-phuket.md) · [rozdíl proti v74](https://github.com/polachp/dovolena-thajsko-2026/compare/3df9f94...d430e9d)
