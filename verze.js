@@ -1156,5 +1156,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "f0f91c0",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v92",
+    "datum": "16. 11. 2026",
+    "nazev": "Fáze 2: Forest Park v pondělí, mokřad ve čtvrtek",
+    "zmeny": [
+      "Fáze 2: Forest Park v Pranburi je zpátky v pondělí 30. 11. cestou z Hua Hin (po dodávce, kdyby přijela pozdě, jde i ve čtvrtek). Mokřad Bueng Bua se přesunul na čtvrtek 3. 12. ráno, od Driftwood je asi 4 km a lotosy jsou nejhezčí dopoledne.",
+      "Upravené: program po dnech, blok Forest Park v Pranburi, poznámka o check-inu u Driftwood, fáze 1 (Přesun dál), Záchytné body pro Google Maps a Orientační rozpočet.",
+      "Počet fází, nocí i data jsou beze změny proti v91."
+    ],
+    "commit": "1009db8",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

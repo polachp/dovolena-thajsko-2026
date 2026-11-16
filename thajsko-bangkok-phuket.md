@@ -109,7 +109,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 2 | Sam Roi Yot, ubytování Sam Roi Yot Sea Sight Resort | [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) | Rezervace ke zrušení, bydlí se v Driftwood |
 | 2 | Hua Hin, Clock Tower | [12.5706, 99.9572](https://www.google.com/maps/search/?api=1&query=12.5706%2C99.9572) | Sem přijede dodávka z Bangkoku 30. 11. ve 12:10 |
 | 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
-| 2 | Pranburi, Forest Park (cestou z Hua Hin) | [12.4133, 99.9856](https://www.google.com/maps/search/?api=1&query=12.4133%2C99.9856) | Volitelně (3. 12.): kilometrová lávka mangrovovým lesem, vstup zdarma, v Mapách jako Pran Buri Forest Park |
+| 2 | Pranburi, Forest Park (cestou z Hua Hin) | [12.4133, 99.9856](https://www.google.com/maps/search/?api=1&query=12.4133%2C99.9856) | Volitelně (30. 11. cestou): kilometrová lávka mangrovovým lesem, vstup zdarma, v Mapách jako Pran Buri Forest Park |
 | 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | [Bueng Bua Thung Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot) | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
 | 2 | Bang Pu (Sam Roi Yot), pláž a molo | [Bang Pu Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bang%20Pu%20Village%20Sam%20Roi%20Yot%20Prachuap%20Khiri%20Khan) | Výchozí bod k pláži Laem Sala a jeskyni Phraya Nakhon |
 | 2 | Khao Daeng, vesnický chrám u mola a vyhlídka | [Wat Khao Daeng](https://www.google.com/maps/search/?api=1&query=Wat%20Khao%20Daeng%20Sam%20Roi%20Yot), [Khao Daeng Viewpoint](https://www.google.com/maps/search/?api=1&query=Khao%20Daeng%20Viewpoint%20Sam%20Roi%20Yot) | Chrám pod skalami, od mola u chrámu plavba po kanálu Khao Daeng a kamenitá stezka na vyhlídku |
@@ -256,7 +256,7 @@ Dodávka Vivatrip, koupeno přes 12Go (VIP Direct, 10 míst). Odjezd v 9:00, mí
 - **Zrušení:** do 28. 11. 21:00 thajského času (v Česku v 15:00) s vrácením 18,13 EUR (zhruba 80 % ceny, kurz neověřen), přes tlačítko Cancel Ticket and Refund v jízdence na 12Go.
 - **eSIM:** k rezervaci je zdarma eSIM s daty, nastavuje se přes tlačítko Set up eSim v potvrzení. Kolik dat a na jak dlouho, neověřeno.
 
-Podle recenzí na 12Go je v dodávce někdy těsno a jede se bez zastávky na toaletu, proto před odjezdem na záchod. V Hua Hin dodávka končí u Clock Tower (křižovatka Phetkasem Road a Naebkehardt Road), odtud Grabem nebo taxi do půjčovny aut (fáze 2), vzdušnou čarou asi 2,5 km. S příjezdem ve 12:10 se pondělní mokřad Bueng Bua stíhá hůř, lávka se zavírá v 17:00 a check-in v Driftwood je jen do 18:00 (fáze 2).
+Podle recenzí na 12Go je v dodávce někdy těsno a jede se bez zastávky na toaletu, proto před odjezdem na záchod. V Hua Hin dodávka končí u Clock Tower (křižovatka Phetkasem Road a Naebkehardt Road), odtud Grabem nebo taxi do půjčovny aut (fáze 2), vzdušnou čarou asi 2,5 km. Cestou je v plánu Forest Park v Pranburi, check-in v Driftwood je jen do 18:00 (fáze 2).
 
 #### Mapy
 
@@ -287,7 +287,7 @@ Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen ori
 
 Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Kui Buri. Veřejná doprava sem nejezdí, proto auto z Hua Hin. Čtvrtý den je volný, na odpočinek nebo výlet autem do Prachuap Khiri Khan za opicemi.
 
-- **Forest Park v Pranburi (volitelně):** kilometrová lávka mangrovovým lesem, nejspíš jen ve volný den 3. 12.
+- **Forest Park v Pranburi (volitelně):** kilometrová lávka mangrovovým lesem, zastávka cestou z Hua Hin 30. 11.
 - **Mokřad Bueng Bua:** dřevěná lávka mezi lotosy, ptáky a varany.
 - **Jeskyně Phraya Nakhon:** královský pavilon, na který dopoledne svítí světlo otvorem ve stropu.
 - **Vyhlídka a chrám Khao Daeng:** výhled na hory a krevetí farmy, chrám pod skalami s opicemi.
@@ -299,15 +299,15 @@ Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Ku
 
 #### Program po dnech
 
-- **Po 30. 11.:** Dodávkou do Hua Hin (příjezd 12:10, fáze 1), vyzvednout auto, asi 45 minut do Sam Roi Yot. Odpoledne mokřad Bueng Bua: lávka asi 1 km, 8:00–17:00, asi 400 THB na osobu (park plus lávka, podle jednoho blogu), 1,5–2 hodiny. Volitelně místní loď asi 600 THB za loď.
+- **Po 30. 11.:** Dodávkou do Hua Hin (příjezd 12:10, fáze 1), vyzvednout auto. Cestou do Sam Roi Yot Forest Park v Pranburi (podrobnosti níže), pak check-in v Driftwood do 18:00 a volný večer. Kdyby dodávka přijela pozdě, Forest Park vynechte a jeďte rovnou.
 - **Út 1. 12.:** Ráno jeskyně Phraya Nakhon. Z Bang Pu (od ubytování autem) pěšky přes kopec na pláž Laem Sala asi 30 minut, loď je zbytečná (asi 400 THB). Cestou přes kopec, na pláži i na stezce k jeskyni sledujte stromy, žijí tu hulmani (nekrmte je). Pak strmé schody asi 30 minut nahoru. Buďte tam před desátou, světlo na pavilonu je nejlepší zhruba 9–13 hodin. Pavilon nechal postavit Rama V. po návštěvě v roce 1890. Kolem 15:00 vesnický chrám u mola Khao Daeng (zdarma, jídlo mějte v batohu kvůli opicím) a od mola u chrámu plavba lodí po kanálu Khao Daeng (podrobnosti níže).
 - **St 2. 12.:** Ráno vyhlídka Khao Daeng (157 m, 40–45 minut do kopce po kamenité stezce), když budete unavení, vynechte ji. Pak lávka v mangrovech za ředitelstvím parku (podrobnosti níže). Volitelně jeskyně Phra Prathun s netopýry (vede mnich, tel. +66 95 943 3832). Od 14:00 Kui Buri. Zpátky se jede za tmy, jinak se v plánu za tmy nejezdí (kromě volitelného výletu do Prachuap).
-- **Čt 3. 12.:** Volný den na odpočinek u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00. Volitelně Forest Park v Pranburi (podrobnosti níže).
+- **Čt 3. 12.:** Ráno mokřad Bueng Bua, od Driftwood asi 4 km: lávka asi 1 km, 8:00–17:00, asi 400 THB na osobu (park plus lávka, podle jednoho blogu), 1,5–2 hodiny, lotosy jsou nejhezčí dopoledne. Volitelně místní loď asi 600 THB za loď. Zbytek dne volno u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00. Kdyby se v pondělí nestihl Forest Park v Pranburi, jde i dnes.
 - **Pá 4. 12.:** Vyjet kolem 7:00, auto vrátit kolem 8:15 v Hua Hin, vlak v 10:36 rovnou do Chumphonu (viz Přesun dál).
 
 #### Forest Park v Pranburi (volitelně)
 
-Malý lesní park u ústí řeky Pran asi 25 km jižně od Hua Hin, cestou do Sam Roi Yot (k pobřeží u Pak Nam Pran). Je to hlavně procházka: asi kilometrová dřevěná lávka mangrovovým lesem s vyhlídkovou věží na ptáky, projdete ji za 30 až 45 minut. Z jedné strany park sahá až k pláži. Volitelně jde les projet lodí, ta se platí zvlášť (cena neznámá). Vstup je zdarma. Podle Google Maps otevírá v 8:30, kdy zavírá, je neověřené (jeden zdroj uvádí 19:00). V Mapách je pod názvem Pran Buri Forest Park, telefon +66 32 621 608. Počítejte zhruba s hodinou zastávky. Cestou z Hua Hin 30. 11. se nestihne: dodávka přijede ve 12:10 a pak by nezbyl čas na mokřad Bueng Bua, který zavírá v 17:00, a na check-in v Driftwood do 18:00. Hodí se proto spíš do volného dne 3. 12., jak dlouho se jede z ubytování, neověřeno.
+Malý lesní park u ústí řeky Pran asi 25 km jižně od Hua Hin, cestou do Sam Roi Yot (k pobřeží u Pak Nam Pran). Je to hlavně procházka: asi kilometrová dřevěná lávka mangrovovým lesem s vyhlídkovou věží na ptáky, projdete ji za 30 až 45 minut. Z jedné strany park sahá až k pláži. Volitelně jde les projet lodí, ta se platí zvlášť (cena neznámá). Vstup je zdarma. Podle Google Maps otevírá v 8:30, kdy zavírá, je neověřené (jeden zdroj uvádí 19:00). V Mapách je pod názvem Pran Buri Forest Park, telefon +66 32 621 608. Počítejte zhruba s hodinou zastávky. Je v programu v pondělí 30. 11. cestou z Hua Hin, mokřad Bueng Bua se kvůli tomu přesunul na čtvrtek. Od půjčovny aut je to vzdušnou čarou asi 15 km, z parku do Driftwood asi 19 km (odhad podle mapy). Kdyby dodávka přijela pozdě, jde park i ve čtvrtek 3. 12.
 
 #### Lávka v mangrovech u ředitelství
 
@@ -343,7 +343,7 @@ Vstup do parku Khao Sam Roi Yot 200 THB na osobu a platí jen v den zakoupení. 
 
 [Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot), 30. 11.–4. 12. (4 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, chata s 1 ložnicí, adresa 295 Sam Roi Yot, 77120, telefon hostitelů +66 92 837 2440. Příjezd v pondělí 30. 11. mezi 14:00 a 18:00, odjezd v pátek 4. 12. mezi 7:00 a 12:00. Snídaně v ceně není. Zrušit zdarma do 24. 11. 23:59 thajského času (v Česku 24. 11. v 17:59), potom se platí celá cena. Číslo rezervace a PIN jsou v potvrzovacím e-mailu.
 
-Poloha Driftwood podle inzerátů (Trip.com, Hotels.com, Expedia, neověřeno): ve vesnici Sam Roi Yot mimo pláž, k pláži Sam Roi Yot asi 2 km (autem pár minut), místní trh Local Fresh Market asi 900 m pěšky, restaurace spíš autem asi 6 až 10 minut, k Bang Pu asi 12 km (asi 20 minut autem). Bazén, sdílená kuchyň, parkování. Check-in je jen do 18:00, po 18:00 je podle inzerátu potřeba zavolat hostitelům den předem (neověřeno). V pondělí 30. 11. je potřeba stihnout check-in před 18:00, mokřad Bueng Bua se zavírá v 17:00.
+Poloha Driftwood podle inzerátů (Trip.com, Hotels.com, Expedia, neověřeno): ve vesnici Sam Roi Yot mimo pláž, k pláži Sam Roi Yot asi 2 km (autem pár minut), místní trh Local Fresh Market asi 900 m pěšky, restaurace spíš autem asi 6 až 10 minut, k Bang Pu asi 12 km (asi 20 minut autem). Bazén, sdílená kuchyň, parkování. Check-in je jen do 18:00, po 18:00 je podle inzerátu potřeba zavolat hostitelům den předem (neověřeno). V pondělí 30. 11. je potřeba stihnout check-in před 18:00.
 
 Ke zrušení: [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) (Booking.com), 30. 11.–3. 12. (3 noci), je ještě rezervovaný, ale nahrazuje ho Driftwood. Zrušit zdarma do 28. 11. 23:59 thajského času (v Česku 28. 11. v 17:59).
 
@@ -1063,7 +1063,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 |---|---|---|
 | Bangkok: vstupy a plavba po klongech | Wat Pho 200 THB, Wat Arun 200 THB (volitelně), Zlatá hora 100 THB na osobu, plavba 1 672 Kč za dva (asi 2 570 THB) | zrušení plavby zdarma do 27. 11. |
 | Auto v Hua Hin (Sam Roi Yot) | od asi 800–900 THB na den, 4 dny asi 3 600 THB plus benzín odhadem 1 300 THB | Thai Rent A Car / Enterprise, kauce a spoluúčast se liší (sekce Předodletový checklist) |
-| Forest Park v Pranburi (volitelně) | zdarma | ve volný den 3. 12., projížďka lodí za příplatek (cena neznámá) |
+| Forest Park v Pranburi (volitelně) | zdarma | cestou z Hua Hin 30. 11., projížďka lodí za příplatek (cena neznámá) |
 | Mokřady Bueng Bua (Sam Roi Yot) | asi 400 THB na osobu (park plus lávka) | podle jednoho blogu, místní loď volitelně asi 600 THB za loď pro 4 lidi |
 | Jeskyně Phraya Nakhon (Sam Roi Yot) | vstup do parku 200 THB na osobu (platí jen ten den) | loď z Bang Pu asi 400 THB za loď je volitelná |
 | Vyhlídka a chrám Khao Daeng (Sam Roi Yot) | park 200 THB na osobu (platí jen ten den) | chrám je zdarma |
