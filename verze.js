@@ -1181,5 +1181,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "6373cc6",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v94",
+    "datum": "16. 11. 2026",
+    "nazev": "Nádraží Chumphon na mapě",
+    "zmeny": [
+      "Fáze 3: na mapě a v Záchytných bodech pro Google Maps přibylo nádraží Chumphon, kam 4. 12. přijede vlak a odkud jede minivan do Ranongu (souřadnice přibližné, ze dvou zdrojů s rozdílem asi 120 m).",
+      "Počet fází, nocí i data jsou beze změny proti v93."
+    ],
+    "commit": "51f976a",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

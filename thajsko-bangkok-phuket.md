@@ -118,6 +118,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 2 | Kui Buri, Elephant Observatory Site | [12.1385, 99.6467](https://www.google.com/maps/search/?api=1&query=12.1385%2C99.6467) | Výchozí bod odpoledního safari za divokými slony |
 | 2 | Prachuap Khiri Khan, Khao Chong Krachok (Wat Thammikaram) | [11.8165, 99.7981](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) | Volitelný výlet autem: chrámový kopec s 396 schody, výhled na záliv a makaky |
 | 2 | Prachuap Khiri Khan, Ao Manao a Khao Lom Muak | [Ao Manao](https://www.google.com/maps/search/?api=1&query=Ao%20Manao%20Beach%20Prachuap%20Khiri%20Khan), [Khao Lom Muak](https://www.google.com/maps/search/?api=1&query=Khao%20Lom%20Muak%20Prachuap%20Khiri%20Khan) | Volitelný výlet autem: pláž a kopec s hulmany v areálu základny Wing 5 |
+| 3 | Chumphon, nádraží (Nawamin Ruamjai Road) | [10.5023, 99.1768](https://www.google.com/maps/search/?api=1&query=10.5023%2C99.1768) | Příjezd vlaku 4. 12., odtud minivan do Ranongu, souřadnice přibližné |
 | 3 | Ranong, ubytování Tobedzz Hotel | [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y) | Potvrzeno 4.–5. 12., check-in od 14:00, check-out do 12:00 |
 | 3 | Ranong, autobusové nádraží (44 Ruangrat Road, Khao Niwet) | [Ranong Bus Terminal](https://www.google.com/maps/search/?api=1&query=Ranong%20Bus%20Terminal) | Sem většinou vyloží minivan z Chumphonu, do centra asi 1 km |
 | 3 | Ranong, molo rychlých lodí na Koh Phayam | [Ranong Pier (Koh Phayam)](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier%20Koh%20Phayam%20ferry) | Z autobusového nádraží je to tuk-tukem asi 10–15 minut |
@@ -443,6 +444,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Ao Kwang Peeb, skrytá zátoka | volitelně | přibl. 9.7703, 98.4109 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7703%2C98.4109) |
 | Chrám Wat Koh Phayam u mola | volitelně | 9.7452, 98.4207 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7452%2C98.4207) |
 | Flower Power Village (ubytování 5.–8. 12.) | ubytování | 9.7596, 98.4108 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7596%2C98.4108) |
+| Nádraží Chumphon (příjezd vlaku 4. 12.) | doprava | přibl. 10.5023, 99.1768 | [Google Maps](https://www.google.com/maps/search/?api=1&query=10.5023%2C99.1768) |
 | Tobedzz Hotel (ubytování 4.–5. 12.) | ubytování | 9.9552, 98.6374 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9552%2C98.6374) |
 | Autobusové nádraží Ranong | doprava | přibl. 9.9551, 98.6388 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9551%2C98.6388) |
 | Molo Ranong Pier (lodě na Koh Phayam) | doprava | přibl. 9.9475, 98.5988 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9475%2C98.5988) |

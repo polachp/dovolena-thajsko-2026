@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v94: Nádraží Chumphon na mapě (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v94/) · [Markdown](verze/v94/thajsko-bangkok-phuket.md) · [rozdíl proti v93](https://github.com/polachp/dovolena-thajsko-2026/compare/6373cc6...51f976a)
+
+- Fáze 3: na mapě a v Záchytných bodech pro Google Maps přibylo nádraží Chumphon, kam 4. 12. přijede vlak a odkud jede minivan do Ranongu (souřadnice přibližné, ze dvou zdrojů s rozdílem asi 120 m).
+- Počet fází, nocí i data jsou beze změny proti v93.
+
 ## v93: Fáze 2: mokřad v pondělí, volitelně loď (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v93/) · [Markdown](verze/v93/thajsko-bangkok-phuket.md) · [rozdíl proti v92](https://github.com/polachp/dovolena-thajsko-2026/compare/1009db8...6373cc6)
