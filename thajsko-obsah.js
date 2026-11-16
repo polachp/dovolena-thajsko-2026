@@ -103,11 +103,12 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 1 | Bangkok, ubytování Ti Thong Hostel | [Ti Thong Hostel](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY) | Potvrzeno 27.–30. 11., check-in od 14:00, check-out do 12:00 |
 | 1 | Bangkok, Wat Pho | [13.7465, 100.4933](https://www.google.com/maps/search/?api=1&query=13.7465%2C100.4933) | Začátek aklimatizace a prohlídky chrámů u řeky |
 | 1 | Bangkok, Airport Rail Link (Phaya Thai, Makkasan) | [Phaya Thai](https://www.google.com/maps/search/?api=1&query=Phaya%20Thai%20Airport%20Rail%20Link%20Station%20Bangkok), [Makkasan](https://www.google.com/maps/search/?api=1&query=Makkasan%20Airport%20Rail%20Link%20Station%20Bangkok) | Přestup na skytrain BTS a metro MRT po příletu na letiště BKK |
-| 1 | Bangkok, odjezd dodávky Vivatrip (ulička Rong Mai u Khao San) | [Vivatrip](https://www.google.com/maps/search/?api=1&query=Vivatrip%20Rong%20Mai%20Alley%20Bangkok) | Odjezd do Hua Hin 30. 11. v 9:00, v jízdence jako Khaosan Road VIVATRIP |
+| 1 | Bangkok, odjezd dodávky Vivatrip (ulička Rong Mai u Khao San) | [13.7604, 100.4940](https://www.google.com/maps/search/?api=1&query=13.7604%2C100.4940) | Odjezd do Hua Hin 30. 11. v 9:00, v jízdence jako Khaosan Road VIVATRIP |
 | 1 | Bangkok, Krung Thep Aphiwat Central Terminal | [Krung Thep Aphiwat Central Terminal](https://www.google.com/maps/search/?api=1&query=Krung%20Thep%20Aphiwat%20Central%20Terminal) | Nádraží, ze kterého odjíždějí vlaky na jih |
 | 1 | Bangkok, Wat Paknam Phasi Charoen (metro Bang Phai, východ 1) | [Wat Paknam Phasi Charoen](https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen%20Bangkok) | Obří Buddha a skleněná stupa, nejlépe hned po otevření v 8:00 |
 | 2 | Sam Roi Yot, ubytování Driftwood and Jolie Cottages | [Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) | Potvrzeno 30. 11.–4. 12., check-in 14:00 až 18:00, check-out 7:00 až 12:00, k pláži asi 2 km |
 | 2 | Sam Roi Yot, ubytování Sam Roi Yot Sea Sight Resort | [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) | Rezervace ke zrušení, bydlí se v Driftwood |
+| 2 | Hua Hin, Clock Tower | [12.5706, 99.9572](https://www.google.com/maps/search/?api=1&query=12.5706%2C99.9572) | Sem přijede dodávka z Bangkoku 30. 11. ve 12:10 |
 | 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
 | 2 | Pranburi, Forest Park (cestou z Hua Hin) | [12.4133, 99.9856](https://www.google.com/maps/search/?api=1&query=12.4133%2C99.9856) | Volitelně (3. 12.): kilometrová lávka mangrovovým lesem, vstup zdarma, v Mapách jako Pran Buri Forest Park |
 | 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | [Bueng Bua Thung Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot) | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
@@ -220,7 +221,7 @@ Pomalý rozjezd po letu: chrámy po ránu, odpoledne pauza, večer street food. 
 - **Pá 27. 11.:** Přílet v 7:15, na ubytování kolem 10:30. Check-in je od 14:00, o dřívější napište předem, jinak vám uschovají zavazadla. Masáž u Wat Pho, pozdní oběd a odpočinek. Odpoledne Wat Pho (do 18:30, 200 THB), pak brzy spát. Když nebude síla, Wat Pho vynechte.
 - **So 28. 11.:** V 8:00 Wat Paknam (metro Bang Phai, východ 1, pak 10–15 minut pěšky, 8:00–18:00, zdarma, 2–3 hodiny). Ve 12:00 plavba po klongech (asi 1,5 hodiny, 1 672 Kč za dva, zrušení zdarma do 27. 11., sraz na Soi Phet Kasem 19, konec u květinového trhu Pak Khlong Talat). Kolem 15:30 Wat Arun (8:00–18:00, 200 THB), nebo jen pohled z přívozu z Tha Tien (3–5 THB). Večer Talat Noi a Yaowarat.
 - **Ne 29. 11.:** 7:00–9:00 Lumphini Park (zdarma), v poledne pauza, kolem 16:30 Zlatá hora (318 schodů, 7:00–19:00, 100 THB, západ slunce kolem 17:50). Večer sbalit.
-- **Po 30. 11.:** Snídaně v klidu, z ubytování vyjet kolem 8:15 na dodávku v 9:00 (viz Přesun dál).
+- **Po 30. 11.:** Snídaně v klidu, z ubytování vyjet kolem 8:00, sraz u dodávky v 8:30, odjezd v 9:00 (viz Přesun dál).
 - **Vynecháno:** Velký palác (500 THB, 8:30–15:30, davy a přísný dress code). Kdo ho chce vidět, ať jde v 8:30 místo Wat Pho.
 - **Prakticky:** Do chrámů zakrytá ramena a kolena (sekce Etiketa). Pozor na podvod „chrám je dnes zavřený“ (sekce Praktické travel hacky).
 
@@ -248,14 +249,15 @@ Většinu cest zvládnete metrem (modrá linka), Grabem a pěšky. Skytrain (BTS
 
 #### Přesun dál (Po 30. 11., ráno)
 
-Dodávka Vivatrip, koupeno přes 12Go (VIP Direct, 10 míst). Odjezd v 9:00, místo odjezdu je v jízdence uvedené jako Khaosan Road VIVATRIP, Bangkok. Google Maps ukazuje kancelář v uličce Rong Mai ve čtvrti Phra Nakhon (v Google Maps [Vivatrip](https://www.google.com/maps/search/?api=1&query=Vivatrip%20Rong%20Mai%20Alley%20Bangkok), telefon +66 95 025 6965), od ubytování asi 2 km, Grabem asi 10 minut (neověřeno). Na místě buďte s rezervou, kolem 8:40. Příjezd ve 12:10 ke Clock Tower v Hua Hin, cesta asi 3 h 10 min. Vlak č. 43 už neměl volná místa.
+Dodávka Vivatrip, koupeno přes 12Go (VIP Direct, 10 míst). Odjezd v 9:00, místo odjezdu je v jízdence uvedené jako Khaosan Road VIVATRIP, Bangkok. Google Maps ukazuje kancelář v uličce Rong Mai ve čtvrti Phra Nakhon (v Google Maps [Vivatrip](https://www.google.com/maps/search/?api=1&query=Vivatrip%20Rong%20Mai%20Alley%20Bangkok), zastávka na 12Go má souřadnice [13.7604, 100.4940](https://www.google.com/maps/search/?api=1&query=13.7604%2C100.4940), telefon +66 95 025 6965), od ubytování asi 2 km, Grabem asi 10 minut (neověřeno). Podle jízdenky je sraz 30 minut před odjezdem, tedy v 8:30, a kdo přijde pozdě, propadá jako nedostavení se. Příjezd ve 12:10 ke Clock Tower v Hua Hin, cesta asi 3 h 10 min. Vlak č. 43 už neměl volná místa.
 
-- **Cena:** 553 Kč za rezervaci.
-- **Při nástupu:** ukázat pas nebo průkaz totožnosti.
-- **Zrušení:** do 28. 11. 15:00 s vrácením 18,13 EUR (zhruba 80 % ceny, kurz neověřen). V jakém časovém pásmu termín platí, jízdenka neříká, berte to raději jako thajský čas (v Česku 9:00).
+- **Rezervace:** číslo AAVG9719, třída VIP Direct 10 PAX, 2 místa (Petr a Anežka), 553 Kč za oba.
+- **Při nástupu:** ukázat pas nebo průkaz totožnosti, údaje na jízdence musí odpovídat dokladu.
+- **Zavazadla:** na osobu 1 zavazadlo do 25 kg a rozměru 66,2 × 46,1 × 27,3 cm (do 24 palců) a 1 příruční. Větší zavazadlo znamená dokoupit pro něj sedadlo. Velké batohy proto před cestou změřte.
+- **Zrušení:** do 28. 11. 21:00 thajského času (v Česku v 15:00) s vrácením 18,13 EUR (zhruba 80 % ceny, kurz neověřen), přes tlačítko Cancel Ticket and Refund v jízdence na 12Go.
 - **eSIM:** k rezervaci je zdarma eSIM s daty, nastavuje se přes tlačítko Set up eSim v potvrzení. Kolik dat a na jak dlouho, neověřeno.
 
-Podle recenzí na 12Go je v dodávce někdy těsno a jede se bez zastávky na toaletu, proto před odjezdem na záchod. Velké batohy jdou dozadu, 12Go u většího množství zavazadel minivany nedoporučuje. V Hua Hin dodávka končí u Clock Tower, odtud Grabem nebo taxi do půjčovny aut (fáze 2), vzdálenost neověřena. S příjezdem ve 12:10 se pondělní mokřad Bueng Bua stíhá hůř, lávka se zavírá v 17:00 a check-in v Driftwood je jen do 18:00 (fáze 2).
+Podle recenzí na 12Go je v dodávce někdy těsno a jede se bez zastávky na toaletu, proto před odjezdem na záchod. V Hua Hin dodávka končí u Clock Tower (křižovatka Phetkasem Road a Naebkehardt Road), odtud Grabem nebo taxi do půjčovny aut (fáze 2), vzdušnou čarou asi 2,5 km. S příjezdem ve 12:10 se pondělní mokřad Bueng Bua stíhá hůř, lávka se zavírá v 17:00 a check-in v Driftwood je jen do 18:00 (fáze 2).
 
 #### Mapy
 
@@ -276,11 +278,11 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Květinový trh Pak Khlong Talat (konec plavby) | volitelně | přibl. 13.7418, 100.4963 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7418%2C100.4963) |
 | Ti Thong Hostel | ubytování | přibl. 13.7477, 100.5001 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY) |
 | Metro Sam Yot | doprava | přibl. 13.7470, 100.5032 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7470%2C100.5032) |
-| Odjezd dodávky Vivatrip do Hua Hin (ulička Rong Mai u Khao San) | doprava | přibl. 13.7600, 100.4955 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vivatrip%20Rong%20Mai%20Alley%20Bangkok) |
+| Odjezd dodávky Vivatrip do Hua Hin (ulička Rong Mai u Khao San) | doprava | 13.7604, 100.4940 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7604%2C100.4940) |
 | Nádraží Krung Thep Aphiwat | doprava | přibl. 13.8050, 100.5417 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.8050%2C100.5417) |
 | Airport Rail Link Makkasan | doprava | přibl. 13.7510, 100.5613 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7510%2C100.5613) |
 
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát o desítky metrů vedle. U hostelu je to střed ulice Ti Thong, u odjezdu dodávky Vivatrip západní konec Khao San u uličky Rong Mai (přesnou polohu kanceláře se nepodařilo ověřit, odkaz hledá podle názvu), u srazu na plavbu stanice metra Bang Phai (sraz je podle prodejce v uličce Phet Kasem 19/1, asi 200 m od mola). Přesné místo otevře odkaz do Map.
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát o desítky metrů vedle. U hostelu je to střed ulice Ti Thong, odjezd dodávky Vivatrip je podle zastávky na 12Go (sedí s uličkou Rong Mai u západního konce Khao San), u srazu na plavbu stanice metra Bang Phai (sraz je podle prodejce v uličce Phet Kasem 19/1, asi 200 m od mola). Přesné místo otevře odkaz do Map.
 
 ### Fáze 2: Sam Roi Yot, mokřady, jeskyně a sloni (4 noci, 30. 11.–4. 12.)
 
@@ -369,6 +371,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Sam Roi Yot Sea Sight Resort (ke zrušení) | ubytování | přibl. 12.2453, 99.9805 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) |
 | Driftwood and Jolie Cottages (ubytování 30. 11.–4. 12.) | ubytování | přibl. 12.2407, 99.9687 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) |
 | Bang Pu, odtud se jde pěšky k jeskyni | doprava | přibl. 12.2067, 100.0095 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2067%2C100.0095) |
+| Clock Tower v Hua Hin (konec dodávky z Bangkoku) | doprava | 12.5706, 99.9572 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5706%2C99.9572) |
 | Nádraží Hua Hin | doprava | přibl. 12.5673, 99.9547 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5673%2C99.9547) |
 | Půjčovna aut Thai Rent A Car (Aquana Resort, Hua Hin) | doprava | přibl. 12.5491, 99.9628 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5491%2C99.9628) |
 

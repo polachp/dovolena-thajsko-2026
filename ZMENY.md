@@ -2,6 +2,17 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v90: Podrobnosti z jízdenky na dodávku (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v90/) · [Markdown](verze/v90/thajsko-bangkok-phuket.md) · [rozdíl proti v89](https://github.com/polachp/dovolena-thajsko-2026/compare/7219eeb...c7dd429)
+
+- Fáze 1: údaje z jízdenky na dodávku Vivatrip: číslo rezervace, 2 místa za 553 Kč, sraz 30 minut před odjezdem (8:30, pozdní příchod propadá), zavazadlo do 25 kg a 66,2 × 46,1 × 27,3 cm na osobu plus příruční, údaje musí sedět s dokladem.
+- Termín zrušení dodávky opravený: 28. 11. 21:00 thajského času, 15:00 je český čas.
+- Ranní odjezd 30. 11. z ubytování posunutý na 8:00.
+- Odjezd dodávky na mapě fáze 1 má souřadnice ze zastávky na 12Go (13.7604, 100.4940) místo odhadu.
+- Fáze 2: na mapě a v Záchytných bodech přibyl Clock Tower v Hua Hin, kde dodávka končí (souřadnice ze zastávky na 12Go).
+- Počet fází, nocí i data jsou beze změny proti v89.
+
 ## v89: Odjezd dodávky na mapě (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v89/) · [Markdown](verze/v89/thajsko-bangkok-phuket.md) · [rozdíl proti v88](https://github.com/polachp/dovolena-thajsko-2026/compare/74a98d8...7219eeb)

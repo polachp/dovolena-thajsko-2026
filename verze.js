@@ -1129,5 +1129,20 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "7219eeb",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v90",
+    "datum": "16. 11. 2026",
+    "nazev": "Podrobnosti z jízdenky na dodávku",
+    "zmeny": [
+      "Fáze 1: údaje z jízdenky na dodávku Vivatrip: číslo rezervace, 2 místa za 553 Kč, sraz 30 minut před odjezdem (8:30, pozdní příchod propadá), zavazadlo do 25 kg a 66,2 × 46,1 × 27,3 cm na osobu plus příruční, údaje musí sedět s dokladem.",
+      "Termín zrušení dodávky opravený: 28. 11. 21:00 thajského času, 15:00 je český čas.",
+      "Ranní odjezd 30. 11. z ubytování posunutý na 8:00.",
+      "Odjezd dodávky na mapě fáze 1 má souřadnice ze zastávky na 12Go (13.7604, 100.4940) místo odhadu.",
+      "Fáze 2: na mapě a v Záchytných bodech přibyl Clock Tower v Hua Hin, kde dodávka končí (souřadnice ze zastávky na 12Go).",
+      "Počet fází, nocí i data jsou beze změny proti v89."
+    ],
+    "commit": "c7dd429",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
