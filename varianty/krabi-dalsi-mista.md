@@ -14,7 +14,7 @@ Kdyby se Krabi prodloužilo (například o noc z Koh Yao Noi), vrátí se vybran
 - **Kajaky v Ao Thalane:** kaňony mezi mangrovy a skryté laguny, makakové a varani.
 - **Railay (volitelně):** poloostrov se skalami a plážemi, jen lodí.
 - **Tha Pom Klong Song Nam (volitelně):** dřevěná lávka mangrovem, kde se potkává sladká a slaná voda ve dvou barvách.
-- **Tiger Cave (volitelně):** 1 260 schodů k chrámu s výhledem.
+- **Tiger Cave (volitelně):** 1 260 schodů k chrámu s výhledem. Od v81 je zpátky ve fázi 6 jako volitelný bod.
 - **Etické sloní útočiště (volitelně):** sloni jen k pozorování.
 
 Původní popis fáze: Vápencové skály, mangrovy a výšlap na Dragon Crest. Dva celé dny (ne 13. a po 14. 12.): jeden na Dragon Crest a jeden na kajaky. So 12. 12. je den příjezdu z Khao Sok, odpoledne volné.
@@ -34,6 +34,8 @@ Z Ao Nang longtailem od kiosků Ao Nang Boat Club (100 THB jedním směrem, 10�
 Lávka dlouhá 700 m (asi 45 minut) rašelinným lesem a mangrovy, vstup 50 THB, 8:00–17:00, koupat se nesmí. Asi 35 km od Krabi Town směrem na Ao Luek, skútrem nebo taxi 40–45 minut, řidiči ukažte ท่าปอม คลองสองน้ำ. Lávka bývá vlhká, vezměte boty s dobrou podrážkou a repelent.
 
 ## Tiger Cave (volitelně)
+
+Od v81 je Tiger Cave Temple zpátky v itineráři jako volitelný bod fáze 6, platí text tam.
 
 Wat Tham Suea, 1 260 schodů, vyrazte kolem 6:00, zdarma, otevřeno asi do 18:00. Z Krabi Town 15–20 minut autem. Po Dragon Crest klidně vynechte, dva náročné výstupy za sebou nejsou slow tempo.
 
