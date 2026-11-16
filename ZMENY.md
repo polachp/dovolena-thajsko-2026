@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v89: Odjezd dodávky na mapě (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v89/) · [Markdown](verze/v89/thajsko-bangkok-phuket.md) · [rozdíl proti v88](https://github.com/polachp/dovolena-thajsko-2026/compare/74a98d8...7219eeb)
+
+- Fáze 1: na mapě je nový bod doprava, odjezd dodávky Vivatrip do Hua Hin (ulička Rong Mai u Khao San). Souřadnice jsou přibližné, přesnou polohu kanceláře se nepodařilo ověřit, odkaz do Map hledá podle názvu.
+- Stejné místo přibylo do sekce Záchytné body pro Google Maps.
+- Počet fází, nocí i data jsou beze změny proti v88.
+
 ## v88: Do Hua Hin koupená dodávka (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v88/) · [Markdown](verze/v88/thajsko-bangkok-phuket.md) · [rozdíl proti v87](https://github.com/polachp/dovolena-thajsko-2026/compare/7ca77db...74a98d8)

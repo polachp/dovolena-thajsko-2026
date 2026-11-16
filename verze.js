@@ -1117,5 +1117,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "74a98d8",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v89",
+    "datum": "16. 11. 2026",
+    "nazev": "Odjezd dodávky na mapě",
+    "zmeny": [
+      "Fáze 1: na mapě je nový bod doprava, odjezd dodávky Vivatrip do Hua Hin (ulička Rong Mai u Khao San). Souřadnice jsou přibližné, přesnou polohu kanceláře se nepodařilo ověřit, odkaz do Map hledá podle názvu.",
+      "Stejné místo přibylo do sekce Záchytné body pro Google Maps.",
+      "Počet fází, nocí i data jsou beze změny proti v88."
+    ],
+    "commit": "7219eeb",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

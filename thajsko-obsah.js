@@ -103,6 +103,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 1 | Bangkok, ubytování Ti Thong Hostel | [Ti Thong Hostel](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY) | Potvrzeno 27.–30. 11., check-in od 14:00, check-out do 12:00 |
 | 1 | Bangkok, Wat Pho | [13.7465, 100.4933](https://www.google.com/maps/search/?api=1&query=13.7465%2C100.4933) | Začátek aklimatizace a prohlídky chrámů u řeky |
 | 1 | Bangkok, Airport Rail Link (Phaya Thai, Makkasan) | [Phaya Thai](https://www.google.com/maps/search/?api=1&query=Phaya%20Thai%20Airport%20Rail%20Link%20Station%20Bangkok), [Makkasan](https://www.google.com/maps/search/?api=1&query=Makkasan%20Airport%20Rail%20Link%20Station%20Bangkok) | Přestup na skytrain BTS a metro MRT po příletu na letiště BKK |
+| 1 | Bangkok, odjezd dodávky Vivatrip (ulička Rong Mai u Khao San) | [Vivatrip](https://www.google.com/maps/search/?api=1&query=Vivatrip%20Rong%20Mai%20Alley%20Bangkok) | Odjezd do Hua Hin 30. 11. v 9:00, v jízdence jako Khaosan Road VIVATRIP |
 | 1 | Bangkok, Krung Thep Aphiwat Central Terminal | [Krung Thep Aphiwat Central Terminal](https://www.google.com/maps/search/?api=1&query=Krung%20Thep%20Aphiwat%20Central%20Terminal) | Nádraží, ze kterého odjíždějí vlaky na jih |
 | 1 | Bangkok, Wat Paknam Phasi Charoen (metro Bang Phai, východ 1) | [Wat Paknam Phasi Charoen](https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen%20Bangkok) | Obří Buddha a skleněná stupa, nejlépe hned po otevření v 8:00 |
 | 2 | Sam Roi Yot, ubytování Driftwood and Jolie Cottages | [Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) | Potvrzeno 30. 11.–4. 12., check-in 14:00 až 18:00, check-out 7:00 až 12:00, k pláži asi 2 km |
@@ -275,10 +276,11 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Květinový trh Pak Khlong Talat (konec plavby) | volitelně | přibl. 13.7418, 100.4963 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7418%2C100.4963) |
 | Ti Thong Hostel | ubytování | přibl. 13.7477, 100.5001 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY) |
 | Metro Sam Yot | doprava | přibl. 13.7470, 100.5032 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7470%2C100.5032) |
+| Odjezd dodávky Vivatrip do Hua Hin (ulička Rong Mai u Khao San) | doprava | přibl. 13.7600, 100.4955 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vivatrip%20Rong%20Mai%20Alley%20Bangkok) |
 | Nádraží Krung Thep Aphiwat | doprava | přibl. 13.8050, 100.5417 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.8050%2C100.5417) |
 | Airport Rail Link Makkasan | doprava | přibl. 13.7510, 100.5613 | [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7510%2C100.5613) |
 
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát o desítky metrů vedle. U hostelu je to střed ulice Ti Thong, u srazu na plavbu stanice metra Bang Phai (sraz je podle prodejce v uličce Phet Kasem 19/1, asi 200 m od mola). Přesné místo otevře odkaz do Map.
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát o desítky metrů vedle. U hostelu je to střed ulice Ti Thong, u odjezdu dodávky Vivatrip západní konec Khao San u uličky Rong Mai (přesnou polohu kanceláře se nepodařilo ověřit, odkaz hledá podle názvu), u srazu na plavbu stanice metra Bang Phai (sraz je podle prodejce v uličce Phet Kasem 19/1, asi 200 m od mola). Přesné místo otevře odkaz do Map.
 
 ### Fáze 2: Sam Roi Yot, mokřady, jeskyně a sloni (4 noci, 30. 11.–4. 12.)
 
