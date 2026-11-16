@@ -27,7 +27,7 @@ Nejdřív úkoly před odletem, pak body podle fází.
 - **Ubytování:** Všechny noci jsou rezervované kromě 11.–12. 12. v Khao Sok. Noc 10.–11. 12. pokrývá Little wild house. Jedna z nocí 10.–12. 12. je na jezeře (viz výše): noc 10.–11. 12. na jezeře by se s Little wild house kryla, noc 11.–12. 12. ne. Jestli se zbývající noc ve vesnici rezervuje předem, nebo hledá na místě, se rozhodne později. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny.
 - **Rozpočet:** sekce Orientační rozpočet zatím nepřepočítává změny trasy od verze 21 a obsahuje položky, které už v plánu nejsou. Berte ho jako horní odhad.
 
-Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, Tiger Cave, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md), vodopád Ngao u Ranongu v souboru [varianty/vodopad-ngao.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/vodopad-ngao.md), raft housy Praiwan a Keereewarin na jezeře Cheow Lan v souboru [varianty/raft-housy-cheow-lan.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/raft-housy-cheow-lan.md).
+Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md), vodopád Ngao u Ranongu v souboru [varianty/vodopad-ngao.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/vodopad-ngao.md), raft housy Praiwan a Keereewarin na jezeře Cheow Lan v souboru [varianty/raft-housy-cheow-lan.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/raft-housy-cheow-lan.md).
 
 ## Úvod do Thajska: kultura, historie a perličky
 
@@ -134,6 +134,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
 | 6 | Krabi, ubytování Vacation House | [Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi) | Potvrzeno 12.–14. 12., rezervováno přes Booking.com, u pláže Klong Muang, příjezd 14:00–22:00, odjezd 7:00–12:00 |
 | 6 | Dragon Crest (Khao Ngon Nak), začátek stezky v Tub Kaek | [Dragon Crest](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest%20Krabi) | Výšlap na vyhlídkovou skálu, začátek stezky je za hotelem Amari Vogue (podle jednoho zdroje), od Vacation House asi 5 minut autem k pláži Tubkaek (neověřeno) |
+| 6 | Wat Tham Suea (Tiger Cave Temple), Krabi | [8.1240, 98.9252](https://www.google.com/maps/search/?api=1&query=8.1240%2C98.9252) | Volitelně: lesní klášter s mnichy a 1 237 schodů na vyhlídku, od Vacation House asi 40 minut skútrem |
 | 6 | Ao Nang, molo Nopparat Thara | [Nopparat Thara Pier](https://www.google.com/maps/search/?api=1&query=Nopparat%20Thara%20Pier%20Krabi) | Rychlé lodě na Koh Yao Noi (do mola Manoh), od Tub Kaek asi 25 minut |
 | 7 | Koh Yao Noi, molo Manoh | [8.0979, 98.5879](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) | Hlavní přístav rychlých lodí z Krabi a Phuketu |
 | 7 | Koh Yao Noi, molo Laem Sai | [Laem Sai Pier](https://www.google.com/maps/search/?api=1&query=Laem%20Sai%20Pier%20Koh%20Yao%20Noi) | Druhé molo, přímá loď Koh Yao Sun Smile na Bang Rong (neověřeno) |
@@ -581,16 +582,21 @@ Základna u pláže Klong Muang, mimo rušné letovisko Ao Nang, a jeden celý d
 
 - **Dragon Crest (Khao Ngon Nak):** výšlap pralesem na vyhlídkovou skálu ve výšce 565 m.
 - **Pláž Klong Muang:** pláž do 100 m od ubytování, kvalita koupání v prosinci neověřená.
+- **Tiger Cave Temple, Wat Tham Suea (volitelně):** lesní klášter, kde mniši bydlí v chýších a jeskyních v pralese, a 1 237 schodů ke zlatému Buddhovi s výhledem.
 
 #### Program po dnech
 
 - **So 12. 12.:** ráno minivan z Khao Sok do Krabi, požádejte o vysazení v Ao Nang (neověřeno, vysazení záleží na spoji). Z Ao Nang taxi s batohy k Vacation House, asi 11 km, odhadem 20 až 25 minut (neověřeno). Check-in od 14:00. Odpoledne pláž a večeře poblíž.
-- **Ne 13. 12.:** Dragon Crest, start kolem 8:00 (podrobnosti níže). Zbytek dne klid.
+- **Ne 13. 12.:** Dragon Crest, start kolem 8:00 (podrobnosti níže). Zbytek dne klid, nebo volitelně odpoledne Tiger Cave Temple bez schodů na vrchol (podrobnosti níže).
 - **Po 14. 12.:** snídaně, check-out do 12:00, taxi na molo Nopparat Thara a loď na Koh Yao Noi (viz Přesun dál).
 
 #### Dragon Crest
 
 Stezka měří 3,7 km jedním směrem a celou dobu stoupá po kořenech, provazech a místy kluzkých schodech, asi 2,5 hodiny nahoru a 1,5–2 hodiny dolů. Vstup 200 THB jen hotově, otevřeno 8:00–18:00, poslední vstup na stezku kolem 14:00. Vyrazte v 8:00, dokud je chladno a stezka ve stínu. Jděte první ráno po suché noci: po silném dešti klouže a místy teče jako potok, za bouřky na vrcholu nezůstávejte. S sebou 2 litry vody na osobu a pevné boty. Okraj útesu je oplocený a vstup za plot se podle zdrojů trestá pokutou 2 000 THB. Z hřebene podle jednoho místního provozovatele odbočuje postranní stezka podél potoka, kterou skoro nikdo nechodí. Začátek stezky je v Tub Kaek za hotelem Amari Vogue, veřejná doprava tam nejede (sekce Doprava). Z Vacation House je to podle inzerátu asi 5 minut autem k pláži Tubkaek, ke stezce o pár minut dál (neověřeno). 13. 12. je neděle, podle půjčovny byklo bývá o víkendech nejvíc aut na parkovišti u stezky mezi 8:30 a 9:30 (neověřeno).
+
+#### Tiger Cave Temple (volitelně)
+
+Wat Tham Suea je živý buddhistický klášter v pralese pod vápencovou skálou, od Vacation House asi 28 km, skútrem asi 40 minut (podle Google Maps). Mniši bydlí v malých chýších roztroušených v lese za hlavním areálem a v jeskyních pod skálou. Za hlavními budovami vede lesní okruh kolem velkých stromů a dalších jeskyní, bez stoupání. Nahoru ke zlatému Buddhovi na vrcholu vede 1 237 schodů, některé jsou vyšší než 30 cm. Vstup zdarma, otevřeno zhruba 6:00–18:00 (neověřeno). Po spodních schodech a v areálu se pohybují opice a občas někoho kousnou: jídlo a pití mějte v zavřené tašce. Je to fungující klášter, mějte zakrytá ramena a kolena, mluvte potichu a mnichů se nedotýkejte (sekce Etiketa). Hodí se místo Dragon Crest, když po dešti stezka klouže, nebo 13. 12. odpoledne po Dragon Crest jen spodní část s mnichy bez schodů na vrchol: dva náročné výstupy za jeden den nejsou slow tempo. Silnice u Tub Kaek není za tmy osvětlená, vraťte se před setměním.
 
 #### Skútr nebo taxi
 
@@ -613,10 +619,11 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Dragon Crest (Khao Ngon Nak), začátek stezky | must see | přibl. 8.0992, 98.7484 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0992%2C98.7484) |
 | Vacation House (ubytování 12.–14. 12.) | ubytování | přibl. 8.0579, 98.7491 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0579%2C98.7491) |
 | Pláž Klong Muang (pláž u ubytování) | volitelně | přibl. 8.0529, 98.7531 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0529%2C98.7531) |
+| Tiger Cave Temple (Wat Tham Suea), klášter s mnichy | volitelně | přibl. 8.1240, 98.9252 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1240%2C98.9252) |
 | Ao Nang (kam minivan z Khao Sok, půjčovny skútrů) | doprava | přibl. 8.0314, 98.8225 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0314%2C98.8225) |
 | Molo Nopparat Thara v Ao Nang (rychlá loď na Koh Yao Noi) | doprava | přibl. 8.0474, 98.7986 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0474%2C98.7986) |
 
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Dragon Crest je podle kódu místa z Google Maps (3PXX+M9J) u správy národního parku Khao Ngon Nak, asi 600 m od hotelu Amari Vogue, což sedí s popisem, že stezka začíná za hotelem. Přesné místo začátku stezky ověřte na místě. Vacation House je podle kódu místa z Google Maps (3P5X+3J) jen asi 25 m od bodu na mapě, který sedí i na pláž Klong Muang a na vzdálenost k Ao Nang, takže polohu potvrzují dva zdroje. Ao Nang je střed pláže ve třech zdrojích. Molo Nopparat Thara je podle kódu místa z Google Maps (2QWX+XC), asi 1,6 km od středu pláže Nopparat Thara, což odpovídá popisu, že je na jejím západním konci, z jiného zdroje ověřené není. Pláž Klong Muang je dlouhá a tři zdroje se rozcházejí až o 1,4 km, bod je jejich střed a leží asi 700 m od Vacation House, nejbližší část pláže je podle textu do 100 m od ubytování. Pláž Tub Kaek na mapě není, odkaz: [pláž Tub Kaek](https://www.google.com/maps/search/?api=1&query=Tubkaek%20Beach,%20Krabi).
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Dragon Crest je podle kódu místa z Google Maps (3PXX+M9J) u správy národního parku Khao Ngon Nak, asi 600 m od hotelu Amari Vogue, což sedí s popisem, že stezka začíná za hotelem. Přesné místo začátku stezky ověřte na místě. Vacation House je podle kódu místa z Google Maps (3P5X+3J) jen asi 25 m od bodu na mapě, který sedí i na pláž Klong Muang a na vzdálenost k Ao Nang, takže polohu potvrzují dva zdroje. Ao Nang je střed pláže ve třech zdrojích. Molo Nopparat Thara je podle kódu místa z Google Maps (2QWX+XC), asi 1,6 km od středu pláže Nopparat Thara, což odpovídá popisu, že je na jejím západním konci, z jiného zdroje ověřené není. Pláž Klong Muang je dlouhá a tři zdroje se rozcházejí až o 1,4 km, bod je jejich střed a leží asi 700 m od Vacation House, nejbližší část pláže je podle textu do 100 m od ubytování. Tiger Cave Temple je podle souřadnic z Wikipedie, katalogu jeskyní Grottocenter a průvodce turpravda (rozdíl do 150 m), přesné místo vstupu ověřte na místě. Pláž Tub Kaek na mapě není, odkaz: [pláž Tub Kaek](https://www.google.com/maps/search/?api=1&query=Tubkaek%20Beach,%20Krabi).
 
 ### Fáze 7: Pomalý ostrov Koh Yao Noi (4 noci, 14.–18. 12.)
 
@@ -1068,7 +1075,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Pádlování nebo tubing na řece Sok | 400–950 THB na osobu | tubing podle hladiny řeky |
 | Čtyřkolky v Khao Sok (volitelně) | 1 500 THB za řidiče, 2 200 THB za dva na jedné čtyřkolce, 1,5 až 2 hodiny | cena od provozovatele z 3. 11. 2026, odvoz z ubytování v ceně |
 | Kajak na Koh Nok (pronájem u Pasai) | asi 10 USD za kajak (neověřeno) | podle jednoho průvodce, doba půjčení neověřená |
-| Tiger Cave | zdarma | mimo plán od v21 (varianty) |
+| Tiger Cave Temple (volitelně) | zdarma | fáze 6 |
 | Dragon Crest | 200 THB na osobu | jen hotově |
 | Tha Pom Klong Song Nam (Krabi, volitelně) | vstup 50 THB na osobu | skútr nebo taxi z Krabi Town, mimo plán od v21 (varianty) |
 | Railay (volitelně) | 100 THB na osobu jedním směrem | loď z Ao Nang, lístek v kiosku, mimo plán od v21 (varianty) |

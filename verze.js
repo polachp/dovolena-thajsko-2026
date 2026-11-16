@@ -1015,5 +1015,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "a495607",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v81",
+    "datum": "16. 11. 2026",
+    "nazev": "Fáze 6: Tiger Cave Temple jako volitelný bod",
+    "zmeny": [
+      "Fáze 6: nový volitelný bod Tiger Cave Temple (Wat Tham Suea), lesní klášter, kde mniši bydlí v chýších a jeskyních v pralese, s 1 237 schody k vyhlídce. Má odrážku v seznamu co uvidíte, zmínku v programu na 13. 12., vlastní blok Tiger Cave Temple (volitelně) a bod v mapě fáze 6.",
+      "Sekce Záchytné body pro Google Maps: nový řádek Wat Tham Suea (Tiger Cave Temple). Sekce Orientační rozpočet: Tiger Cave je volitelně ve fázi 6 místo poznámky mimo plán.",
+      "Varianta další místa v Krabi: u Tiger Cave poznámka, že je od v81 zpátky ve fázi 6. Ze seznamu vyřazených variant v sekci Co se ještě dořeší Tiger Cave zmizel.",
+      "Počet fází, nocí i data jsou beze změny proti v80."
+    ],
+    "commit": "09793d3",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v81: Fáze 6: Tiger Cave Temple jako volitelný bod (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v81/) · [Markdown](verze/v81/thajsko-bangkok-phuket.md) · [rozdíl proti v80](https://github.com/polachp/dovolena-thajsko-2026/compare/a495607...09793d3)
+
+- Fáze 6: nový volitelný bod Tiger Cave Temple (Wat Tham Suea), lesní klášter, kde mniši bydlí v chýších a jeskyních v pralese, s 1 237 schody k vyhlídce. Má odrážku v seznamu co uvidíte, zmínku v programu na 13. 12., vlastní blok Tiger Cave Temple (volitelně) a bod v mapě fáze 6.
+- Sekce Záchytné body pro Google Maps: nový řádek Wat Tham Suea (Tiger Cave Temple). Sekce Orientační rozpočet: Tiger Cave je volitelně ve fázi 6 místo poznámky mimo plán.
+- Varianta další místa v Krabi: u Tiger Cave poznámka, že je od v81 zpátky ve fázi 6. Ze seznamu vyřazených variant v sekci Co se ještě dořeší Tiger Cave zmizel.
+- Počet fází, nocí i data jsou beze změny proti v80.
+
 ## v80: Mezinárodní řidičský průkaz vyřízený (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v80/) · [Markdown](verze/v80/thajsko-bangkok-phuket.md) · [rozdíl proti v79](https://github.com/polachp/dovolena-thajsko-2026/compare/62581c0...a495607)
