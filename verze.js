@@ -1081,5 +1081,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "16d5121",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v86",
+    "datum": "16. 11. 2026",
+    "nazev": "Fáze 2: Forest Park na mapě",
+    "zmeny": [
+      "Mapa fáze 2: nový volitelný bod Forest Park v Pranburi podle kódu místa z Google Maps (CX7P+86, přibl. 12.4133, 99.9856). Sekce Záchytné body pro Google Maps: odkaz u Forest Parku míří na souřadnice.",
+      "Počet fází, nocí i data jsou beze změny proti v85."
+    ],
+    "commit": "57c7321",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

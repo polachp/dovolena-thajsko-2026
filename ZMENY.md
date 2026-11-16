@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v86: Fáze 2: Forest Park na mapě (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v86/) · [Markdown](verze/v86/thajsko-bangkok-phuket.md) · [rozdíl proti v85](https://github.com/polachp/dovolena-thajsko-2026/compare/16d5121...57c7321)
+
+- Mapa fáze 2: nový volitelný bod Forest Park v Pranburi podle kódu místa z Google Maps (CX7P+86, přibl. 12.4133, 99.9856). Sekce Záchytné body pro Google Maps: odkaz u Forest Parku míří na souřadnice.
+- Počet fází, nocí i data jsou beze změny proti v85.
+
 ## v85: Fáze 2: Forest Park v Pranburi upřesněný (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v85/) · [Markdown](verze/v85/thajsko-bangkok-phuket.md) · [rozdíl proti v84](https://github.com/polachp/dovolena-thajsko-2026/compare/c9cfd28...16d5121)
