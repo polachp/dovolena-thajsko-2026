@@ -1055,5 +1055,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "7988c76",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v84",
+    "datum": "16. 11. 2026",
+    "nazev": "Fáze 2: lávka v mangrovech, hulmani a Forest Park",
+    "zmeny": [
+      "Fáze 2: ve středu 2. 12. po vyhlídce Khao Daeng lávka v mangrovech za ředitelstvím parku (asi 550 m, často s hulmany). Nový blok Lávka v mangrovech u ředitelství a odrážka v seznamu co uvidíte.",
+      "Fáze 2: hulmani jsou zapsaní i v Sam Roi Yot (pláž Laem Sala, stezka k jeskyni Phraya Nakhon, lávka v mangrovech), v programu na úterý 1. 12., v seznamu co uvidíte a v sekci Zvířata na trase.",
+      "Fáze 2: v pondělí 30. 11. cestou z Hua Hin volitelně Forest Park v Pranburi (kilometrová lávka mangrovovým lesem, zdarma), stihne se jen s vlakem. Nový blok Forest Park v Pranburi (volitelně).",
+      "Forest Park a lávka u ředitelství mají řádek v sekci Záchytné body pro Google Maps a odkaz pod mapou fáze 2 (na mapě nejsou, poloha neověřená). Sekce Orientační rozpočet: Forest Park zdarma.",
+      "Počet fází, nocí i data jsou beze změny proti v83."
+    ],
+    "commit": "c9cfd28",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

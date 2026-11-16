@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v84: Fáze 2: lávka v mangrovech, hulmani a Forest Park (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v84/) · [Markdown](verze/v84/thajsko-bangkok-phuket.md) · [rozdíl proti v83](https://github.com/polachp/dovolena-thajsko-2026/compare/7988c76...c9cfd28)
+
+- Fáze 2: ve středu 2. 12. po vyhlídce Khao Daeng lávka v mangrovech za ředitelstvím parku (asi 550 m, často s hulmany). Nový blok Lávka v mangrovech u ředitelství a odrážka v seznamu co uvidíte.
+- Fáze 2: hulmani jsou zapsaní i v Sam Roi Yot (pláž Laem Sala, stezka k jeskyni Phraya Nakhon, lávka v mangrovech), v programu na úterý 1. 12., v seznamu co uvidíte a v sekci Zvířata na trase.
+- Fáze 2: v pondělí 30. 11. cestou z Hua Hin volitelně Forest Park v Pranburi (kilometrová lávka mangrovovým lesem, zdarma), stihne se jen s vlakem. Nový blok Forest Park v Pranburi (volitelně).
+- Forest Park a lávka u ředitelství mají řádek v sekci Záchytné body pro Google Maps a odkaz pod mapou fáze 2 (na mapě nejsou, poloha neověřená). Sekce Orientační rozpočet: Forest Park zdarma.
+- Počet fází, nocí i data jsou beze změny proti v83.
+
 ## v83: Fáze 2: plavba po kanálu Khao Daeng (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v83/) · [Markdown](verze/v83/thajsko-bangkok-phuket.md) · [rozdíl proti v82](https://github.com/polachp/dovolena-thajsko-2026/compare/3ad65fd...7988c76)
