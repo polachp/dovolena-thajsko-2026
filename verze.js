@@ -1043,5 +1043,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "3ad65fd",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v83",
+    "datum": "16. 11. 2026",
+    "nazev": "Fáze 2: plavba po kanálu Khao Daeng",
+    "zmeny": [
+      "Fáze 2: v úterý 1. 12. odpoledne po chrámu u mola Khao Daeng plavba lodí místních rybářů po kanálu Khao Daeng (asi hodina až 90 minut, asi 500 THB za loď, neověřeno). Nový blok Plavba po kanálu Khao Daeng a odrážka v seznamu co uvidíte, chrám se posunul na 15:00.",
+      "Mapa fáze 2 a sekce Záchytné body pro Google Maps: bod u chrámu Wat Khao Daeng je zároveň molo na plavbu. Sekce Orientační rozpočet: nový řádek plavby, součty asi 66 850 a 115 200 THB.",
+      "Počet fází, nocí i data jsou beze změny proti v82."
+    ],
+    "commit": "7988c76",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

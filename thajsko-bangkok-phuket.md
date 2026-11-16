@@ -110,7 +110,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
 | 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | [Bueng Bua Thung Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot) | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
 | 2 | Bang Pu (Sam Roi Yot), pláž a molo | [Bang Pu Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bang%20Pu%20Village%20Sam%20Roi%20Yot%20Prachuap%20Khiri%20Khan) | Výchozí bod k pláži Laem Sala a jeskyni Phraya Nakhon |
-| 2 | Khao Daeng, vesnický chrám u mola a vyhlídka | [Wat Khao Daeng](https://www.google.com/maps/search/?api=1&query=Wat%20Khao%20Daeng%20Sam%20Roi%20Yot), [Khao Daeng Viewpoint](https://www.google.com/maps/search/?api=1&query=Khao%20Daeng%20Viewpoint%20Sam%20Roi%20Yot) | Chrám pod skalami a kamenitá stezka na vyhlídku |
+| 2 | Khao Daeng, vesnický chrám u mola a vyhlídka | [Wat Khao Daeng](https://www.google.com/maps/search/?api=1&query=Wat%20Khao%20Daeng%20Sam%20Roi%20Yot), [Khao Daeng Viewpoint](https://www.google.com/maps/search/?api=1&query=Khao%20Daeng%20Viewpoint%20Sam%20Roi%20Yot) | Chrám pod skalami, od mola u chrámu plavba po kanálu Khao Daeng a kamenitá stezka na vyhlídku |
 | 2 | Phra Prathun Cave | [Phra Prathun Cave](https://www.google.com/maps/search/?api=1&query=Phra%20Prathun%20Cave%20Sam%20Roi%20Yot) | Volitelná netopýří jeskyně, vede mnich (otevírací dobu neznáme) |
 | 2 | Kui Buri, Elephant Observatory Site | [12.1385, 99.6467](https://www.google.com/maps/search/?api=1&query=12.1385%2C99.6467) | Výchozí bod odpoledního safari za divokými slony |
 | 2 | Prachuap Khiri Khan, Khao Chong Krachok (Wat Thammikaram) | [11.8165, 99.7981](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) | Volitelný výlet autem: chrámový kopec s 396 schody, výhled na záliv a makaky |
@@ -283,16 +283,21 @@ Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Ku
 - **Mokřad Bueng Bua:** dřevěná lávka mezi lotosy, ptáky a varany.
 - **Jeskyně Phraya Nakhon:** královský pavilon, na který dopoledne svítí světlo otvorem ve stropu.
 - **Vyhlídka a chrám Khao Daeng:** výhled na hory a krevetí farmy, chrám pod skalami s opicemi.
+- **Plavba po kanálu Khao Daeng:** loď místních rybářů mezi mangrovy a vápencovými skalami, s ledňáčky a varany.
 - **Divocí sloni v Kui Buri:** odpolední safari pickupem s průvodcem, stáda i s mláďaty.
 - **Prachuap Khiri Khan (volitelně):** výlet autem k hulmanům na pláži Ao Manao a na chrámový kopec Khao Chong Krachok s makaky a výhledem na záliv.
 
 #### Program po dnech
 
 - **Po 30. 11.:** Vlak do Hua Hin (10:31) nebo alternativně dodávka (12:10, fáze 1), vyzvednout auto, asi 45 minut do Sam Roi Yot. Odpoledne mokřad Bueng Bua: lávka asi 1 km, 8:00–17:00, asi 400 THB na osobu (park plus lávka, podle jednoho blogu), 1,5–2 hodiny. Volitelně místní loď asi 600 THB za loď.
-- **Út 1. 12.:** Ráno jeskyně Phraya Nakhon. Z Bang Pu (od ubytování autem) pěšky přes kopec na pláž Laem Sala asi 30 minut, loď je zbytečná (asi 400 THB). Pak strmé schody asi 30 minut nahoru. Buďte tam před desátou, světlo na pavilonu je nejlepší zhruba 9–13 hodin. Pavilon nechal postavit Rama V. po návštěvě v roce 1890. Kolem 15:30 krátce vesnický chrám u mola Khao Daeng (zdarma, jídlo mějte v batohu kvůli opicím).
+- **Út 1. 12.:** Ráno jeskyně Phraya Nakhon. Z Bang Pu (od ubytování autem) pěšky přes kopec na pláž Laem Sala asi 30 minut, loď je zbytečná (asi 400 THB). Pak strmé schody asi 30 minut nahoru. Buďte tam před desátou, světlo na pavilonu je nejlepší zhruba 9–13 hodin. Pavilon nechal postavit Rama V. po návštěvě v roce 1890. Kolem 15:00 vesnický chrám u mola Khao Daeng (zdarma, jídlo mějte v batohu kvůli opicím) a od mola u chrámu plavba lodí po kanálu Khao Daeng (podrobnosti níže).
 - **St 2. 12.:** Ráno vyhlídka Khao Daeng (157 m, 40–45 minut do kopce po kamenité stezce), když budete unavení, vynechte ji. Volitelně jeskyně Phra Prathun s netopýry (vede mnich, tel. +66 95 943 3832). Od 14:00 Kui Buri. Zpátky se jede za tmy, jinak se v plánu za tmy nejezdí (kromě volitelného výletu do Prachuap).
 - **Čt 3. 12.:** Volný den na odpočinek u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00.
 - **Pá 4. 12.:** Vyjet kolem 7:00, auto vrátit kolem 8:15 v Hua Hin, vlak v 10:31 rovnou do Chumphonu (viz Přesun dál).
+
+#### Plavba po kanálu Khao Daeng
+
+Kanál teče z hor národního parku kolem mangrovů a vápencových skal do moře u rybářské vesnice Khao Daeng. Lodě místních rybářů vyjíždějí od mola u chrámu Wat Khao Daeng, v Mapách navigujte na chrám, ne na kanál. Plavba trvá asi hodinu až 90 minut, loď pro až 6 lidí stojí asi 500 THB, mějte hotovost (neověřeno). Jezdí se denně zhruba 8:30–16:30 (neověřeno, jestli je 16:30 poslední odjezd), proto buďte u mola nejpozději v 15:00. Cestou uvidíte ledňáčky (podle jednoho průvodce aspoň čtyři druhy), varany, makaky a lezce, rybky, které lezou po bahně. Jedna ze skal má tvar krokodýla. Kdo by chtěl plout k západu slunce, ať se na molu zeptá, jestli to jde.
 
 #### Prachuap Khiri Khan (volitelně)
 
@@ -336,7 +341,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 |---|---|---|---|
 | Mokřad Bueng Bua, dřevěná lávka | must see | přibl. 12.2441, 99.9328 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2441%2C99.9328) |
 | Jeskyně Phraya Nakhon | must see | přibl. 12.2060, 100.0104 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2060%2C100.0104) |
-| Chrám Wat Khao Daeng a stezka na vyhlídku Khao Daeng | must see | přibl. 12.1286, 99.9537 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.1286%2C99.9537) |
+| Chrám Wat Khao Daeng, molo na plavbu po kanálu a stezka na vyhlídku Khao Daeng | must see | přibl. 12.1286, 99.9537 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.1286%2C99.9537) |
 | Jeskyně Phra Prathun (netopýři, vede mnich) | volitelně | přibl. 12.1442, 99.9111 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.1442%2C99.9111) |
 | Divocí sloni v Kui Buri (pozorovací místo Huai Luek) | must see | 12.1385, 99.6467 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.1385%2C99.6467) |
 | Pláž Laem Sala (začátek stezky k jeskyni) | volitelně | přibl. 12.2036, 100.0139 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2036%2C100.0139) |
@@ -349,7 +354,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Nádraží Hua Hin | doprava | přibl. 12.5673, 99.9547 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5673%2C99.9547) |
 | Půjčovna aut Thai Rent A Car (Aquana Resort, Hua Hin) | doprava | přibl. 12.5491, 99.9628 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5491%2C99.9628) |
 
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Chrám Wat Khao Daeng a začátek stezky na vyhlídku jsou jeden bod, vyhlídka je od něj kus do kopce. Ubytování je umístěné podle polohy v rezervačním portálu, přesné místo otevře odkaz do Map. Jeskyně Phra Prathun je podle kódu místa z Google Maps (4WV6+MC) u vesnice Don Yai Nu, asi 5 km od chrámu Wat Khao Daeng, a telefon ve výpisu sedí s číslem v textu, z jiného zdroje ověřená není. Půjčovna aut Thai Rent A Car je podle kódu místa z Google Maps (GXX7+J4) u Aquana Resort, asi 2,2 km od nádraží Hua Hin, což sedí s údajem asi 2,5 km v textu, z jiného zdroje ověřená není. Promenáda v Prachuap Khiri Khan je dlouhý pás podél zálivu, bod je jen u středu města.
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Chrám Wat Khao Daeng, molo na plavbu po kanálu a začátek stezky na vyhlídku jsou jeden bod, vyhlídka je od něj kus do kopce. Ubytování je umístěné podle polohy v rezervačním portálu, přesné místo otevře odkaz do Map. Jeskyně Phra Prathun je podle kódu místa z Google Maps (4WV6+MC) u vesnice Don Yai Nu, asi 5 km od chrámu Wat Khao Daeng, a telefon ve výpisu sedí s číslem v textu, z jiného zdroje ověřená není. Půjčovna aut Thai Rent A Car je podle kódu místa z Google Maps (GXX7+J4) u Aquana Resort, asi 2,2 km od nádraží Hua Hin, což sedí s údajem asi 2,5 km v textu, z jiného zdroje ověřená není. Promenáda v Prachuap Khiri Khan je dlouhý pás podél zálivu, bod je jen u středu města.
 
 ### Fáze 3: Ranong a Koh Phayam (1 noc v Ranongu a 3 noci na ostrově, 4.–8. 12.)
 
@@ -1025,8 +1030,8 @@ Rozpočet platí pro dva lidi na 22 nocí podle trasy s Koh Phayam a autem v Hua
 | Ubytování, noc v Nai Yang (Wattana Bungalow) | 1 700 | 1 700 | rezervováno, cena z potvrzení Booking.com |
 | Jídlo a pití | 15 500 | 26 500 | odhad: 350–600 THB na osobu a den, porce pouličního jídla vychází na 40–70 THB |
 | Přesuny po Thajsku | 12 800 | 18 300 | odhad podle cen v sekci Doprava, včetně auta v Hua Hin na 4 dny (asi 3 600 THB plus benzín odhadem 1 300 THB) a lodí na Koh Phayam (asi 1 400 THB za dva) |
-| Zážitky a vstupy | 22 700 | 36 700 | rozpis níže; úsporně bez Dragon Crest, půjčení kola nebo skútru a sloního útočiště, pohodlněji včetně nich |
-| Celkem | asi 66 350 (43 100 Kč) | asi 114 700 (74 600 Kč) | pro dva, bez letenek a pojištění |
+| Zážitky a vstupy | 23 200 | 37 200 | rozpis níže; úsporně bez Dragon Crest, půjčení kola nebo skútru a sloního útočiště, pohodlněji včetně nich |
+| Celkem | asi 66 850 (43 500 Kč) | asi 115 200 (74 900 Kč) | pro dva, bez letenek a pojištění |
 
 Součty zatím nepřepočítávají změnu ve verzi 21 (Krabi 2 noci, Noi 4 noci, kajaky na Koh Yao Noi místo Ao Thalane). Položky mimo plán v nich zůstávají, takže jde o horní odhad. Od verze 30 je noc v Nai Yang (Wattana Bungalow, 18.–19. 12.) vyčleněná zvlášť podle rezervace, 1 700 THB, což je nad původním rozpětím 650–1 500 THB za noc. Celkový odhad se tím zvýšil o asi 850 THB (asi 550 Kč) v úsporné variantě a o asi 200 THB (asi 130 Kč) v pohodlnější, protože horní hranice 1 500 THB za noc už počítala s dražšími pokoji. Z ostatních rezervovaných nocí vychází Tabeak View Point asi 1 100 THB, Vacation House asi 1 170 THB a Pyramid Bungalow asi 1 290 THB za noc.
 
@@ -1041,6 +1046,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Mokřady Bueng Bua (Sam Roi Yot) | asi 400 THB na osobu (park plus lávka) | podle jednoho blogu, místní loď volitelně asi 600 THB za loď pro 4 lidi |
 | Jeskyně Phraya Nakhon (Sam Roi Yot) | vstup do parku 200 THB na osobu (platí jen ten den) | loď z Bang Pu asi 400 THB za loď je volitelná |
 | Vyhlídka a chrám Khao Daeng (Sam Roi Yot) | park 200 THB na osobu (platí jen ten den) | chrám je zdarma |
+| Plavba po kanálu Khao Daeng (Sam Roi Yot) | asi 500 THB za loď pro až 6 lidí | asi hodina až 90 minut, neověřeno |
 | Kui Buri | vstup 200 THB na osobu, pickup s průvodcem 850–1 200 THB za vůz, vjezd auta 30 THB | vůz pro až 6 cizinců, cenu si nechte potvrdit |
 | Prachuap (volitelně, výlet ze Sam Roi Yot): Ao Manao a Khao Chong Krachok | chrám zdarma, vstup na pláž Ao Manao se platí hotově u brány základny | částka u brány není známá, počítejte s pasem |
 | Ranong: horké prameny | prameny zdarma, taxi tam i zpět asi 100 THB za jízdu | asi 2 km východně od centra |
