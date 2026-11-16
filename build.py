@@ -29,7 +29,7 @@ MISTA_VYCHOZI = [
 
 # Odložené varianty (složka varianty/) se od 12. 11. 2026 ukazují na webu v záložce Varianty, v tomto pořadí (podle trasy).
 # Soubor, který tu není, se přidá na konec podle abecedy.
-VARIANTY_PORADI = ["vodopad-ngao.md", "raft-housy-cheow-lan.md", "khao-lak.md", "krabi-dalsi-mista.md",
+VARIANTY_PORADI = ["prachuap.md", "vodopad-ngao.md", "raft-housy-cheow-lan.md", "khao-lak.md", "krabi-dalsi-mista.md",
                    "phuket-town.md", "phuket-fun-friday-suvenyry.md"]
 
 
