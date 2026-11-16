@@ -1028,5 +1028,20 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "09793d3",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v82",
+    "datum": "16. 11. 2026",
+    "nazev": "Prachuap zrušen, Sam Roi Yot na 4 noci",
+    "zmeny": [
+      "Fáze 3 Prachuap Khiri Khan je zrušená, rezervace v Jungle Cafe and Guesthouse je zrušená. Fáze od Ranongu se přečíslovaly: Ranong a Koh Phayam je fáze 3, Khao Sok 4, Krabi 5, Koh Yao Noi 6 a Phuket, Nai Yang 7. Trasa má 7 fází a pořád 22 nocí.",
+      "Fáze 2 Sam Roi Yot má 4 noci (30. 11.–4. 12.). Ubytování je Driftwood and Jolie Cottages, přebookované na 4 noci (zrušit zdarma do 24. 11.). Sam Roi Yot Sea Sight Resort je ještě rezervovaný a je označený ke zrušení (zdarma do 28. 11.).",
+      "Fáze 2: čtvrtek 3. 12. je volný den, volitelně výlet autem do Prachuap Khiri Khan (nový blok Prachuap Khiri Khan (volitelně) s Ao Manao, Khao Chong Krachok a promenádou, tři volitelné body v mapě fáze 2), nebo druhý pokus o slony v Kui Buri. V pátek 4. 12. ráno vrácení auta a vlak č. 43 v 10:31 z Hua Hin rovnou do Chumphonu, minivan do Ranongu je teď v bloku Přesun dál fáze 2.",
+      "Auto v Hua Hin na 4 dny (30. 11.–4. 12.): sekce Co se ještě dořeší, Předodletový checklist, blok Auto z Hua Hin a sekce Orientační rozpočet (auto asi 3 600 THB plus benzín, součty asi 66 350 a 114 700 THB).",
+      "Sekce Doprava: místo vlaků Hua Hin → Prachuap a Prachuap → Chumphon je jeden úsek Hua Hin → Chumphon a volitelná jízda autem do Prachuap. Jízdenka na 4. 12. se podle dopočtu prodává zhruba 30 dní předem (neověřeno). Z tabulky Co zařídit a kdy zmizel řádek Den předem.",
+      "Tabulka Do kdy zrušit ubytování zdarma, Záchytné body pro Google Maps a Zvířata na trase upravené podle nové fáze 2. Původní fáze 3 je uložená ve variantě varianty/prachuap.md, Místa na trase: Prachuap Khiri Khan patří k fázi 2."
+    ],
+    "commit": "3ad65fd",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

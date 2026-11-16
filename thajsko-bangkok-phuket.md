@@ -10,24 +10,23 @@ Co se mezi verzemi změnilo, najdete v záložce Verze. Termíny, do kdy jde uby
 
 Nejdřív úkoly před odletem, pak body podle fází.
 
-- **Vlak a auto na začátku trasy (fáze 1 až 3):** jízdenka na vlak č. 43 na 30. 11. (Bangkok → Hua Hin) není koupená, kupte ji hned, prodej už běží. Místo vlaku jde jet dodávkou Vivatrip v 9:00 (fáze 1), ta se dá koupit na 12Go a vlak pak kupovat nemusíte. Jízdenky na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) jdou nejspíš koupit až den předem, tedy 2. a 3. 12. Neověřeno, v D-Ticket nebo 12Go se ukáže, od kdy se prodávají (sekce Doprava). Auto v Hua Hin na 30. 11. až 3. 12. není zamluvené.
+- **Vlak a auto na začátku trasy (fáze 1 a 2):** jízdenka na vlak č. 43 na 30. 11. (Bangkok → Hua Hin) není koupená, kupte ji hned, prodej už běží. Místo vlaku jde jet dodávkou Vivatrip v 9:00 (fáze 1), ta se dá koupit na 12Go a vlak pak kupovat nemusíte. Jízdenka na 4. 12. (Hua Hin → Chumphon) se podle dopočtu vzdálenosti prodává zhruba 30 dní předem, takže by už měla jít koupit (neověřeno, v D-Ticket nebo 12Go, sekce Doprava). Auto v Hua Hin na 4 dny, 30. 11. až 4. 12., není zamluvené.
 - **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
-- **Noc na jezeře Cheow Lan (fáze 5):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá vybrat mezi Phutawan a Smiley (porovnání viz fáze 5). U Phutawan chybí DPH, kde je kancelář a cena dopravy, potvrzený termín 10.–11. 12. a výše a podmínky nevratné zálohy.
+- **Noc na jezeře Cheow Lan (fáze 4):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá vybrat mezi Phutawan a Smiley (porovnání viz fáze 4). U Phutawan chybí DPH, kde je kancelář a cena dopravy, potvrzený termín 10.–11. 12. a výše a podmínky nevratné zálohy.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
-- **Dvojí rezervace v Sam Roi Yot (fáze 2):** noci 30. 11.–3. 12. jsou zarezervované v Driftwood and Jolie Cottages i v Sam Roi Yot Sea Sight Resort. Jedno je potřeba zrušit: Driftwood zdarma do 24. 11. 23:59 thajského času (v Česku v 17:59), Sea Sight zdarma do 28. 11. 23:59 thajského času (v Česku v 17:59). Driftwood má check-in jen do 18:00, snídaně v ceně není a k pláži je asi 2 km, Sea Sight je od pláže pár minut pěšky (podrobnosti: fáze 2).
-- **Prachuap (fáze 3):** první kandidát na vyřazení, rozhodnout nejpozději do 29. 11. 23:59 thajského času (v Česku v 17:59), protože Jungle Cafe se do té doby dá zrušit zdarma. Po vyřazení by byla volná noc, kam se přidá, je nerozhodnuté, a vlak 4. 12. by jel z Hua Hin rovnou do Chumphonu (podle dopočtu vzdálenosti se jízdenka na ten úsek prodává 30 dní předem, neověřeno v D-Ticket nebo 12Go).
-- **Překrývající se rezervace v Khao Sok (fáze 5):** noc 8.–9. 12. je zarezervovaná ve třech ubytováních (Flora Hostel KhaoSok, Bingo Hostel Khao Sok a Little wild house Khaosok), noc 9.–10. 12. v Bingo a v Little wild house, noc 10.–11. 12. jen v Little wild house (8.–11. 12.). Little wild house pokrývá všechny tři noci, takže kdyby zůstal on, jdou Flora i Bingo zrušit beze zbytku. Kdyby zůstalo Bingo, zbývá zarezervovat noc 10.–11. 12. Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora do 8. 12. 18:00 thajského času (v Česku ve 12:00). Nejdřív tedy vyprší Little wild house, pak Bingo a nakonec Flora.
-- **Čtyřkolky v Khao Sok (fáze 5):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
-- **Sloní útočiště v Khao Sok (fáze 5, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
-- **Krabi (fáze 6):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
-- **Program na Koh Yao Noi (fáze 7):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok a jaké restaurace v prosinci fungují.
-- **Dvojí rezervace na Koh Yao Noi (fáze 7):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
-- **Loď z Koh Yao Noi na Phuket (fáze 7):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
-- **Fáze 8 (Nai Yang):** program je nabídka možností (jen trh je povinný bod), nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu po cestě (vzdušnou čarou podle bodů na mapě asi 750 m a asi 1 km) a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
+- **Sea Sight Resort zrušit (fáze 2):** v Sam Roi Yot zůstává Driftwood and Jolie Cottages na 4 noci (30. 11.–4. 12.). Sam Roi Yot Sea Sight Resort (30. 11.–3. 12.) je ještě rezervovaný a je potřeba ho zrušit, zdarma do 28. 11. 23:59 thajského času (v Česku v 17:59).
+- **Překrývající se rezervace v Khao Sok (fáze 4):** noc 8.–9. 12. je zarezervovaná ve třech ubytováních (Flora Hostel KhaoSok, Bingo Hostel Khao Sok a Little wild house Khaosok), noc 9.–10. 12. v Bingo a v Little wild house, noc 10.–11. 12. jen v Little wild house (8.–11. 12.). Little wild house pokrývá všechny tři noci, takže kdyby zůstal on, jdou Flora i Bingo zrušit beze zbytku. Kdyby zůstalo Bingo, zbývá zarezervovat noc 10.–11. 12. Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora do 8. 12. 18:00 thajského času (v Česku ve 12:00). Nejdřív tedy vyprší Little wild house, pak Bingo a nakonec Flora.
+- **Čtyřkolky v Khao Sok (fáze 4):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
+- **Sloní útočiště v Khao Sok (fáze 4, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
+- **Krabi (fáze 5):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
+- **Program na Koh Yao Noi (fáze 6):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok a jaké restaurace v prosinci fungují.
+- **Dvojí rezervace na Koh Yao Noi (fáze 6):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
+- **Loď z Koh Yao Noi na Phuket (fáze 6):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
+- **Fáze 7 (Nai Yang):** program je nabídka možností (jen trh je povinný bod), nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu po cestě (vzdušnou čarou podle bodů na mapě asi 750 m a asi 1 km) a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
 - **Ubytování:** Všechny noci jsou rezervované kromě 11.–12. 12. v Khao Sok. Noc 10.–11. 12. pokrývá Little wild house. Jedna z nocí 10.–12. 12. je na jezeře (viz výše): noc 10.–11. 12. na jezeře by se s Little wild house kryla, noc 11.–12. 12. ne. Jestli se zbývající noc ve vesnici rezervuje předem, nebo hledá na místě, se rozhodne později. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny.
 - **Rozpočet:** sekce Orientační rozpočet zatím nepřepočítává změny trasy od verze 21 a obsahuje položky, které už v plánu nejsou. Berte ho jako horní odhad.
 
-Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md), vodopád Ngao u Ranongu v souboru [varianty/vodopad-ngao.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/vodopad-ngao.md), raft housy Praiwan a Keereewarin na jezeře Cheow Lan v souboru [varianty/raft-housy-cheow-lan.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/raft-housy-cheow-lan.md).
+Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md), vodopád Ngao u Ranongu v souboru [varianty/vodopad-ngao.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/vodopad-ngao.md), raft housy Praiwan a Keereewarin na jezeře Cheow Lan v souboru [varianty/raft-housy-cheow-lan.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/raft-housy-cheow-lan.md), noc v Prachuap Khiri Khan (dřívější fáze 3) v souboru [varianty/prachuap.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/prachuap.md).
 
 ## Úvod do Thajska: kultura, historie a perličky
 
@@ -77,16 +76,16 @@ Na trase uvidíte divoké slony, tři druhy opic, gibony i zoborožce, ve měst�
 - **Ptáci a serau v Sam Roi Yot (fáze 2).** Největší sladkovodní mokřad Thajska je hlavně místo pro ptáky: volavky, kormoráni, orli a další brodiví ptáci, zdroje zmiňují i painted storky. Na vápencových horách žije vzácný serau, koza podobná kamzíkovi, kterého ale prakticky neuvidíte. Pozorování ptáků jde nejlépe za ranního šera a v prosinci, kdy tu zimují tažní ptáci (neověřeno).
 - **Divocí sloni v Kui Buri (fáze 2).** Národní park Kui Buri je jedním z nejlepších míst v Thajsku na pozorování volně žijících slonů, žijí tu stovky zvířat. Žádné řetězy ani turisté na hřbetě: s místním průvodcem vyrazíte otevřeným terénním pickupem na pastviny a odtud ze vzdálenosti sledujete stáda včetně mláďat. Nejaktivnější jsou odpoledne od zhruba 15:00.
 - **Gaurové v Kui Buri (fáze 2).** Vedle slonů tu pasou gaurové, největší divoký skot na světě, kteří mohou vážit kolem tuny. Poznáte je podle bílých „ponožek“ na nohou a svalnatého hřbetu. Jsou plaší a v případě přiblížení se držte pokynů průvodce. V parku žijí i banteng (další divoký skot) a muntžak (malý jelen).
-- **Hulmani (Prachuap Khiri Khan, fáze 3).** Hulmani s bílými kruhy kolem očí na tmavém obličeji žijí na vápencovém kopci Khao Lom Muak a na pláži Ao Manao. Obojí leží v areálu letecké základny Wing 5, proto se u vstupu řiďte pokyny vojáků (výstup na kopec bývá povolen jen v některých obdobích). Bývají klidnější než makakové ve městech. Nejlépe je uvidíte ráno nebo pozdě odpoledne.
-- **Makakové na Khao Chong Krachok (fáze 3).** Chrámový kopec s 396 schody a vyhlídkou nad zálivem obývají makakové dlouhoocasí. Berou jídlo, lahve i brýle, takže mějte tašku zavřenou a před sebou. Nahoru vyrazte před osmou hodinou, než se schodiště rozpálí.
-- **Koh Phayam (fáze 4).** Podle seznamu národního parku tu žijí makakové, vydry a zoborožci, které podle thajského popisu ostrova snadno uvidíte v lese (neověřeno na místě). Zoborožce poznáte podle obřího zahnutého zobáku a hlasitého mávání křídel při letu.
-- **Giboni a zoborožci v Khao Sok (fáze 5).** V hlubokém pralese a na jezeře Cheow Lan uslyšíte brzy ráno téměř éterický zpěv gibonů (malých lidoopů, kteří skáčou v korunách stromů). S trochou štěstí spatříte i majestátní zoborožce, kteří v letu hlasitě mávají křídly. Nejvíc zvířat je vidět za ranního šera z lodi nebo z kajaku. Divoké slony na břehu jezera potkáte jen výjimečně a tygra prakticky nikdy.
-- **Noční obyvatelé Khao Sok (fáze 5).** Po setmění vylézají žáby, netopýři, cibetky, pavouci a s trochou štěstí outloň (sekce Šnorchlování a noční safari). Kdo se bojí pavouků, ať noční procházku vynechá.
-- **Rafflesia kerrii (Khao Sok, fáze 5).** Parazitický květ bez listů a kořenů, který žije na lianách a může mít přes půl metru v průměru. Kvete jen několik dní a voní po zkaženém mase, aby přilákal mouchy. Jestli bude v prosinci někde rozkvetlá, se nedá předem zjistit, zeptejte se průvodce nebo ubytování (neověřeno).
-- **Velcí savci Khao Sok, které nepotkáte (fáze 5).** V parku žijí podle zdrojů medvědi, gaurové, tapíři, kočky mramorované i divocí sloni, ale protože je park velký a zvířata plachá, na stezce je neuvidíte. Spíš narazíte na létající ještěrky rodu Draco, které plachtí mezi stromy.
+- **Hulmani (Prachuap Khiri Khan, fáze 2, volitelně).** Hulmani s bílými kruhy kolem očí na tmavém obličeji žijí na vápencovém kopci Khao Lom Muak a na pláži Ao Manao. Obojí leží v areálu letecké základny Wing 5, proto se u vstupu řiďte pokyny vojáků (výstup na kopec bývá povolen jen v některých obdobích). Bývají klidnější než makakové ve městech. Nejlépe je uvidíte ráno nebo pozdě odpoledne.
+- **Makakové na Khao Chong Krachok (Prachuap Khiri Khan, fáze 2, volitelně).** Chrámový kopec s 396 schody a vyhlídkou nad zálivem obývají makakové dlouhoocasí. Berou jídlo, lahve i brýle, takže mějte tašku zavřenou a před sebou. Nahoru vyrazte před osmou hodinou, než se schodiště rozpálí.
+- **Koh Phayam (fáze 3).** Podle seznamu národního parku tu žijí makakové, vydry a zoborožci, které podle thajského popisu ostrova snadno uvidíte v lese (neověřeno na místě). Zoborožce poznáte podle obřího zahnutého zobáku a hlasitého mávání křídel při letu.
+- **Giboni a zoborožci v Khao Sok (fáze 4).** V hlubokém pralese a na jezeře Cheow Lan uslyšíte brzy ráno téměř éterický zpěv gibonů (malých lidoopů, kteří skáčou v korunách stromů). S trochou štěstí spatříte i majestátní zoborožce, kteří v letu hlasitě mávají křídly. Nejvíc zvířat je vidět za ranního šera z lodi nebo z kajaku. Divoké slony na břehu jezera potkáte jen výjimečně a tygra prakticky nikdy.
+- **Noční obyvatelé Khao Sok (fáze 4).** Po setmění vylézají žáby, netopýři, cibetky, pavouci a s trochou štěstí outloň (sekce Šnorchlování a noční safari). Kdo se bojí pavouků, ať noční procházku vynechá.
+- **Rafflesia kerrii (Khao Sok, fáze 4).** Parazitický květ bez listů a kořenů, který žije na lianách a může mít přes půl metru v průměru. Kvete jen několik dní a voní po zkaženém mase, aby přilákal mouchy. Jestli bude v prosinci někde rozkvetlá, se nedá předem zjistit, zeptejte se průvodce nebo ubytování (neověřeno).
+- **Velcí savci Khao Sok, které nepotkáte (fáze 4).** V parku žijí podle zdrojů medvědi, gaurové, tapíři, kočky mramorované i divocí sloni, ale protože je park velký a zvířata plachá, na stezce je neuvidíte. Spíš narazíte na létající ještěrky rodu Draco, které plachtí mezi stromy.
 - **Makakové v mangrovech (Ao Thalane, mimo itinerář od v21).** Při ranním pádlování na kajaku v kaňonech Ao Thalane vám ve větvích mangrovů často skáčou nad hlavou zvědaví makakové jávští. Občas se ukážou i vydry nebo velcí varani.
-- **Brodiví ptáci na Koh Yao Noi (fáze 7).** Při odlivu se na východním pobřeží odhalí široké bahnité plochy, na kterých brodiví ptáci hledají potravu. Dají se vidět na procházce nebo při jízdě po pobřežní silnici.
-- **Mořské želvy v Nai Yang (fáze 8).** Mořské želvy kladou na plážích Mai Khao a Nai Yang vejce od listopadu do února, ale vidět je při večerní procházce je velmi nepravděpodobné a nedá se to plánovat. Kožatky (leatherback) tu hnízdily vzácně a podle Wikipedie od roku 2013 hnízdo nenašly, zprávy z února 2024 ale hlásí nález jednoho. Pokud uvidíte ohrazené nebo označené hnízdo, nechte ho být a nesviťte do něj. V parku bylo zaznamenáno kolem 130 druhů ptáků.
+- **Brodiví ptáci na Koh Yao Noi (fáze 6).** Při odlivu se na východním pobřeží odhalí široké bahnité plochy, na kterých brodiví ptáci hledají potravu. Dají se vidět na procházce nebo při jízdě po pobřežní silnici.
+- **Mořské želvy v Nai Yang (fáze 7).** Mořské želvy kladou na plážích Mai Khao a Nai Yang vejce od listopadu do února, ale vidět je při večerní procházce je velmi nepravděpodobné a nedá se to plánovat. Kožatky (leatherback) tu hnízdily vzácně a podle Wikipedie od roku 2013 hnízdo nenašly, zprávy z února 2024 ale hlásí nález jednoho. Pokud uvidíte ohrazené nebo označené hnízdo, nechte ho být a nesviťte do něj. V parku bylo zaznamenáno kolem 130 druhů ptáků.
 - **Gekoni a štěstí (všude na trase).** Malí světlí gekoni na stěnách ubytování loví komáry a můry a jsou neškodní. Ten velký, tokay, měří asi 30 cm, je modrošedý s oranžovými tečkami a večer nebo v noci se ozývá hlasitým „tok-keh“, které začínající cestovatelé považují za ptáka. Podle thajské tradice nosí tokay v domě štěstí, čím víc zakřičí, tím lépe, zvlášť při narození dítěte, a vyhánět ho je smůla. Někteří Thajci počítají, kolikrát zakřičí (sudý a lichý počet znamená podle různých tradic něco jiného). Kousne silně a nepustí hned, takže ho nechte být.
 
 ### Pravidla pro pozorování zvířat
@@ -106,56 +105,54 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 1 | Bangkok, Airport Rail Link (Phaya Thai, Makkasan) | [Phaya Thai](https://www.google.com/maps/search/?api=1&query=Phaya%20Thai%20Airport%20Rail%20Link%20Station%20Bangkok), [Makkasan](https://www.google.com/maps/search/?api=1&query=Makkasan%20Airport%20Rail%20Link%20Station%20Bangkok) | Přestup na skytrain BTS a metro MRT po příletu na letiště BKK |
 | 1 | Bangkok, Krung Thep Aphiwat Central Terminal | [Krung Thep Aphiwat Central Terminal](https://www.google.com/maps/search/?api=1&query=Krung%20Thep%20Aphiwat%20Central%20Terminal) | Nádraží, ze kterého odjíždějí vlaky na jih |
 | 1 | Bangkok, Wat Paknam Phasi Charoen (metro Bang Phai, východ 1) | [Wat Paknam Phasi Charoen](https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen%20Bangkok) | Obří Buddha a skleněná stupa, nejlépe hned po otevření v 8:00 |
-| 2 | Sam Roi Yot, ubytování Sam Roi Yot Sea Sight Resort | [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) | Potvrzeno 30. 11.–3. 12., check-in 14:00 až 22:00, check-out do 12:00, asi 7 km vzdušnou čarou severně od Bang Pu |
-| 2 | Sam Roi Yot, ubytování Driftwood and Jolie Cottages | [Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) | Druhá rezervace na stejné noci 30. 11.–3. 12., check-in 14:00 až 18:00, check-out 7:00 až 12:00, jedno ubytování zrušit |
+| 2 | Sam Roi Yot, ubytování Driftwood and Jolie Cottages | [Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) | Potvrzeno 30. 11.–4. 12., check-in 14:00 až 18:00, check-out 7:00 až 12:00, k pláži asi 2 km |
+| 2 | Sam Roi Yot, ubytování Sam Roi Yot Sea Sight Resort | [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) | Rezervace ke zrušení, bydlí se v Driftwood |
 | 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
 | 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | [Bueng Bua Thung Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot) | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
 | 2 | Bang Pu (Sam Roi Yot), pláž a molo | [Bang Pu Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bang%20Pu%20Village%20Sam%20Roi%20Yot%20Prachuap%20Khiri%20Khan) | Výchozí bod k pláži Laem Sala a jeskyni Phraya Nakhon |
 | 2 | Khao Daeng, vesnický chrám u mola a vyhlídka | [Wat Khao Daeng](https://www.google.com/maps/search/?api=1&query=Wat%20Khao%20Daeng%20Sam%20Roi%20Yot), [Khao Daeng Viewpoint](https://www.google.com/maps/search/?api=1&query=Khao%20Daeng%20Viewpoint%20Sam%20Roi%20Yot) | Chrám pod skalami a kamenitá stezka na vyhlídku |
 | 2 | Phra Prathun Cave | [Phra Prathun Cave](https://www.google.com/maps/search/?api=1&query=Phra%20Prathun%20Cave%20Sam%20Roi%20Yot) | Volitelná netopýří jeskyně, vede mnich (otevírací dobu neznáme) |
 | 2 | Kui Buri, Elephant Observatory Site | [12.1385, 99.6467](https://www.google.com/maps/search/?api=1&query=12.1385%2C99.6467) | Výchozí bod odpoledního safari za divokými slony |
-| 3 | Prachuap Khiri Khan, ubytování Jungle Cafe and Guesthouse | [Jungle Cafe and Guesthouse](https://www.google.com/maps/search/?api=1&query=Jungle%20Cafe%20and%20Guesthouse%20Prachuap%20Khiri%20Khan) | Potvrzeno 3.–4. 12., check-in od 14:00, u moře, mnohem dál od nádraží |
-| 3 | Prachuap Khiri Khan, nádraží | [Prachuap Khiri Khan Railway Station](https://www.google.com/maps/search/?api=1&query=Prachuap%20Khiri%20Khan%20Railway%20Station) | Ve středu města, k zálivu je to 5 až 10 minut pěšky |
-| 3 | Khao Chong Krachok (Wat Thammikaram) | [11.8165, 99.7981](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) | Chrámový kopec s 396 schody, výhled na záliv a makaky |
-| 3 | Ao Manao a Khao Lom Muak | [Ao Manao](https://www.google.com/maps/search/?api=1&query=Ao%20Manao%20Beach%20Prachuap%20Khiri%20Khan), [Khao Lom Muak](https://www.google.com/maps/search/?api=1&query=Khao%20Lom%20Muak%20Prachuap%20Khiri%20Khan) | Pláž a kopec s hulmany v areálu základny Wing 5 |
-| 4 | Ranong, ubytování Tobedzz Hotel | [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y) | Potvrzeno 4.–5. 12., check-in od 14:00, check-out do 12:00 |
-| 4 | Ranong, autobusové nádraží (44 Ruangrat Road, Khao Niwet) | [Ranong Bus Terminal](https://www.google.com/maps/search/?api=1&query=Ranong%20Bus%20Terminal) | Sem většinou vyloží minivan z Chumphonu, do centra asi 1 km |
-| 4 | Ranong, molo rychlých lodí na Koh Phayam | [Ranong Pier (Koh Phayam)](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier%20Koh%20Phayam%20ferry) | Z autobusového nádraží je to tuk-tukem asi 10–15 minut |
-| 4 | Ranong, horké prameny Raksa Warin | [Raksawarin Hot Springs](https://www.google.com/maps/search/?api=1&query=Raksawarin%20Hot%20Springs%20Ranong) | Večerní koupání v horkých pramenech, asi 2 km východně od centra |
-| 4 | Koh Phayam, ubytování Flower Power Village (Ao Khao Kwai) | [Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) | Potvrzeno 5.–8. 12., check-in od 13:00, check-out do 11:00 |
-| 4 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | [Ao Yai](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Beach%20Koh%20Phayam), [Ao Khao Kwai](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai%20Beach%20Koh%20Phayam) | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
-| 5 | Khao Sok, ubytování Flora Hostel KhaoSok | [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok) | Potvrzeno 8.–9. 12., check-in 14:00–20:00, check-out 9:00–11:00, rezervováno přes Booking.com, noc se kryje s Bingo Hostel a Little wild house |
-| 5 | Khao Sok, ubytování Bingo Hostel Khao Sok | [Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok) | Potvrzeno 8.–10. 12., rezervováno přes Booking.com, 2 lůžka v dormu, check-in 14:00–20:00, check-out do 11:00, noc 8.–9. 12. se kryje s Flora Hostel, noci 8.–10. 12. s Little wild house |
-| 5 | Khao Sok, ubytování Little wild house Khaosok | [8.9091, 98.5233](https://www.google.com/maps/search/?api=1&query=8.9091%2C98.5233) | Potvrzeno 8.–11. 12., check-in 15:00–18:00, check-out 8:00–11:00, rezervováno přes Booking.com, noci se kryjí s Flora Hostel a Bingo Hostel Khao Sok, poloha podle kódu místa z Google Maps, asi 30 m od Flora Hostel |
-| 5 | Khao Sok, čtyřkolky Khao sok ATV Adventure | [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) | Volitelně, ve vesnici Khlong Sok, Google Maps 5,0 z 420 recenzí, 8:00–18:30, tel. +66 85 210 9593, jízda 1,5 až 2 hodiny, odvoz z ubytování zdarma |
-| 5 | Khao Sok, Khao Sok Elephant Sanctuary | [Khao Sok Elephant Sanctuary](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20Elephant%20Sanctuary%20Khlong%20Sok) | Volitelně, sloní útočiště ve vesnici Khlong Sok, Google Maps 4,4 z 884 recenzí, otevírá v 8:30, program (koupání, dotyky) a cenu ověřit před rezervací (neověřeno) |
-| 5 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
-| 5 | Khao Sok, vodopád Than Sawan (jiné psaní: Tan Sawan, Tarn Sawan) | [8.96678, 98.54116](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) | Volitelně, celodenní túra od ředitelství parku. Souřadnice jsou z jednoho zdroje (neověřeno), pod názvem se místo v Mapách nenajde |
-| 5 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
-| 6 | Krabi, ubytování Vacation House | [Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi) | Potvrzeno 12.–14. 12., rezervováno přes Booking.com, u pláže Klong Muang, příjezd 14:00–22:00, odjezd 7:00–12:00 |
-| 6 | Dragon Crest (Khao Ngon Nak), začátek stezky v Tub Kaek | [Dragon Crest](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest%20Krabi) | Výšlap na vyhlídkovou skálu, začátek stezky je za hotelem Amari Vogue (podle jednoho zdroje), od Vacation House asi 5 minut autem k pláži Tubkaek (neověřeno) |
-| 6 | Wat Tham Suea (Tiger Cave Temple), Krabi | [8.1240, 98.9252](https://www.google.com/maps/search/?api=1&query=8.1240%2C98.9252) | Volitelně: lesní klášter s mnichy a 1 237 schodů na vyhlídku, od Vacation House asi 40 minut skútrem |
-| 6 | Ao Nang, molo Nopparat Thara | [Nopparat Thara Pier](https://www.google.com/maps/search/?api=1&query=Nopparat%20Thara%20Pier%20Krabi) | Rychlé lodě na Koh Yao Noi (do mola Manoh), od Tub Kaek asi 25 minut |
-| 7 | Koh Yao Noi, molo Manoh | [8.0979, 98.5879](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) | Hlavní přístav rychlých lodí z Krabi a Phuketu |
-| 7 | Koh Yao Noi, molo Laem Sai | [Laem Sai Pier](https://www.google.com/maps/search/?api=1&query=Laem%20Sai%20Pier%20Koh%20Yao%20Noi) | Druhé molo, přímá loď Koh Yao Sun Smile na Bang Rong (neověřeno) |
-| 7 | Koh Yao Noi, Pyramid Bungalow | [8.1068, 98.6225](https://www.google.com/maps/search/?api=1&query=8.1068%2C98.6225) | Rezervované ubytování 14.–18. 12., s klimatizací |
-| 7 | Koh Yao Noi, Tabeak View Point | [8.1087, 98.6206](https://www.google.com/maps/search/?api=1&query=8.1087%2C98.6206) | Druhá rezervace na stejné noci, bez klimatizace, jedno ubytování zrušit |
-| 7 | Koh Yao Noi, pláž Pasai | [8.1001, 98.6199](https://www.google.com/maps/search/?api=1&query=8.1001%2C98.6199) | Odtud se půjčují kajaky na Koh Nok, koupání při přílivu |
-| 7 | Koh Yao Noi, pláž Tha Khao | [8.1300, 98.6223](https://www.google.com/maps/search/?api=1&query=8.1300%2C98.6223) | Východ slunce, při odlivu písečný práh k ostrůvku |
-| 7 | Koh Nok, ostrov a vyhlídka | [8.0802, 98.6269](https://www.google.com/maps/search/?api=1&query=8.0802%2C98.6269) | Kajakem asi 40 minut z Pasai, výstup na vyhlídku strmý po laně (neověřeno) |
-| 7 | Koh Hong, Phang Nga Bay | [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) | Celodenní výlet longtailem, vyhlídka a šnorchlování (neověřeno) |
-| 7 | Koh Yao Noi, NAMM NATAWN (หนำ นาทอน) | [8.1323, 98.5958](https://www.google.com/maps/search/?api=1&query=8.1323%2C98.5958) | Restaurace uprostřed rýžových polí na západě, podle Google Maps 10:30–18:30 (neověřeno) |
-| 7 | Koh Yao Noi, Viewpoint on Ricefields and Ocean | [8.1243, 98.5959](https://www.google.com/maps/search/?api=1&query=8.1243%2C98.5959) | Kavárna s vyhlídkovými plošinami nad poli, ve středu zavřeno (neověřeno) |
-| 7 | Koh Yao Noi, Rice Paddy Restaurant | [8.1045, 98.6226](https://www.google.com/maps/search/?api=1&query=8.1045%2C98.6226) | Restaurace u Pasai, asi 300 m od Pyramid Bungalow, v pondělí zavřeno (neověřeno) |
-| 7 | Koh Yao Noi, Tha Ton Do | [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) | Rybářská vesnice na západě, molo u mangrovů a západ slunce (neověřeno) |
-| 8 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi, sem přijíždí lodě z Manoh i z Laem Sai |
-| 8 | Nai Yang, ubytování Wattana Bungalow | [Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) | Potvrzeno 18.–19. 12., rezervováno přes Booking.com, check-in od 14:00, check-out do 12:00 |
-| 8 | Nai Yang, Nai Yang Fresh Market | [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) | Povinný bod, místní trh s jídlem a drobnostmi, podle Google Maps denně 16:00–19:00 (neověřeno) |
-| 8 | Nai Yang, pláž | [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) | Klidná pláž s restauracemi na písku, západ slunce |
-| 8 | Mai Khao, pláž s letadly | [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) | Letadla přistávají nízko nad pláží, na procházku, ne na koupání |
-| 8 | Nai Thon, pláž | [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) | Volitelně, menší klidná pláž asi 10 minut jízdy od Nai Yang |
-| 8 | Sakhu, Phuket Elephant Care Observe | [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) | Volitelně, sloní lávka jen na pozorování, cenu, časy a rezervaci ověřit na webu provozovatele (neověřeno) |
-| 8 | Nai Yang, správa národního parku Sirinat | [Sirinat National Park, správa](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) | Vstup 200 THB, u pláže Nai Yang, park jsme kvůli odpadkům jako cíl procházky vyřadili |
+| 2 | Prachuap Khiri Khan, Khao Chong Krachok (Wat Thammikaram) | [11.8165, 99.7981](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) | Volitelný výlet autem: chrámový kopec s 396 schody, výhled na záliv a makaky |
+| 2 | Prachuap Khiri Khan, Ao Manao a Khao Lom Muak | [Ao Manao](https://www.google.com/maps/search/?api=1&query=Ao%20Manao%20Beach%20Prachuap%20Khiri%20Khan), [Khao Lom Muak](https://www.google.com/maps/search/?api=1&query=Khao%20Lom%20Muak%20Prachuap%20Khiri%20Khan) | Volitelný výlet autem: pláž a kopec s hulmany v areálu základny Wing 5 |
+| 3 | Ranong, ubytování Tobedzz Hotel | [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y) | Potvrzeno 4.–5. 12., check-in od 14:00, check-out do 12:00 |
+| 3 | Ranong, autobusové nádraží (44 Ruangrat Road, Khao Niwet) | [Ranong Bus Terminal](https://www.google.com/maps/search/?api=1&query=Ranong%20Bus%20Terminal) | Sem většinou vyloží minivan z Chumphonu, do centra asi 1 km |
+| 3 | Ranong, molo rychlých lodí na Koh Phayam | [Ranong Pier (Koh Phayam)](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier%20Koh%20Phayam%20ferry) | Z autobusového nádraží je to tuk-tukem asi 10–15 minut |
+| 3 | Ranong, horké prameny Raksa Warin | [Raksawarin Hot Springs](https://www.google.com/maps/search/?api=1&query=Raksawarin%20Hot%20Springs%20Ranong) | Večerní koupání v horkých pramenech, asi 2 km východně od centra |
+| 3 | Koh Phayam, ubytování Flower Power Village (Ao Khao Kwai) | [Flower Power Village](https://www.google.com/maps/search/?api=1&query=Flower%20Power%20Village%20Koh%20Phayam&query_place_id=ChIJbXTjxdsAVzARXVxfYN4WzN4) | Potvrzeno 5.–8. 12., check-in od 13:00, check-out do 11:00 |
+| 3 | Koh Phayam, pláže Ao Yai (Long Beach) a Ao Khao Kwai | [Ao Yai](https://www.google.com/maps/search/?api=1&query=Ao%20Yai%20Beach%20Koh%20Phayam), [Ao Khao Kwai](https://www.google.com/maps/search/?api=1&query=Ao%20Khao%20Kwai%20Beach%20Koh%20Phayam) | Základna na ostrově, tuk-tukem z mola na Long Beach asi 100 THB na osobu |
+| 4 | Khao Sok, ubytování Flora Hostel KhaoSok | [Flora Hostel KhaoSok](https://www.google.com/maps/search/?api=1&query=Flora%20Hostel%20KhaoSok%20Khao%20Sok) | Potvrzeno 8.–9. 12., check-in 14:00–20:00, check-out 9:00–11:00, rezervováno přes Booking.com, noc se kryje s Bingo Hostel a Little wild house |
+| 4 | Khao Sok, ubytování Bingo Hostel Khao Sok | [Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok) | Potvrzeno 8.–10. 12., rezervováno přes Booking.com, 2 lůžka v dormu, check-in 14:00–20:00, check-out do 11:00, noc 8.–9. 12. se kryje s Flora Hostel, noci 8.–10. 12. s Little wild house |
+| 4 | Khao Sok, ubytování Little wild house Khaosok | [8.9091, 98.5233](https://www.google.com/maps/search/?api=1&query=8.9091%2C98.5233) | Potvrzeno 8.–11. 12., check-in 15:00–18:00, check-out 8:00–11:00, rezervováno přes Booking.com, noci se kryjí s Flora Hostel a Bingo Hostel Khao Sok, poloha podle kódu místa z Google Maps, asi 30 m od Flora Hostel |
+| 4 | Khao Sok, čtyřkolky Khao sok ATV Adventure | [Khao sok ATV Adventure](https://www.google.com/maps/search/?api=1&query=Khao%20sok%20ATV%20Adventure%20Khlong%20Sok%20Phanom) | Volitelně, ve vesnici Khlong Sok, Google Maps 5,0 z 420 recenzí, 8:00–18:30, tel. +66 85 210 9593, jízda 1,5 až 2 hodiny, odvoz z ubytování zdarma |
+| 4 | Khao Sok, Khao Sok Elephant Sanctuary | [Khao Sok Elephant Sanctuary](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20Elephant%20Sanctuary%20Khlong%20Sok) | Volitelně, sloní útočiště ve vesnici Khlong Sok, Google Maps 4,4 z 884 recenzí, otevírá v 8:30, program (koupání, dotyky) a cenu ověřit před rezervací (neověřeno) |
+| 4 | Khao Sok, ředitelství parku | [8.9165, 98.5281](https://www.google.com/maps/search/?api=1&query=8.9165%2C98.5281) | Hlavní vstup do pralesa, noční safari a pádlování na řece Sok |
+| 4 | Khao Sok, vodopád Than Sawan (jiné psaní: Tan Sawan, Tarn Sawan) | [8.96678, 98.54116](https://www.google.com/maps/search/?api=1&query=8.96678%2C98.54116) | Volitelně, celodenní túra od ředitelství parku. Souřadnice jsou z jednoho zdroje (neověřeno), pod názvem se místo v Mapách nenajde |
+| 4 | Cheow Lan, molo u přehrady Ratchaprapha | [Ratchaprapha Dam Pier](https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20Pier%20Cheow%20Lan) | Přístav pro plovoucí bungalovy, od vesnice Khao Sok asi hodina autem |
+| 5 | Krabi, ubytování Vacation House | [Vacation House](https://www.google.com/maps/search/?api=1&query=Vacation%20House%20Nong%20Thale%20Krabi) | Potvrzeno 12.–14. 12., rezervováno přes Booking.com, u pláže Klong Muang, příjezd 14:00–22:00, odjezd 7:00–12:00 |
+| 5 | Dragon Crest (Khao Ngon Nak), začátek stezky v Tub Kaek | [Dragon Crest](https://www.google.com/maps/search/?api=1&query=Khao%20Ngon%20Nak%20Dragon%20Crest%20Krabi) | Výšlap na vyhlídkovou skálu, začátek stezky je za hotelem Amari Vogue (podle jednoho zdroje), od Vacation House asi 5 minut autem k pláži Tubkaek (neověřeno) |
+| 5 | Wat Tham Suea (Tiger Cave Temple), Krabi | [8.1240, 98.9252](https://www.google.com/maps/search/?api=1&query=8.1240%2C98.9252) | Volitelně: lesní klášter s mnichy a 1 237 schodů na vyhlídku, od Vacation House asi 40 minut skútrem |
+| 5 | Ao Nang, molo Nopparat Thara | [Nopparat Thara Pier](https://www.google.com/maps/search/?api=1&query=Nopparat%20Thara%20Pier%20Krabi) | Rychlé lodě na Koh Yao Noi (do mola Manoh), od Tub Kaek asi 25 minut |
+| 6 | Koh Yao Noi, molo Manoh | [8.0979, 98.5879](https://www.google.com/maps/search/?api=1&query=8.0979%2C98.5879) | Hlavní přístav rychlých lodí z Krabi a Phuketu |
+| 6 | Koh Yao Noi, molo Laem Sai | [Laem Sai Pier](https://www.google.com/maps/search/?api=1&query=Laem%20Sai%20Pier%20Koh%20Yao%20Noi) | Druhé molo, přímá loď Koh Yao Sun Smile na Bang Rong (neověřeno) |
+| 6 | Koh Yao Noi, Pyramid Bungalow | [8.1068, 98.6225](https://www.google.com/maps/search/?api=1&query=8.1068%2C98.6225) | Rezervované ubytování 14.–18. 12., s klimatizací |
+| 6 | Koh Yao Noi, Tabeak View Point | [8.1087, 98.6206](https://www.google.com/maps/search/?api=1&query=8.1087%2C98.6206) | Druhá rezervace na stejné noci, bez klimatizace, jedno ubytování zrušit |
+| 6 | Koh Yao Noi, pláž Pasai | [8.1001, 98.6199](https://www.google.com/maps/search/?api=1&query=8.1001%2C98.6199) | Odtud se půjčují kajaky na Koh Nok, koupání při přílivu |
+| 6 | Koh Yao Noi, pláž Tha Khao | [8.1300, 98.6223](https://www.google.com/maps/search/?api=1&query=8.1300%2C98.6223) | Východ slunce, při odlivu písečný práh k ostrůvku |
+| 6 | Koh Nok, ostrov a vyhlídka | [8.0802, 98.6269](https://www.google.com/maps/search/?api=1&query=8.0802%2C98.6269) | Kajakem asi 40 minut z Pasai, výstup na vyhlídku strmý po laně (neověřeno) |
+| 6 | Koh Hong, Phang Nga Bay | [Koh Hong](https://www.google.com/maps/search/?api=1&query=Koh%20Hong,%20Phang%20Nga%20Bay) | Celodenní výlet longtailem, vyhlídka a šnorchlování (neověřeno) |
+| 6 | Koh Yao Noi, NAMM NATAWN (หนำ นาทอน) | [8.1323, 98.5958](https://www.google.com/maps/search/?api=1&query=8.1323%2C98.5958) | Restaurace uprostřed rýžových polí na západě, podle Google Maps 10:30–18:30 (neověřeno) |
+| 6 | Koh Yao Noi, Viewpoint on Ricefields and Ocean | [8.1243, 98.5959](https://www.google.com/maps/search/?api=1&query=8.1243%2C98.5959) | Kavárna s vyhlídkovými plošinami nad poli, ve středu zavřeno (neověřeno) |
+| 6 | Koh Yao Noi, Rice Paddy Restaurant | [8.1045, 98.6226](https://www.google.com/maps/search/?api=1&query=8.1045%2C98.6226) | Restaurace u Pasai, asi 300 m od Pyramid Bungalow, v pondělí zavřeno (neověřeno) |
+| 6 | Koh Yao Noi, Tha Ton Do | [Tha Ton Do](https://www.google.com/maps/search/?api=1&query=Tha%20Ton%20Do%20Pier%20Koh%20Yao%20Noi) | Rybářská vesnice na západě, molo u mangrovů a západ slunce (neověřeno) |
+| 7 | Phuket, molo Bang Rong | [8.0496, 98.4159](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159) | Nejvytíženější molo pro lodě na Koh Yao Noi, sem přijíždí lodě z Manoh i z Laem Sai |
+| 7 | Nai Yang, ubytování Wattana Bungalow | [Wattana Bungalow](https://www.google.com/maps/search/?api=1&query=Wattana%20Bungalow%20Nai%20Yang%20Phuket) | Potvrzeno 18.–19. 12., rezervováno přes Booking.com, check-in od 14:00, check-out do 12:00 |
+| 7 | Nai Yang, Nai Yang Fresh Market | [Nai Yang Fresh Market](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Fresh%20Market%20Phuket) | Povinný bod, místní trh s jídlem a drobnostmi, podle Google Maps denně 16:00–19:00 (neověřeno) |
+| 7 | Nai Yang, pláž | [Nai Yang Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Yang%20Beach%20Phuket) | Klidná pláž s restauracemi na písku, západ slunce |
+| 7 | Mai Khao, pláž s letadly | [Mai Khao Beach](https://www.google.com/maps/search/?api=1&query=Mai%20Khao%20Beach%20Phuket) | Letadla přistávají nízko nad pláží, na procházku, ne na koupání |
+| 7 | Nai Thon, pláž | [Nai Thon Beach](https://www.google.com/maps/search/?api=1&query=Nai%20Thon%20Beach%20Phuket) | Volitelně, menší klidná pláž asi 10 minut jízdy od Nai Yang |
+| 7 | Sakhu, Phuket Elephant Care Observe | [Phuket Elephant Care Observe](https://www.google.com/maps/search/?api=1&query=Phuket%20Elephant%20Care%20Observe%20Sakhu) | Volitelně, sloní lávka jen na pozorování, cenu, časy a rezervaci ověřit na webu provozovatele (neověřeno) |
+| 7 | Nai Yang, správa národního parku Sirinat | [Sirinat National Park, správa](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket) | Vstup 200 THB, u pláže Nai Yang, park jsme kvůli odpadkům jako cíl procházky vyřadili |
 
 **Pozor na Kui Buri:** Když zadáte jen „Kui Buri National Park“, navigace vás zavede k ředitelství parku (12.0516, 99.6240), ne k místu, odkud se vyráží na safari. Použijte odkaz z tabulky, nebo zadejte „Elephant Observatory Site“.
 
@@ -170,8 +167,8 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Bangkok (ulička Rong Mai u Khao San) → Hua Hin (Clock Tower), alternativa | dodávka Vivatrip v 9:00 (fáze 1) | asi 3 h 10 min (příjezd 12:10) | asi 290 Kč, neověřeno |
 | Hua Hin → Sam Roi Yot | auto z půjčovny | asi 45 min | benzín |
 | Sam Roi Yot → Kui Buri (Huai Luek) | auto z půjčovny | asi 1 h jedním směrem (odhad) | benzín, vjezd 30 |
-| Hua Hin → Prachuap Khiri Khan | vlak č. 43 v 10:31 | asi 1 h 10 min (příjezd 11:40) | podle třídy |
-| Prachuap Khiri Khan → Chumphon | vlak č. 43 v 11:41 | asi 2 h 25 min (příjezd 14:05) | od asi 3 USD |
+| Sam Roi Yot → Prachuap Khiri Khan (volitelně) | auto z půjčovny | asi 1 h jedním směrem (odhad) | benzín |
+| Hua Hin → Chumphon | vlak č. 43 v 10:31 | asi 3 h 35 min (příjezd 14:05) | podle třídy, neověřeno |
 | Chumphon → Ranong | minivan nebo autobus | asi 2 h, resp. 2,5 h | od asi 9 USD, odjezdy neověřené |
 | Ranong ↔ Koh Phayam | rychlá loď | 35–45 min | 350 + 5 poplatek |
 | Ranong → Khao Sok | autobus nebo minivan | nejrychleji asi 2 h 50 min | od asi 13 USD, zhruba 8:00–18:15 |
@@ -185,7 +182,7 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Nai Yang (Wattana Bungalow) → letiště HKT | Grab, Bolt, taxi | asi 7 min (podle inzerátu 2,8 km) | neověřeno |
 
 - **Z letiště BKK:** Nepoužívejte drahé letištní taxíky. Airport Rail Link je ve spodním podlaží terminálu (značky Airport Rail Link nebo Train), jezdí zhruba 5:30 až půlnoc a jde zaplatit i bezkontaktní kartou. V Makkasanu se přestupuje na metro krytou chodbou asi 200–400 m, s jinými turnikety i jízdným. Do starého města jeďte modrou linkou na Sam Yot. Po půlnoci Grab nebo taxi s taxametrem.
-- **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jak dlouho předem jde jízdenka koupit, závisí na tom, jak velkou část celé trasy vlaku jedete: pod čtvrtinou trasy jen 1 den předem, od čtvrtiny do 59 % trasy zhruba 30 dní předem. Vlak č. 43 jede z Bangkoku až do Surat Thani. Úsek Bangkok → Hua Hin se proto prodává zhruba 30 dní předem přes D-Ticket (oficiální web a aplikace železnic), 12Go.asia nebo na nádraží, na 30. 11. tedy od asi 31. 10. Krátké úseky Hua Hin → Prachuap (3. 12., asi 89 km) a Prachuap → Chumphon (4. 12.) jsou pod čtvrtinou trasy, resp. na její hranici, takže se nejspíš prodávají jen den předem. Neověřeno: v D-Ticket nebo 12Go se ukáže, jestli jdou koupit dřív. Agentury jako 12Go ukazují data dřív, ale podle thaitrainguide to nejsou potvrzené prodeje. V prosinci hrozí vyprodání, proto jízdenku na 30. 11. kupte hned a ostatní hned v první den prodeje. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
+- **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jak dlouho předem jde jízdenka koupit, závisí na tom, jak velkou část celé trasy vlaku jedete: pod čtvrtinou trasy jen 1 den předem, od čtvrtiny do 59 % trasy zhruba 30 dní předem. Vlak č. 43 jede z Bangkoku až do Surat Thani. Úsek Bangkok → Hua Hin se proto prodává zhruba 30 dní předem přes D-Ticket (oficiální web a aplikace železnic), 12Go.asia nebo na nádraží, na 30. 11. tedy od asi 31. 10. Úsek Hua Hin → Chumphon (4. 12.) je podle dopočtu vzdálenosti přes čtvrtinu trasy, takže se nejspíš prodává také zhruba 30 dní předem. Neověřeno: v D-Ticket nebo 12Go se ukáže, od kdy jde koupit. Agentury jako 12Go ukazují data dřív, ale podle thaitrainguide to nejsou potvrzené prodeje. V prosinci hrozí vyprodání, proto jízdenku na 30. 11. kupte hned a ostatní hned v první den prodeje. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
 - **Lodě:** V hlavní sezóně kupte lístky 2 až 3 dny předem. Nenastupujte na přeplněnou loď ani za špatného počasí, lodě se při větru ruší.
 - **Taxi:** V Bangkoku ani na Phuketu nenastupujte do taxíku bez zapnutého taxametru. Používejte Grab nebo Bolt, kde cenu znáte předem.
 
@@ -196,13 +193,12 @@ Trasa vede ze severu na jih a nikde se nevrací. Je to osnova: dny si poskládá
 | Fáze | Kde | Nocí | Datum | Střed na mapě |
 |---|---|---|---|---|
 | 1 | Bangkok | 3 | 27.–30. 11. | 13.7465, 100.4933 |
-| 2 | Sam Roi Yot, auto z Hua Hin | 3 | 30. 11.–3. 12. | přibl. 12.2060, 100.0100 |
-| 3 | Prachuap Khiri Khan | 1 | 3.–4. 12. | 11.8165, 99.7981 |
-| 4 | Ranong (1 noc) a Koh Phayam (3 noci) | 4 | 4.–8. 12. | přibl. 9.7400, 98.4030 |
-| 5 | Khao Sok a jezero Cheow Lan | 4 | 8.–12. 12. | 8.9165, 98.5281 |
-| 6 | Krabi | 2 | 12.–14. 12. | přibl. 8.0525, 98.7525 |
-| 7 | Koh Yao Noi | 4 | 14.–18. 12. | 8.1068, 98.6225 |
-| 8 | Phuket, Nai Yang | 1 | 18.–19. 12. | přibl. 8.0900, 98.2970 |
+| 2 | Sam Roi Yot, auto z Hua Hin | 4 | 30. 11.–4. 12. | přibl. 12.2060, 100.0100 |
+| 3 | Ranong (1 noc) a Koh Phayam (3 noci) | 4 | 4.–8. 12. | přibl. 9.7400, 98.4030 |
+| 4 | Khao Sok a jezero Cheow Lan | 4 | 8.–12. 12. | 8.9165, 98.5281 |
+| 5 | Krabi | 2 | 12.–14. 12. | přibl. 8.0525, 98.7525 |
+| 6 | Koh Yao Noi | 4 | 14.–18. 12. | 8.1068, 98.6225 |
+| 7 | Phuket, Nai Yang | 1 | 18.–19. 12. | přibl. 8.0900, 98.2970 |
 | | Celkem | 22 | 27. 11.–19. 12. | |
 
 Pevné jsou jen dva body: rezervace plovoucího bungalovu na Cheow Lan a odlet z Phuketu 19. 12. Co je ještě nedořešené, je v sekci Co se ještě dořeší.
@@ -280,21 +276,33 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 
 Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát o desítky metrů vedle. U hostelu je to střed ulice Ti Thong, u srazu na plavbu stanice metra Bang Phai (sraz je podle prodejce v uličce Phet Kasem 19/1, asi 200 m od mola). Přesné místo otevře odkaz do Map.
 
-### Fáze 2: Sam Roi Yot, mokřady, jeskyně a sloni (3 noci, 30. 11.–3. 12.)
+### Fáze 2: Sam Roi Yot, mokřady, jeskyně a sloni (4 noci, 30. 11.–4. 12.)
 
-Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Kui Buri. Veřejná doprava sem nejezdí, proto auto z Hua Hin.
+Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Kui Buri. Veřejná doprava sem nejezdí, proto auto z Hua Hin. Čtvrtý den je volný, na odpočinek nebo výlet autem do Prachuap Khiri Khan za opicemi.
 
 - **Mokřad Bueng Bua:** dřevěná lávka mezi lotosy, ptáky a varany.
 - **Jeskyně Phraya Nakhon:** královský pavilon, na který dopoledne svítí světlo otvorem ve stropu.
 - **Vyhlídka a chrám Khao Daeng:** výhled na hory a krevetí farmy, chrám pod skalami s opicemi.
 - **Divocí sloni v Kui Buri:** odpolední safari pickupem s průvodcem, stáda i s mláďaty.
+- **Prachuap Khiri Khan (volitelně):** výlet autem k hulmanům na pláži Ao Manao a na chrámový kopec Khao Chong Krachok s makaky a výhledem na záliv.
 
 #### Program po dnech
 
 - **Po 30. 11.:** Vlak do Hua Hin (10:31) nebo alternativně dodávka (12:10, fáze 1), vyzvednout auto, asi 45 minut do Sam Roi Yot. Odpoledne mokřad Bueng Bua: lávka asi 1 km, 8:00–17:00, asi 400 THB na osobu (park plus lávka, podle jednoho blogu), 1,5–2 hodiny. Volitelně místní loď asi 600 THB za loď.
 - **Út 1. 12.:** Ráno jeskyně Phraya Nakhon. Z Bang Pu (od ubytování autem) pěšky přes kopec na pláž Laem Sala asi 30 minut, loď je zbytečná (asi 400 THB). Pak strmé schody asi 30 minut nahoru. Buďte tam před desátou, světlo na pavilonu je nejlepší zhruba 9–13 hodin. Pavilon nechal postavit Rama V. po návštěvě v roce 1890. Kolem 15:30 krátce vesnický chrám u mola Khao Daeng (zdarma, jídlo mějte v batohu kvůli opicím).
-- **St 2. 12.:** Ráno vyhlídka Khao Daeng (157 m, 40–45 minut do kopce po kamenité stezce), když budete unavení, vynechte ji. Volitelně jeskyně Phra Prathun s netopýry (vede mnich, tel. +66 95 943 3832). Od 14:00 Kui Buri. Zpátky se jede za tmy, je to jediná noční jízda celého plánu.
-- **Čt 3. 12.:** Vyjet kolem 7:00, auto vrátit kolem 8:15 v Hua Hin, vlak v 10:31.
+- **St 2. 12.:** Ráno vyhlídka Khao Daeng (157 m, 40–45 minut do kopce po kamenité stezce), když budete unavení, vynechte ji. Volitelně jeskyně Phra Prathun s netopýry (vede mnich, tel. +66 95 943 3832). Od 14:00 Kui Buri. Zpátky se jede za tmy, jinak se v plánu za tmy nejezdí (kromě volitelného výletu do Prachuap).
+- **Čt 3. 12.:** Volný den na odpočinek u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00.
+- **Pá 4. 12.:** Vyjet kolem 7:00, auto vrátit kolem 8:15 v Hua Hin, vlak v 10:31 rovnou do Chumphonu (viz Přesun dál).
+
+#### Prachuap Khiri Khan (volitelně)
+
+Malé klidné město u zálivu s promenádou, od Sam Roi Yot odhadem asi hodinu autem (neověřeno). Na jeden výlet dva druhy opic.
+
+- **Ao Manao (městská část Ko Lak):** klidná zátoka v areálu letecké základny Wing 5, kde žijí hulmani s bílými kruhy kolem očí. U brány základny se zapisuje pas a platí hotově, otevřeno asi 8–18 h. Hulmany uvidíte nejlépe pozdě odpoledne, nekrmte je.
+- **Khao Chong Krachok (Wat Thammikaram):** 396 schodů k chrámu s výhledem na záliv, zdarma, nahoru 20–30 minut. Makakové berou jídlo, pití i brýle, tašku mějte zavřenou. Za poledního horka je betonové schodiště rozpálené, jděte ráno, nebo až pozdě odpoledne.
+- **Promenáda u zálivu:** večeře z moře.
+
+Jak to spojit: odpoledne Ao Manao, pak Khao Chong Krachok a večeře na promenádě. Zpátky se pak jede asi hodinu za tmy, stejně jako z Kui Buri. Kdo za tmy jet nechce, vrátí se před setměním.
 
 #### Kui Buri prakticky
 
@@ -302,7 +310,7 @@ Sloni jsou nejaktivnější od zhruba 15:00, po 17:00 už do areálu nevjedete. 
 
 #### Auto z Hua Hin
 
-Thai Rent A Car / Enterprise u Aquana Resort (17/49 Soi Nong Kae, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00). Malé auto od asi 800–900 THB na den. Vezměte pasy, řidičské průkazy skupiny B, mezinárodní řidičský průkaz (vyřízený) a kartu na kauci. Jezdí se vlevo.
+Thai Rent A Car / Enterprise u Aquana Resort (17/49 Soi Nong Kae, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00). Auto potřebujete na 4 dny, 30. 11.–4. 12. Malé auto od asi 800–900 THB na den. Vezměte pasy, řidičské průkazy skupiny B, mezinárodní řidičský průkaz (vyřízený) a kartu na kauci. Jezdí se vlevo.
 
 #### Vstupy
 
@@ -310,15 +318,15 @@ Vstup do parku Khao Sam Roi Yot 200 THB na osobu a platí jen v den zakoupení. 
 
 #### Ubytování
 
-[Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs), 30. 11.–3. 12. (3 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, pokoj Deluxe Cottage with Private Terrace. Příjezd v pondělí 30. 11. mezi 14:00 a 22:00, odjezd ve čtvrtek 3. 12. do 12:00. Zrušit zdarma do 28. 11. 23:59 thajského času (v Česku 28. 11. v 17:59). Ve vesnici Sam Roi Yot asi 7 km vzdušnou čarou severně od Bang Pu, pár minut pěšky k pláži.
-
-Druhá rezervace na stejné noci: **[Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot)** (Booking.com), 30. 11.–3. 12. (3 noci), chata s 1 ložnicí, 2 dospělí, adresa 295 Sam Roi Yot, 77120, telefon hostitelů +66 92 837 2440. Check-in 14:00–18:00, check-out 7:00–12:00. Snídaně v ceně není. Zrušit zdarma do 24. 11. 23:59 thajského času (v Česku 24. 11. v 17:59), potom se platí celá cena 3 968 THB. Jedno ze dvou ubytování je potřeba zrušit, rozhodnout nejpozději do 24. 11. v 17:59 českého času, protože Driftwood vyprší dřív.
+[Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot), 30. 11.–4. 12. (4 noci), potvrzeno, rezervováno přes Booking.com, 2 dospělí, chata s 1 ložnicí, adresa 295 Sam Roi Yot, 77120, telefon hostitelů +66 92 837 2440. Příjezd v pondělí 30. 11. mezi 14:00 a 18:00, odjezd v pátek 4. 12. mezi 7:00 a 12:00. Snídaně v ceně není. Zrušit zdarma do 24. 11. 23:59 thajského času (v Česku 24. 11. v 17:59), potom se platí celá cena. Číslo rezervace a PIN jsou v potvrzovacím e-mailu.
 
 Poloha Driftwood podle inzerátů (Trip.com, Hotels.com, Expedia, neověřeno): ve vesnici Sam Roi Yot mimo pláž, k pláži Sam Roi Yot asi 2 km (autem pár minut), místní trh Local Fresh Market asi 900 m pěšky, restaurace spíš autem asi 6 až 10 minut, k Bang Pu asi 12 km (asi 20 minut autem). Bazén, sdílená kuchyň, parkování. Check-in je jen do 18:00, po 18:00 je podle inzerátu potřeba zavolat hostitelům den předem (neověřeno). V pondělí 30. 11. je potřeba stihnout check-in před 18:00, mokřad Bueng Bua se zavírá v 17:00.
 
-#### Přesun dál (Čt 3. 12., dopoledne)
+Ke zrušení: [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) (Booking.com), 30. 11.–3. 12. (3 noci), je ještě rezervovaný, ale nahrazuje ho Driftwood. Zrušit zdarma do 28. 11. 23:59 thajského času (v Česku 28. 11. v 17:59).
 
-Auto zpět do Hua Hin, vlak č. 43 v 10:31 do Prachuap Khiri Khan (asi 1 h 10 min). Jízdenka na tento krátký úsek jde nejspíš koupit až den předem, tedy 2. 12. (sekce Doprava).
+#### Přesun dál (Pá 4. 12., dopoledne)
+
+Vyjeďte kolem 7:00 a auto vraťte kolem 8:15 v Hua Hin. Vlak č. 43 v 10:31 jede rovnou do Chumphonu (příjezd 14:05, asi 3 h 35 min). Jízdenka na tento úsek se podle dopočtu vzdálenosti prodává zhruba 30 dní předem, takže by už měla jít koupit (neověřeno, v D-Ticket nebo 12Go, sekce Doprava). Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia. Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
 
 #### Mapy
 
@@ -332,50 +340,18 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Jeskyně Phra Prathun (netopýři, vede mnich) | volitelně | přibl. 12.1442, 99.9111 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.1442%2C99.9111) |
 | Divocí sloni v Kui Buri (pozorovací místo Huai Luek) | must see | 12.1385, 99.6467 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.1385%2C99.6467) |
 | Pláž Laem Sala (začátek stezky k jeskyni) | volitelně | přibl. 12.2036, 100.0139 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2036%2C100.0139) |
-| Sam Roi Yot Sea Sight Resort | ubytování | přibl. 12.2453, 99.9805 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) |
-| Driftwood and Jolie Cottages (druhá rezervace) | ubytování | přibl. 12.2407, 99.9687 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) |
+| Pláž Ao Manao v Prachuap (hulmani) | volitelně | přibl. 11.7750, 99.8056 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.7750%2C99.8056) |
+| Khao Chong Krachok v Prachuap, chrám a makakové | volitelně | 11.8165, 99.7981 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) |
+| Promenáda u zálivu v Prachuap (střed města) | volitelně | přibl. 11.8170, 99.8000 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8170%2C99.8000) |
+| Sam Roi Yot Sea Sight Resort (ke zrušení) | ubytování | přibl. 12.2453, 99.9805 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) |
+| Driftwood and Jolie Cottages (ubytování 30. 11.–4. 12.) | ubytování | přibl. 12.2407, 99.9687 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) |
 | Bang Pu, odtud se jde pěšky k jeskyni | doprava | přibl. 12.2067, 100.0095 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2067%2C100.0095) |
 | Nádraží Hua Hin | doprava | přibl. 12.5673, 99.9547 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5673%2C99.9547) |
 | Půjčovna aut Thai Rent A Car (Aquana Resort, Hua Hin) | doprava | přibl. 12.5491, 99.9628 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5491%2C99.9628) |
 
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Chrám Wat Khao Daeng a začátek stezky na vyhlídku jsou jeden bod, vyhlídka je od něj kus do kopce. Ubytování je umístěné podle polohy v rezervačním portálu, přesné místo otevře odkaz do Map. Jeskyně Phra Prathun je podle kódu místa z Google Maps (4WV6+MC) u vesnice Don Yai Nu, asi 5 km od chrámu Wat Khao Daeng, a telefon ve výpisu sedí s číslem v textu, z jiného zdroje ověřená není. Půjčovna aut Thai Rent A Car je podle kódu místa z Google Maps (GXX7+J4) u Aquana Resort, asi 2,2 km od nádraží Hua Hin, což sedí s údajem asi 2,5 km v textu, z jiného zdroje ověřená není.
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Chrám Wat Khao Daeng a začátek stezky na vyhlídku jsou jeden bod, vyhlídka je od něj kus do kopce. Ubytování je umístěné podle polohy v rezervačním portálu, přesné místo otevře odkaz do Map. Jeskyně Phra Prathun je podle kódu místa z Google Maps (4WV6+MC) u vesnice Don Yai Nu, asi 5 km od chrámu Wat Khao Daeng, a telefon ve výpisu sedí s číslem v textu, z jiného zdroje ověřená není. Půjčovna aut Thai Rent A Car je podle kódu místa z Google Maps (GXX7+J4) u Aquana Resort, asi 2,2 km od nádraží Hua Hin, což sedí s údajem asi 2,5 km v textu, z jiného zdroje ověřená není. Promenáda v Prachuap Khiri Khan je dlouhý pás podél zálivu, bod je jen u středu města.
 
-### Fáze 3: Prachuap Khiri Khan, hulmani a chrám s opicemi (1 noc, 3.–4. 12.)
-
-Malé klidné město u zálivu s promenádou. Jedno odpoledne a jedno ráno se dvěma druhy opic. První kandidát na vyřazení: když se bude ubírat, vypadne tahle noc a podobnou atmosféru dá Sam Roi Yot.
-
-- **Ao Manao:** klidná zátoka v areálu letecké základny, kde žijí hulmani s bílými kruhy kolem očí.
-- **Khao Chong Krachok:** 396 schodů k chrámu s výhledem na záliv a s makaky.
-- **Promenáda u zálivu:** večeře z moře.
-
-#### Program
-
-- **Čt 3. 12. odpoledne:** Vlak dojede v 11:40. Po obědě Ao Manao (městská část Ko Lak): u brány základny Wing 5 se zapisuje pas a platí hotově, otevřeno asi 8–18 h. Hulmany uvidíte nejlépe pozdě odpoledne, nekrmte je. Večer promenáda.
-- **Pá 4. 12. ráno:** Před osmou Khao Chong Krachok (Wat Thammikaram, zdarma, nahoru 20–30 minut). Po osmé je betonový kopec rozpálený. Makakové berou jídlo, pití i brýle, tašku mějte zavřenou. Pak odhlásit a na vlak.
-
-#### Ubytování
-
-[Jungle Cafe and Guesthouse](https://www.google.com/maps/search/?api=1&query=Jungle%20Cafe%20and%20Guesthouse%20Prachuap%20Khiri%20Khan), 3.–4. 12., potvrzeno, rezervováno přes Agodu. Check-in od 14:00. Je u moře, ale mnohem dál od nádraží, takže počítejte s přesunem na nádraží (vzdálenost si ověřte v Mapách). Zrušit zdarma do 29. 11. 23:59 thajského času (v Česku 29. 11. v 17:59).
-
-#### Přesun dál (Pá 4. 12., před polednem)
-
-Vlak č. 43 v 11:41, v Chumphonu ve 14:05. Jízdenku kupte co nejdřív, jde nejspíš až den předem, tedy 3. 12. (sekce Doprava). Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia. Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
-
-#### Mapy
-
-Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bodu: must see je program, který stojí za to, volitelně si přidáte, když bude síla, ubytování a doprava jsou šedé.
-
-| Místo | Typ | Souřadnice | Odkaz do Map |
-|---|---|---|---|
-| Pláž Ao Manao (hulmani) | must see | přibl. 11.7750, 99.8056 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.7750%2C99.8056) |
-| Khao Chong Krachok, chrám a makakové | must see | 11.8165, 99.7981 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) |
-| Promenáda u zálivu (střed města) | must see | přibl. 11.8170, 99.8000 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8170%2C99.8000) |
-| Jungle Cafe and Guesthouse | ubytování | přibl. 11.8044, 99.7994 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8044%2C99.7994) |
-| Nádraží Prachuap Khiri Khan | doprava | přibl. 11.8078, 99.7938 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8078%2C99.7938) |
-
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Promenáda je dlouhý pás podél zálivu, bod je jen u středu města. Ubytování Jungle Cafe and Guesthouse (Beach Road 44/5) je na mapě podle polohy kavárny Jungle Cafe v sousedním domě, ze které majitel odkazuje do Map. Booking.com uvádí od ubytování asi 1,5 km ke Khao Chong Krachok, což sedí.
-
-### Fáze 4: Ranong a Koh Phayam (1 noc v Ranongu a 3 noci na ostrově, 4.–8. 12.)
+### Fáze 3: Ranong a Koh Phayam (1 noc v Ranongu a 3 noci na ostrově, 4.–8. 12.)
 
 Večer v horkých pramenech v Ranongu a pak tři dny lenošení na klidném ostrově bez velkých hotelů. Žádná památka, jen pláže a toulání po ostrově.
 
@@ -449,7 +425,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 
 Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Ao Yai i Ao Khao Kwai jsou dlouhé pláže, bod je jen na jednom místě. Poloha mangrovů je podle popisů v průvodcích (jižní konec zátoky, kde se do ní vlévá říčka), přesné místo a půjčovnu kajaků zjistěte na recepci. Autobusové nádraží a obě mola mají polohu z jednoho zdroje. Flower Power Village a Tobedzz Hotel jsou na mapě podle kódů míst z Google Maps (QC56+R8 a XJ4P+3X). Flower Power sedí i na vzdálenosti 0,5 km od Ao Khao Kwai a 1,2 km od Ao Kwang Peeb, Tobedzz je asi 150 m od autobusového nádraží.
 
-### Fáze 5: Khao Sok a jezero Cheow Lan (4 noci, 8.–12. 12.)
+### Fáze 4: Khao Sok a jezero Cheow Lan (4 noci, 8.–12. 12.)
 
 Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u ředitelství parku, jednu noc můžete strávit přímo na jezeře.
 
@@ -550,7 +526,7 @@ Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený
 
 [Bingo Hostel Khao Sok](https://www.google.com/maps/search/?api=1&query=Bingo%20Hostel%20Khao%20Sok), 8.–10. 12. (2 noci), potvrzeno, 2 dospělí, 2 lůžka, jedno z nich postel v 8lůžkovém smíšeném společném pokoji. Rezervováno přes Booking.com. Adresa 285/3 Moo 6, Khao Sok, 84250, tel. +66 61 229 7717. Check-in 14:00–20:00, check-out do 11:00. Snídaně se platí zvlášť, 120 THB za osobu a noc. Zrušit zdarma do 6. 12. 2026 23:59 thajského času (v Česku 6. 12. v 17:59). Neověřeno: klimatizace v dormu a jestli hostel zařídí výlet na jezero Cheow Lan. Noci 8.–10. 12. se kryjí s Little wild house, noc 8.–9. 12. i s Flora Hostel.
 
-[Little wild house Khaosok](https://www.google.com/maps/search/?api=1&query=8.9091%2C98.5233), 8.–11. 12. (3 noci), potvrzeno, 2 dospělí, dvoulůžkový pokoj s manželskou postelí a výhledem na hory, nabídka je soukromý pokoj se sdílenou koupelnou. Rezervováno přes Booking.com. Adresa 84250 Khao Sok, tel. +66 82 808 0020. Check-in 15:00–18:00, check-out 8:00–11:00. Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku 4. 12. v 17:59), potom se platí celá cena, stejně jako když se nedostavíte. Check-in je kratší než u Flora a Bingo (do 20:00), příjezd z Koh Phayam 8. 12. je ve fázi 4 neověřený, takže případný pozdější příchod je potřeba předem domluvit s ubytováním. Neověřeno: klimatizace a jestli ubytování zařídí výlet na jezero Cheow Lan. Noci se kryjí s Flora Hostel (8.–9. 12.) a Bingo Hostel (8.–10. 12.). Poloha podle kódu místa z Google Maps (WG5F+J8), asi 30 m od Flora Hostel a asi 900 m od ředitelství parku.
+[Little wild house Khaosok](https://www.google.com/maps/search/?api=1&query=8.9091%2C98.5233), 8.–11. 12. (3 noci), potvrzeno, 2 dospělí, dvoulůžkový pokoj s manželskou postelí a výhledem na hory, nabídka je soukromý pokoj se sdílenou koupelnou. Rezervováno přes Booking.com. Adresa 84250 Khao Sok, tel. +66 82 808 0020. Check-in 15:00–18:00, check-out 8:00–11:00. Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku 4. 12. v 17:59), potom se platí celá cena, stejně jako když se nedostavíte. Check-in je kratší než u Flora a Bingo (do 20:00), příjezd z Koh Phayam 8. 12. je ve fázi 3 neověřený, takže případný pozdější příchod je potřeba předem domluvit s ubytováním. Neověřeno: klimatizace a jestli ubytování zařídí výlet na jezero Cheow Lan. Noci se kryjí s Flora Hostel (8.–9. 12.) a Bingo Hostel (8.–10. 12.). Poloha podle kódu místa z Google Maps (WG5F+J8), asi 30 m od Flora Hostel a asi 900 m od ředitelství parku.
 
 Noc 10.–11. 12. pokrývá Little wild house, noc 11.–12. 12. zatím není rezervovaná. Jedna z nocí 10.–12. 12. je na jezeře (viz blok Noc na jezeře): noc 10.–11. 12. na jezeře by se s Little wild house kryla (rezervaci by bylo potřeba upravit nebo zrušit), noc 11.–12. 12. ne. Noc ve vesnici, která zbude, se rozhodne později, jestli se rezervuje předem, nebo hledá na místě, až bude jasná noc na jezeře. Při hledání bylo v Khao Sok hodně míst obsazených a 10. 12. je státní svátek. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
 
@@ -576,7 +552,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 
 Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační. Jezero Cheow Lan má jediný údaj a bod leží uprostřed jezera, ne u mola ani u plovoucích bungalovů, místo srazu zjistěte u organizátora. Ředitelství parku sedí podle kódu místa z Google Maps (WG8H+75M) i podle bodu v sekci Záchytné body pro Google Maps. Bingo Hostel (WG7G+FJ), Flora Hostel (WG5F+G8), Little wild house (WG5F+J8), čtyřkolky (VHR3+W5) a sloní útočiště (VGRM+Q5) jsou podle kódů míst z Google Maps. Bingo je asi 350 m a Flora asi 1 km od ředitelství, což sedí s popisem Bookingu, že obě jsou kousek od vesnice, Little wild house je asi 30 m od Flora Hostel a asi 900 m od ředitelství (telefon v Mapách sedí s potvrzením rezervace), čtyřkolky jsou asi 4 km od ředitelství ve vesnici Khlong Sok. Sloní útočiště vychází asi 2,2 km od čtyřkolek a stejnou vzdálenost uvádí i cestovní web, takže jeho polohu potvrzují dva zdroje. Molo Ratchaprapha je z jednoho zdroje (cestovní web, který ho vede jako Cheow Lan Pier), leží asi 1,8 km východně od bodu jezera. Vodopád Than Sawan existuje, podle průvodců jde o túru 6 až 7 km od ředitelství a vzdušnou čarou od ředitelství vychází asi 6 km, což sedí, ale souřadnice jsou z jednoho zdroje a na místě je ověřte. Odkaz na vesnici otevře hledání podle názvu: [Khao Sok, vesnice](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20village).
 
-### Fáze 6: Krabi a Dragon Crest (2 noci, 12.–14. 12.)
+### Fáze 5: Krabi a Dragon Crest (2 noci, 12.–14. 12.)
 
 Základna u pláže Klong Muang, mimo rušné letovisko Ao Nang, a jeden celý den na výšlap na Dragon Crest. So 12. 12. příjezd z Khao Sok, ne 13. 12. Dragon Crest, po 14. 12. ráno loď na Koh Yao Noi.
 
@@ -625,7 +601,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 
 Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Dragon Crest je podle kódu místa z Google Maps (3PXX+M9J) u správy národního parku Khao Ngon Nak, asi 600 m od hotelu Amari Vogue, což sedí s popisem, že stezka začíná za hotelem. Přesné místo začátku stezky ověřte na místě. Vacation House je podle kódu místa z Google Maps (3P5X+3J) jen asi 25 m od bodu na mapě, který sedí i na pláž Klong Muang a na vzdálenost k Ao Nang, takže polohu potvrzují dva zdroje. Ao Nang je střed pláže ve třech zdrojích. Molo Nopparat Thara je podle kódu místa z Google Maps (2QWX+XC), asi 1,6 km od středu pláže Nopparat Thara, což odpovídá popisu, že je na jejím západním konci, z jiného zdroje ověřené není. Pláž Klong Muang je dlouhá a tři zdroje se rozcházejí až o 1,4 km, bod je jejich střed a leží asi 700 m od Vacation House, nejbližší část pláže je podle textu do 100 m od ubytování. Tiger Cave Temple je podle souřadnic z Wikipedie, katalogu jeskyní Grottocenter a průvodce turpravda (rozdíl do 150 m), přesné místo vstupu ověřte na místě. Pláž Tub Kaek na mapě není, odkaz: [pláž Tub Kaek](https://www.google.com/maps/search/?api=1&query=Tubkaek%20Beach,%20Krabi).
 
-### Fáze 7: Pomalý ostrov Koh Yao Noi (4 noci, 14.–18. 12.)
+### Fáze 6: Pomalý ostrov Koh Yao Noi (4 noci, 14.–18. 12.)
 
 Nejpomalejší místo trasy: rýžová pole, minimum aut, rybářské vesnice a výhled na skály v zálivu Phang Nga. Čtyři noci u moře na východním pobřeží, příjezd lodí z Nopparat Thara po 14. 12.
 
@@ -673,7 +649,7 @@ Koupat se dá hlavně při přílivu, při odlivu se odhalí široké plochy dna
 #### Další volitelné zastávky
 
 - **Kajak na Kudu:** půldenní a jednoduchý, ale bez laguny a bez vyhlídky.
-- **Mangrovy na Koh Yao Yai:** výlet s průvodcem. Organizátor a cena neověřené. Kajaky bez průvodce v mangrovech máme na Koh Phayam (fáze 4).
+- **Mangrovy na Koh Yao Yai:** výlet s průvodcem. Organizátor a cena neověřené. Kajaky bez průvodce v mangrovech máme na Koh Phayam (fáze 3).
 - **Masáž:** podle recenzí kousek od Pyramid Bungalow.
 - **Den bez programu:** slow tempo, klidně jen pláž a kokos.
 
@@ -689,7 +665,7 @@ Zvažovaná klidnější alternativa: Namtok Bungalows u Tha Khao (v džungli u 
 
 #### Přesun dál (Pá 18. 12., kolem poledne)
 
-Rychlou lodí z Koh Yao Noi na molo Bang Rong na severovýchodě Phuketu, odtud taxi do Nai Yang (ubytování Wattana Bungalow, fáze 8). Časy a ceny jsou neověřené pro 18. 12., zdroje se v časech liší a provozovatelé je mění bez upozornění.
+Rychlou lodí z Koh Yao Noi na molo Bang Rong na severovýchodě Phuketu, odtud taxi do Nai Yang (ubytování Wattana Bungalow, fáze 7). Časy a ceny jsou neověřené pro 18. 12., zdroje se v časech liší a provozovatelé je mění bez upozornění.
 
 Dvě mola, ze kterých se dá jet:
 
@@ -700,7 +676,7 @@ Obě lodě končí na molu Bang Rong. Odtud taxi do Nai Yang asi 19 minut a kole
 
 **Lístek:** koupit online 2 až 3 dny předem, tedy kolem 15. až 16. 12., až je vidět předpověď moře. Jde to na [phuketferry.com](https://phuketferry.com/) (hledejte trasu Koh Yao Noi to Phuket), přes 12Go, nebo přímo u provozovatele přes web, WhatsApp či Line. U online nákupu je u spojů uvedené „Refund available“ a „Amend available“ (vrácení a změna), přesné podmínky storna zkontrolujte před platbou. Když se loď kvůli počasí zruší, nabízí web změnu na další spoj nebo vrácení peněz. Lístek je QR voucher v telefonu, na molo přijďte aspoň 30 minut před odjezdem.
 
-**Špatné počasí:** rychlé lodě se při rozbouřeném moři ruší jako první, podle Travelfish i na několik dní. Nejezděte poslední lodí, vezměte spoj kolem 11:30 až 13:00, aby zbyl další. Ráno 18. 12. se zeptejte hostitele, jestli lodě jedou. Kdyby 18. 12. nic nejelo, zkuste to 19. 12. od rána, odlet je až ve 21:00 (noc ve Wattana Bungalow by ale propadla, viz fáze 8).
+**Špatné počasí:** rychlé lodě se při rozbouřeném moři ruší jako první, podle Travelfish i na několik dní. Nejezděte poslední lodí, vezměte spoj kolem 11:30 až 13:00, aby zbyl další. Ráno 18. 12. se zeptejte hostitele, jestli lodě jedou. Kdyby 18. 12. nic nejelo, zkuste to 19. 12. od rána, odlet je až ve 21:00 (noc ve Wattana Bungalow by ale propadla, viz fáze 7).
 
 #### Mapy
 
@@ -724,7 +700,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 
 Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační. Koh Hong je Koh Hong u Krabi, na který se jezdí longtailem z Koh Yao Noi, ne stejnojmenný ostrov v zálivu Phang Nga, kam jezdí lodě z Phuketu. Bod je podle čtyř zdrojů (údaj o ostrově, kotviště v průvodci plachtění a v námořní aplikaci), které se shodují do asi 400 m. Ostatní body jsou z tabulky Záchytné body pro Google Maps a jinde ověřené nejsou, polohu ostrova Koh Nok (jeden článek píše o kajaku od západního pobřeží) ověřte na místě. Molo Laem Sai je podle záznamu Laem Sai Pier v Google Maps (kód 3JJ5+QH6, kategorie přístaviště), který leží jen asi 2 m od bodu v tabulce, a shoduje se s ním i web s lodními spoji, takže polohu potvrzují dva zdroje. U mola Manoh se zdroje rozcházejí: web s lodními spoji ho klade asi 470 m od bodu v tabulce, ale záznam Manoh Pier v Google Maps (kód 4H8R+HR9) leží asi 2,1 km severněji. Ten záznam je veden jako cestovní kancelář, ne jako přístaviště, proto je bod v tabulce jen přibližný a polohu mola Manoh ověřte na místě. Tha Ton Do je podle kódu místa z Google Maps (4HRX+H6) a sedí s adresou 46/16 z průvodce, od ubytování Pyramid Bungalow vychází asi 5 km a od restaurace NAMM NATAWN asi 1 km, což odpovídá popisu fáze. Vyhlídka Hornbill je podle kódu místa z Google Maps (4JPH+C53) a leží asi 900 m od pláže Tha Khao, což sedí s popisem „nad Tha Khao“, z jiného zdroje ověřená není.
 
-### Fáze 8: Phuket, Nai Yang, pláže, letadla, trh a odlet (1 noc, 18.–19. 12.)
+### Fáze 7: Phuket, Nai Yang, pláže, letadla, trh a odlet (1 noc, 18.–19. 12.)
 
 Poslední noc v klidné vesnici Nai Yang na severu Phuketu, pár minut od letiště. Program je nabídka možností, jen trh Nai Yang Fresh Market je povinný bod. V sobotu 19. 12. odlétáte ve 21:00 a den si poskládáte na místě. Noc na Phuketu je zároveň pojistka: lodě se za špatného počasí ruší.
 
@@ -817,7 +793,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Wattana Bungalow (ubytování 18.–19. 12.) | ubytování | přibl. 8.0849, 98.3021 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.0849%2C98.3021) |
 | Letiště Phuket (HKT), odlet 19. 12. ve 21:00 | doprava | přibl. 8.1131, 98.3167 | [Google Maps](https://www.google.com/maps/search/?api=1&query=8.1131%2C98.3167) |
 
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Pláž Nai Yang a Nai Thon jsou střed pláže ve dvou až třech zdrojích, letiště sedí ve třech zdrojích. Mai Khao je dlouhá pláž, bod je podle jednoho zdroje její jižní konec u dráhy letiště, kde se fotí letadla, druhý zdroj dává střed pláže asi 4 km severněji. Trh je podle kódu místa z Google Maps (38V3+JF), druhý zdroj, odvozený z adresy u chrámu Wat Mongkol Wararam, ho klade asi 200 m vedle, takže polohu potvrzují dva zdroje. Hodiny a dny ověřte na místě. Wattana Bungalow je podle kódu místa z Google Maps (38M2+XR), asi 750 m od pláže Nai Yang a asi 3,5 km od letiště, což sedí s popisem Bookingu (do 1 km od pláže, asi 3 km od letiště). Sloní lávka Observe je podle kódu místa z Google Maps (3854+JV) na adrese 45 Thepkasatri 67, Sa Khu, asi 3,2 km od pláže Nai Thon a asi 2,9 km od Wattana Bungalow, z jiného zdroje ověřená není. Na mapě chybí správa parku Sirinat (poloha nenalezena), odkaz otevře hledání podle názvu: [správa parku Sirinat](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket). Molo Bang Rong je na mapě fáze 7: [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159).
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Pláž Nai Yang a Nai Thon jsou střed pláže ve dvou až třech zdrojích, letiště sedí ve třech zdrojích. Mai Khao je dlouhá pláž, bod je podle jednoho zdroje její jižní konec u dráhy letiště, kde se fotí letadla, druhý zdroj dává střed pláže asi 4 km severněji. Trh je podle kódu místa z Google Maps (38V3+JF), druhý zdroj, odvozený z adresy u chrámu Wat Mongkol Wararam, ho klade asi 200 m vedle, takže polohu potvrzují dva zdroje. Hodiny a dny ověřte na místě. Wattana Bungalow je podle kódu místa z Google Maps (38M2+XR), asi 750 m od pláže Nai Yang a asi 3,5 km od letiště, což sedí s popisem Bookingu (do 1 km od pláže, asi 3 km od letiště). Sloní lávka Observe je podle kódu místa z Google Maps (3854+JV) na adrese 45 Thepkasatri 67, Sa Khu, asi 3,2 km od pláže Nai Thon a asi 2,9 km od Wattana Bungalow, z jiného zdroje ověřená není. Na mapě chybí správa parku Sirinat (poloha nenalezena), odkaz otevře hledání podle názvu: [správa parku Sirinat](https://www.google.com/maps/search/?api=1&query=Sirinat%20National%20Park%20headquarters%20Nai%20Yang%20Phuket). Molo Bang Rong je na mapě fáze 6: [molo Bang Rong](https://www.google.com/maps/search/?api=1&query=8.0496%2C98.4159).
 
 ## Počasí, teploty a deště (listopad a první polovina prosince)
 
@@ -841,7 +817,7 @@ Cesta začíná koncem listopadu, kdy na straně Zálivu a v Khao Sok ještě do
 Z Prahy letíte 26. 11., do Bangkoku dorazíte 27. 11. a z Phuketu odlétáte 19. 12. Celá cesta tak končí den před začátkem hlavní sezóny (zhruba 20. 12. až 5. 1.), kdy jsou ceny i davy nejvyšší a plovoucí bungalovy vyprodané. Za to zaplatíte počasím: na začátku cesty ještě doznívá období dešťů a Andaman se zlepšuje až s druhou polovinou prosince.
 
 - **Svátky:** 5. 12. (sobota, Den otců) a případné náhradní volno v pondělí 7. 12. vytvoří dlouhý víkend, kdy jsou pláže plné Thajců. V té době budete na Koh Phayam s potvrzeným ubytováním. 10. 12. (čtvrtek) je Den ústavy: zavřené banky a úřady, budete v Khao Sok.
-- **Khao Sok:** Na začátku prosince počítejte s deštěm, některé stezky mohou být po silném dešti zavřené (fáze 5).
+- **Khao Sok:** Na začátku prosince počítejte s deštěm, některé stezky mohou být po silném dešti zavřené (fáze 4).
 
 ## Jídlo, pití a bezpečné stravování
 
@@ -941,8 +917,8 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026). Vezměte ho s sebou spolu s českým řidičským průkazem, auto v Hua Hin přebíráte 30. 11.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce Etihad Airways). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
 - **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
-- **Vlak č. 43 a auto:** Jízdenku na 30. 11. do Hua Hin kupte hned, prodej běží od asi 31. 10. Alternativa je dodávka Vivatrip na 12Go (fáze 1), pak vlak nekupujete. Jízdenky na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) jdou nejspíš koupit až den předem, tedy 2. a 3. 12. V D-Ticket nebo 12Go ověřte, od kdy se prodávají (sekce Doprava). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
-- **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12. Sjednejte ho nejpozději den před odletem. Storno (zrušení cesty) už sjednat nejde, pojišťovny ho dávají jen krátce po zaplacení cesty a letenky i ubytování jsou zaplacené. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky (fáze 5) a skútry (fáze 4, 6 a 7). Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění a pro skútr se bere oprávnění na motocykl, ne skupina B (v konkrétních podmínkách neověřeno).
+- **Vlak č. 43 a auto:** Jízdenku na 30. 11. do Hua Hin kupte hned, prodej běží od asi 31. 10. Alternativa je dodávka Vivatrip na 12Go (fáze 1), pak vlak nekupujete. Jízdenka na 4. 12. (Hua Hin → Chumphon) se nejspíš prodává zhruba 30 dní předem, takže by už měla jít koupit, v D-Ticket nebo 12Go ověřte, od kdy (sekce Doprava). Auto v Hua Hin zamluvte online na 4 dny, 30. 11. až 4. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
+- **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12. Sjednejte ho nejpozději den před odletem. Storno (zrušení cesty) už sjednat nejde, pojišťovny ho dávají jen krátce po zaplacení cesty a letenky i ubytování jsou zaplacené. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky (fáze 4) a skútry (fáze 3, 5 a 6). Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění a pro skútr se bere oprávnění na motocykl, ne skupina B (v konkrétních podmínkách neověřeno).
 - **Očkování a zdraví:** Poraďte se co nejdřív s lékařem nebo centrem cestovní medicíny, ideálně 4–6 týdnů před odletem. I když zbývá méně času, lékař řekne, co ještě jde stihnout (sekce Zdraví, bezpečnost a nouzová čísla).
 - **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
 - **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce Praktické travel hacky). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
@@ -952,12 +928,11 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 
 | Kdy | Co |
 |---|---|
-| Hned teď | Jízdenka na vlak č. 43 na 30. 11. (prodej od asi 31. 10.) nebo dodávka Vivatrip (fáze 1) a auto v Hua Hin na 30. 11. až 3. 12. |
+| Hned teď | Jízdenka na vlak č. 43 na 30. 11. (prodej od asi 31. 10.) nebo dodávka Vivatrip (fáze 1), jízdenka na vlak č. 43 na 4. 12. (Hua Hin → Chumphon, prodej nejspíš už běží, neověřeno) a auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
 | Před odletem | Konzultace s lékařem nebo v centru cestovní medicíny, případné očkování (ideálně 4–6 týdnů předem, lékař řekne, co ještě jde stihnout) |
 | Do 25. 11. (před odletem) | Přespání na jezeře Cheow Lan: balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Chumphonu do Ranongu 4. 12. v 15:00 (může být poslední spoj, ověřit na 12Go.asia), přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
-| Den předem (2. a 3. 12.) | Jízdenky na vlak č. 43 na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon), nejspíš jdou koupit až den předem (neověřeno, ověřit v D-Ticket nebo 12Go) |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce Etihad Airways) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
 
@@ -1049,9 +1024,9 @@ Rozpočet platí pro dva lidi na 22 nocí podle trasy s Koh Phayam a autem v Hua
 | Ubytování, 21 nocí | 13 650 | 31 500 | odhad: 650–1 500 THB za noc za pokoj pro dva |
 | Ubytování, noc v Nai Yang (Wattana Bungalow) | 1 700 | 1 700 | rezervováno, cena z potvrzení Booking.com |
 | Jídlo a pití | 15 500 | 26 500 | odhad: 350–600 THB na osobu a den, porce pouličního jídla vychází na 40–70 THB |
-| Přesuny po Thajsku | 11 600 | 17 100 | odhad podle cen v sekci Doprava, včetně auta v Hua Hin na 3 dny (asi 2 700 THB plus benzín odhadem 1 000 THB) a lodí na Koh Phayam (asi 1 400 THB za dva) |
+| Přesuny po Thajsku | 12 800 | 18 300 | odhad podle cen v sekci Doprava, včetně auta v Hua Hin na 4 dny (asi 3 600 THB plus benzín odhadem 1 300 THB) a lodí na Koh Phayam (asi 1 400 THB za dva) |
 | Zážitky a vstupy | 22 700 | 36 700 | rozpis níže; úsporně bez Dragon Crest, půjčení kola nebo skútru a sloního útočiště, pohodlněji včetně nich |
-| Celkem | asi 65 150 (42 300 Kč) | asi 113 500 (73 800 Kč) | pro dva, bez letenek a pojištění |
+| Celkem | asi 66 350 (43 100 Kč) | asi 114 700 (74 600 Kč) | pro dva, bez letenek a pojištění |
 
 Součty zatím nepřepočítávají změnu ve verzi 21 (Krabi 2 noci, Noi 4 noci, kajaky na Koh Yao Noi místo Ao Thalane). Položky mimo plán v nich zůstávají, takže jde o horní odhad. Od verze 30 je noc v Nai Yang (Wattana Bungalow, 18.–19. 12.) vyčleněná zvlášť podle rezervace, 1 700 THB, což je nad původním rozpětím 650–1 500 THB za noc. Celkový odhad se tím zvýšil o asi 850 THB (asi 550 Kč) v úsporné variantě a o asi 200 THB (asi 130 Kč) v pohodlnější, protože horní hranice 1 500 THB za noc už počítala s dražšími pokoji. Z ostatních rezervovaných nocí vychází Tabeak View Point asi 1 100 THB, Vacation House asi 1 170 THB a Pyramid Bungalow asi 1 290 THB za noc.
 
@@ -1062,12 +1037,12 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Zážitek | Cena | Poznámka |
 |---|---|---|
 | Bangkok: vstupy a plavba po klongech | Wat Pho 200 THB, Wat Arun 200 THB (volitelně), Zlatá hora 100 THB na osobu, plavba 1 672 Kč za dva (asi 2 570 THB) | zrušení plavby zdarma do 27. 11. |
-| Auto v Hua Hin (Sam Roi Yot) | od asi 800–900 THB na den, 3 dny asi 2 700 THB plus benzín odhadem 1 000 THB | Thai Rent A Car / Enterprise, kauce a spoluúčast se liší (sekce Předodletový checklist) |
+| Auto v Hua Hin (Sam Roi Yot) | od asi 800–900 THB na den, 4 dny asi 3 600 THB plus benzín odhadem 1 300 THB | Thai Rent A Car / Enterprise, kauce a spoluúčast se liší (sekce Předodletový checklist) |
 | Mokřady Bueng Bua (Sam Roi Yot) | asi 400 THB na osobu (park plus lávka) | podle jednoho blogu, místní loď volitelně asi 600 THB za loď pro 4 lidi |
 | Jeskyně Phraya Nakhon (Sam Roi Yot) | vstup do parku 200 THB na osobu (platí jen ten den) | loď z Bang Pu asi 400 THB za loď je volitelná |
 | Vyhlídka a chrám Khao Daeng (Sam Roi Yot) | park 200 THB na osobu (platí jen ten den) | chrám je zdarma |
 | Kui Buri | vstup 200 THB na osobu, pickup s průvodcem 850–1 200 THB za vůz, vjezd auta 30 THB | vůz pro až 6 cizinců, cenu si nechte potvrdit |
-| Prachuap: Ao Manao a Khao Chong Krachok | chrám zdarma, vstup na pláž Ao Manao se platí hotově u brány základny | částka u brány není známá, počítejte s pasem |
+| Prachuap (volitelně, výlet ze Sam Roi Yot): Ao Manao a Khao Chong Krachok | chrám zdarma, vstup na pláž Ao Manao se platí hotově u brány základny | částka u brány není známá, počítejte s pasem |
 | Ranong: horké prameny | prameny zdarma, taxi tam i zpět asi 100 THB za jízdu | asi 2 km východně od centra |
 | Koh Phayam | loď z Ranongu 350 THB na osobu jedním směrem, skútr 200–350 THB za den | chatka u pláže od asi 900 THB za noc |
 | Khao Sok, vstup do parku | 300–320 THB na osobu | platí 24 hodin |
@@ -1075,7 +1050,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Pádlování nebo tubing na řece Sok | 400–950 THB na osobu | tubing podle hladiny řeky |
 | Čtyřkolky v Khao Sok (volitelně) | 1 500 THB za řidiče, 2 200 THB za dva na jedné čtyřkolce, 1,5 až 2 hodiny | cena od provozovatele z 3. 11. 2026, odvoz z ubytování v ceně |
 | Kajak na Koh Nok (pronájem u Pasai) | asi 10 USD za kajak (neověřeno) | podle jednoho průvodce, doba půjčení neověřená |
-| Tiger Cave Temple (volitelně) | zdarma | fáze 6 |
+| Tiger Cave Temple (volitelně) | zdarma | fáze 5 |
 | Dragon Crest | 200 THB na osobu | jen hotově |
 | Tha Pom Klong Song Nam (Krabi, volitelně) | vstup 50 THB na osobu | skútr nebo taxi z Krabi Town, mimo plán od v21 (varianty) |
 | Railay (volitelně) | 100 THB na osobu jedním směrem | loď z Ao Nang, lístek v kiosku, mimo plán od v21 (varianty) |
@@ -1226,9 +1201,8 @@ Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko uka
 | Ubytování (noci) | Thajsko | Česko |
 |---|---|---|
 | Ti Thong Hostel, Bangkok (Agoda)<br>27.–30. 11. | ne&nbsp;22.&nbsp;11.<br>23:59 | ne&nbsp;22.&nbsp;11.<br>17:59 |
-| Sam Roi Yot Sea Sight Resort (Booking.com)<br>30. 11.–3. 12., dvojí rezervace | so&nbsp;28.&nbsp;11.<br>23:59 | so&nbsp;28.&nbsp;11.<br>17:59 |
-| Driftwood and Jolie Cottages, Sam Roi Yot (Booking.com)<br>30. 11.–3. 12., dvojí rezervace | út&nbsp;24.&nbsp;11.<br>23:59 | út&nbsp;24.&nbsp;11.<br>17:59 |
-| Jungle Cafe and Guesthouse, Prachuap (Agoda)<br>3.–4. 12. | ne&nbsp;29.&nbsp;11.<br>23:59 | ne&nbsp;29.&nbsp;11.<br>17:59 |
+| Driftwood and Jolie Cottages, Sam Roi Yot (Booking.com)<br>30. 11.–4. 12. | út&nbsp;24.&nbsp;11.<br>23:59 | út&nbsp;24.&nbsp;11.<br>17:59 |
+| Sam Roi Yot Sea Sight Resort (Booking.com)<br>30. 11.–3. 12., zrušit, bydlí se v Driftwood | so&nbsp;28.&nbsp;11.<br>23:59 | so&nbsp;28.&nbsp;11.<br>17:59 |
 | Tobedzz Hotel, Ranong (Agoda)<br>4.–5. 12. | st&nbsp;2.&nbsp;12.<br>23:59 | st&nbsp;2.&nbsp;12.<br>17:59 |
 | Flower Power Village, Koh Phayam (Agoda)<br>5.–8. 12. | pá&nbsp;27.&nbsp;11.<br>23:59 | pá&nbsp;27.&nbsp;11.<br>17:59 |
 | Flora Hostel KhaoSok (Booking.com)<br>8.–9. 12., dvojí rezervace | út&nbsp;8.&nbsp;12.<br>18:00 | út&nbsp;8.&nbsp;12.<br>12:00 |
@@ -1251,37 +1225,37 @@ Thajci říkají Bangkoku Krung Thep, Město andělů. Celé slavnostní jméno 
 
 Khao Sam Roi Yot se překládá jako Hora tří set vrcholů. Odkud jméno pochází, není jisté: pověst mluví o třech stech trosečnících z čínské lodi, jiný výklad o místní rostlině. Park vyhlášený 28. června 1966 byl prvním pobřežním národním parkem v Thajsku. Je malý, asi 98 km² (z toho zhruba 21 km² moře), ale na malé ploše spojuje vápencové hory vyrůstající z roviny, mangrovy, pláže a největší sladkovodní mokřad v zemi, Thung Sam Roi Yot. Ten je od roku 2008 zapsaný mezi ramsarské lokality, tedy mokřady mezinárodního významu. Jeskyně Phraya Nakhon je pojmenovaná po vládci z Nakhon Si Thammarat, který ji podle příběhu objevil za krále Ramy I. Ve dvou sálech se strop propadl a dovnitř dopadá světlo. Pavilon Kuha Karuehat tu dal postavit král Chulalongkorn (Rama V.) k návštěvě 20. června 1890. V roce 1868 pozval v těchto místech král Mongkut (Rama IV.) cizí hosty k pozorování zatmění Slunce, které sám předpověděl na 18. srpna. Podle Wikipedie se při tom možná nakazil malárií a 1. října zemřel. Kui Buri, kam jedete za slony, je mladší: park z března 1999 vznikl z konfliktu, protože ananasové plantáže zabraly dřívější prostor slonů a mezi slony a vesničany rostlo napětí. Louky, kde dnes pasou, jsou z velké části umělé, od roku 2007 je park udržuje na ploše asi 12 000 rai (zhruba 19 km²).
 
-## Místa na trase: Prachuap Khiri Khan (fáze 3)
+## Místa na trase: Prachuap Khiri Khan (fáze 2)
 
 *Nejužší místo Thajska a ráno 8. prosince 1941*
 
 Prachuap Khiri Khan leží na jednom z nejužších míst Thajska: od zálivu k hranici s Myanmarem je to podle Wikipedie jen asi 12 km (jiné zdroje uvádějí kolem 10 km). Městu se přezdívá Město tří zálivů a provincie je známá kokosem, podle Wikipedie pěstuje samé kokosové palmy až 40 % zdejších zemědělců. Nejvíc se tu ale vzpomíná na 8. prosinec 1941. Kolem třetí hodiny ráno se tu vylodili japonští vojáci, v době, kdy Japonsko zahajovalo útoky v celé jihovýchodní Asii. Obránci, hlavně letci z letecké základny Wing 5 a další vojáci i civilisté, vzdorovali zhruba 33 hodin. Boje skončily 9. prosince ve 12:35 na rozkaz premiéra Phibuna z Bangkoku. Thajsko pak s Japonskem uzavřelo spojenectví a proti němu vznikl odboj Seri Thai, Svobodní Thajci. Ao Manao, kam jedete za hulmany, bylo jedním z bojišť a na základně stojí pomník obránců. Každý rok 8. prosince se tu koná vzpomínka, vy tu budete o pár dní dřív, 85 let po bitvě. Počty padlých zdroje uvádějí různě, proto je tu neuvádíme.
 
-## Místa na trase: Ranong a Koh Phayam (fáze 4)
+## Místa na trase: Ranong a Koh Phayam (fáze 3)
 
 *Nejdeštivější provincie a ostrov kešu*
 
 Ranong je nejméně lidnatá provincie Thajska a zároveň jedna z nejdeštivějších, přezdívá se jí Město osmi měsíců deště a čtyř měsíců slunce. Pohoří za městem zastavuje monzun od Andamanského moře. Zdroje uvádějí různé roční úhrny, od zhruba 2 500 do více než 4 000 mm, a rekordní rok 1955 prý přes 6 600 mm. Prosinec je podle klimatických údajů mnohem sušší než říjen a listopad (viz sekce Počasí, teploty a deště). Provincie leží na šíji Kra, kde je od Andamanského moře k Thajskému zálivu jen asi 44 km. Za řekou je Myanmar a protější město Kawthaung se dřív jmenovalo Victoria Point. Dřív se tu těžil cín (většina dolů je vytěžená) a bílý jíl na porcelán, dnes se žije z rybolovu, kaučuku a kešu. Pobřeží lemují rozsáhlé mangrovy a Ranong je od roku 1997 biosférická rezervace UNESCO, čtvrtá v Thajsku a jediná pobřežní. Koh Phayam je druhý největší ostrov provincie (kolem 35 km²) a tvoří spolu s okolními ostrovy národní park Mu Ko Phayam z roku 2003. Hlavní plodinou je kešu. Ořech roste zvenčí na konci šťavnatého plodu, kešu jablka, a surová skořápka dráždí kůži, proto se ořechy před jídlem pečou. V březnu se tu koná slavnost sklizně. Ostrov má pověst klidného útočiště bohémů, žijí na něm i Moken, námořní kočovníci, a po ostrově jezdí hlavně motorky.
 
-## Místa na trase: Khao Sok (fáze 5)
+## Místa na trase: Khao Sok (fáze 4)
 
 *Les starší než Amazonie a jezero z přehrady*
 
 Khao Sok je národní park z prosince 1980 (v Thajsku 22. v pořadí) o rozloze 739 km². Prales se často označuje za 160 milionů let starý, tedy starší než Amazonie. Číslo se opakuje všude, ale je to spíš odhad: tropický les tu mohl přežít, protože se oblast po celou tu dobu držela zhruba v rovníkovém pásmu. Vápencové skály, které ční nad lesem i z jezera (nejvyšší až k 960 m), vznikly z dávného mořského dna zhruba před 280 miliony let. V 70. letech se v lese podle Wikipedie ukrývali ozbrojení povstalci a díky tomu se k lesu nedostali dřevaři, horníci ani lovci. Pak přišla přehrada Ratchaprapha, kterou postavila státní energetická společnost přes řeku Khlong Saeng. Zdroje se rozcházejí v datu, uvádějí roky 1982 až 1987. Zatopila údolí a vzniklo jezero Cheow Lan o rozloze 165 km². Podle jednoho zdroje muselo odejít pět vesnic a z hladiny dodnes místy vyčnívají kmeny zatopeného lesa. Jezero je umělé, ale krajina je z něj: vrcholky zatopených kopců se změnily v ostrovy a do nich se dnes pádluje a spí na plovoucích bungalovech.
 
-## Místa na trase: Krabi (fáze 6)
+## Místa na trase: Krabi (fáze 5)
 
 *Vápencové útesy, hřeben nágy a hřbitov mušlí*
 
 Krabi je krajina vápencových skal, které stojí přímo v moři i uprostřed polí. Vápenec vznikl z mořských usazenin a korálových útesů před stovkami milionů let, později se zvedl nad hladinu a déšť a moře ho vyhlodaly do útesů, jeskyní a skalních věží. Je to stejný příběh jako v Khao Sok a v zálivu Phang Nga, jen jinde. Dragon Crest, thajsky Khao Ngon Nak, se obvykle překládá jako hřeben nágy, hadí bytosti z buddhistické mytologie, kterou uvidíte jako zábradlí chrámových schodišť. U zátoky Ao Nam Mao leží mimo plán Susan Hoi, hřbitov mušlí: pevné desky slepené z mušlí sladkovodních plžů z bažiny, kterou později zalilo moře. Přezdívá se mu hřbitov mušlí starých 75 milionů let, novější datování z pylu uvádí asi 40 milionů let a jiné zdroje 20 až 40 milionů. Desky jsou asi 40 cm silné a vlny je rozrušují. Vstup pro cizince je asi 200 THB (neověřeno).
 
-## Místa na trase: Koh Yao Noi (fáze 7)
+## Místa na trase: Koh Yao Noi (fáze 6)
 
 *Malý dlouhý ostrov v zálivu Phang Nga*
 
 Jméno ostrova je prosté: yao je thajsky dlouhý a noi malý, takže Koh Yao Noi je Malý dlouhý ostrov. Větší soused je Koh Yao Yai, Velký dlouhý. Oba leží uprostřed zálivu Phang Nga, na půl cesty mezi Phuketem a Krabi, a na pevninu se dostanete jen lodí, což je jedna z příčin, proč zůstaly klidné. Žije tu několik tisíc lidí, drtivá většina z nich jsou muslimští rybáři a zemědělci (zdroje uvádějí 90 až 99 %), a vesnice poznáte podle mešit a ranní výzvy k modlitbě. Pěstuje se kaučuk, rýže a kokos a loví se v zálivu, velké hotely tu nikdy nevyrostly. Skály v zálivu jsou vápencové věže zvedající se z moře. Část z nich je dutá a uvnitř mají zatopené lagunky, které se nazývají hong, thajsky pokoj, a stejné jméno nese ostrov, na který míříte. Nejslavnější skála zálivu, Khao Phing Kan, se jmenuje James Bond Island od roku 1974, kdy se tu točil film Muž se zlatou zbraní. V plánu ji nemáte. Při odlivu se na východě ostrova odhalí bahnité plochy, na kterých brodiví ptáci hledají potravu.
 
-## Místa na trase: Phuket a Nai Yang (fáze 8)
+## Místa na trase: Phuket a Nai Yang (fáze 7)
 
 *Cín, kaučuk a želvy*
 
