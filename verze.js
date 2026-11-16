@@ -1003,5 +1003,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "62581c0",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v80",
+    "datum": "16. 11. 2026",
+    "nazev": "Mezinárodní řidičský průkaz vyřízený",
+    "zmeny": [
+      "Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026): odrážka zmizela ze sekce Co se ještě dořeší i z řádku Před odletem v tabulce Co zařídit a kdy, v sekci Předodletový checklist je místo návodu, jak ho vyřídit, poznámka, že je vyřízený a patří do zavazadla.",
+      "Fáze 2 (Auto z Hua Hin): u mezinárodního řidičského průkazu je poznámka vyřízený místo odkazu na checklist.",
+      "Počet fází, nocí i data jsou beze změny proti v79."
+    ],
+    "commit": "a495607",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

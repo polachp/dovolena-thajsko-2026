@@ -12,7 +12,6 @@ Co se mezi verzemi změnilo, najdete v záložce Verze. Termíny, do kdy jde uby
 Nejdřív úkoly před odletem, pak body podle fází.
 
 - **Vlak a auto na začátku trasy (fáze 1 až 3):** jízdenka na vlak č. 43 na 30. 11. (Bangkok → Hua Hin) není koupená, kupte ji hned, prodej už běží. Místo vlaku jde jet dodávkou Vivatrip v 9:00 (fáze 1), ta se dá koupit na 12Go a vlak pak kupovat nemusíte. Jízdenky na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) jdou nejspíš koupit až den předem, tedy 2. a 3. 12. Neověřeno, v D-Ticket nebo 12Go se ukáže, od kdy se prodávají (sekce Doprava). Auto v Hua Hin na 30. 11. až 3. 12. není zamluvené.
-- **Mezinárodní řidičský průkaz:** není vyřízený, potřebujete ho k autu v Hua Hin. Vyřiďte ho před odletem na úřadu obce s rozšířenou působností (sekce Předodletový checklist).
 - **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
 - **Noc na jezeře Cheow Lan (fáze 5):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá vybrat mezi Phutawan a Smiley (porovnání viz fáze 5). U Phutawan chybí DPH, kde je kancelář a cena dopravy, potvrzený termín 10.–11. 12. a výše a podmínky nevratné zálohy.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
@@ -303,7 +302,7 @@ Sloni jsou nejaktivnější od zhruba 15:00, po 17:00 už do areálu nevjedete. 
 
 #### Auto z Hua Hin
 
-Thai Rent A Car / Enterprise u Aquana Resort (17/49 Soi Nong Kae, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00). Malé auto od asi 800–900 THB na den. Vezměte pasy, řidičské průkazy skupiny B, mezinárodní řidičský průkaz (sekce Předodletový checklist) a kartu na kauci. Jezdí se vlevo.
+Thai Rent A Car / Enterprise u Aquana Resort (17/49 Soi Nong Kae, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00). Malé auto od asi 800–900 THB na den. Vezměte pasy, řidičské průkazy skupiny B, mezinárodní řidičský průkaz (vyřízený) a kartu na kauci. Jezdí se vlevo.
 
 #### Vstupy
 
@@ -933,7 +932,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Cestovní pas:** Musí být platný aspoň 6 měsíců od plánovaného data vstupu do Thajska. Digitální kopii si uložte do telefonu.
 - **Vstup bez víza:** Od 15. 9. 2026 už neplatí dřívější bezvízový pobyt na 60 dní. Občané ČR mají bezvízový pobyt na 30 dní a jen pro turistiku. Na imigračním úřadě ho lze jednou prodloužit o dalších 30 dní (zhruba za 1 900 THB). Váš pobyt 27. 11.–19. 12. (23 dní) se do 30 dní vejde. O vpuštění do země rozhoduje úředník, proto mějte po ruce letenku ven z Thajska a adresu prvního ubytování. Plánovaný vstupní poplatek pro turisty (podle zpráv z roku 2026 nově 300 THB na osobu u příletů letecky, zhruba 8 EUR) se zatím nevybírá. Má se podle oznámení platit nejspíš zabalený do ceny letenky, ne na přepážce, a náběh se opakovaně odkládal. Přesnou výši a to, jestli se v době vaší cesty vybírá, si krátce před odletem ověřte na stránkách ministerstva zahraničí.
 - **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
-- **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz vydává jen obecní úřad obce s rozšířenou působností, osobně a obvykle na počkání (vezměte řidičský průkaz, doklad totožnosti a fotografii 3,5 × 4,5 cm, správní poplatek je 200 Kč). U úřadu požádejte o všechny skupiny, které využijete. Průkaz podle Ženevské úmluvy platí 1 rok, podle Vídeňské 3 roky a Thajsko je smluvní stranou obou. Vyřiďte ho před odletem, auto v Hua Hin přebíráte 30. 11. Zjistěte si úřední hodiny úřadu a jestli je třeba objednání.
+- **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026). Vezměte ho s sebou spolu s českým řidičským průkazem, auto v Hua Hin přebíráte 30. 11.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce Etihad Airways). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
 - **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
 - **Vlak č. 43 a auto:** Jízdenku na 30. 11. do Hua Hin kupte hned, prodej běží od asi 31. 10. Alternativa je dodávka Vivatrip na 12Go (fáze 1), pak vlak nekupujete. Jízdenky na 3. 12. (Hua Hin → Prachuap) a 4. 12. (Prachuap → Chumphon) jdou nejspíš koupit až den předem, tedy 2. a 3. 12. V D-Ticket nebo 12Go ověřte, od kdy se prodávají (sekce Doprava). Auto v Hua Hin zamluvte online na 30. 11. až 3. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
@@ -948,7 +947,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 | Kdy | Co |
 |---|---|
 | Hned teď | Jízdenka na vlak č. 43 na 30. 11. (prodej od asi 31. 10.) nebo dodávka Vivatrip (fáze 1) a auto v Hua Hin na 30. 11. až 3. 12. |
-| Před odletem | Mezinárodní řidičský průkaz (pro auto v Hua Hin) a konzultace s lékařem nebo v centru cestovní medicíny, případné očkování (ideálně 4–6 týdnů předem, lékař řekne, co ještě jde stihnout) |
+| Před odletem | Konzultace s lékařem nebo v centru cestovní medicíny, případné očkování (ideálně 4–6 týdnů předem, lékař řekne, co ještě jde stihnout) |
 | Do 25. 11. (před odletem) | Přespání na jezeře Cheow Lan: balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Chumphonu do Ranongu 4. 12. v 15:00 (může být poslední spoj, ověřit na 12Go.asia), přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |

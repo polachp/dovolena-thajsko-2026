@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v80: Mezinárodní řidičský průkaz vyřízený (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v80/) · [Markdown](verze/v80/thajsko-bangkok-phuket.md) · [rozdíl proti v79](https://github.com/polachp/dovolena-thajsko-2026/compare/62581c0...a495607)
+
+- Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026): odrážka zmizela ze sekce Co se ještě dořeší i z řádku Před odletem v tabulce Co zařídit a kdy, v sekci Předodletový checklist je místo návodu, jak ho vyřídit, poznámka, že je vyřízený a patří do zavazadla.
+- Fáze 2 (Auto z Hua Hin): u mezinárodního řidičského průkazu je poznámka vyřízený místo odkazu na checklist.
+- Počet fází, nocí i data jsou beze změny proti v79.
+
 ## v79: Fáze 3: Prachuap jako první kandidát na vyřazení (15. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v79/) · [Markdown](verze/v79/thajsko-bangkok-phuket.md) · [rozdíl proti v78](https://github.com/polachp/dovolena-thajsko-2026/compare/399039f...62581c0)
