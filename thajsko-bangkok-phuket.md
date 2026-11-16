@@ -119,6 +119,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 2 | Prachuap Khiri Khan, Khao Chong Krachok (Wat Thammikaram) | [11.8165, 99.7981](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) | Volitelný výlet autem: chrámový kopec s 396 schody, výhled na záliv a makaky |
 | 2 | Prachuap Khiri Khan, Ao Manao a Khao Lom Muak | [Ao Manao](https://www.google.com/maps/search/?api=1&query=Ao%20Manao%20Beach%20Prachuap%20Khiri%20Khan), [Khao Lom Muak](https://www.google.com/maps/search/?api=1&query=Khao%20Lom%20Muak%20Prachuap%20Khiri%20Khan) | Volitelný výlet autem: pláž a kopec s hulmany v areálu základny Wing 5 |
 | 3 | Chumphon, nádraží (Nawamin Ruamjai Road) | [10.5023, 99.1768](https://www.google.com/maps/search/?api=1&query=10.5023%2C99.1768) | Příjezd vlaku 4. 12., odtud minivan do Ranongu, souřadnice přibližné |
+| 3 | Chumphon, most na pozorování jelenů (nádrž Nong Yai) | [10.5475, 99.1967](https://www.google.com/maps/search/?api=1&query=10.5475%2C99.1967) | Volitelně cestou 4. 12.: visutý most, krmení jelenů, otevřeno 8:00–17:00 |
 | 3 | Ranong, ubytování Tobedzz Hotel | [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y) | Potvrzeno 4.–5. 12., check-in od 14:00, check-out do 12:00 |
 | 3 | Ranong, autobusové nádraží (44 Ruangrat Road, Khao Niwet) | [Ranong Bus Terminal](https://www.google.com/maps/search/?api=1&query=Ranong%20Bus%20Terminal) | Sem většinou vyloží minivan z Chumphonu, do centra asi 1 km |
 | 3 | Ranong, molo rychlých lodí na Koh Phayam | [Ranong Pier (Koh Phayam)](https://www.google.com/maps/search/?api=1&query=Ranong%20Pier%20Koh%20Phayam%20ferry) | Z autobusového nádraží je to tuk-tukem asi 10–15 minut |
@@ -350,7 +351,7 @@ Ke zrušení: [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/
 
 #### Přesun dál (Pá 4. 12., dopoledne)
 
-Vyjeďte kolem 7:00 a auto vraťte kolem 8:15 v Hua Hin. Vlak č. 43 v 10:36 jede rovnou do Chumphonu (příjezd 13:50, asi 3 h 15 min). Jízdenky jsou koupené přes D-Ticket, 2. třída s klimatizací, číslo vozu a místa je na jízdence. Každý má svou jízdenku a podle podmínek na ní ji musíte mít u sebe vytištěnou, v telefonu ji mějte jako zálohu. Vezměte i pasy, jízdenka platí jen na jméno, které je na ní. Zrušit jde, ale vrátí se jen asi 100 THB. Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia. Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
+Vyjeďte kolem 7:00 a auto vraťte kolem 8:15 v Hua Hin. Vlak č. 43 v 10:36 jede rovnou do Chumphonu (příjezd 13:50, asi 3 h 15 min). Jízdenky jsou koupené přes D-Ticket, 2. třída s klimatizací, číslo vozu a místa je na jízdence. Každý má svou jízdenku a podle podmínek na ní ji musíte mít u sebe vytištěnou, v telefonu ji mějte jako zálohu. Vezměte i pasy, jízdenka platí jen na jméno, které je na ní. Zrušit jde, ale vrátí se jen asi 100 THB. Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia, podle 12Go jezdí i v 16:00 a v 17:00 (neověřeno), s nimi jde stihnout volitelná zastávka v Chumphonu (fáze 3). Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
 
 #### Mapy
 
@@ -381,6 +382,7 @@ Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen ori
 
 Večer v horkých pramenech v Ranongu a pak tři dny lenošení na klidném ostrově bez velkých hotelů. Žádná památka, jen pláže a toulání po ostrově.
 
+- **Most s jeleny v Chumphonu (volitelně):** cestou 4. 12. visutý most přes nádrž Nong Yai, kde se krmí jeleni, k tomu staré parní lokomotivy na nádraží a místní banány.
 - **Horké prameny Raksa Warin:** večerní koupání po dni na cestě.
 - **Ao Yai (Long Beach):** 3 km dlouhá, většinu dní skoro prázdná pláž, nejlepší západ slunce.
 - **Ao Khao Kwai a Hin Talu:** nejčistší voda na ostrově a skalní oblouky.
@@ -388,9 +390,19 @@ Večer v horkých pramenech v Ranongu a pak tři dny lenošení na klidném ostr
 - **Kajak v mangrovech:** klidné pádlování bez průvodce v mangrovech kousek od ubytování, ptáci a s trochou štěstí opice.
 - **Zářící plankton:** v prosinci ho jeden průvodce viděl při brodění u Ao Khao Kwai, záruka žádná.
 
+#### Zastávka v Chumphonu (Pá 4. 12., volitelně)
+
+Vlak přijede do Chumphonu ve 13:50 (fáze 2). Kdo nespěchá, může jet až pozdějším minivanem do Ranongu, podle 12Go jezdí i v 16:00 a v 17:00 (neověřeno, ověřit týden předem spolu s minivanem v 15:00).
+
+- **Most na pozorování jelenů (Saphan Chom Kwang):** visutý most přes nádrž Nong Yai (královský protipovodňový projekt) asi 5,5 km vzdušnou čarou severně od nádraží, Grabem nebo taxi zhruba 15 minut (odhad). Žije tu přes 100 jelenů, krmení se kupuje od místních asi za 20 THB. Hned vedle je přes 300 m dlouhý dřevěný most Kiam. Otevřeno denně 8:00–17:00, vstup zdarma (podle recenzí, neověřeno). V odpoledním horku bývá jelenů vidět méně, víc jich je k večeru. Jeleni žijí v ohradě, je to spíš procházka s krmením než divoká příroda. Počítejte s hodinou až hodinou a půl včetně cesty.
+- **Parní lokomotivy na nádraží:** nádraží zničilo spojenecké bombardování v březnu 1945, znovu postavené je z roku 1948 a u nástupiště stojí dvě vyřazené parní lokomotivy. Na fotku pár minut.
+- **Banány Kluai Lep Mue Nang (dámské prstíky):** Chumphon je proslavený malými, štíhlými a velmi sladkými banány, kupte si trs na cestu.
+
+Batohy jde nechat v úschovně na nádraží (podle jednoho zdroje nonstop, 20 až 50 THB podle velikosti, neověřeno).
+
 #### Ranong
 
-Do města dorazíte kolem 17:00, minivan staví u autobusového nádraží. Ubytování [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y), 4.–5. 12., potvrzeno, rezervováno přes Agodu, check-in od 14:00, check-out do 12:00, zrušit zdarma do 2. 12. 23:59 thajského času (v Česku 2. 12. v 17:59), asi 4 minuty pěšky od nádraží. Kolem 18:00 taxi k pramenům Raksa Warin (asi 2 km, asi 100 THB, v Mapách „Khao Niwet, Mueang Ranong“). Přes 20 bazénků, veřejné zdarma, otevřeno podle jednoho zdroje 5:00–21:00. Hotovost na ostrov si vyberte tady (sekce Praktické travel hacky).
+Do města dorazíte kolem 17:00 (s pozdějším minivanem z Chumphonu kolem 18:00 až 19:00), minivan staví u autobusového nádraží. Ubytování [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y), 4.–5. 12., potvrzeno, rezervováno přes Agodu, check-in od 14:00, check-out do 12:00, zrušit zdarma do 2. 12. 23:59 thajského času (v Česku 2. 12. v 17:59), asi 4 minuty pěšky od nádraží. Kolem 18:00 taxi k pramenům Raksa Warin (asi 2 km, asi 100 THB, v Mapách „Khao Niwet, Mueang Ranong“). Přes 20 bazénků, veřejné zdarma, otevřeno podle jednoho zdroje 5:00–21:00. Hotovost na ostrov si vyberte tady (sekce Praktické travel hacky).
 
 #### Loď na ostrov (So 5. 12.)
 
@@ -444,6 +456,7 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Ao Kwang Peeb, skrytá zátoka | volitelně | přibl. 9.7703, 98.4109 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7703%2C98.4109) |
 | Chrám Wat Koh Phayam u mola | volitelně | 9.7452, 98.4207 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7452%2C98.4207) |
 | Flower Power Village (ubytování 5.–8. 12.) | ubytování | 9.7596, 98.4108 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7596%2C98.4108) |
+| Most na pozorování jelenů u Chumphonu | volitelně | 10.5475, 99.1967 | [Google Maps](https://www.google.com/maps/search/?api=1&query=10.5475%2C99.1967) |
 | Nádraží Chumphon (příjezd vlaku 4. 12.) | doprava | přibl. 10.5023, 99.1768 | [Google Maps](https://www.google.com/maps/search/?api=1&query=10.5023%2C99.1768) |
 | Tobedzz Hotel (ubytování 4.–5. 12.) | ubytování | 9.9552, 98.6374 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9552%2C98.6374) |
 | Autobusové nádraží Ranong | doprava | přibl. 9.9551, 98.6388 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9551%2C98.6388) |

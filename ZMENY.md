@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v95: Zastávka v Chumphonu: most s jeleny (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v95/) · [Markdown](verze/v95/thajsko-bangkok-phuket.md) · [rozdíl proti v94](https://github.com/polachp/dovolena-thajsko-2026/compare/51f976a...36fabe9)
+
+- Fáze 3: nový blok Zastávka v Chumphonu (volitelně) pro 4. 12.: most na pozorování jelenů u nádrže Nong Yai, parní lokomotivy na nádraží a místní banány Kluai Lep Mue Nang, s pozdějším minivanem do Ranongu v 16:00 nebo 17:00 (podle 12Go, neověřeno) a úschovnou batohů na nádraží.
+- Most s jeleny přibyl do seznamu co uvidíte ve fázi 3, na mapu fáze 3 a do Záchytných bodů pro Google Maps. Fáze 2 (Přesun dál) zmiňuje pozdější minivany.
+- Počet fází, nocí i data jsou beze změny proti v94.
+
 ## v94: Nádraží Chumphon na mapě (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v94/) · [Markdown](verze/v94/thajsko-bangkok-phuket.md) · [rozdíl proti v93](https://github.com/polachp/dovolena-thajsko-2026/compare/6373cc6...51f976a)

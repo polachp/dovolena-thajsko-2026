@@ -1192,5 +1192,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "51f976a",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v95",
+    "datum": "16. 11. 2026",
+    "nazev": "Zastávka v Chumphonu: most s jeleny",
+    "zmeny": [
+      "Fáze 3: nový blok Zastávka v Chumphonu (volitelně) pro 4. 12.: most na pozorování jelenů u nádrže Nong Yai, parní lokomotivy na nádraží a místní banány Kluai Lep Mue Nang, s pozdějším minivanem do Ranongu v 16:00 nebo 17:00 (podle 12Go, neověřeno) a úschovnou batohů na nádraží.",
+      "Most s jeleny přibyl do seznamu co uvidíte ve fázi 3, na mapu fáze 3 a do Záchytných bodů pro Google Maps. Fáze 2 (Přesun dál) zmiňuje pozdější minivany.",
+      "Počet fází, nocí i data jsou beze změny proti v94."
+    ],
+    "commit": "36fabe9",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
