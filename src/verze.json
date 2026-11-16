@@ -9232,5 +9232,109 @@
       }
     },
     "commit": "f0f91c0"
+  },
+  {
+    "id": "v92",
+    "datum": "16. 11. 2026",
+    "nazev": "Fáze 2: Forest Park v pondělí, mokřad ve čtvrtek",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 2: Forest Park v Pranburi je zpátky v pondělí 30. 11. cestou z Hua Hin (po dodávce, kdyby přijela pozdě, jde i ve čtvrtek). Mokřad Bueng Bua se přesunul na čtvrtek 3. 12. ráno, od Driftwood je asi 4 km a lotosy jsou nejhezčí dopoledne.",
+      "Upravené: program po dnech, blok Forest Park v Pranburi, poznámka o check-inu u Driftwood, fáze 1 (Přesun dál), Záchytné body pro Google Maps a Orientační rozpočet.",
+      "Počet fází, nocí i data jsou beze změny proti v91."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "7"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket, Nai Yang"
+        ]
+      ],
+      "kam": {
+        "Co se ještě dořeší": "pred",
+        "Úvod do Thajska": "zajimavosti",
+        "Zvířata na trase": "zajimavosti",
+        "Záchytné body pro Google Maps": "misto",
+        "Doprava": "misto",
+        "Počasí, teploty a deště": "pred",
+        "Jídlo, pití a bezpečné stravování": "misto",
+        "Seznam povinného vybavení": "pred",
+        "Etiketa": "misto",
+        "Praktické travel hacky": "misto",
+        "Předodletový checklist": "pred",
+        "Šnorchlování a noční safari": "zajimavosti",
+        "Zdraví, bezpečnost a nouzová čísla": "pred",
+        "Orientační rozpočet": "pred",
+        "Mini-slovníček thajských frází": "misto",
+        "Etihad Airways": "pred",
+        "Do kdy zrušit ubytování zdarma": "terminy",
+        "Místa na trase: Bangkok": "zajimavosti",
+        "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti",
+        "Místa na trase: Prachuap Khiri Khan": "zajimavosti",
+        "Místa na trase: Ranong a Koh Phayam": "zajimavosti",
+        "Místa na trase: Khao Sok": "zajimavosti",
+        "Místa na trase: Krabi": "zajimavosti",
+        "Místa na trase: Koh Yao Noi": "zajimavosti",
+        "Místa na trase: Phuket a Nai Yang": "zajimavosti"
+      }
+    },
+    "commit": ""
   }
 ]
