@@ -1092,5 +1092,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "57c7321",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v87",
+    "datum": "16. 11. 2026",
+    "nazev": "Čtyřkolky bez otázky na řidičák",
+    "zmeny": [
+      "Otázka, jestli je na čtyřkolky v Khao Sok potřeba řidičský průkaz, je pryč: odrážka v sekci Co se ještě dořeší i řádek Řidičský průkaz v bloku Čtyřkolky ve fázi 4.",
+      "Počet fází, nocí i data jsou beze změny proti v86."
+    ],
+    "commit": "7ca77db",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

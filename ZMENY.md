@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v87: Čtyřkolky bez otázky na řidičák (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v87/) · [Markdown](verze/v87/thajsko-bangkok-phuket.md) · [rozdíl proti v86](https://github.com/polachp/dovolena-thajsko-2026/compare/57c7321...7ca77db)
+
+- Otázka, jestli je na čtyřkolky v Khao Sok potřeba řidičský průkaz, je pryč: odrážka v sekci Co se ještě dořeší i řádek Řidičský průkaz v bloku Čtyřkolky ve fázi 4.
+- Počet fází, nocí i data jsou beze změny proti v86.
+
 ## v86: Fáze 2: Forest Park na mapě (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v86/) · [Markdown](verze/v86/thajsko-bangkok-phuket.md) · [rozdíl proti v85](https://github.com/polachp/dovolena-thajsko-2026/compare/16d5121...57c7321)

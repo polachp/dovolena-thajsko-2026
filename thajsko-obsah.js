@@ -17,7 +17,6 @@ Nejdřív úkoly před odletem, pak body podle fází.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
 - **Sea Sight Resort zrušit (fáze 2):** v Sam Roi Yot zůstává Driftwood and Jolie Cottages na 4 noci (30. 11.–4. 12.). Sam Roi Yot Sea Sight Resort (30. 11.–3. 12.) je ještě rezervovaný a je potřeba ho zrušit, zdarma do 28. 11. 23:59 thajského času (v Česku v 17:59).
 - **Překrývající se rezervace v Khao Sok (fáze 4):** noc 8.–9. 12. je zarezervovaná ve třech ubytováních (Flora Hostel KhaoSok, Bingo Hostel Khao Sok a Little wild house Khaosok), noc 9.–10. 12. v Bingo a v Little wild house, noc 10.–11. 12. jen v Little wild house (8.–11. 12.). Little wild house pokrývá všechny tři noci, takže kdyby zůstal on, jdou Flora i Bingo zrušit beze zbytku. Kdyby zůstalo Bingo, zbývá zarezervovat noc 10.–11. 12. Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora do 8. 12. 18:00 thajského času (v Česku ve 12:00). Nejdřív tedy vyprší Little wild house, pak Bingo a nakonec Flora.
-- **Čtyřkolky v Khao Sok (fáze 4):** cena a odvoz jsou od provozovatele potvrzené, den se vybere na místě. Chybí odpověď, jestli je potřeba řidičský průkaz.
 - **Sloní útočiště v Khao Sok (fáze 4, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
 - **Krabi (fáze 5):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
 - **Program na Koh Yao Noi (fáze 6):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok a jaké restaurace v prosinci fungují.
@@ -519,7 +518,6 @@ Jízda čtyřkolkou džunglí s průvodcem. Pevný den není, vybere se v Khao S
 - **Jízda:** 1,5 až 2 hodiny s průvodcem v jejich vyhrazeném území, skupinová jízda s dalšími lidmi, na jednu čtyřkolku nejvýš 2 lidé. Podle recenzí vedou trasy džunglí, podle sezóny brodem přes řeku a do kopce, před hlavní jízdou je zkušební okruh (neověřeno).
 - **Odvoz:** z ubytování v Khao Sok tam i zpět zdarma, čtyřkolkový tábor je 8–10 km od vesnice.
 - **Odjezdy:** 8:00, 10:30, 13:00 a 15:30. O státním svátku 10. 12. může být plněji (viz Vstupy a sezóna).
-- **Řidičský průkaz:** provozovatel na dotaz neodpověděl, napsal jen, že od 16 let se jezdí samostatně. Neověřeno, zeptat se znovu.
 - **Objednání:** napřímo u provozovatele, odvoz z ubytování je v ceně i tak. Přes ubytování nebo zprostředkovatele bývá dráž kvůli provizi (neověřeno): zprostředkovatel na internetu uváděl 1 800 THB za řidiče a 1 000 THB za spolujezdce. Jestli stačí přijít, nebo je potřeba rezervovat den předem, je neověřené, rozumné je napsat provozovateli den předem.
 - **Delší varianta:** 3 hodiny, asi 1 725 THB na osobu s odvozem v 11:00 (TakeMeTour, neověřeno).
 
