@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v93: Fáze 2: mokřad v pondělí, volitelně loď (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v93/) · [Markdown](verze/v93/thajsko-bangkok-phuket.md) · [rozdíl proti v92](https://github.com/polachp/dovolena-thajsko-2026/compare/1009db8...6373cc6)
+
+- Fáze 2: mokřad Bueng Bua je zpátky v pondělí 30. 11. odpoledne, rovnou po vyzvednutí auta. Přibyla volitelná plavba lodí vesnice mezi lotosy asi 16:30–18:00 (objednání telefonem, cena neověřená) a poznámka, že lotosy se otevírají ráno.
+- Fáze 2: Forest Park v Pranburi je v pondělí cestou jen když zbude čas, jinak volitelně ve čtvrtek 3. 12. Čtvrtek je zase volný den.
+- Fáze 2: v Driftwood je příjezd 30. 11. domluvený kdykoli, z mokřadu je to asi 40 minut autem. Upravené i fáze 1 (Přesun dál), Záchytné body pro Google Maps a Orientační rozpočet.
+- Počet fází, nocí i data jsou beze změny proti v92.
+
 ## v92: Fáze 2: Forest Park v pondělí, mokřad ve čtvrtek (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v92/) · [Markdown](verze/v92/thajsko-bangkok-phuket.md) · [rozdíl proti v91](https://github.com/polachp/dovolena-thajsko-2026/compare/f0f91c0...1009db8)

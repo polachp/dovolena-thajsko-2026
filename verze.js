@@ -1168,5 +1168,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "1009db8",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v93",
+    "datum": "16. 11. 2026",
+    "nazev": "Fáze 2: mokřad v pondělí, volitelně loď",
+    "zmeny": [
+      "Fáze 2: mokřad Bueng Bua je zpátky v pondělí 30. 11. odpoledne, rovnou po vyzvednutí auta. Přibyla volitelná plavba lodí vesnice mezi lotosy asi 16:30–18:00 (objednání telefonem, cena neověřená) a poznámka, že lotosy se otevírají ráno.",
+      "Fáze 2: Forest Park v Pranburi je v pondělí cestou jen když zbude čas, jinak volitelně ve čtvrtek 3. 12. Čtvrtek je zase volný den.",
+      "Fáze 2: v Driftwood je příjezd 30. 11. domluvený kdykoli, z mokřadu je to asi 40 minut autem. Upravené i fáze 1 (Přesun dál), Záchytné body pro Google Maps a Orientační rozpočet.",
+      "Počet fází, nocí i data jsou beze změny proti v92."
+    ],
+    "commit": "6373cc6",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
