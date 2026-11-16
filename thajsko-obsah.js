@@ -11,7 +11,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze. Termíny, do kdy jde uby
 
 Nejdřív úkoly před odletem, pak body podle fází.
 
-- **Vlak a auto na začátku trasy (fáze 1 a 2):** jízdenka na vlak č. 43 na 30. 11. (Bangkok → Hua Hin) není koupená, kupte ji hned, prodej už běží. Místo vlaku jde jet dodávkou Vivatrip v 9:00 (fáze 1), ta se dá koupit na 12Go a vlak pak kupovat nemusíte. Jízdenka na 4. 12. (Hua Hin → Chumphon) se podle dopočtu vzdálenosti prodává zhruba 30 dní předem, takže by už měla jít koupit (neověřeno, v D-Ticket nebo 12Go, sekce Doprava). Auto v Hua Hin na 4 dny, 30. 11. až 4. 12., není zamluvené.
+- **Vlak a auto na začátku trasy (fáze 1 a 2):** do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1). Jízdenka na 4. 12. (Hua Hin → Chumphon) se podle dopočtu vzdálenosti prodává zhruba 30 dní předem, takže by už měla jít koupit (neověřeno, v D-Ticket nebo 12Go, sekce Doprava). Auto v Hua Hin na 4 dny, 30. 11. až 4. 12., není zamluvené.
 - **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
 - **Noc na jezeře Cheow Lan (fáze 4):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá vybrat mezi Phutawan a Smiley (porovnání viz fáze 4). U Phutawan chybí DPH, kde je kancelář a cena dopravy, potvrzený termín 10.–11. 12. a výše a podmínky nevratné zálohy.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
@@ -108,7 +108,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 2 | Sam Roi Yot, ubytování Driftwood and Jolie Cottages | [Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) | Potvrzeno 30. 11.–4. 12., check-in 14:00 až 18:00, check-out 7:00 až 12:00, k pláži asi 2 km |
 | 2 | Sam Roi Yot, ubytování Sam Roi Yot Sea Sight Resort | [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) | Rezervace ke zrušení, bydlí se v Driftwood |
 | 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
-| 2 | Pranburi, Forest Park (cestou z Hua Hin) | [12.4133, 99.9856](https://www.google.com/maps/search/?api=1&query=12.4133%2C99.9856) | Volitelně: kilometrová lávka mangrovovým lesem, vstup zdarma, v Mapách jako Pran Buri Forest Park |
+| 2 | Pranburi, Forest Park (cestou z Hua Hin) | [12.4133, 99.9856](https://www.google.com/maps/search/?api=1&query=12.4133%2C99.9856) | Volitelně (3. 12.): kilometrová lávka mangrovovým lesem, vstup zdarma, v Mapách jako Pran Buri Forest Park |
 | 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | [Bueng Bua Thung Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot) | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
 | 2 | Bang Pu (Sam Roi Yot), pláž a molo | [Bang Pu Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bang%20Pu%20Village%20Sam%20Roi%20Yot%20Prachuap%20Khiri%20Khan) | Výchozí bod k pláži Laem Sala a jeskyni Phraya Nakhon |
 | 2 | Khao Daeng, vesnický chrám u mola a vyhlídka | [Wat Khao Daeng](https://www.google.com/maps/search/?api=1&query=Wat%20Khao%20Daeng%20Sam%20Roi%20Yot), [Khao Daeng Viewpoint](https://www.google.com/maps/search/?api=1&query=Khao%20Daeng%20Viewpoint%20Sam%20Roi%20Yot) | Chrám pod skalami, od mola u chrámu plavba po kanálu Khao Daeng a kamenitá stezka na vyhlídku |
@@ -165,8 +165,7 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Úsek | Jak | Doba | Cena (THB, jinak uvedeno) |
 |---|---|---|---|
 | Letiště BKK → centrum Bangkoku | Airport Rail Link | asi 27 min | 15–45 |
-| Bangkok (Krung Thep Aphiwat) → Hua Hin | vlak č. 43 v 7:30 | asi 3 h (příjezd asi 10:31) | od asi 412 |
-| Bangkok (ulička Rong Mai u Khao San) → Hua Hin (Clock Tower), alternativa | dodávka Vivatrip v 9:00 (fáze 1) | asi 3 h 10 min (příjezd 12:10) | asi 290 Kč, neověřeno |
+| Bangkok (Khao San Road) → Hua Hin (Clock Tower) | dodávka Vivatrip v 9:00, koupeno (fáze 1) | asi 3 h 10 min (příjezd 12:10) | 553 Kč za rezervaci |
 | Hua Hin → Sam Roi Yot | auto z půjčovny | asi 45 min | benzín |
 | Sam Roi Yot → Kui Buri (Huai Luek) | auto z půjčovny | asi 1 h jedním směrem (odhad) | benzín, vjezd 30 |
 | Sam Roi Yot → Prachuap Khiri Khan (volitelně) | auto z půjčovny | asi 1 h jedním směrem (odhad) | benzín |
@@ -184,7 +183,7 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Nai Yang (Wattana Bungalow) → letiště HKT | Grab, Bolt, taxi | asi 7 min (podle inzerátu 2,8 km) | neověřeno |
 
 - **Z letiště BKK:** Nepoužívejte drahé letištní taxíky. Airport Rail Link je ve spodním podlaží terminálu (značky Airport Rail Link nebo Train), jezdí zhruba 5:30 až půlnoc a jde zaplatit i bezkontaktní kartou. V Makkasanu se přestupuje na metro krytou chodbou asi 200–400 m, s jinými turnikety i jízdným. Do starého města jeďte modrou linkou na Sam Yot. Po půlnoci Grab nebo taxi s taxametrem.
-- **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jak dlouho předem jde jízdenka koupit, závisí na tom, jak velkou část celé trasy vlaku jedete: pod čtvrtinou trasy jen 1 den předem, od čtvrtiny do 59 % trasy zhruba 30 dní předem. Vlak č. 43 jede z Bangkoku až do Surat Thani. Úsek Bangkok → Hua Hin se proto prodává zhruba 30 dní předem přes D-Ticket (oficiální web a aplikace železnic), 12Go.asia nebo na nádraží, na 30. 11. tedy od asi 31. 10. Úsek Hua Hin → Chumphon (4. 12.) je podle dopočtu vzdálenosti přes čtvrtinu trasy, takže se nejspíš prodává také zhruba 30 dní předem. Neověřeno: v D-Ticket nebo 12Go se ukáže, od kdy jde koupit. Agentury jako 12Go ukazují data dřív, ale podle thaitrainguide to nejsou potvrzené prodeje. V prosinci hrozí vyprodání, proto jízdenku na 30. 11. kupte hned a ostatní hned v první den prodeje. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
+- **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jak dlouho předem jde jízdenka koupit, závisí na tom, jak velkou část celé trasy vlaku jedete: pod čtvrtinou trasy jen 1 den předem, od čtvrtiny do 59 % trasy zhruba 30 dní předem. Vlak č. 43 jede z Bangkoku až do Surat Thani. Úsek Bangkok → Hua Hin se proto prodává zhruba 30 dní předem přes D-Ticket (oficiální web a aplikace železnic), 12Go.asia nebo na nádraží. Na 30. 11. už místo nebylo, proto se do Hua Hin jede dodávkou (fáze 1). Úsek Hua Hin → Chumphon (4. 12.) je podle dopočtu vzdálenosti přes čtvrtinu trasy, takže se nejspíš prodává také zhruba 30 dní předem. Neověřeno: v D-Ticket nebo 12Go se ukáže, od kdy jde koupit. Agentury jako 12Go ukazují data dřív, ale podle thaitrainguide to nejsou potvrzené prodeje. V prosinci hrozí vyprodání, proto jízdenku na 4. 12. kupte co nejdřív. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
 - **Lodě:** V hlavní sezóně kupte lístky 2 až 3 dny předem. Nenastupujte na přeplněnou loď ani za špatného počasí, lodě se při větru ruší.
 - **Taxi:** V Bangkoku ani na Phuketu nenastupujte do taxíku bez zapnutého taxametru. Používejte Grab nebo Bolt, kde cenu znáte předem.
 
@@ -220,7 +219,7 @@ Pomalý rozjezd po letu: chrámy po ránu, odpoledne pauza, večer street food. 
 - **Pá 27. 11.:** Přílet v 7:15, na ubytování kolem 10:30. Check-in je od 14:00, o dřívější napište předem, jinak vám uschovají zavazadla. Masáž u Wat Pho, pozdní oběd a odpočinek. Odpoledne Wat Pho (do 18:30, 200 THB), pak brzy spát. Když nebude síla, Wat Pho vynechte.
 - **So 28. 11.:** V 8:00 Wat Paknam (metro Bang Phai, východ 1, pak 10–15 minut pěšky, 8:00–18:00, zdarma, 2–3 hodiny). Ve 12:00 plavba po klongech (asi 1,5 hodiny, 1 672 Kč za dva, zrušení zdarma do 27. 11., sraz na Soi Phet Kasem 19, konec u květinového trhu Pak Khlong Talat). Kolem 15:30 Wat Arun (8:00–18:00, 200 THB), nebo jen pohled z přívozu z Tha Tien (3–5 THB). Večer Talat Noi a Yaowarat.
 - **Ne 29. 11.:** 7:00–9:00 Lumphini Park (zdarma), v poledne pauza, kolem 16:30 Zlatá hora (318 schodů, 7:00–19:00, 100 THB, západ slunce kolem 17:50). Večer sbalit.
-- **Po 30. 11.:** Vstávat kolem 5:15, vyjet kolem 6:00 na vlak v 7:30.
+- **Po 30. 11.:** Snídaně v klidu, z ubytování vyjet kolem 8:15 na dodávku v 9:00 (viz Přesun dál).
 - **Vynecháno:** Velký palác (500 THB, 8:30–15:30, davy a přísný dress code). Kdo ho chce vidět, ať jde v 8:30 místo Wat Pho.
 - **Prakticky:** Do chrámů zakrytá ramena a kolena (sekce Etiketa). Pozor na podvod „chrám je dnes zavřený“ (sekce Praktické travel hacky).
 
@@ -240,19 +239,22 @@ Většinu cest zvládnete metrem (modrá linka), Grabem a pěšky. Skytrain (BTS
 - **Pá 27. 11.:** Airport Rail Link a metro na Sam Yot. K Wat Pho pěšky, nejbližší stanice u něj je Sanam Chai (od ní asi 10 minut pěšky).
 - **So 28. 11.:** Metro ze Sam Yot na Bang Phai (Wat Paknam), na sraz u klongů Grabem (vzdálenost neověřeno), po plavbě na Wat Arun Grabem nebo pěšky na Tha Tien a přívozem. Večer Talat Noi a Yaowarat pěšky, zpátky metrem ze stanice Wat Mangkon, jedna stanice od hotelu.
 - **Ne 29. 11.:** Metro ze Sam Yot na Lumphini. Na Zlatou horu pěšky z hotelu nebo Grabem.
-- **Po 30. 11.:** Na nádraží Krung Thep Aphiwat s batohy v 6:00 raději Grabem, metro je záloha (viz Přesun dál).
+- **Po 30. 11.:** Na odjezd dodávky u Khao San (asi 2 km) s batohy Grabem (viz Přesun dál).
 
 #### Ubytování
 
 [Ti Thong Hostel](https://www.google.com/maps/search/?api=1&query=Ti%20Thong%20Hostel%20Bangkok&query_place_id=ChIJGVHrDDOZ4jARIsBWLETYjEY), 27.–30. 11., potvrzeno, rezervováno přes Agodu. Check-in od 14:00, check-out do 12:00. Zrušit zdarma do 22. 11. 23:59 thajského času (v Česku 22. 11. v 17:59).
 
-#### Přesun dál (Po 30. 11., brzy ráno)
+#### Přesun dál (Po 30. 11., ráno)
 
-Vlak č. 43 v 7:30 z nádraží Krung Thep Aphiwat do Hua Hin (příjezd asi 10:31, od asi 412 THB). Na nádraží Grabem nebo metrem do Bang Sue. Jízdenky se prodávají zhruba 30 dní předem (sekce Doprava).
+Dodávka Vivatrip, koupeno přes 12Go (VIP Direct, 10 míst). Odjezd v 9:00, místo odjezdu je v jízdence uvedené jako Khaosan Road VIVATRIP, Bangkok. Google Maps ukazuje kancelář v uličce Rong Mai ve čtvrti Phra Nakhon (v Google Maps [Vivatrip](https://www.google.com/maps/search/?api=1&query=Vivatrip%20Rong%20Mai%20Alley%20Bangkok), telefon +66 95 025 6965), od ubytování asi 2 km, Grabem asi 10 minut (neověřeno). Na místě buďte s rezervou, kolem 8:40. Příjezd ve 12:10 ke Clock Tower v Hua Hin, cesta asi 3 h 10 min. Vlak č. 43 už neměl volná místa.
 
-Alternativa: dodávka Vivatrip (VIP Direct, 10 míst, přes 12Go). Odjezd v 9:00 z uličky Rong Mai ve čtvrti Phra Nakhon (v Google Maps [Vivatrip](https://www.google.com/maps/search/?api=1&query=Vivatrip%20Rong%20Mai%20Alley%20Bangkok), telefon +66 95 025 6965), příjezd ve 12:10 k Clock Tower v Hua Hin. Cesta trvá asi 3 h 10 min, tedy jako vlak, jen se přijede o 1 h 40 min později. Cena v aplikaci 12Go je asi 290 Kč, zřejmě za osobu, neověřeno. Jízdenka se dá koupit s okamžitým potvrzením a nemusí se kupovat 30 dní předem. Výhoda je, že nemusíte v 6:00 na nádraží Bang Sue a ráno se vstává v klidu, Rong Mai je podle Anežky asi 2 km od ubytování. Anežka by dodávku volila, rozhodnutí je na vás obou.
+- **Cena:** 553 Kč za rezervaci.
+- **Při nástupu:** ukázat pas nebo průkaz totožnosti.
+- **Zrušení:** do 28. 11. 15:00 s vrácením 18,13 EUR (zhruba 80 % ceny, kurz neověřen). V jakém časovém pásmu termín platí, jízdenka neříká, berte to raději jako thajský čas (v Česku 9:00).
+- **eSIM:** k rezervaci je zdarma eSIM s daty, nastavuje se přes tlačítko Set up eSim v potvrzení. Kolik dat a na jak dlouho, neověřeno.
 
-Nevýhody podle recenzí na 12Go: někdy je těsno, jede se bez zastávky na toaletu a 12Go u většího množství zavazadel minivany nedoporučuje. Hodnocení je 4,6 na 12Go a 4,8 ze 37 neověřených recenzí v Google Maps. V nabídce 12Go je jako místo odjezdu uvedená Khao San Road, Google Maps ukazuje uličku Rong Mai, přesné místo srazu proto ověřte v potvrzení. V Hua Hin dodávka končí u Clock Tower, vzdálenost k půjčovně aut (fáze 2) neověřena. S příjezdem ve 12:10 se pondělní mokřad Bueng Bua stíhá hůř, lávka se zavírá v 17:00 a check-in v Driftwood je jen do 18:00 (fáze 2).
+Podle recenzí na 12Go je v dodávce někdy těsno a jede se bez zastávky na toaletu, proto před odjezdem na záchod. Velké batohy jdou dozadu, 12Go u většího množství zavazadel minivany nedoporučuje. V Hua Hin dodávka končí u Clock Tower, odtud Grabem nebo taxi do půjčovny aut (fáze 2), vzdálenost neověřena. S příjezdem ve 12:10 se pondělní mokřad Bueng Bua stíhá hůř, lávka se zavírá v 17:00 a check-in v Driftwood je jen do 18:00 (fáze 2).
 
 #### Mapy
 
@@ -282,7 +284,7 @@ Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen ori
 
 Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Kui Buri. Veřejná doprava sem nejezdí, proto auto z Hua Hin. Čtvrtý den je volný, na odpočinek nebo výlet autem do Prachuap Khiri Khan za opicemi.
 
-- **Forest Park v Pranburi (volitelně):** kilometrová lávka mangrovovým lesem, zastávka cestou z Hua Hin.
+- **Forest Park v Pranburi (volitelně):** kilometrová lávka mangrovovým lesem, nejspíš jen ve volný den 3. 12.
 - **Mokřad Bueng Bua:** dřevěná lávka mezi lotosy, ptáky a varany.
 - **Jeskyně Phraya Nakhon:** královský pavilon, na který dopoledne svítí světlo otvorem ve stropu.
 - **Vyhlídka a chrám Khao Daeng:** výhled na hory a krevetí farmy, chrám pod skalami s opicemi.
@@ -294,15 +296,15 @@ Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Ku
 
 #### Program po dnech
 
-- **Po 30. 11.:** Vlak do Hua Hin (10:31) nebo alternativně dodávka (12:10, fáze 1), vyzvednout auto, asi 45 minut do Sam Roi Yot. Volitelně cestou Forest Park v Pranburi, jen když přijedete vlakem (podrobnosti níže). Odpoledne mokřad Bueng Bua: lávka asi 1 km, 8:00–17:00, asi 400 THB na osobu (park plus lávka, podle jednoho blogu), 1,5–2 hodiny. Volitelně místní loď asi 600 THB za loď.
+- **Po 30. 11.:** Dodávkou do Hua Hin (příjezd 12:10, fáze 1), vyzvednout auto, asi 45 minut do Sam Roi Yot. Odpoledne mokřad Bueng Bua: lávka asi 1 km, 8:00–17:00, asi 400 THB na osobu (park plus lávka, podle jednoho blogu), 1,5–2 hodiny. Volitelně místní loď asi 600 THB za loď.
 - **Út 1. 12.:** Ráno jeskyně Phraya Nakhon. Z Bang Pu (od ubytování autem) pěšky přes kopec na pláž Laem Sala asi 30 minut, loď je zbytečná (asi 400 THB). Cestou přes kopec, na pláži i na stezce k jeskyni sledujte stromy, žijí tu hulmani (nekrmte je). Pak strmé schody asi 30 minut nahoru. Buďte tam před desátou, světlo na pavilonu je nejlepší zhruba 9–13 hodin. Pavilon nechal postavit Rama V. po návštěvě v roce 1890. Kolem 15:00 vesnický chrám u mola Khao Daeng (zdarma, jídlo mějte v batohu kvůli opicím) a od mola u chrámu plavba lodí po kanálu Khao Daeng (podrobnosti níže).
 - **St 2. 12.:** Ráno vyhlídka Khao Daeng (157 m, 40–45 minut do kopce po kamenité stezce), když budete unavení, vynechte ji. Pak lávka v mangrovech za ředitelstvím parku (podrobnosti níže). Volitelně jeskyně Phra Prathun s netopýry (vede mnich, tel. +66 95 943 3832). Od 14:00 Kui Buri. Zpátky se jede za tmy, jinak se v plánu za tmy nejezdí (kromě volitelného výletu do Prachuap).
-- **Čt 3. 12.:** Volný den na odpočinek u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00.
+- **Čt 3. 12.:** Volný den na odpočinek u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00. Volitelně Forest Park v Pranburi (podrobnosti níže).
 - **Pá 4. 12.:** Vyjet kolem 7:00, auto vrátit kolem 8:15 v Hua Hin, vlak v 10:31 rovnou do Chumphonu (viz Přesun dál).
 
 #### Forest Park v Pranburi (volitelně)
 
-Malý lesní park u ústí řeky Pran asi 25 km jižně od Hua Hin, cestou do Sam Roi Yot (k pobřeží u Pak Nam Pran). Je to hlavně procházka: asi kilometrová dřevěná lávka mangrovovým lesem s vyhlídkovou věží na ptáky, projdete ji za 30 až 45 minut. Z jedné strany park sahá až k pláži. Volitelně jde les projet lodí, ta se platí zvlášť (cena neznámá). Vstup je zdarma. Podle Google Maps otevírá v 8:30, kdy zavírá, je neověřené (jeden zdroj uvádí 19:00). V Mapách je pod názvem Pran Buri Forest Park, telefon +66 32 621 608. Počítejte zhruba s hodinou zastávky. Stihnete ho jen s vlakem (v Hua Hin v 10:31). S dodávkou (ve 12:10) by nezbyl čas na mokřad Bueng Bua, který zavírá v 17:00, a na check-in v Driftwood do 18:00.
+Malý lesní park u ústí řeky Pran asi 25 km jižně od Hua Hin, cestou do Sam Roi Yot (k pobřeží u Pak Nam Pran). Je to hlavně procházka: asi kilometrová dřevěná lávka mangrovovým lesem s vyhlídkovou věží na ptáky, projdete ji za 30 až 45 minut. Z jedné strany park sahá až k pláži. Volitelně jde les projet lodí, ta se platí zvlášť (cena neznámá). Vstup je zdarma. Podle Google Maps otevírá v 8:30, kdy zavírá, je neověřené (jeden zdroj uvádí 19:00). V Mapách je pod názvem Pran Buri Forest Park, telefon +66 32 621 608. Počítejte zhruba s hodinou zastávky. Cestou z Hua Hin 30. 11. se nestihne: dodávka přijede ve 12:10 a pak by nezbyl čas na mokřad Bueng Bua, který zavírá v 17:00, a na check-in v Driftwood do 18:00. Hodí se proto spíš do volného dne 3. 12., jak dlouho se jede z ubytování, neověřeno.
 
 #### Lávka v mangrovech u ředitelství
 
@@ -935,7 +937,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026). Vezměte ho s sebou spolu s českým řidičským průkazem, auto v Hua Hin přebíráte 30. 11.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce Etihad Airways). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
 - **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
-- **Vlak č. 43 a auto:** Jízdenku na 30. 11. do Hua Hin kupte hned, prodej běží od asi 31. 10. Alternativa je dodávka Vivatrip na 12Go (fáze 1), pak vlak nekupujete. Jízdenka na 4. 12. (Hua Hin → Chumphon) se nejspíš prodává zhruba 30 dní předem, takže by už měla jít koupit, v D-Ticket nebo 12Go ověřte, od kdy (sekce Doprava). Auto v Hua Hin zamluvte online na 4 dny, 30. 11. až 4. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
+- **Vlak č. 43 a auto:** Do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1), vlak už byl plný. Jízdenka na 4. 12. (Hua Hin → Chumphon) se nejspíš prodává zhruba 30 dní předem, takže by už měla jít koupit, v D-Ticket nebo 12Go ověřte, od kdy (sekce Doprava). Auto v Hua Hin zamluvte online na 4 dny, 30. 11. až 4. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12. Sjednejte ho nejpozději den před odletem. Storno (zrušení cesty) už sjednat nejde, pojišťovny ho dávají jen krátce po zaplacení cesty a letenky i ubytování jsou zaplacené. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky (fáze 4) a skútry (fáze 3, 5 a 6). Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění a pro skútr se bere oprávnění na motocykl, ne skupina B (v konkrétních podmínkách neověřeno).
 - **Očkování a zdraví:** Poraďte se co nejdřív s lékařem nebo centrem cestovní medicíny, ideálně 4–6 týdnů před odletem. I když zbývá méně času, lékař řekne, co ještě jde stihnout (sekce Zdraví, bezpečnost a nouzová čísla).
 - **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
@@ -946,7 +948,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 
 | Kdy | Co |
 |---|---|
-| Hned teď | Jízdenka na vlak č. 43 na 30. 11. (prodej od asi 31. 10.) nebo dodávka Vivatrip (fáze 1), jízdenka na vlak č. 43 na 4. 12. (Hua Hin → Chumphon, prodej nejspíš už běží, neověřeno) a auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
+| Hned teď | Jízdenka na vlak č. 43 na 4. 12. (Hua Hin → Chumphon, prodej nejspíš už běží, neověřeno) a auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
 | Před odletem | Konzultace s lékařem nebo v centru cestovní medicíny, případné očkování (ideálně 4–6 týdnů předem, lékař řekne, co ještě jde stihnout) |
 | Do 25. 11. (před odletem) | Přespání na jezeře Cheow Lan: balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
@@ -1056,7 +1058,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 |---|---|---|
 | Bangkok: vstupy a plavba po klongech | Wat Pho 200 THB, Wat Arun 200 THB (volitelně), Zlatá hora 100 THB na osobu, plavba 1 672 Kč za dva (asi 2 570 THB) | zrušení plavby zdarma do 27. 11. |
 | Auto v Hua Hin (Sam Roi Yot) | od asi 800–900 THB na den, 4 dny asi 3 600 THB plus benzín odhadem 1 300 THB | Thai Rent A Car / Enterprise, kauce a spoluúčast se liší (sekce Předodletový checklist) |
-| Forest Park v Pranburi (volitelně) | zdarma | cestou z Hua Hin, projížďka lodí za příplatek (cena neznámá) |
+| Forest Park v Pranburi (volitelně) | zdarma | ve volný den 3. 12., projížďka lodí za příplatek (cena neznámá) |
 | Mokřady Bueng Bua (Sam Roi Yot) | asi 400 THB na osobu (park plus lávka) | podle jednoho blogu, místní loď volitelně asi 600 THB za loď pro 4 lidi |
 | Jeskyně Phraya Nakhon (Sam Roi Yot) | vstup do parku 200 THB na osobu (platí jen ten den) | loď z Bang Pu asi 400 THB za loď je volitelná |
 | Vyhlídka a chrám Khao Daeng (Sam Roi Yot) | park 200 THB na osobu (platí jen ten den) | chrám je zdarma |

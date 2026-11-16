@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v88: Do Hua Hin koupená dodávka (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v88/) · [Markdown](verze/v88/thajsko-bangkok-phuket.md) · [rozdíl proti v87](https://github.com/polachp/dovolena-thajsko-2026/compare/7ca77db...74a98d8)
+
+- Do Hua Hin 30. 11. je koupená dodávka Vivatrip: odjezd v 9:00 od Khao San Road, příjezd ve 12:10 ke Clock Tower, 553 Kč, zrušení do 28. 11. 15:00 s vrácením 18,13 EUR, při nástupu pas, k rezervaci eSIM zdarma. Vlak č. 43 už neměl volná místa.
+- Fáze 1: Přesun dál přepsaný na dodávku, ranní program 30. 11. bez vstávání v 5:15 (vyjet kolem 8:15), vlak vypuštěný z tabulky v sekci Doprava.
+- Fáze 2: Forest Park v Pranburi se s dodávkou cestou 30. 11. nestihne, je nabídnutý jako volitelný výlet ve volný den 3. 12.
+- Co se ještě dořeší a Předodletový checklist: jízdenka na 30. 11. odškrtnutá, zůstává vlak na 4. 12. a auto v Hua Hin.
+- Počet fází, nocí i data jsou beze změny proti v87.
+
 ## v87: Čtyřkolky bez otázky na řidičák (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v87/) · [Markdown](verze/v87/thajsko-bangkok-phuket.md) · [rozdíl proti v86](https://github.com/polachp/dovolena-thajsko-2026/compare/57c7321...7ca77db)

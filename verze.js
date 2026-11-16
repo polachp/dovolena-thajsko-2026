@@ -1103,5 +1103,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "7ca77db",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v88",
+    "datum": "16. 11. 2026",
+    "nazev": "Do Hua Hin koupená dodávka",
+    "zmeny": [
+      "Do Hua Hin 30. 11. je koupená dodávka Vivatrip: odjezd v 9:00 od Khao San Road, příjezd ve 12:10 ke Clock Tower, 553 Kč, zrušení do 28. 11. 15:00 s vrácením 18,13 EUR, při nástupu pas, k rezervaci eSIM zdarma. Vlak č. 43 už neměl volná místa.",
+      "Fáze 1: Přesun dál přepsaný na dodávku, ranní program 30. 11. bez vstávání v 5:15 (vyjet kolem 8:15), vlak vypuštěný z tabulky v sekci Doprava.",
+      "Fáze 2: Forest Park v Pranburi se s dodávkou cestou 30. 11. nestihne, je nabídnutý jako volitelný výlet ve volný den 3. 12.",
+      "Co se ještě dořeší a Předodletový checklist: jízdenka na 30. 11. odškrtnutá, zůstává vlak na 4. 12. a auto v Hua Hin.",
+      "Počet fází, nocí i data jsou beze změny proti v87."
+    ],
+    "commit": "74a98d8",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
