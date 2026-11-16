@@ -1069,5 +1069,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c9cfd28",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v85",
+    "datum": "16. 11. 2026",
+    "nazev": "Fáze 2: Forest Park v Pranburi upřesněný",
+    "zmeny": [
+      "Fáze 2, blok Forest Park v Pranburi (volitelně): podle Google Maps otevírá v 8:30 (dřív 6:00–19:00 podle jednoho zdroje), telefon +66 32 621 608, název v Mapách Pran Buri Forest Park, lodní projížďka za příplatek a odhad asi hodinové zastávky.",
+      "Odkazy do Map u Forest Parku (Záchytné body pro Google Maps, poznámka pod mapou fáze 2) hledají Pran Buri Forest Park. Sekce Orientační rozpočet: u Forest Parku poznámka o lodi za příplatek.",
+      "Počet fází, nocí i data jsou beze změny proti v84."
+    ],
+    "commit": "16d5121",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
