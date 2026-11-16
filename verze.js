@@ -1144,5 +1144,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c7dd429",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v91",
+    "datum": "16. 11. 2026",
+    "nazev": "Vlak 4. 12. do Chumphonu koupený",
+    "zmeny": [
+      "Vlak č. 43 4. 12. z Hua Hin do Chumphonu je koupený přes aplikaci D-Ticket: odjezd v 10:36, příjezd ve 13:50 (podle jízdenky, dřív 10:31 a 14:05), 2. třída s klimatizací, 343 THB na osobu. Jízdenky se musí vytisknout, zrušení vrátí jen asi 100 THB.",
+      "Upravené: fáze 2 (program na 4. 12. a Přesun dál), sekce Doprava (tabulka a odstavec Vlak na jih), Co se ještě dořeší a Předodletový checklist (v tabulce Co zařídit a kdy nový řádek Před odletem: vytisknout jízdenky).",
+      "Počet fází, nocí i data jsou beze změny proti v90."
+    ],
+    "commit": "f0f91c0",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

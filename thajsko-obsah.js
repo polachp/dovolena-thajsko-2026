@@ -11,7 +11,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze. Termíny, do kdy jde uby
 
 Nejdřív úkoly před odletem, pak body podle fází.
 
-- **Vlak a auto na začátku trasy (fáze 1 a 2):** do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1). Jízdenka na 4. 12. (Hua Hin → Chumphon) se podle dopočtu vzdálenosti prodává zhruba 30 dní předem, takže by už měla jít koupit (neověřeno, v D-Ticket nebo 12Go, sekce Doprava). Auto v Hua Hin na 4 dny, 30. 11. až 4. 12., není zamluvené.
+- **Vlak a auto na začátku trasy (fáze 1 a 2):** do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1). Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené (fáze 2), před odletem je vytiskněte. Auto v Hua Hin na 4 dny, 30. 11. až 4. 12., není zamluvené.
 - **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
 - **Noc na jezeře Cheow Lan (fáze 4):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá vybrat mezi Phutawan a Smiley (porovnání viz fáze 4). U Phutawan chybí DPH, kde je kancelář a cena dopravy, potvrzený termín 10.–11. 12. a výše a podmínky nevratné zálohy.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
@@ -171,7 +171,7 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Hua Hin → Sam Roi Yot | auto z půjčovny | asi 45 min | benzín |
 | Sam Roi Yot → Kui Buri (Huai Luek) | auto z půjčovny | asi 1 h jedním směrem (odhad) | benzín, vjezd 30 |
 | Sam Roi Yot → Prachuap Khiri Khan (volitelně) | auto z půjčovny | asi 1 h jedním směrem (odhad) | benzín |
-| Hua Hin → Chumphon | vlak č. 43 v 10:31 | asi 3 h 35 min (příjezd 14:05) | podle třídy, neověřeno |
+| Hua Hin → Chumphon | vlak č. 43 v 10:36, jízdenky koupené | asi 3 h 15 min (příjezd 13:50) | 343 za osobu |
 | Chumphon → Ranong | minivan nebo autobus | asi 2 h, resp. 2,5 h | od asi 9 USD, odjezdy neověřené |
 | Ranong ↔ Koh Phayam | rychlá loď | 35–45 min | 350 + 5 poplatek |
 | Ranong → Khao Sok | autobus nebo minivan | nejrychleji asi 2 h 50 min | od asi 13 USD, zhruba 8:00–18:15 |
@@ -185,7 +185,7 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Nai Yang (Wattana Bungalow) → letiště HKT | Grab, Bolt, taxi | asi 7 min (podle inzerátu 2,8 km) | neověřeno |
 
 - **Z letiště BKK:** Nepoužívejte drahé letištní taxíky. Airport Rail Link je ve spodním podlaží terminálu (značky Airport Rail Link nebo Train), jezdí zhruba 5:30 až půlnoc a jde zaplatit i bezkontaktní kartou. V Makkasanu se přestupuje na metro krytou chodbou asi 200–400 m, s jinými turnikety i jízdným. Do starého města jeďte modrou linkou na Sam Yot. Po půlnoci Grab nebo taxi s taxametrem.
-- **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jak dlouho předem jde jízdenka koupit, závisí na tom, jak velkou část celé trasy vlaku jedete: pod čtvrtinou trasy jen 1 den předem, od čtvrtiny do 59 % trasy zhruba 30 dní předem. Vlak č. 43 jede z Bangkoku až do Surat Thani. Úsek Bangkok → Hua Hin se proto prodává zhruba 30 dní předem přes D-Ticket (oficiální web a aplikace železnic), 12Go.asia nebo na nádraží. Na 30. 11. už místo nebylo, proto se do Hua Hin jede dodávkou (fáze 1). Úsek Hua Hin → Chumphon (4. 12.) je podle dopočtu vzdálenosti přes čtvrtinu trasy, takže se nejspíš prodává také zhruba 30 dní předem. Neověřeno: v D-Ticket nebo 12Go se ukáže, od kdy jde koupit. Agentury jako 12Go ukazují data dřív, ale podle thaitrainguide to nejsou potvrzené prodeje. V prosinci hrozí vyprodání, proto jízdenku na 4. 12. kupte co nejdřív. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
+- **Vlak na jih:** Jezdí z nádraží Krung Thep Aphiwat (Bang Sue Grand). Jak dlouho předem jde jízdenka koupit, závisí na tom, jak velkou část celé trasy vlaku jedete: pod čtvrtinou trasy jen 1 den předem, od čtvrtiny do 59 % trasy zhruba 30 dní předem. Vlak č. 43 jede z Bangkoku až do Surat Thani. Úsek Bangkok → Hua Hin se proto prodává zhruba 30 dní předem přes D-Ticket (oficiální web a aplikace železnic), 12Go.asia nebo na nádraží. Na 30. 11. už místo nebylo, proto se do Hua Hin jede dodávkou (fáze 1). Na úsek Hua Hin → Chumphon (4. 12.) jsou jízdenky koupené přes D-Ticket (fáze 2). Aplikace D-Ticket z Česka fungovala, web ne. Lístky 3. třídy jen na nádraží v den jízdy. Zpoždění jsou běžná.
 - **Lodě:** V hlavní sezóně kupte lístky 2 až 3 dny předem. Nenastupujte na přeplněnou loď ani za špatného počasí, lodě se při větru ruší.
 - **Taxi:** V Bangkoku ani na Phuketu nenastupujte do taxíku bez zapnutého taxametru. Používejte Grab nebo Bolt, kde cenu znáte předem.
 
@@ -304,7 +304,7 @@ Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Ku
 - **Út 1. 12.:** Ráno jeskyně Phraya Nakhon. Z Bang Pu (od ubytování autem) pěšky přes kopec na pláž Laem Sala asi 30 minut, loď je zbytečná (asi 400 THB). Cestou přes kopec, na pláži i na stezce k jeskyni sledujte stromy, žijí tu hulmani (nekrmte je). Pak strmé schody asi 30 minut nahoru. Buďte tam před desátou, světlo na pavilonu je nejlepší zhruba 9–13 hodin. Pavilon nechal postavit Rama V. po návštěvě v roce 1890. Kolem 15:00 vesnický chrám u mola Khao Daeng (zdarma, jídlo mějte v batohu kvůli opicím) a od mola u chrámu plavba lodí po kanálu Khao Daeng (podrobnosti níže).
 - **St 2. 12.:** Ráno vyhlídka Khao Daeng (157 m, 40–45 minut do kopce po kamenité stezce), když budete unavení, vynechte ji. Pak lávka v mangrovech za ředitelstvím parku (podrobnosti níže). Volitelně jeskyně Phra Prathun s netopýry (vede mnich, tel. +66 95 943 3832). Od 14:00 Kui Buri. Zpátky se jede za tmy, jinak se v plánu za tmy nejezdí (kromě volitelného výletu do Prachuap).
 - **Čt 3. 12.:** Volný den na odpočinek u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00. Volitelně Forest Park v Pranburi (podrobnosti níže).
-- **Pá 4. 12.:** Vyjet kolem 7:00, auto vrátit kolem 8:15 v Hua Hin, vlak v 10:31 rovnou do Chumphonu (viz Přesun dál).
+- **Pá 4. 12.:** Vyjet kolem 7:00, auto vrátit kolem 8:15 v Hua Hin, vlak v 10:36 rovnou do Chumphonu (viz Přesun dál).
 
 #### Forest Park v Pranburi (volitelně)
 
@@ -350,7 +350,7 @@ Ke zrušení: [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/
 
 #### Přesun dál (Pá 4. 12., dopoledne)
 
-Vyjeďte kolem 7:00 a auto vraťte kolem 8:15 v Hua Hin. Vlak č. 43 v 10:31 jede rovnou do Chumphonu (příjezd 14:05, asi 3 h 35 min). Jízdenka na tento úsek se podle dopočtu vzdálenosti prodává zhruba 30 dní předem, takže by už měla jít koupit (neověřeno, v D-Ticket nebo 12Go, sekce Doprava). Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia. Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
+Vyjeďte kolem 7:00 a auto vraťte kolem 8:15 v Hua Hin. Vlak č. 43 v 10:36 jede rovnou do Chumphonu (příjezd 13:50, asi 3 h 15 min). Jízdenky jsou koupené přes D-Ticket, 2. třída s klimatizací, číslo vozu a místa je na jízdence. Každý má svou jízdenku a podle podmínek na ní ji musíte mít u sebe vytištěnou, v telefonu ji mějte jako zálohu. Vezměte i pasy, jízdenka platí jen na jméno, které je na ní. Zrušit jde, ale vrátí se jen asi 100 THB. Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia. Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
 
 #### Mapy
 
@@ -942,7 +942,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026). Vezměte ho s sebou spolu s českým řidičským průkazem, auto v Hua Hin přebíráte 30. 11.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce Etihad Airways). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
 - **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
-- **Vlak č. 43 a auto:** Do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1), vlak už byl plný. Jízdenka na 4. 12. (Hua Hin → Chumphon) se nejspíš prodává zhruba 30 dní předem, takže by už měla jít koupit, v D-Ticket nebo 12Go ověřte, od kdy (sekce Doprava). Auto v Hua Hin zamluvte online na 4 dny, 30. 11. až 4. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
+- **Vlak č. 43 a auto:** Do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1), vlak už byl plný. Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené, před odletem obě vytiskněte (fáze 2). Auto v Hua Hin zamluvte online na 4 dny, 30. 11. až 4. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12. Sjednejte ho nejpozději den před odletem. Storno (zrušení cesty) už sjednat nejde, pojišťovny ho dávají jen krátce po zaplacení cesty a letenky i ubytování jsou zaplacené. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky (fáze 4) a skútry (fáze 3, 5 a 6). Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění a pro skútr se bere oprávnění na motocykl, ne skupina B (v konkrétních podmínkách neověřeno).
 - **Očkování a zdraví:** Poraďte se co nejdřív s lékařem nebo centrem cestovní medicíny, ideálně 4–6 týdnů před odletem. I když zbývá méně času, lékař řekne, co ještě jde stihnout (sekce Zdraví, bezpečnost a nouzová čísla).
 - **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
@@ -953,7 +953,8 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 
 | Kdy | Co |
 |---|---|
-| Hned teď | Jízdenka na vlak č. 43 na 4. 12. (Hua Hin → Chumphon, prodej nejspíš už běží, neověřeno) a auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
+| Hned teď | Auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
+| Před odletem | Vytisknout obě jízdenky na vlak 4. 12. (Hua Hin → Chumphon) |
 | Před odletem | Konzultace s lékařem nebo v centru cestovní medicíny, případné očkování (ideálně 4–6 týdnů předem, lékař řekne, co ještě jde stihnout) |
 | Do 25. 11. (před odletem) | Přespání na jezeře Cheow Lan: balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |

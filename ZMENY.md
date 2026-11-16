@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v91: Vlak 4. 12. do Chumphonu koupený (16. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v91/) · [Markdown](verze/v91/thajsko-bangkok-phuket.md) · [rozdíl proti v90](https://github.com/polachp/dovolena-thajsko-2026/compare/c7dd429...f0f91c0)
+
+- Vlak č. 43 4. 12. z Hua Hin do Chumphonu je koupený přes aplikaci D-Ticket: odjezd v 10:36, příjezd ve 13:50 (podle jízdenky, dřív 10:31 a 14:05), 2. třída s klimatizací, 343 THB na osobu. Jízdenky se musí vytisknout, zrušení vrátí jen asi 100 THB.
+- Upravené: fáze 2 (program na 4. 12. a Přesun dál), sekce Doprava (tabulka a odstavec Vlak na jih), Co se ještě dořeší a Předodletový checklist (v tabulce Co zařídit a kdy nový řádek Před odletem: vytisknout jízdenky).
+- Počet fází, nocí i data jsou beze změny proti v90.
+
 ## v90: Podrobnosti z jízdenky na dodávku (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v90/) · [Markdown](verze/v90/thajsko-bangkok-phuket.md) · [rozdíl proti v89](https://github.com/polachp/dovolena-thajsko-2026/compare/7219eeb...c7dd429)
