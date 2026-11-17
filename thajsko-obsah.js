@@ -306,7 +306,7 @@ Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Ku
 - **Út 1. 12.:** Ráno jeskyně Phraya Nakhon. Z Bang Pu (od ubytování autem) pěšky přes kopec na pláž Laem Sala asi 30 minut, loď je zbytečná (asi 400 THB). Cestou přes kopec, na pláži i na stezce k jeskyni sledujte stromy, žijí tu hulmani (nekrmte je). Pak strmé schody asi 30 minut nahoru. Buďte tam před desátou, světlo na pavilonu je nejlepší zhruba 9–13 hodin. Pavilon nechal postavit Rama V. po návštěvě v roce 1890. Kolem 15:00 vesnický chrám u mola Khao Daeng (zdarma, jídlo mějte v batohu kvůli opicím) a od mola u chrámu plavba lodí po kanálu Khao Daeng (podrobnosti níže).
 - **St 2. 12.:** Ráno vyhlídka Khao Daeng (157 m, 40–45 minut do kopce po kamenité stezce), když budete unavení, vynechte ji. Pak lávka v mangrovech za ředitelstvím parku (podrobnosti níže). Volitelně jeskyně Phra Prathun s netopýry (vede mnich, tel. +66 95 943 3832). Od 14:00 Kui Buri. Zpátky se jede za tmy, jinak se v plánu za tmy nejezdí (kromě volitelného výletu do Prachuap).
 - **Čt 3. 12.:** Volný den na odpočinek u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00. Volitelně Forest Park v Pranburi, pokud se v pondělí nestihl (podrobnosti níže).
-- **Pá 4. 12.:** Vyjet kolem 7:00, auto vrátit kolem 8:15 v Hua Hin, vlak v 10:36 rovnou do Chumphonu (viz Přesun dál).
+- **Pá 4. 12.:** Vyjet kolem 8:15 až 8:30, auto vrátit kolem 9:30 v Hua Hin, vlak v 10:36 rovnou do Chumphonu (viz Přesun dál).
 
 #### Forest Park v Pranburi (volitelně)
 
@@ -352,7 +352,7 @@ Ke zrušení: [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/
 
 #### Přesun dál (Pá 4. 12., dopoledne)
 
-Vyjeďte kolem 7:00 a auto vraťte kolem 8:15 v Hua Hin. Vlak č. 43 v 10:36 jede rovnou do Chumphonu (příjezd 13:50, asi 3 h 15 min). Jízdenky jsou koupené přes D-Ticket, 2. třída s klimatizací, číslo vozu a místa je na jízdence. Každý má svou jízdenku a podle podmínek na ní ji musíte mít u sebe vytištěnou, v telefonu ji mějte jako zálohu. Vezměte i pasy, jízdenka platí jen na jméno, které je na ní. Zrušit jde, ale vrátí se jen asi 100 THB. Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia, podle 12Go jezdí i v 16:00 a v 17:00 (neověřeno), s nimi jde stihnout volitelná zastávka v Chumphonu (fáze 3). Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
+Vyjeďte kolem 8:15 až 8:30 (cesta asi 45 minut až hodina) a auto vraťte kolem 9:30 v Hua Hin. Z půjčovny Grabem na nádraží (asi 2,5 km), kolem 10:00 buďte na nástupišti. Vlak č. 43 v 10:36 jede rovnou do Chumphonu (příjezd 13:50, asi 3 h 15 min). Jízdenky jsou koupené přes D-Ticket, 2. třída s klimatizací, číslo vozu a místa je na jízdence. Každý má svou jízdenku a podle podmínek na ní ji musíte mít u sebe vytištěnou, v telefonu ji mějte jako zálohu. Vezměte i pasy, jízdenka platí jen na jméno, které je na ní. Zrušit jde, ale vrátí se jen asi 100 THB. Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia, podle 12Go jezdí i v 16:00 a v 17:00 (neověřeno), s nimi jde stihnout volitelná zastávka v Chumphonu (fáze 3). Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
 
 #### Mapy
 

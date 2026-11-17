@@ -1204,5 +1204,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "36fabe9",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v96",
+    "datum": "17. 11. 2026",
+    "nazev": "Pozdější vrácení auta 4. 12.",
+    "zmeny": [
+      "Fáze 2: v pátek 4. 12. se vyjíždí z Driftwood až kolem 8:15 až 8:30 a auto se vrací v Hua Hin kolem 9:30 (dřív odjezd v 7:00 a vrácení v 8:15), vlak v 10:36 zůstává.",
+      "Počet fází, nocí i data jsou beze změny proti v95."
+    ],
+    "commit": "0069d03",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v96: Pozdější vrácení auta 4. 12. (17. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v96/) · [Markdown](verze/v96/thajsko-bangkok-phuket.md) · [rozdíl proti v95](https://github.com/polachp/dovolena-thajsko-2026/compare/36fabe9...0069d03)
+
+- Fáze 2: v pátek 4. 12. se vyjíždí z Driftwood až kolem 8:15 až 8:30 a auto se vrací v Hua Hin kolem 9:30 (dřív odjezd v 7:00 a vrácení v 8:15), vlak v 10:36 zůstává.
+- Počet fází, nocí i data jsou beze změny proti v95.
+
 ## v95: Zastávka v Chumphonu: most s jeleny (16. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v95/) · [Markdown](verze/v95/thajsko-bangkok-phuket.md) · [rozdíl proti v94](https://github.com/polachp/dovolena-thajsko-2026/compare/51f976a...36fabe9)
