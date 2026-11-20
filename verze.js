@@ -1215,5 +1215,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "0069d03",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v97",
+    "datum": "20. 11. 2026",
+    "nazev": "Noc na jezeře zarezervovaná (Smiley)",
+    "zmeny": [
+      "Fáze 4: noc na jezeře Cheow Lan je zarezervovaná u Smiley Lake House na 11.–12. 12. (Signature AC Lake House, soukromý pokoj s klimatizací). Záloha je zaplacená, doplatek 4 680 THB a poplatek za park a molo se platí hotově. Blok Noc na jezeře má sraz, program obou dnů a co je v ceně.",
+      "Fáze 4: blok Srovnání nabídek na jezeře uvádí Smiley jako vybraný, Ubytování a Přesun dál počítají s nocí na jezeře a odjezdem do Krabi 12. 12. odpoledne (odvoz Smiley do Ao Nang jako možnost). Sloní útočiště je teď na 9.–10. 12.",
+      "Fáze 5: sobota 12. 12. počítá s pozdějším příjezdem do Klong Muang.",
+      "Z Co se ještě dořeší a z Předodletového checklistu zmizela rezervace jezera.",
+      "Počet fází, nocí i data jsou beze změny proti v96."
+    ],
+    "commit": "345ca6f",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

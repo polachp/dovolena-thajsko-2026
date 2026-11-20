@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v97: Noc na jezeře zarezervovaná (Smiley) (20. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v97/) · [Markdown](verze/v97/thajsko-bangkok-phuket.md) · [rozdíl proti v96](https://github.com/polachp/dovolena-thajsko-2026/compare/0069d03...345ca6f)
+
+- Fáze 4: noc na jezeře Cheow Lan je zarezervovaná u Smiley Lake House na 11.–12. 12. (Signature AC Lake House, soukromý pokoj s klimatizací). Záloha je zaplacená, doplatek 4 680 THB a poplatek za park a molo se platí hotově. Blok Noc na jezeře má sraz, program obou dnů a co je v ceně.
+- Fáze 4: blok Srovnání nabídek na jezeře uvádí Smiley jako vybraný, Ubytování a Přesun dál počítají s nocí na jezeře a odjezdem do Krabi 12. 12. odpoledne (odvoz Smiley do Ao Nang jako možnost). Sloní útočiště je teď na 9.–10. 12.
+- Fáze 5: sobota 12. 12. počítá s pozdějším příjezdem do Klong Muang.
+- Z Co se ještě dořeší a z Předodletového checklistu zmizela rezervace jezera.
+- Počet fází, nocí i data jsou beze změny proti v96.
+
 ## v96: Pozdější vrácení auta 4. 12. (17. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v96/) · [Markdown](verze/v96/thajsko-bangkok-phuket.md) · [rozdíl proti v95](https://github.com/polachp/dovolena-thajsko-2026/compare/36fabe9...0069d03)

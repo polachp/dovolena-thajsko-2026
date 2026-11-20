@@ -12,17 +12,16 @@ Nejdřív úkoly před odletem, pak body podle fází.
 
 - **Vlak a auto na začátku trasy (fáze 1 a 2):** do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1). Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené (fáze 2), před odletem je vytiskněte. Auto v Hua Hin na 4 dny, 30. 11. až 4. 12., není zamluvené.
 - **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
-- **Noc na jezeře Cheow Lan (fáze 4):** přespání je rozhodnuté, balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici. Zarezervovat před odletem, do 25. 11. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna. Zbývá vybrat mezi Phutawan a Smiley (porovnání viz fáze 4). U Phutawan chybí DPH, kde je kancelář a cena dopravy, potvrzený termín 10.–11. 12. a výše a podmínky nevratné zálohy.
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
 - **Sea Sight Resort zrušit (fáze 2):** v Sam Roi Yot zůstává Driftwood and Jolie Cottages na 4 noci (30. 11.–4. 12.). Sam Roi Yot Sea Sight Resort (30. 11.–3. 12.) je ještě rezervovaný a je potřeba ho zrušit, zdarma do 28. 11. 23:59 thajského času (v Česku v 17:59).
-- **Překrývající se rezervace v Khao Sok (fáze 4):** noc 8.–9. 12. je zarezervovaná ve třech ubytováních (Flora Hostel KhaoSok, Bingo Hostel Khao Sok a Little wild house Khaosok), noc 9.–10. 12. v Bingo a v Little wild house, noc 10.–11. 12. jen v Little wild house (8.–11. 12.). Little wild house pokrývá všechny tři noci, takže kdyby zůstal on, jdou Flora i Bingo zrušit beze zbytku. Kdyby zůstalo Bingo, zbývá zarezervovat noc 10.–11. 12. Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora do 8. 12. 18:00 thajského času (v Česku ve 12:00). Nejdřív tedy vyprší Little wild house, pak Bingo a nakonec Flora.
-- **Sloní útočiště v Khao Sok (fáze 4, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 10.–12. 12.).
+- **Překrývající se rezervace v Khao Sok (fáze 4):** noc 8.–9. 12. je zarezervovaná ve třech ubytováních (Flora Hostel KhaoSok, Bingo Hostel Khao Sok a Little wild house Khaosok), noc 9.–10. 12. v Bingo a v Little wild house, noc 10.–11. 12. jen v Little wild house (8.–11. 12.). Little wild house pokrývá všechny tři noci, takže kdyby zůstal on, jdou Flora i Bingo zrušit beze zbytku. Kdyby zůstalo Bingo, zbývá zarezervovat noc 10.–11. 12. (noc 11.–12. 12. je na jezeře). Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59), Flora do 8. 12. 18:00 thajského času (v Česku ve 12:00). Nejdřív tedy vyprší Little wild house, pak Bingo a nakonec Flora.
+- **Sloní útočiště v Khao Sok (fáze 4, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 9.–10. 12.).
 - **Krabi (fáze 5):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
 - **Program na Koh Yao Noi (fáze 6):** kajak na Koh Nok, loď na Koh Hong, den na skútru a rybářské vesnice jsou dohodnuté, ale neověřené: cena a půjčovny kajaků a lodi, jak náročná je vyhlídka na Nok a jaké restaurace v prosinci fungují.
 - **Dvojí rezervace na Koh Yao Noi (fáze 6):** noci 14.–18. 12. jsou zarezervované v Pyramid Bungalow (s klimatizací) i v Tabeak View Point (bez klimatizace). Jedno je potřeba zrušit, Pyramid zdarma do 6. 12. 23:59 thajského času (v Česku v 17:59), Tabeak zdarma do 14. 12. 18:00 thajského času (v Česku ve 12:00).
 - **Loď z Koh Yao Noi na Phuket (fáze 6):** časy a ceny jsou neověřené pro 18. 12. a provozovatelé je mění bez upozornění. Lístek koupit 2 až 3 dny předem (kolem 15. až 16. 12.), až je vidět předpověď moře. Chybí ověřit, které molo (Manoh, nebo Laem Sai) je blíž k ubytování.
 - **Fáze 7 (Nai Yang):** program je nabídka možností (jen trh je povinný bod), nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu po cestě (vzdušnou čarou podle bodů na mapě asi 750 m a asi 1 km) a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
-- **Ubytování:** Všechny noci jsou rezervované kromě 11.–12. 12. v Khao Sok. Noc 10.–11. 12. pokrývá Little wild house. Jedna z nocí 10.–12. 12. je na jezeře (viz výše): noc 10.–11. 12. na jezeře by se s Little wild house kryla, noc 11.–12. 12. ne. Jestli se zbývající noc ve vesnici rezervuje předem, nebo hledá na místě, se rozhodne později. Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny.
+- **Ubytování:** Všechny noci jsou rezervované, noc 11.–12. 12. je na jezeře Cheow Lan se Smiley (fáze 4). Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny.
 - **Rozpočet:** sekce Orientační rozpočet zatím nepřepočítává změny trasy od verze 21 a obsahuje položky, které už v plánu nejsou. Berte ho jako horní odhad.
 
 Vyřazené varianty zůstávají uložené: Ban Krut ve [v3](../v3/), Khao Lak v souboru [varianty/khao-lak.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/khao-lak.md), další místa v Krabi (Railay, Tha Pom Klong Song Nam, sloní útočiště, kajaky v Ao Thalane) v souboru [varianty/krabi-dalsi-mista.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/krabi-dalsi-mista.md), Phuket Town (Thalang Road, mookata, nedělní Walking Street) v souboru [varianty/phuket-town.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-town.md), páteční Fun Friday na Boat Avenue a suvenýry na Phuketu v souboru [varianty/phuket-fun-friday-suvenyry.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/phuket-fun-friday-suvenyry.md), vodopád Ngao u Ranongu v souboru [varianty/vodopad-ngao.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/vodopad-ngao.md), raft housy Praiwan a Keereewarin na jezeře Cheow Lan v souboru [varianty/raft-housy-cheow-lan.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/raft-housy-cheow-lan.md), noc v Prachuap Khiri Khan (dřívější fáze 3) v souboru [varianty/prachuap.md](https://github.com/polachp/dovolena-thajsko-2026/blob/main/varianty/prachuap.md).
@@ -467,9 +466,9 @@ Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen ori
 
 ### Fáze 4: Khao Sok a jezero Cheow Lan (4 noci, 8.–12. 12.)
 
-Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u ředitelství parku, jednu noc můžete strávit přímo na jezeře.
+Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u ředitelství parku, noc 11.–12. 12. strávíte přímo na jezeře.
 
-- **Jezero Cheow Lan:** plovoucí bungalov, ranní kajak v mlze a zpěv gibonů.
+- **Jezero Cheow Lan:** noc 11.–12. 12. v plovoucím domku Smiley, ranní kajak v mlze a zpěv gibonů.
 - **Stezky u ředitelství parku:** několik kilometrů pralesem, jdou bez průvodce.
 - **Řeka Sok:** tubing, kánoe nebo vor.
 - **Vodopád Than Sawan (volitelně):** celodenní túra s průvodcem.
@@ -477,18 +476,18 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 - **Sloní útočiště (volitelně):** krátká návštěva útočiště pro slony ve vesnici Khlong Sok, objednání přes WhatsApp nebo přes ubytování.
 - **Noční safari (volitelně):** hodně pavouků, rozhodnout až na místě (sekce Šnorchlování a noční safari).
 
-#### Noc na jezeře (rezervovat do 25. 11.)
+#### Noc na jezeře (Pá 11. až so 12. 12.)
 
-Přespání na jezeře je rozhodnuté. Noc 10.–11. nebo 11.–12. 12. se vybere podle volna, rezervovat před odletem, do 25. 11.
+Zarezervováno u Smiley Lake House: balíček na 2 dny a 1 noc, 11.–12. 12., Signature AC Lake House (soukromý pokoj s klimatizací a vlastní koupelnou). Záloha je zaplacená a nevratná. Doplatek 4 680 THB se platí hotově v kanceláři Smiley při příjezdu. Poplatek za park a molo (asi 680 THB za dva podle webu Smiley) se platí zvlášť, taky hotově.
 
-- Balíček 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici: loď, jídla, kajaky a odvoz. Bambusový raft od asi 2 500 THB na osobu se společnou koupelnou, s vlastní koupelnou odhadem 4 000–5 500 THB (neověřeno).
-- Záloha, kdyby bylo plno na obě noci: jednodenní výlet longtailem bez noci na jezeře.
-- Konkrétní nabídky, ceny a podmínky jsou porovnané v bloku Srovnání nabídek na jezeře níže.
-- Na jezeře se platí hotově (poplatek asi 300 THB, molo 40 THB na osobu), elektřina jde jen pár hodin z generátoru a signál většinou není. V prosinci je sezóna, rezervujte s předstihem.
+- **Pá 11. 12.:** ráno odhlásit z Little wild house a před 9:00 sraz v kanceláři Smiley ve vesnici Khlong Sok (jinak na molu u jezera před 11:00). Odtud odvoz na molo a lodí na jezero. Podle nabídky Smiley kolem 16:00 jeskyně Diamond Cave. Jestli jde velká zavazadla nechat v kanceláři Smiley, zeptejte se předem (neověřeno).
+- **So 12. 12.:** ráno kajak, návrat na molo kolem 14:20 a odvoz zpátky do vesnice, pak dál do Krabi (viz Přesun dál).
+- **V ceně:** odvoz z vesnice na molo a zpět, 4 jídla, 2 safari lodí a kajaky (podle nabídky Smiley).
+- **Na jezeře:** elektřina jde jen pár hodin z generátoru a signál většinou není.
 
 #### Srovnání nabídek na jezeře (stav k 14. 11.)
 
-Porovnání nabídek na jednu noc na raft housu, ze kterých se vybírá noc na jezeře. Zatím není vybráno. Kandidáti jsou Phutawan a Smiley, vyřazené nabídky jsou označené NEBRAT, červené a seřazené na konci tabulky. Celkem za dva zahrnuje výlet i poplatky (park, molo, jeskyně), pokud není uvedeno jinak. Ceny jsou v bahtech podle nabídek od provozovatelů a agentur a podle webu Smiley, u nabídek v USD je přepočet kurzem 32,5 THB za dolar (neověřeno). Hodnocení raft housů je z Google Maps.
+Porovnání nabídek na jednu noc na raft housu. Vybraný a zarezervovaný je Smiley (20. 11.), ostatní nabídky zůstávají pro srovnání, vyřazené nabídky jsou označené NEBRAT, červené a seřazené na konci tabulky. Celkem za dva zahrnuje výlet i poplatky (park, molo, jeskyně), pokud není uvedeno jinak. Ceny jsou v bahtech podle nabídek od provozovatelů a agentur a podle webu Smiley, u nabídek v USD je přepočet kurzem 32,5 THB za dolar (neověřeno). Hodnocení raft housů je z Google Maps.
 
 | Nabídka | Koupelna | Celkem za 2 (THB) | Raft house (Google Maps) | Poznámka |
 |---|---|---|---|---|
@@ -496,7 +495,7 @@ Porovnání nabídek na jednu noc na raft housu, ze kterých se vybírá noc na 
 | Bingo Hostel, větší skupina | neuvedeno | 6 680 | neuveden | ověřit, zda sdílený pokoj není cizí člověk |
 | Phutawan, skleněno-dřevěný domek | sdílená | 6 080 + 7 % DPH + doprava | Phutawan (4,2 z ~650) | po započtení dopravy asi 7 600–8 600; nevratná záloha; průvodci neumějí anglicky |
 | Phutawan, kapsle | sdílená | 6 680 (2 × 2 800 balíček + 2 × 540 vstup) + doprava, DPH neověřeno | Phutawan (4,2 z ~650) | podle WhatsAppu z 14. 11.: soukromý pokoj s ventilátorem, WC se sdílí s dalším hostem, v ceně loď, 3 jídla a aktivity; záloha po rezervaci se nevrací (výše neověřená); volné 10.–11. 12. není potvrzené; po započtení DPH 7 % a dopravy asi 8 300–9 200 (odhad); program viz níže |
-| Smiley Lakehouse, Signature AC Lake House (11.–12. 12.) | soukromá | 8 480 (7 800 + park a molo 680); s odvozem do Ao Nang (550 na osobu) 9 580 | Smiley (4,2 z 806) | klimatizace; v ceně odvoz z vesnice na molo a zpět, 4 jídla, 2 safari lodí a kajaky; 1. den v 16:00 Diamond Cave (bez Coral Cave), návrat na molo 14:20; záloha 40 % nevratná, doplatek hotově při check-inu; web nabízí u ubytování volbu Shared nebo Private (+2 000), potvrdit, že pokoj pro dva je soukromý bez příplatku; 13. 11. byl poslední volný pokoj, ostatní noci 8.–12. 12. plné |
+| Smiley Lakehouse, Signature AC Lake House (11.–12. 12.) | soukromá | 8 480 (7 800 + park a molo 680); s odvozem do Ao Nang (550 na osobu) 9 580 | Smiley (4,2 z 806) | klimatizace; v ceně odvoz z vesnice na molo a zpět, 4 jídla, 2 safari lodí a kajaky; 1. den v 16:00 Diamond Cave (bez Coral Cave), návrat na molo 14:20; záloha 40 % nevratná, doplatek hotově při check-inu; zarezervováno 20. 11., pokoj pro dva je soukromý s vlastní koupelnou bez příplatku |
 | Ample Forest, SeekSophie 3D2N (farma a raft house) | raft house sdílená | ≈11 850 | neuveden (nejspíš Krai Son) | alternativa, ne náhrada; 331 USD za dva; farma Google 4,8 z 75; poplatky 540 na osobu navíc |
 | Praiwan, SeekSophie 2D1N (chata) | sdílená | 7 789 + doprava | Praiwan (4,3 z 223) | storno nelze; jen ventilátor; po započtení dopravy přes 11 000 |
 | Praiwan, SeekSophie 2D1N (Deluxe) | vlastní | 9 091 + doprava | Praiwan (4,3 z 223) | totéž, pohodlnější pokoj |
@@ -544,12 +543,12 @@ Jízda čtyřkolkou džunglí s průvodcem. Pevný den není, vybere se v Khao S
 
 #### Sloní útočiště (volitelně)
 
-Co to je: útočiště pro slony ve vesnici Khlong Sok, kde se chodí se slony pod vedením průvodce, na slonech se nejezdí a nepředvádějí se triky. Proč jet: je to krátká zastávka na jedno dopoledne nebo odpoledne ve dnech 10.–12. 12. a slony tu uvidíte zblízka, na rozdíl od divokých slonů v Kui Buri (fáze 2), které se sledují z dálky. Zatím nerezervováno.
+Co to je: útočiště pro slony ve vesnici Khlong Sok, kde se chodí se slony pod vedením průvodce, na slonech se nejezdí a nepředvádějí se triky. Proč jet: je to krátká zastávka na jedno dopoledne nebo odpoledne ve dnech 9.–10. 12. a slony tu uvidíte zblízka, na rozdíl od divokých slonů v Kui Buri (fáze 2), které se sledují z dálky. Zatím nerezervováno.
 
 - **Místo:** [Khao Sok Elephant Sanctuary](https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20Elephant%20Sanctuary%20Khlong%20Sok). Adresa podle jednoho prodejce je 43 Moo 6 Klongsok, Phanom, Surat Thani 84250, shoda s místem na mapě není ověřená. Google Maps: 4,4 z 884 recenzí, otevírá v 8:30.
 - **Délka a odvoz:** podle prodejce Trazy asi 1,5 hodiny na místě, odjezdy z hotelu v 8:00, 10:00, 13:00 a 15:00, zdarma jen z ubytování do 2 km od vesnice (neověřeno u útočiště). Google radí přijít v 16:00 na kratší a klidnější program (shrnutí recenzí, neověřeno).
 - **Co program obsahuje, zdroje si odporují:** blog Couples Travel Stories doporučuje program Elephant Care, tedy procházku vedle slonů s výkladem bez vynucené interakce. Recenze na Tripadvisoru z 25. 1. 2026 píše, že se sloni do koupání nenutí a skupina byla malá. Prodejní stránka Trazy ale uvádí koupání v bahně, dotyky a hraní.
-- **Na co se zeptat před rezervací:** jestli je koupání nebo dotýkání součástí programu (vybrat program bez nich), kolik lidí je ve skupině, cena (zatím neznámá), odvoz z ubytování a volný termín 10.–12. 12.
+- **Na co se zeptat před rezervací:** jestli je koupání nebo dotýkání součástí programu (vybrat program bez nich), kolik lidí je ve skupině, cena (zatím neznámá), odvoz z ubytování a volný termín 9.–10. 12.
 - **Rezervace:** přes WhatsApp nebo přes ubytování, případně tlačítkem Rezervovat na Google Maps nebo zprávou útočišti.
 - **Pozor na záměnu:** Khao Sok Elephant Conservation Centre je jiné místo, podle jedné recenze tam koupání vynucují.
 
@@ -567,11 +566,11 @@ Vstup do parku 300 THB (některé zdroje 320), platí 24 hodin, lístek koupený
 
 [Little wild house Khaosok](https://www.google.com/maps/search/?api=1&query=8.9091%2C98.5233), 8.–11. 12. (3 noci), potvrzeno, 2 dospělí, dvoulůžkový pokoj s manželskou postelí a výhledem na hory, nabídka je soukromý pokoj se sdílenou koupelnou. Rezervováno přes Booking.com. Adresa 84250 Khao Sok, tel. +66 82 808 0020. Check-in 15:00–18:00, check-out 8:00–11:00. Zrušit zdarma do 4. 12. 2026 23:59 thajského času (v Česku 4. 12. v 17:59), potom se platí celá cena, stejně jako když se nedostavíte. Check-in je kratší než u Flora a Bingo (do 20:00), příjezd z Koh Phayam 8. 12. je ve fázi 3 neověřený, takže případný pozdější příchod je potřeba předem domluvit s ubytováním. Neověřeno: klimatizace a jestli ubytování zařídí výlet na jezero Cheow Lan. Noci se kryjí s Flora Hostel (8.–9. 12.) a Bingo Hostel (8.–10. 12.). Poloha podle kódu místa z Google Maps (WG5F+J8), asi 30 m od Flora Hostel a asi 900 m od ředitelství parku.
 
-Noc 10.–11. 12. pokrývá Little wild house, noc 11.–12. 12. zatím není rezervovaná. Jedna z nocí 10.–12. 12. je na jezeře (viz blok Noc na jezeře): noc 10.–11. 12. na jezeře by se s Little wild house kryla (rezervaci by bylo potřeba upravit nebo zrušit), noc 11.–12. 12. ne. Noc ve vesnici, která zbude, se rozhodne později, jestli se rezervuje předem, nebo hledá na místě, až bude jasná noc na jezeře. Při hledání bylo v Khao Sok hodně míst obsazených a 10. 12. je státní svátek. Kvůli pavoukům spíš zděný pokoj než dřevěná chatka v džungli.
+Noc 10.–11. 12. pokrývá Little wild house, noc 11.–12. 12. je na jezeře se Smiley (blok Noc na jezeře). Z Little wild house se 11. 12. odhlašujete ráno, sraz u Smiley je před 9:00.
 
-#### Přesun dál (So 12. 12., ráno nebo odpoledne)
+#### Přesun dál (So 12. 12., odpoledne)
 
-Minivan do Krabi (požádejte o vysazení v Ao Nang, vysazení podle spoje je neověřené), 3–4 h (někdy až 5), spoje zhruba 7:30–16:30, den předem rezervovat. Po noci ve vesnici jeďte ráno. Když bude noc na jezeře ta poslední, po návratu kolem poledne by měl vyjít odpolední spoj, ověřte u organizátora.
+Minivan do Krabi (požádejte o vysazení v Ao Nang, vysazení podle spoje je neověřené), 3–4 h (někdy až 5), spoje zhruba 7:30–16:30, den předem rezervovat. Z jezera se vracíte na molo kolem 14:20 a do vesnice je to asi hodina, takže pojedete odpoledne. Jestli ještě jede minivan, ověřte u Smiley. Smiley nabízí i odvoz do Ao Nang za 550 THB na osobu (neobjednáno), to je nejspíš nejjednodušší.
 
 #### Mapy
 
@@ -601,7 +600,7 @@ Základna u pláže Klong Muang, mimo rušné letovisko Ao Nang, a jeden celý d
 
 #### Program po dnech
 
-- **So 12. 12.:** ráno minivan z Khao Sok do Krabi, požádejte o vysazení v Ao Nang (neověřeno, vysazení záleží na spoji). Z Ao Nang taxi s batohy k Vacation House, asi 11 km, odhadem 20 až 25 minut (neověřeno). Check-in od 14:00. Odpoledne pláž a večeře poblíž.
+- **So 12. 12.:** odpoledne po návratu z jezera minivanem nebo odvozem Smiley do Ao Nang (fáze 4, Přesun dál). Z Ao Nang taxi s batohy k Vacation House, asi 11 km, odhadem 20 až 25 minut (neověřeno). Příjezd až podvečer nebo večer, check-in je do 22:00. Večeře poblíž.
 - **Ne 13. 12.:** Dragon Crest, start kolem 8:00 (podrobnosti níže). Zbytek dne klid, nebo volitelně odpoledne Tiger Cave Temple bez schodů na vrchol (podrobnosti níže).
 - **Po 14. 12.:** snídaně, check-out do 12:00, taxi na molo Nopparat Thara a loď na Koh Yao Noi (viz Přesun dál).
 
@@ -970,7 +969,6 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 | Hned teď | Auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
 | Před odletem | Vytisknout obě jízdenky na vlak 4. 12. (Hua Hin → Chumphon) |
 | Před odletem | Konzultace s lékařem nebo v centru cestovní medicíny, případné očkování (ideálně 4–6 týdnů předem, lékař řekne, co ještě jde stihnout) |
-| Do 25. 11. (před odletem) | Přespání na jezeře Cheow Lan: balíček na 2 dny a 1 noc přes ubytování nebo agenturu ve vesnici, noc 10.–11. nebo 11.–12. 12. podle volna |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Chumphonu do Ranongu 4. 12. v 15:00 (může být poslední spoj, ověřit na 12Go.asia), přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce Etihad Airways) |
