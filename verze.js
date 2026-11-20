@@ -1252,5 +1252,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "e12ffde",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v100",
+    "datum": "20. 11. 2026",
+    "nazev": "Checklist bez úkolu s očkováním",
+    "zmeny": [
+      "Předodletový checklist: úkol konzultace s lékařem a očkování je vyřízený a zmizel ze seznamu i z tabulky Co zařídit a kdy. Obecné rady zůstávají v sekci Zdraví, bezpečnost a nouzová čísla.",
+      "Počet fází, nocí i data jsou beze změny proti v99."
+    ],
+    "commit": "eb5ed58",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

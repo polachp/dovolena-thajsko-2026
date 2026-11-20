@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v100: Checklist bez úkolu s očkováním (20. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v100/) · [Markdown](verze/v100/thajsko-bangkok-phuket.md) · [rozdíl proti v99](https://github.com/polachp/dovolena-thajsko-2026/compare/e12ffde...eb5ed58)
+
+- Předodletový checklist: úkol konzultace s lékařem a očkování je vyřízený a zmizel ze seznamu i z tabulky Co zařídit a kdy. Obecné rady zůstávají v sekci Zdraví, bezpečnost a nouzová čísla.
+- Počet fází, nocí i data jsou beze změny proti v99.
+
 ## v99: Sea Sight Resort zrušený (20. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v99/) · [Markdown](verze/v99/thajsko-bangkok-phuket.md) · [rozdíl proti v98](https://github.com/polachp/dovolena-thajsko-2026/compare/c7f1bd2...e12ffde)
