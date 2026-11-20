@@ -14,7 +14,6 @@ Nejdřív úkoly před odletem, pak body podle fází.
 - **Vlak a auto na začátku trasy (fáze 1 a 2):** do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1). Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené (fáze 2), před odletem je vytiskněte. Auto v Hua Hin na 4 dny, 30. 11. až 4. 12., není zamluvené.
 - **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
-- **Sea Sight Resort zrušit (fáze 2):** v Sam Roi Yot zůstává Driftwood and Jolie Cottages na 4 noci (30. 11.–4. 12.). Sam Roi Yot Sea Sight Resort (30. 11.–3. 12.) je ještě rezervovaný a je potřeba ho zrušit, zdarma do 28. 11. 23:59 thajského času (v Česku v 17:59).
 - **Překrývající se rezervace v Khao Sok (fáze 4):** noci 8.–11. 12. jsou zarezervované dvakrát, v Bingo Hostel Khao Sok (2 lůžka v hostelu, aspoň jedno ve společném pokoji pro 8 lidí) a v Little wild house Khaosok (soukromý pokoj se sdílenou koupelnou). Jedno je potřeba zrušit. Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59). Rozhodnout tedy nejpozději 4. 12.
 - **Sloní útočiště v Khao Sok (fáze 4, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 9.–10. 12.).
 - **Krabi (fáze 5):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
@@ -106,7 +105,6 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 1 | Bangkok, Krung Thep Aphiwat Central Terminal | [Krung Thep Aphiwat Central Terminal](https://www.google.com/maps/search/?api=1&query=Krung%20Thep%20Aphiwat%20Central%20Terminal) | Nádraží, ze kterého odjíždějí vlaky na jih |
 | 1 | Bangkok, Wat Paknam Phasi Charoen (metro Bang Phai, východ 1) | [Wat Paknam Phasi Charoen](https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen%20Bangkok) | Obří Buddha a skleněná stupa, nejlépe hned po otevření v 8:00 |
 | 2 | Sam Roi Yot, ubytování Driftwood and Jolie Cottages | [Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) | Potvrzeno 30. 11.–4. 12., check-in 14:00 až 18:00 (30. 11. domluvený příjezd kdykoli), check-out 7:00 až 12:00, k pláži asi 2 km |
-| 2 | Sam Roi Yot, ubytování Sam Roi Yot Sea Sight Resort | [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) | Rezervace ke zrušení, bydlí se v Driftwood |
 | 2 | Hua Hin, Clock Tower | [12.5706, 99.9572](https://www.google.com/maps/search/?api=1&query=12.5706%2C99.9572) | Sem přijede dodávka z Bangkoku 30. 11. ve 12:10 |
 | 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
 | 2 | Pranburi, Forest Park (cestou z Hua Hin) | [12.4133, 99.9856](https://www.google.com/maps/search/?api=1&query=12.4133%2C99.9856) | Volitelně (30. 11. cestou, když bude čas, jinak 3. 12.): kilometrová lávka mangrovovým lesem, vstup zdarma, v Mapách jako Pran Buri Forest Park |
@@ -346,8 +344,6 @@ Vstup do parku Khao Sam Roi Yot 200 THB na osobu a platí jen v den zakoupení. 
 
 Poloha Driftwood podle inzerátů (Trip.com, Hotels.com, Expedia, neověřeno): ve vesnici Sam Roi Yot mimo pláž, k pláži Sam Roi Yot asi 2 km (autem pár minut), místní trh Local Fresh Market asi 900 m pěšky, restaurace spíš autem asi 6 až 10 minut, k Bang Pu asi 12 km (asi 20 minut autem). Bazén, sdílená kuchyň, parkování. Check-in je běžně do 18:00, pozdější příjezd 30. 11. hostitelé potvrdili.
 
-Ke zrušení: [Sam Roi Yot Sea Sight Resort](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) (Booking.com), 30. 11.–3. 12. (3 noci), je ještě rezervovaný, ale nahrazuje ho Driftwood. Zrušit zdarma do 28. 11. 23:59 thajského času (v Česku 28. 11. v 17:59).
-
 #### Přesun dál (Pá 4. 12., dopoledne)
 
 Vyjeďte kolem 8:15 až 8:30 (cesta asi 45 minut až hodina) a auto vraťte kolem 9:30 v Hua Hin. Z půjčovny Grabem na nádraží (asi 2,5 km), kolem 10:00 buďte na nástupišti. Vlak č. 43 v 10:36 jede rovnou do Chumphonu (příjezd 13:50, asi 3 h 15 min). Jízdenky jsou koupené přes D-Ticket, 2. třída s klimatizací, číslo vozu a místa je na jízdence. Každý má svou jízdenku a podle podmínek na ní ji musíte mít u sebe vytištěnou, v telefonu ji mějte jako zálohu. Vezměte i pasy, jízdenka platí jen na jméno, které je na ní. Zrušit jde, ale vrátí se jen asi 100 THB. Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia, podle 12Go jezdí i v 16:00 a v 17:00 (neověřeno), s nimi jde stihnout volitelná zastávka v Chumphonu (fáze 3). Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
@@ -368,7 +364,6 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Pláž Ao Manao v Prachuap (hulmani) | volitelně | přibl. 11.7750, 99.8056 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.7750%2C99.8056) |
 | Khao Chong Krachok v Prachuap, chrám a makakové | volitelně | 11.8165, 99.7981 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) |
 | Promenáda u zálivu v Prachuap (střed města) | volitelně | přibl. 11.8170, 99.8000 | [Google Maps](https://www.google.com/maps/search/?api=1&query=11.8170%2C99.8000) |
-| Sam Roi Yot Sea Sight Resort (ke zrušení) | ubytování | přibl. 12.2453, 99.9805 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sam%20Roi%20Yot%20Sea%20Sight%20Resort&query_place_id=ChIJD2Kh7YXL_TARuCEP3KuYkXs) |
 | Driftwood and Jolie Cottages (ubytování 30. 11.–4. 12.) | ubytování | přibl. 12.2407, 99.9687 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) |
 | Bang Pu, odtud se jde pěšky k jeskyni | doprava | přibl. 12.2067, 100.0095 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2067%2C100.0095) |
 | Clock Tower v Hua Hin (konec dodávky z Bangkoku) | doprava | 12.5706, 99.9572 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5706%2C99.9572) |
@@ -1239,7 +1234,6 @@ Ubytování je seřazené podle pořadí na cestě. Sloupce Thajsko a Česko uka
 |---|---|---|
 | Ti Thong Hostel, Bangkok (Agoda)<br>27.–30. 11. | ne&nbsp;22.&nbsp;11.<br>23:59 | ne&nbsp;22.&nbsp;11.<br>17:59 |
 | Driftwood and Jolie Cottages, Sam Roi Yot (Booking.com)<br>30. 11.–4. 12. | út&nbsp;24.&nbsp;11.<br>23:59 | út&nbsp;24.&nbsp;11.<br>17:59 |
-| Sam Roi Yot Sea Sight Resort (Booking.com)<br>30. 11.–3. 12., zrušit, bydlí se v Driftwood | so&nbsp;28.&nbsp;11.<br>23:59 | so&nbsp;28.&nbsp;11.<br>17:59 |
 | Tobedzz Hotel, Ranong (Agoda)<br>4.–5. 12. | st&nbsp;2.&nbsp;12.<br>23:59 | st&nbsp;2.&nbsp;12.<br>17:59 |
 | Flower Power Village, Koh Phayam (Agoda)<br>5.–8. 12. | pá&nbsp;27.&nbsp;11.<br>23:59 | pá&nbsp;27.&nbsp;11.<br>17:59 |
 | Bingo Hostel Khao Sok (Booking.com)<br>8.–11. 12., dvojí rezervace | ne&nbsp;6.&nbsp;12.<br>23:59 | ne&nbsp;6.&nbsp;12.<br>17:59 |

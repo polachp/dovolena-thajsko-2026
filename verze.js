@@ -1241,5 +1241,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "c7f1bd2",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v99",
+    "datum": "20. 11. 2026",
+    "nazev": "Sea Sight Resort zrušený",
+    "zmeny": [
+      "Fáze 2: Sam Roi Yot Sea Sight Resort je zrušený. Zmizel z ubytování fáze 2, z mapy fáze 2, ze Záchytných bodů pro Google Maps, z tabulky termínů zrušení a ze sekce Co se ještě dořeší. V Sam Roi Yot zůstává Driftwood and Jolie Cottages na 4 noci.",
+      "Počet fází, nocí i data jsou beze změny proti v98."
+    ],
+    "commit": "e12ffde",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

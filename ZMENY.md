@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v99: Sea Sight Resort zrušený (20. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v99/) · [Markdown](verze/v99/thajsko-bangkok-phuket.md) · [rozdíl proti v98](https://github.com/polachp/dovolena-thajsko-2026/compare/c7f1bd2...e12ffde)
+
+- Fáze 2: Sam Roi Yot Sea Sight Resort je zrušený. Zmizel z ubytování fáze 2, z mapy fáze 2, ze Záchytných bodů pro Google Maps, z tabulky termínů zrušení a ze sekce Co se ještě dořeší. V Sam Roi Yot zůstává Driftwood and Jolie Cottages na 4 noci.
+- Počet fází, nocí i data jsou beze změny proti v98.
+
 ## v98: Khao Sok: Flora zrušená, Bingo na 3 noci (20. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v98/) · [Markdown](verze/v98/thajsko-bangkok-phuket.md) · [rozdíl proti v97](https://github.com/polachp/dovolena-thajsko-2026/compare/345ca6f...c7f1bd2)
