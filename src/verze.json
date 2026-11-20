@@ -9751,5 +9751,111 @@
       }
     },
     "commit": "0069d03"
+  },
+  {
+    "id": "v97",
+    "datum": "20. 11. 2026",
+    "nazev": "Noc na jezeře zarezervovaná (Smiley)",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 4: noc na jezeře Cheow Lan je zarezervovaná u Smiley Lake House na 11.–12. 12. (Signature AC Lake House, soukromý pokoj s klimatizací). Záloha je zaplacená, doplatek 4 680 THB a poplatek za park a molo se platí hotově. Blok Noc na jezeře má sraz, program obou dnů a co je v ceně.",
+      "Fáze 4: blok Srovnání nabídek na jezeře uvádí Smiley jako vybraný, Ubytování a Přesun dál počítají s nocí na jezeře a odjezdem do Krabi 12. 12. odpoledne (odvoz Smiley do Ao Nang jako možnost). Sloní útočiště je teď na 9.–10. 12.",
+      "Fáze 5: sobota 12. 12. počítá s pozdějším příjezdem do Klong Muang.",
+      "Z Co se ještě dořeší a z Předodletového checklistu zmizela rezervace jezera.",
+      "Počet fází, nocí i data jsou beze změny proti v96."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "7"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket, Nai Yang"
+        ]
+      ],
+      "kam": {
+        "Co se ještě dořeší": "pred",
+        "Úvod do Thajska": "zajimavosti",
+        "Zvířata na trase": "zajimavosti",
+        "Záchytné body pro Google Maps": "misto",
+        "Doprava": "misto",
+        "Počasí, teploty a deště": "pred",
+        "Jídlo, pití a bezpečné stravování": "misto",
+        "Seznam povinného vybavení": "pred",
+        "Etiketa": "misto",
+        "Praktické travel hacky": "misto",
+        "Předodletový checklist": "pred",
+        "Šnorchlování a noční safari": "zajimavosti",
+        "Zdraví, bezpečnost a nouzová čísla": "pred",
+        "Orientační rozpočet": "pred",
+        "Mini-slovníček thajských frází": "misto",
+        "Etihad Airways": "pred",
+        "Do kdy zrušit ubytování zdarma": "terminy",
+        "Místa na trase: Bangkok": "zajimavosti",
+        "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti",
+        "Místa na trase: Prachuap Khiri Khan": "zajimavosti",
+        "Místa na trase: Ranong a Koh Phayam": "zajimavosti",
+        "Místa na trase: Khao Sok": "zajimavosti",
+        "Místa na trase: Krabi": "zajimavosti",
+        "Místa na trase: Koh Yao Noi": "zajimavosti",
+        "Místa na trase: Phuket a Nai Yang": "zajimavosti"
+      }
+    },
+    "commit": ""
   }
 ]
