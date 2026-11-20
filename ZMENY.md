@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v98: Khao Sok: Flora zrušená, Bingo na 3 noci (20. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v98/) · [Markdown](verze/v98/thajsko-bangkok-phuket.md) · [rozdíl proti v97](https://github.com/polachp/dovolena-thajsko-2026/compare/345ca6f...c7f1bd2)
+
+- Fáze 4: Flora Hostel KhaoSok je zrušená a zmizela z ubytování, mapy, Záchytných bodů pro Google Maps a tabulky termínů zrušení.
+- Fáze 4: Bingo Hostel Khao Sok je přebookovaný na 8.–11. 12. (3 noci). Noci 8.–11. 12. jsou tak zarezervované v Bingu i v Little wild house, jedno se zruší, rozhodnout do 4. 12. (sekce Co se ještě dořeší).
+- Počet fází, nocí i data jsou beze změny proti v97.
+
 ## v97: Noc na jezeře zarezervovaná (Smiley) (20. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v97/) · [Markdown](verze/v97/thajsko-bangkok-phuket.md) · [rozdíl proti v96](https://github.com/polachp/dovolena-thajsko-2026/compare/0069d03...345ca6f)

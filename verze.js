@@ -1229,5 +1229,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "345ca6f",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v98",
+    "datum": "20. 11. 2026",
+    "nazev": "Khao Sok: Flora zrušená, Bingo na 3 noci",
+    "zmeny": [
+      "Fáze 4: Flora Hostel KhaoSok je zrušená a zmizela z ubytování, mapy, Záchytných bodů pro Google Maps a tabulky termínů zrušení.",
+      "Fáze 4: Bingo Hostel Khao Sok je přebookovaný na 8.–11. 12. (3 noci). Noci 8.–11. 12. jsou tak zarezervované v Bingu i v Little wild house, jedno se zruší, rozhodnout do 4. 12. (sekce Co se ještě dořeší).",
+      "Počet fází, nocí i data jsou beze změny proti v97."
+    ],
+    "commit": "c7f1bd2",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
