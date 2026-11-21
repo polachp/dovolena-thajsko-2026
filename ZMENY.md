@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v101: Minivan Smiley do Ao Nang, Tiger Cave po Dragon Crest (21. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v101/) · [Markdown](verze/v101/thajsko-bangkok-phuket.md) · [rozdíl proti v100](https://github.com/polachp/dovolena-thajsko-2026/compare/eb5ed58...56ea90d)
+
+- Fáze 4, Přesun dál: sdílený minivan Smiley jede v 15:00 přímo z mola u jezera, do Ao Nang 550 THB na osobu, vysazení u hotelu Cosi Krabi Ao Nang Beach kolem 17:00–17:30. Lístek se kupuje přímo u Smiley v den odbavení (11. 12.). Starý text o minivanu z vesnice je pryč.
+- Fáze 4, Noc na jezeře: velká zavazadla vzít s sebou na molo (minivan se do vesnice nevrací), nechat je řidiči v úschovně u mola nebo je vzít na jezero; pasy mít u sebe při odbavení. Návrat 12. 12. rovnou minivanem z mola.
+- Fáze 5: program 12. 12. podle minivanu Smiley, u 13. 12. rada rozhodnout o Tiger Cave po obědě a v bloku Tiger Cave časový plán odpoledne po Dragon Crest (proč stačí spodní část s mnichy a proč jiný den nejde).
+- Fáze 3: u chrámu Wat Koh Phayam doplněno, že je to malý vesnický chrám u mola, kde se dají vidět mniši (neověřeno).
+- Počet fází, nocí i data jsou beze změny proti v100.
+
 ## v100: Checklist bez úkolu s očkováním (20. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v100/) · [Markdown](verze/v100/thajsko-bangkok-phuket.md) · [rozdíl proti v99](https://github.com/polachp/dovolena-thajsko-2026/compare/e12ffde...eb5ed58)

@@ -416,7 +416,7 @@ Loď přistane na východě, pláže jsou na západě. Skútr si půjčte u mola
 - **Hin Talu:** skalní oblouky na pobřeží, při odlivu písečný nános. Sestup je strmý a štěrkový, kdo si na skútru není jistý, dojde pěšky.
 - **Ao Kwang Peeb:** asi 10 minut pěšky od skútru, bez služeb, vezměte vodu a jídlo a nezůstávejte do večera.
 - **Secret Beach:** při odlivu vynechte, jsou tam kameny.
-- **Wat Koh Phayam:** jediný chrám na ostrově, u mola.
+- **Wat Koh Phayam:** jediný chrám na ostrově, u mola. Malý vesnický chrám, s trochou štěstí tu uvidíte mnichy (kolik jich tu žije, je neověřené). Leží hned u mola, kde si půjčíte skútr, takže nepotřebujete taxi.
 - Šnorchlování tu moc nestojí za to, nechte ho na Koh Yao Noi.
 
 #### Kajak v mangrovech
@@ -474,8 +474,8 @@ Deštný prales a jezero mezi vápencovými skalami. Základna je vesnice u řed
 
 Zarezervováno u Smiley Lake House: balíček na 2 dny a 1 noc, 11.–12. 12., Signature AC Lake House (soukromý pokoj s klimatizací a vlastní koupelnou). Záloha je zaplacená a nevratná. Doplatek 4 680 THB se platí hotově v kanceláři Smiley při příjezdu. Poplatek za park a molo (asi 680 THB za dva podle webu Smiley) se platí zvlášť, taky hotově.
 
-- **Pá 11. 12.:** ráno odhlásit z ubytování ve vesnici a před 9:00 sraz v kanceláři Smiley ve vesnici Khlong Sok (jinak na molu u jezera před 11:00). Odtud odvoz na molo a lodí na jezero. Podle nabídky Smiley kolem 16:00 jeskyně Diamond Cave. Jestli jde velká zavazadla nechat v kanceláři Smiley, zeptejte se předem (neověřeno).
-- **So 12. 12.:** ráno kajak, návrat na molo kolem 14:20 a odvoz zpátky do vesnice, pak dál do Krabi (viz Přesun dál).
+- **Pá 11. 12.:** ráno odhlásit z ubytování ve vesnici a před 9:00 sraz v kanceláři Smiley ve vesnici Khlong Sok (jinak na molu u jezera před 11:00). Odtud odvoz na molo a lodí na jezero. Podle nabídky Smiley kolem 16:00 jeskyně Diamond Cave. Velká zavazadla vezměte s sebou na molo: minivan Smiley po výletu jede z mola rovnou dál a do vesnice se nevrací. Na molu je nechte řidiči (Smiley má u mola úschovnu), nebo je vezměte s sebou na jezero (podle Smiley). Na jezero stačí malá taška na jednu noc. Pasy obou mějte u sebe, Smiley je chce vidět při odbavení před výletem.
+- **So 12. 12.:** ráno kajak, návrat na molo kolem 14:20 a v 15:00 sdílený minivan Smiley z mola rovnou do Ao Nang (viz Přesun dál).
 - **V ceně:** odvoz z vesnice na molo a zpět, 4 jídla, 2 safari lodí a kajaky (podle nabídky Smiley).
 - **Na jezeře:** elektřina jde jen pár hodin z generátoru a signál většinou není.
 
@@ -562,7 +562,7 @@ Noci 8.–11. 12. pokrývá Little wild house i Bingo (jedno se zruší), noc 11
 
 #### Přesun dál (So 12. 12., odpoledne)
 
-Minivan do Krabi (požádejte o vysazení v Ao Nang, vysazení podle spoje je neověřené), 3–4 h (někdy až 5), spoje zhruba 7:30–16:30, den předem rezervovat. Z jezera se vracíte na molo kolem 14:20 a do vesnice je to asi hodina, takže pojedete odpoledne. Jestli ještě jede minivan, ověřte u Smiley. Smiley nabízí i odvoz do Ao Nang za 550 THB na osobu (neobjednáno), to je nejspíš nejjednodušší.
+Sdílený minivan Smiley jede přímo z mola u jezera v 15:00, do vesnice se nevrací. Do Ao Nang stojí 550 THB na osobu a vysazuje u hotelu Cosi Krabi Ao Nang Beach kolem 17:00–17:30 (podle letáku Smiley). Lístek se kupuje přímo u Smiley v kanceláři v den odbavení, tedy 11. 12. ráno, předem se neobjednává. Velká zavazadla jedou s vámi z mola (blok Noc na jezeře). Z Ao Nang dál taxíkem k Vacation House (fáze 5).
 
 #### Mapy
 
@@ -591,8 +591,8 @@ Základna u pláže Klong Muang, mimo rušné letovisko Ao Nang, a jeden celý d
 
 #### Program po dnech
 
-- **So 12. 12.:** odpoledne po návratu z jezera minivanem nebo odvozem Smiley do Ao Nang (fáze 4, Přesun dál). Z Ao Nang taxi s batohy k Vacation House, asi 11 km, odhadem 20 až 25 minut (neověřeno). Příjezd až podvečer nebo večer, check-in je do 22:00. Večeře poblíž.
-- **Ne 13. 12.:** Dragon Crest, start kolem 8:00 (podrobnosti níže). Zbytek dne klid, nebo volitelně odpoledne Tiger Cave Temple bez schodů na vrchol (podrobnosti níže).
+- **So 12. 12.:** odpoledne po návratu z jezera minivanem Smiley z mola do Ao Nang (odjezd v 15:00, vysazení u hotelu Cosi Krabi Ao Nang Beach kolem 17:00–17:30, fáze 4, Přesun dál). Z Ao Nang taxi s batohy k Vacation House, asi 11 km, odhadem 20 až 25 minut (neověřeno). Příjezd až podvečer nebo večer, check-in je do 22:00. Večeře poblíž.
+- **Ne 13. 12.:** Dragon Crest, start kolem 8:00 (podrobnosti níže). Zbytek dne klid, nebo volitelně odpoledne Tiger Cave Temple bez schodů na vrchol (podrobnosti níže). Jestli pojedete, rozhodněte se až po obědě podle únavy.
 - **Po 14. 12.:** snídaně, check-out do 12:00, taxi na molo Nopparat Thara a loď na Koh Yao Noi (viz Přesun dál).
 
 #### Dragon Crest
@@ -602,6 +602,8 @@ Stezka měří 3,7 km jedním směrem a celou dobu stoupá po kořenech, provaze
 #### Tiger Cave Temple (volitelně)
 
 Wat Tham Suea je živý buddhistický klášter v pralese pod vápencovou skálou, od Vacation House asi 28 km, skútrem asi 40 minut (podle Google Maps). Mniši bydlí v malých chýších roztroušených v lese za hlavním areálem a v jeskyních pod skálou. Za hlavními budovami vede lesní okruh kolem velkých stromů a dalších jeskyní, bez stoupání. Nahoru ke zlatému Buddhovi na vrcholu vede 1 237 schodů, některé jsou vyšší než 30 cm. Vstup zdarma, otevřeno zhruba 6:00–18:00 (neověřeno). Po spodních schodech a v areálu se pohybují opice a občas někoho kousnou: jídlo a pití mějte v zavřené tašce. Je to fungující klášter, mějte zakrytá ramena a kolena, mluvte potichu a mnichů se nedotýkejte (sekce Etiketa). Hodí se místo Dragon Crest, když po dešti stezka klouže, nebo 13. 12. odpoledne po Dragon Crest jen spodní část s mnichy bez schodů na vrchol: dva náročné výstupy za jeden den nejsou slow tempo. Silnice u Tub Kaek není za tmy osvětlená, vraťte se před setměním.
+
+Jak to stihnout po Dragon Crest: od stezky zpátky kolem 13:00, oběd a sprcha, kolem 14:30 skútrem na Tiger Cave (asi 40 minut), 15:15–16:45 klášter, lesní okruh a jeskyně s mnichy, do 17:45 zpátky u ubytování (stmívá se kolem šesté, neověřeno). Výhled z vrcholu nahradí ranní Dragon Crest, kvůli mnichům stačí spodní část, protože mniši bydlí dole v lese a v jeskyních, ne nahoře u Buddhy. Jiný den na Tiger Cave není: v sobotu přijedete až podvečer a v pondělí jedete s batohy opačným směrem na molo. Když na něj nebude síla, vynechte ho a odpoledne zůstaňte na pláži.
 
 #### Skútr nebo taxi
 
