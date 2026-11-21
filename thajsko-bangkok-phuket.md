@@ -116,6 +116,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 2 | Prachuap Khiri Khan, Khao Chong Krachok (Wat Thammikaram) | [11.8165, 99.7981](https://www.google.com/maps/search/?api=1&query=11.8165%2C99.7981) | Volitelný výlet autem: chrámový kopec s 396 schody, výhled na záliv a makaky |
 | 2 | Prachuap Khiri Khan, Ao Manao a Khao Lom Muak | [Ao Manao](https://www.google.com/maps/search/?api=1&query=Ao%20Manao%20Beach%20Prachuap%20Khiri%20Khan), [Khao Lom Muak](https://www.google.com/maps/search/?api=1&query=Khao%20Lom%20Muak%20Prachuap%20Khiri%20Khan) | Volitelný výlet autem: pláž a kopec s hulmany v areálu základny Wing 5 |
 | 3 | Chumphon, nádraží (Nawamin Ruamjai Road) | [10.5023, 99.1768](https://www.google.com/maps/search/?api=1&query=10.5023%2C99.1768) | Příjezd vlaku 4. 12., odtud minivan do Ranongu, souřadnice přibližné |
+| 3 | Chumphon, stanoviště minivanů do Ranongu (23/2 Poraminmankha Road) | [10.4969, 99.1722](https://www.google.com/maps/search/?api=1&query=10.4969%2C99.1722) | Minivany do Ranongu každé dvě hodiny 7:00–17:00, asi 10 minut pěšky od nádraží, tel. +66 77 570 643 |
 | 3 | Chumphon, most na pozorování jelenů (nádrž Nong Yai) | [10.5475, 99.1967](https://www.google.com/maps/search/?api=1&query=10.5475%2C99.1967) | Volitelně cestou 4. 12.: visutý most, krmení jelenů, otevřeno 8:00–17:00 |
 | 3 | Ranong, ubytování Tobedzz Hotel | [Tobedzz Hotel](https://www.google.com/maps/search/?api=1&query=Tobedzz%20hotel%20Ranong&query_place_id=ChIJl_DWOt9RVjARoWMcu_aAq_Y) | Potvrzeno 4.–5. 12., check-in od 14:00, check-out do 12:00 |
 | 3 | Ranong, autobusové nádraží (44 Ruangrat Road, Khao Niwet) | [Ranong Bus Terminal](https://www.google.com/maps/search/?api=1&query=Ranong%20Bus%20Terminal) | Sem většinou vyloží minivan z Chumphonu, do centra asi 1 km |
@@ -169,7 +170,7 @@ Trasa jede vlakem, minivany a loděmi, jen v Sam Roi Yot autem. Časy a ceny jso
 | Sam Roi Yot → Kui Buri (Huai Luek) | auto z půjčovny | asi 1 h jedním směrem (odhad) | benzín, vjezd 30 |
 | Sam Roi Yot → Prachuap Khiri Khan (volitelně) | auto z půjčovny | asi 1 h jedním směrem (odhad) | benzín |
 | Hua Hin → Chumphon | vlak č. 43 v 10:36, jízdenky koupené | asi 3 h 15 min (příjezd 13:50) | 343 za osobu |
-| Chumphon → Ranong | minivan nebo autobus | asi 2 h, resp. 2,5 h | od asi 9 USD, odjezdy neověřené |
+| Chumphon → Ranong | minivan ze stanoviště na Poraminmankha Road, každé dvě hodiny 7:00–17:00 (fáze 2) | asi 2 h | 150 za osobu, lístek na místě |
 | Ranong ↔ Koh Phayam | rychlá loď | 35–45 min | 350 + 5 poplatek |
 | Ranong → Khao Sok | autobus nebo minivan | nejrychleji asi 2 h 50 min | od asi 13 USD, zhruba 8:00–18:15 |
 | Khao Sok → Ao Nang (minivan do Krabi) | minivan | 3–4 h (někdy až 5) | 300–500, zhruba 7:30–16:30 |
@@ -345,7 +346,7 @@ Poloha Driftwood podle inzerátů (Trip.com, Hotels.com, Expedia, neověřeno): 
 
 #### Přesun dál (Pá 4. 12., dopoledne)
 
-Vyjeďte kolem 8:15 až 8:30 (cesta asi 45 minut až hodina) a auto vraťte kolem 9:30 v Hua Hin. Z půjčovny Grabem na nádraží (asi 2,5 km), kolem 10:00 buďte na nástupišti. Vlak č. 43 v 10:36 jede rovnou do Chumphonu (příjezd 13:50, asi 3 h 15 min). Jízdenky jsou koupené přes D-Ticket, 2. třída s klimatizací, číslo vozu a místa je na jízdence. Každý má svou jízdenku a podle podmínek na ní ji musíte mít u sebe vytištěnou, v telefonu ji mějte jako zálohu. Vezměte i pasy, jízdenka platí jen na jméno, které je na ní. Zrušit jde, ale vrátí se jen asi 100 THB. Odtud minivan do Ranongu v 15:00 (asi 2 h). Zdroje se rozcházejí, jestli jezdí každé 2 hodiny, nebo jen v 7:00, 11:00 a 15:00, takže 15:00 může být poslední spoj. Spoje ověřte týden předem na 12Go.asia, podle 12Go jezdí i v 16:00 a v 17:00 (neověřeno), s nimi jde stihnout volitelná zastávka v Chumphonu (fáze 3). Při zpoždění vlaku přespíte v Chumphonu a pojedete ráno.
+Vyjeďte kolem 8:15 až 8:30 (cesta asi 45 minut až hodina) a auto vraťte kolem 9:30 v Hua Hin. Z půjčovny Grabem na nádraží (asi 2,5 km), kolem 10:00 buďte na nástupišti. Vlak č. 43 v 10:36 jede rovnou do Chumphonu (příjezd 13:50, asi 3 h 15 min). Jízdenky jsou koupené přes D-Ticket, 2. třída s klimatizací, číslo vozu a místa je na jízdence. Každý má svou jízdenku a podle podmínek na ní ji musíte mít u sebe vytištěnou, v telefonu ji mějte jako zálohu. Vezměte i pasy, jízdenka platí jen na jméno, které je na ní. Zrušit jde, ale vrátí se jen asi 100 THB. Z Chumphonu minivanem do Ranongu, asi 2 h, 150 THB na osobu. Stanoviště je Minivan station (Chumphon-Ranong), 23/2 Poraminmankha Road, tel. +66 77 570 643, asi 10 minut pěšky od nádraží: z nádraží na západ po Nawamin Ruamjai Road (po asi 500 m minete Monsiri, minivany do Prachuap), po dalších pár set metrech doleva na Poraminmankha Road, stanoviště je před odbočkou Soi 1 ([Google Maps](https://www.google.com/maps/search/?api=1&query=10.4969%2C99.1722)). Odjezdy každé dvě hodiny: 7:00, 9:00, 11:00, 13:00, 15:00 a 17:00 (průvodce Travelfish a 12Go; tabule na stanovišti z prosince 2025 má řádky na každou hodinu, ale vůz je zapsaný jen u lichých hodin). Lístek kupte až na místě u přepážky: kdyby vlak nabral zpoždění, předem koupený spoj by propadl. Online prodej přes viarapp.com je jen v thajštině s potvrzením přes LINE, nevyplatí se. Po příjezdu vlaku ve 13:50 pojedete spojem v 15:00. Plný minivan podle cedule na stanovišti odjíždí i před časem, buďte tam proto s předstihem. Poslední jede v 17:00, je to záloha při zpoždění vlaku a hodí se i pro volitelnou zastávku v Chumphonu (fáze 3).
 
 #### Mapy
 
@@ -385,7 +386,7 @@ Večer v horkých pramenech v Ranongu a pak tři dny lenošení na klidném ostr
 
 #### Zastávka v Chumphonu (Pá 4. 12., volitelně)
 
-Vlak přijede do Chumphonu ve 13:50 (fáze 2). Kdo nespěchá, může jet až pozdějším minivanem do Ranongu, podle 12Go jezdí i v 16:00 a v 17:00 (neověřeno, ověřit týden předem spolu s minivanem v 15:00).
+Vlak přijede do Chumphonu ve 13:50 (fáze 2). Kdo nespěchá, může jet až posledním minivanem do Ranongu v 17:00 (stanoviště a lístky viz fáze 2, Přesun dál).
 
 - **Most na pozorování jelenů (Saphan Chom Kwang):** visutý most přes nádrž Nong Yai (královský protipovodňový projekt) asi 5,5 km vzdušnou čarou severně od nádraží, Grabem nebo taxi zhruba 15 minut (odhad). Žije tu přes 100 jelenů, krmení se kupuje od místních asi za 20 THB. Hned vedle je přes 300 m dlouhý dřevěný most Kiam. Otevřeno denně 8:00–17:00, vstup zdarma (podle recenzí, neověřeno). V odpoledním horku bývá jelenů vidět méně, víc jich je k večeru. Jeleni žijí v ohradě, je to spíš procházka s krmením než divoká příroda. Počítejte s hodinou až hodinou a půl včetně cesty.
 - **Parní lokomotivy na nádraží:** nádraží zničilo spojenecké bombardování v březnu 1945, znovu postavené je z roku 1948 a u nástupiště stojí dvě vyřazené parní lokomotivy. Na fotku pár minut.
@@ -451,12 +452,13 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Flower Power Village (ubytování 5.–8. 12.) | ubytování | 9.7596, 98.4108 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7596%2C98.4108) |
 | Most na pozorování jelenů u Chumphonu | volitelně | 10.5475, 99.1967 | [Google Maps](https://www.google.com/maps/search/?api=1&query=10.5475%2C99.1967) |
 | Nádraží Chumphon (příjezd vlaku 4. 12.) | doprava | přibl. 10.5023, 99.1768 | [Google Maps](https://www.google.com/maps/search/?api=1&query=10.5023%2C99.1768) |
+| Stanoviště minivanů do Ranongu (Chumphon) | doprava | 10.4969, 99.1722 | [Google Maps](https://www.google.com/maps/search/?api=1&query=10.4969%2C99.1722) |
 | Tobedzz Hotel (ubytování 4.–5. 12.) | ubytování | 9.9552, 98.6374 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9552%2C98.6374) |
 | Autobusové nádraží Ranong | doprava | přibl. 9.9551, 98.6388 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9551%2C98.6388) |
 | Molo Ranong Pier (lodě na Koh Phayam) | doprava | přibl. 9.9475, 98.5988 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9475%2C98.5988) |
 | Molo Koh Phayam (příjezd na ostrov) | doprava | přibl. 9.7404, 98.4226 | [Google Maps](https://www.google.com/maps/search/?api=1&query=9.7404%2C98.4226) |
 
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Ao Yai i Ao Khao Kwai jsou dlouhé pláže, bod je jen na jednom místě. Poloha mangrovů je podle popisů v průvodcích (jižní konec zátoky, kde se do ní vlévá říčka), přesné místo a půjčovnu kajaků zjistěte na recepci. Autobusové nádraží a obě mola mají polohu z jednoho zdroje. Flower Power Village a Tobedzz Hotel jsou na mapě podle kódů míst z Google Maps (QC56+R8 a XJ4P+3X). Flower Power sedí i na vzdálenosti 0,5 km od Ao Khao Kwai a 1,2 km od Ao Kwang Peeb, Tobedzz je asi 150 m od autobusového nádraží.
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Ao Yai i Ao Khao Kwai jsou dlouhé pláže, bod je jen na jednom místě. Poloha mangrovů je podle popisů v průvodcích (jižní konec zátoky, kde se do ní vlévá říčka), přesné místo a půjčovnu kajaků zjistěte na recepci. Autobusové nádraží a obě mola mají polohu z jednoho zdroje. Flower Power Village a Tobedzz Hotel jsou na mapě podle kódů míst z Google Maps (QC56+R8 a XJ4P+3X). Flower Power sedí i na vzdálenosti 0,5 km od Ao Khao Kwai a 1,2 km od Ao Kwang Peeb, Tobedzz je asi 150 m od autobusového nádraží. Stanoviště minivanů v Chumphonu je podle kódu místa z Google Maps (F5WC+QV) a ulice sedí s popisem v průvodci Travelfish (Poraminmankha Road, asi 700 m od nádraží).
 
 ### Fáze 4: Khao Sok a jezero Cheow Lan (4 noci, 8.–12. 12.)
 
@@ -961,7 +963,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 | Hned teď | Auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
 | Před odletem | Vytisknout obě jízdenky na vlak 4. 12. (Hua Hin → Chumphon) |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
-| Týden až den předem | telefonát do parku Kui Buri přes ubytování, minivan z Chumphonu do Ranongu 4. 12. v 15:00 (může být poslední spoj, ověřit na 12Go.asia), přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
+| Týden až den předem | telefonát do parku Kui Buri přes ubytování, přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce Etihad Airways) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
 

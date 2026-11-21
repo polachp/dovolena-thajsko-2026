@@ -1277,5 +1277,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "56ea90d",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v102",
+    "datum": "21. 11. 2026",
+    "nazev": "Minivan z Chumphonu do Ranongu",
+    "zmeny": [
+      "Fáze 2, Přesun dál: minivan z Chumphonu do Ranongu podrobně. Stanoviště Minivan station (Chumphon-Ranong) na 23/2 Poraminmankha Road, asi 10 minut pěšky od nádraží (cesta, telefon, odkaz do Map), odjezdy každé dvě hodiny 7:00–17:00, asi 2 h, 150 THB, lístek až na místě, plný minivan odjíždí i dřív, po vlaku spoj v 15:00, záloha v 17:00. Nejistota o odjezdech z 12Go je pryč.",
+      "Fáze 3: zastávka v Chumphonu odkazuje na poslední minivan v 17:00, na mapě fáze 3 přibylo stanoviště minivanů (podle kódu místa z Google Maps).",
+      "Doprava a Záchytné body pro Google Maps: řádek Chumphon → Ranong podle nových údajů, nový bod stanoviště minivanů. Předodletový checklist: úkol ověřit minivan z Chumphonu týden předem je pryč, lístek se kupuje na místě.",
+      "Počet fází, nocí i data jsou beze změny proti v101."
+    ],
+    "commit": "2933cd5",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

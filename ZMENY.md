@@ -2,6 +2,15 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v102: Minivan z Chumphonu do Ranongu (21. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v102/) · [Markdown](verze/v102/thajsko-bangkok-phuket.md) · [rozdíl proti v101](https://github.com/polachp/dovolena-thajsko-2026/compare/56ea90d...2933cd5)
+
+- Fáze 2, Přesun dál: minivan z Chumphonu do Ranongu podrobně. Stanoviště Minivan station (Chumphon-Ranong) na 23/2 Poraminmankha Road, asi 10 minut pěšky od nádraží (cesta, telefon, odkaz do Map), odjezdy každé dvě hodiny 7:00–17:00, asi 2 h, 150 THB, lístek až na místě, plný minivan odjíždí i dřív, po vlaku spoj v 15:00, záloha v 17:00. Nejistota o odjezdech z 12Go je pryč.
+- Fáze 3: zastávka v Chumphonu odkazuje na poslední minivan v 17:00, na mapě fáze 3 přibylo stanoviště minivanů (podle kódu místa z Google Maps).
+- Doprava a Záchytné body pro Google Maps: řádek Chumphon → Ranong podle nových údajů, nový bod stanoviště minivanů. Předodletový checklist: úkol ověřit minivan z Chumphonu týden předem je pryč, lístek se kupuje na místě.
+- Počet fází, nocí i data jsou beze změny proti v101.
+
 ## v101: Minivan Smiley do Ao Nang, Tiger Cave po Dragon Crest (21. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v101/) · [Markdown](verze/v101/thajsko-bangkok-phuket.md) · [rozdíl proti v100](https://github.com/polachp/dovolena-thajsko-2026/compare/eb5ed58...56ea90d)
