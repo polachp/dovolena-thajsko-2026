@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v105: Časy lodí z Ranongu na Koh Phayam (21. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v105/) · [Markdown](verze/v105/thajsko-bangkok-phuket.md) · [rozdíl proti v104](https://github.com/polachp/dovolena-thajsko-2026/compare/1880615...9cf6e09)
+
+- Fáze 3, Loď na ostrov: doplněné orientační časy rychlých lodí z Ranongu (8:30, 9:30, 10:00, 11:00, 13:00, 14:30, 17:30) a pomalého trajektu v 10:30, rada být na molu 30–60 minut předem a možnost koupit lístek předem online přes 12Go jako pojistku kvůli prodlouženému víkendu. Pryč je věta, že tabulka na 12Go nebyla k nalezení.
+- Počet fází, nocí i data jsou beze změny proti v104.
+
 ## v104: Minivan z Chumphonu bez poznámky o zdrojích (21. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v104/) · [Markdown](verze/v104/thajsko-bangkok-phuket.md) · [rozdíl proti v103](https://github.com/polachp/dovolena-thajsko-2026/compare/69119c3...1880615)

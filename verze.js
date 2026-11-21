@@ -1312,5 +1312,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "1880615",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v105",
+    "datum": "21. 11. 2026",
+    "nazev": "Časy lodí z Ranongu na Koh Phayam",
+    "zmeny": [
+      "Fáze 3, Loď na ostrov: doplněné orientační časy rychlých lodí z Ranongu (8:30, 9:30, 10:00, 11:00, 13:00, 14:30, 17:30) a pomalého trajektu v 10:30, rada být na molu 30–60 minut předem a možnost koupit lístek předem online přes 12Go jako pojistku kvůli prodlouženému víkendu. Pryč je věta, že tabulka na 12Go nebyla k nalezení.",
+      "Počet fází, nocí i data jsou beze změny proti v104."
+    ],
+    "commit": "9cf6e09",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
