@@ -964,7 +964,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 | Hned teď | Auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
 | Před odletem | Vytisknout obě jízdenky na vlak 4. 12. (Hua Hin → Chumphon) |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
-| Týden až den předem | telefonát do parku Kui Buri přes ubytování, přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), minivan z Khao Sok do Ao Nang den předem, lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
+| Týden až den předem | telefonát do parku Kui Buri přes ubytování, přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce Etihad Airways) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
 

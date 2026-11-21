@@ -1290,5 +1290,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "2933cd5",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v103",
+    "datum": "21. 11. 2026",
+    "nazev": "Checklist bez minivanu do Ao Nang",
+    "zmeny": [
+      "Předodletový checklist: úkol objednat minivan z Khao Sok do Ao Nang den předem je pryč, lístek na minivan Smiley se kupuje přímo u Smiley v den odbavení (fáze 4).",
+      "Počet fází, nocí i data jsou beze změny proti v102."
+    ],
+    "commit": "69119c3",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v103: Checklist bez minivanu do Ao Nang (21. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v103/) · [Markdown](verze/v103/thajsko-bangkok-phuket.md) · [rozdíl proti v102](https://github.com/polachp/dovolena-thajsko-2026/compare/2933cd5...69119c3)
+
+- Předodletový checklist: úkol objednat minivan z Khao Sok do Ao Nang den předem je pryč, lístek na minivan Smiley se kupuje přímo u Smiley v den odbavení (fáze 4).
+- Počet fází, nocí i data jsou beze změny proti v102.
+
 ## v102: Minivan z Chumphonu do Ranongu (21. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v102/) · [Markdown](verze/v102/thajsko-bangkok-phuket.md) · [rozdíl proti v101](https://github.com/polachp/dovolena-thajsko-2026/compare/56ea90d...2933cd5)
