@@ -1301,5 +1301,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "69119c3",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v104",
+    "datum": "21. 11. 2026",
+    "nazev": "Minivan z Chumphonu bez poznámky o zdrojích",
+    "zmeny": [
+      "Fáze 2, Přesun dál: u odjezdů minivanu z Chumphonu do Ranongu je pryč závorka o zdrojích a tabuli na stanovišti, zůstaly jen časy odjezdů.",
+      "Počet fází, nocí i data jsou beze změny proti v103."
+    ],
+    "commit": "1880615",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
