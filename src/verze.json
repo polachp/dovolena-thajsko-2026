@@ -10584,5 +10584,107 @@
       }
     },
     "commit": "1880615"
+  },
+  {
+    "id": "v105",
+    "datum": "21. 11. 2026",
+    "nazev": "Časy lodí z Ranongu na Koh Phayam",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 3, Loď na ostrov: doplněné orientační časy rychlých lodí z Ranongu (8:30, 9:30, 10:00, 11:00, 13:00, 14:30, 17:30) a pomalého trajektu v 10:30, rada být na molu 30–60 minut předem a možnost koupit lístek předem online přes 12Go jako pojistku kvůli prodlouženému víkendu. Pryč je věta, že tabulka na 12Go nebyla k nalezení.",
+      "Počet fází, nocí i data jsou beze změny proti v104."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "7"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket, Nai Yang"
+        ]
+      ],
+      "kam": {
+        "Co se ještě dořeší": "pred",
+        "Úvod do Thajska": "zajimavosti",
+        "Zvířata na trase": "zajimavosti",
+        "Záchytné body pro Google Maps": "misto",
+        "Doprava": "misto",
+        "Počasí, teploty a deště": "pred",
+        "Jídlo, pití a bezpečné stravování": "misto",
+        "Seznam povinného vybavení": "pred",
+        "Etiketa": "misto",
+        "Praktické travel hacky": "misto",
+        "Předodletový checklist": "pred",
+        "Šnorchlování a noční safari": "zajimavosti",
+        "Zdraví, bezpečnost a nouzová čísla": "pred",
+        "Orientační rozpočet": "pred",
+        "Mini-slovníček thajských frází": "misto",
+        "Etihad Airways": "pred",
+        "Do kdy zrušit ubytování zdarma": "terminy",
+        "Místa na trase: Bangkok": "zajimavosti",
+        "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti",
+        "Místa na trase: Prachuap Khiri Khan": "zajimavosti",
+        "Místa na trase: Ranong a Koh Phayam": "zajimavosti",
+        "Místa na trase: Khao Sok": "zajimavosti",
+        "Místa na trase: Krabi": "zajimavosti",
+        "Místa na trase: Koh Yao Noi": "zajimavosti",
+        "Místa na trase: Phuket a Nai Yang": "zajimavosti"
+      }
+    }
   }
 ]
