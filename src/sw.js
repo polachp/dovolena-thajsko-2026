@@ -26,10 +26,12 @@ self.addEventListener('activate', function (e) {
   }).then(function () { return self.clients.claim(); }));
 });
 
+// Stránky se stahují s cache: 'no-cache': GitHub Pages posílá max-age=600, takže bez toho prohlížeč
+// až 10 minut po nahrání nové verze ukazoval starou stránku z mezipaměti (od 22. 11. 2026).
 function sitSLimitem(req, ms) {
   return new Promise(function (ok, chyba) {
     var t = setTimeout(function () { chyba(new Error('timeout')); }, ms);
-    fetch(req).then(function (r) { clearTimeout(t); ok(r); }, function (err) { clearTimeout(t); chyba(err); });
+    fetch(req.url, { cache: 'no-cache', credentials: 'same-origin' }).then(function (r) { clearTimeout(t); ok(r); }, function (err) { clearTimeout(t); chyba(err); });
   });
 }
 

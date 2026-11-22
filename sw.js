@@ -7,7 +7,7 @@
 // - Ostatní soubory webu (skripty s otiskem ?v=..., fonty, Leaflet, ikony): nejdřív uložená kopie, jinak síť a uložit.
 // - Mapové dlaždice CARTO: ukládají se jen ty, které si už někdo zobrazil (žádné hromadné stahování), nejvýš 30 dní
 //   (podmínky CARTO: cache v zařízení nejvýš 30 dní) a nejvýš MAX_DLAZDIC kusů. Dlaždice OSM se neukládají (OSM offline použití zakazuje).
-var VERZE = 'e4507e754a';
+var VERZE = '413ba60190';
 var SOUBORY = ["./", "verze.js?v=143bc186", "varianty.js?v=143bc186", "thajsko-obsah.js?v=143bc186", "fonts/hanken-grotesk-latin-wght-normal.woff2", "fonts/hanken-grotesk-latin-ext-wght-normal.woff2", "fonts/hanken-grotesk-latin-wght-italic.woff2", "fonts/hanken-grotesk-latin-ext-wght-italic.woff2", "fonts/ibm-plex-mono-latin-400-normal.woff2", "fonts/ibm-plex-mono-latin-ext-400-normal.woff2", "fonts/ibm-plex-mono-latin-500-normal.woff2", "fonts/ibm-plex-mono-latin-ext-500-normal.woff2", "vendor/marked.min.js", "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css", "manifest.webmanifest", "ikona-192.png", "ikona-180.png"];
 var CACHE = 'thajsko-' + VERZE;
 var CACHE_STRANKY = 'thajsko-stranky';
@@ -27,10 +27,12 @@ self.addEventListener('activate', function (e) {
   }).then(function () { return self.clients.claim(); }));
 });
 
+// Stránky se stahují s cache: 'no-cache': GitHub Pages posílá max-age=600, takže bez toho prohlížeč
+// až 10 minut po nahrání nové verze ukazoval starou stránku z mezipaměti (od 22. 11. 2026).
 function sitSLimitem(req, ms) {
   return new Promise(function (ok, chyba) {
     var t = setTimeout(function () { chyba(new Error('timeout')); }, ms);
-    fetch(req).then(function (r) { clearTimeout(t); ok(r); }, function (err) { clearTimeout(t); chyba(err); });
+    fetch(req.url, { cache: 'no-cache', credentials: 'same-origin' }).then(function (r) { clearTimeout(t); ok(r); }, function (err) { clearTimeout(t); chyba(err); });
   });
 }
 
