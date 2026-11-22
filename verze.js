@@ -1374,5 +1374,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "39d4e4b",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v110",
+    "datum": "22. 11. 2026",
+    "nazev": "Checklist bez bodu Vstup bez víza",
+    "zmeny": [
+      "Předodletový checklist: smazaný bod Vstup bez víza (30 dní bez víza, prodloužení, plánovaný vstupní poplatek) a úvodní věta o změně pravidel vstupu.",
+      "Počet fází, nocí i data jsou beze změny proti v109."
+    ],
+    "commit": "993c682",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

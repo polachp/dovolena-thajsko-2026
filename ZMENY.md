@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v110: Checklist bez bodu Vstup bez víza (22. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v110/) · [Markdown](verze/v110/thajsko-bangkok-phuket.md) · [rozdíl proti v109](https://github.com/polachp/dovolena-thajsko-2026/compare/39d4e4b...993c682)
+
+- Předodletový checklist: smazaný bod Vstup bez víza (30 dní bez víza, prodloužení, plánovaný vstupní poplatek) a úvodní věta o změně pravidel vstupu.
+- Počet fází, nocí i data jsou beze změny proti v109.
+
 ## v109: Hotové úkoly odškrtnuté a dole (22. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v109/) · [Markdown](verze/v109/thajsko-bangkok-phuket.md) · [rozdíl proti v108](https://github.com/polachp/dovolena-thajsko-2026/compare/5b2d11c...39d4e4b)
