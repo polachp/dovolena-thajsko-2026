@@ -1385,5 +1385,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "993c682",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v111",
+    "datum": "22. 11. 2026",
+    "nazev": "eSIM hotová",
+    "zmeny": [
+      "Předodletový checklist: odškrtnutý bod Mobilní data (eSIM), přesunutý mezi hotové.",
+      "Předodletový checklist, tabulka Co zařídit a kdy: pryč je eSIM nainstalovaná doma na Wi-Fi.",
+      "Počet fází, nocí i data jsou beze změny proti v110."
+    ],
+    "commit": "4614962",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v111: eSIM hotová (22. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v111/) · [Markdown](verze/v111/thajsko-bangkok-phuket.md) · [rozdíl proti v110](https://github.com/polachp/dovolena-thajsko-2026/compare/993c682...4614962)
+
+- Předodletový checklist: odškrtnutý bod Mobilní data (eSIM), přesunutý mezi hotové.
+- Předodletový checklist, tabulka Co zařídit a kdy: pryč je eSIM nainstalovaná doma na Wi-Fi.
+- Počet fází, nocí i data jsou beze změny proti v110.
+
 ## v110: Checklist bez bodu Vstup bez víza (22. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v110/) · [Markdown](verze/v110/thajsko-bangkok-phuket.md) · [rozdíl proti v109](https://github.com/polachp/dovolena-thajsko-2026/compare/39d4e4b...993c682)

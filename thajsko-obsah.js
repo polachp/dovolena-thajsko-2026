@@ -954,9 +954,9 @@ Hotové body jsou odškrtnuté a seřazené dole.
 - [ ] **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
 - [ ] **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
 - [ ] **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12. Sjednejte ho nejpozději den před odletem. Storno (zrušení cesty) už sjednat nejde, pojišťovny ho dávají jen krátce po zaplacení cesty a letenky i ubytování jsou zaplacené. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky (fáze 4) a skútry (fáze 3, 5 a 6). Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění a pro skútr se bere oprávnění na motocykl, ne skupina B (v konkrétních podmínkách neověřeno).
-- [ ] **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
 - [ ] **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce Praktické travel hacky). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
 - [ ] **Doklady:** Kopie pasu, pojistky a rezervací uložte offline v telefonu a jednu sadu mějte i na papíře.
+- [x] **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
 - [x] **Cestovní pas:** Musí být platný aspoň 6 měsíců od plánovaného data vstupu do Thajska. Digitální kopii si uložte do telefonu.
 - [x] **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026). Vezměte ho s sebou spolu s českým řidičským průkazem, auto v Hua Hin přebíráte 30. 11.
 - [x] **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce Etihad Airways). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
@@ -968,7 +968,7 @@ Hotové body jsou odškrtnuté a seřazené dole.
 |---|---|
 | Před odletem | Vytisknout obě jízdenky na vlak 4. 12. (Hua Hin → Chumphon) |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
-| Týden až den předem | telefonát do parku Kui Buri přes ubytování, přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
+| Týden až den předem | telefonát do parku Kui Buri přes ubytování, přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), lodě na Koh Yao Noi aspoň den až 2 dny předem a jízdní řád lodí z Ranongu na Koh Phayam |
 | 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce Etihad Airways) |
 | Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
 
