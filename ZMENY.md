@@ -2,6 +2,13 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v107: Zkrácený blok Auto z Hua Hin (22. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v107/) · [Markdown](verze/v107/thajsko-bangkok-phuket.md) · [rozdíl proti v106](https://github.com/polachp/dovolena-thajsko-2026/compare/dfa1cec...a0072dd)
+
+- Fáze 2, blok Auto z Hua Hin: zkrácený na podstatné údaje (kde a kdy vyzvednout a vrátit, co je zaplacené a co se platí na pobočce, co mít s sebou), doplněný odkaz do Google Maps na pobočku a odkaz na web Thai Rent A Car. Pryč je model auta, podrobnosti o pojištění SLDW a věta o jízdě vlevo.
+- Počet fází, nocí i data jsou beze změny proti v106.
+
 ## v106: Auto v Hua Hin zarezervované (22. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v106/) · [Markdown](verze/v106/thajsko-bangkok-phuket.md) · [rozdíl proti v105](https://github.com/polachp/dovolena-thajsko-2026/compare/9cf6e09...dfa1cec)

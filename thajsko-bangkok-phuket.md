@@ -332,20 +332,13 @@ Sloni jsou nejaktivnější od zhruba 15:00, po 17:00 už do areálu nevjedete. 
 
 #### Auto z Hua Hin
 
-Zarezervováno 22. 11. 2026 přes web Thai Rent A Car, potvrzení s číslem rezervace je v e-mailu. Pobočka Hua Hin Downtown v areálu Aquna Resort, kancelář B301, 17/49 Nong Kae (u hlavní silnice Phetkasem Road před vjezdem do resortu), asi 2,5 km od nádraží, otevřeno denně 8:00–17:00. Ve stejné kanceláři je i Enterprise.
+Thai Rent A Car, pobočka Hua Hin Downtown: kancelář B301 u silnice Phetkasem Road před vjezdem do Aquna Resort (17/49 Nong Kae), otevřeno denně 8:00–17:00. [Google Maps](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Downtown%20Aquna%20Resort) · [web půjčovny](https://www.thairentacar.com/)
 
-- **Auto:** Toyota Yaris Ativ nebo podobné, sedan, 4 dveře, 5 míst.
-- **Vyzvednutí:** pondělí 30. 11. ve 12:30. Z Clock Tower, kde končí dodávka, Grabem nebo taxi (asi 2,5 km). Auto k Clock Tower ani na nádraží nepřistavují, v sezóně na to nemají lidi (e-mail půjčovny z 22. 11.).
-- **Vrácení:** pátek 4. 12. v 9:30 na stejné pobočce, pak Grabem na nádraží (viz Přesun dál).
-- **Cena:** 2 996 THB za 4 dny včetně DPH, zaplaceno předem kartou. Podle podmínek půjčovny se platba předem nevrací a datum, čas ani místo nejde změnit.
-- **Pojištění v ceně (LDW):** při nehodě platíte spoluúčast 5 000 THB.
-- **Připojištění PLDW:** koupit na pobočce při vyzvednutí, 321 THB na den včetně DPH, za 4 dny 1 284 THB, kartou Visa nebo Mastercard (e-mail půjčovny z 22. 11.). Při nehodě pak neplatíte nic a kryje i sklo a pneumatiky (podle tabulky na webu půjčovny asi do 5 000 THB). Levnější SLDW (200 THB na den bez DPH) sklo a pneumatiky nekryje.
-- **Kauce:** 5 000 THB, zablokuje se na kreditní kartě řidiče, který je v rezervaci (e-mail půjčovny z 22. 11.). Debetní karty neberou. Uvolnění po vrácení auta může trvat až 14 dní.
-- **S sebou:** pas, český řidičský průkaz, mezinárodní řidičský průkaz (vyřízený), kreditní karta na jméno řidiče z rezervace a potvrzení rezervace. Jestli smí řídit i druhý z vás, zeptejte se na pobočce (neověřeno).
-- **Benzín:** auto vraťte se stejným množstvím paliva, jaké mělo při převzetí (obvyklé pravidlo, u této půjčovny neověřené). Při převzetí auto nafoťte ze všech stran, i stav paliva.
-- **Placení kartou:** když terminál nabídne platbu v korunách, zvolte baht.
-
-Jezdí se vlevo.
+- **Vyzvednutí:** po 30. 11. ve 12:30. Od Clock Tower Grabem nebo taxi (asi 2,5 km), auto nepřistavují.
+- **Vrácení:** pá 4. 12. v 9:30 tamtéž, pak Grabem na nádraží (viz Přesun dál). Palivo vraťte na stejné úrovni jako při převzetí (neověřeno).
+- **Zaplaceno předem:** 2 996 THB za 4 dny, nevratné.
+- **Na pobočce se platí:** připojištění PLDW 321 THB na den (za 4 dny 1 284 THB, kryje i sklo a pneumatiky, bez něj spoluúčast 5 000 THB) a kauce 5 000 THB blokovaná na kreditní kartě řidiče z rezervace (debetní neberou, uvolnění až 14 dní). Při platbě kartou zvolte baht.
+- **S sebou:** pas, český a mezinárodní řidičský průkaz, kreditní karta řidiče a potvrzení rezervace (v e-mailu).
 
 #### Vstupy
 

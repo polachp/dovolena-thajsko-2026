@@ -1338,5 +1338,16 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "dfa1cec",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v107",
+    "datum": "22. 11. 2026",
+    "nazev": "Zkrácený blok Auto z Hua Hin",
+    "zmeny": [
+      "Fáze 2, blok Auto z Hua Hin: zkrácený na podstatné údaje (kde a kdy vyzvednout a vrátit, co je zaplacené a co se platí na pobočce, co mít s sebou), doplněný odkaz do Google Maps na pobočku a odkaz na web Thai Rent A Car. Pryč je model auta, podrobnosti o pojištění SLDW a věta o jízdě vlevo.",
+      "Počet fází, nocí i data jsou beze změny proti v106."
+    ],
+    "commit": "a0072dd",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
