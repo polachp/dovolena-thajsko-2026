@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v108: Co se ještě dořeší jako checkboxy (22. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v108/) · [Markdown](verze/v108/thajsko-bangkok-phuket.md) · [rozdíl proti v107](https://github.com/polachp/dovolena-thajsko-2026/compare/a0072dd...5b2d11c)
+
+- Co se ještě dořeší: body jsou checkboxy, hotové jsou zaškrtnuté a přeškrtnuté. Hotový je bod Vlak a auto na začátku trasy.
+- Web: seznam s checkboxy (v Markdownu - [ ] a - [x]) má místo odrážky zaškrtávací políčko, hotové body jsou šedé a přeškrtnuté. Na webu se nedají odškrtávat klepnutím, mění se v Markdownu.
+- Počet fází, nocí i data jsou beze změny proti v107.
+
 ## v107: Zkrácený blok Auto z Hua Hin (22. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v107/) · [Markdown](verze/v107/thajsko-bangkok-phuket.md) · [rozdíl proti v106](https://github.com/polachp/dovolena-thajsko-2026/compare/dfa1cec...a0072dd)

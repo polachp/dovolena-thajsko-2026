@@ -1349,5 +1349,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "a0072dd",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v108",
+    "datum": "22. 11. 2026",
+    "nazev": "Co se ještě dořeší jako checkboxy",
+    "zmeny": [
+      "Co se ještě dořeší: body jsou checkboxy, hotové jsou zaškrtnuté a přeškrtnuté. Hotový je bod Vlak a auto na začátku trasy.",
+      "Web: seznam s checkboxy (v Markdownu - [ ] a - [x]) má místo odrážky zaškrtávací políčko, hotové body jsou šedé a přeškrtnuté. Na webu se nedají odškrtávat klepnutím, mění se v Markdownu.",
+      "Počet fází, nocí i data jsou beze změny proti v107."
+    ],
+    "commit": "5b2d11c",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

@@ -312,6 +312,10 @@ article .opt{font-family:var(--display);font-size:13px;font-weight:600;color:var
 article ul.see .opt{margin-left:0}
 article ul.see .txt{display:block}
 article li::marker{color:var(--accent)}
+/* checkboxy v seznamu (Markdown - [ ] a - [x]), hotové body přeškrtnuté */
+article li:has(>input[type=checkbox]){list-style:none;position:relative}
+article li>input[type=checkbox]{position:absolute;left:-24px;top:3px;margin:0;width:16px;height:16px;accent-color:var(--accent)}
+article li:has(>input[type=checkbox]:checked){color:var(--muted);text-decoration:line-through;text-decoration-color:var(--muted)}
 /* rozbalovací bloky: řádky oddělené linkou místo karet */
 article details.more{border:0;border-bottom:1px solid var(--line);border-radius:0;background:none;margin:0;padding:0}
 article details.more:not(details.more+details.more){border-top:1px solid var(--line);margin-top:12px}
@@ -498,10 +502,10 @@ body.na-dnes header.top .odpocet{display:none}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=46b82670"></script>
-<script src="../../varianty.js?v=46b82670"></script>
+<script src="../../verze.js?v=0b9f89f3"></script>
+<script src="../../varianty.js?v=0b9f89f3"></script>
 <script src="../../vendor/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=46b82670"></script>
+<script src="thajsko-obsah.js?v=0b9f89f3"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
