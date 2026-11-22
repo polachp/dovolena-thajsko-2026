@@ -315,7 +315,9 @@ article li::marker{color:var(--accent)}
 /* checkboxy v seznamu (Markdown - [ ] a - [x]), hotové body přeškrtnuté */
 article li:has(>input[type=checkbox]){list-style:none;position:relative}
 article li>input[type=checkbox]{position:absolute;left:-24px;top:3px;margin:0;width:16px;height:16px;accent-color:var(--accent)}
-article li:has(>input[type=checkbox]:checked){color:var(--muted);text-decoration:line-through;text-decoration-color:var(--muted)}
+article li:has(>input[type=checkbox]:checked){color:var(--muted);text-decoration:line-through;text-decoration-color:var(--muted);opacity:.75}
+article li:has(>input[type=checkbox]:checked) a{color:inherit}
+article li.hotovo-oddel{list-style:none;margin:22px 0 10px -24px;padding-top:10px;border-top:1px solid var(--line);font-family:var(--display);font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--accent);text-decoration:none;opacity:1}
 /* rozbalovací bloky: řádky oddělené linkou místo karet */
 article details.more{border:0;border-bottom:1px solid var(--line);border-radius:0;background:none;margin:0;padding:0}
 article details.more:not(details.more+details.more){border-top:1px solid var(--line);margin-top:12px}
@@ -501,10 +503,10 @@ body.na-dnes header.top .odpocet{display:none}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=c81c8655"></script>
-<script src="../../varianty.js?v=c81c8655"></script>
+<script src="../../verze.js?v=393d2a1d"></script>
+<script src="../../varianty.js?v=393d2a1d"></script>
 <script src="../../vendor/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=c81c8655"></script>
+<script src="thajsko-obsah.js?v=393d2a1d"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -1295,6 +1297,16 @@ body.na-dnes header.top .odpocet{display:none}
     kam.querySelectorAll('table').forEach(function(t){
       if(t.parentNode.classList.contains('tw')) return;
       var w=document.createElement('div');w.className='tw';t.parentNode.insertBefore(w,t);w.appendChild(t);
+    });
+    // seznam s checkboxy: hotové body dolů pod oddělovač Hotovo (od v109)
+    kam.querySelectorAll('ul').forEach(function(ul){
+      if(ul.querySelector(':scope>li.hotovo-oddel')) return;
+      var li=[].slice.call(ul.children).filter(function(x){return x.querySelector(':scope>input[type=checkbox]')});
+      if(!li.length) return;
+      var hot=li.filter(function(x){return x.querySelector(':scope>input[type=checkbox]').checked});
+      if(!hot.length) return;
+      var o=document.createElement('li');o.className='hotovo-oddel';o.textContent='Hotovo ('+hot.length+')';
+      ul.appendChild(o); hot.forEach(function(x){ul.appendChild(x)});
     });
     // řádek tabulky, ve kterém je napsáno NEBRAT, se zbarví červeně (třída nebrat, od v71)
     kam.querySelectorAll('tbody tr').forEach(function(r){

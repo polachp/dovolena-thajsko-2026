@@ -315,7 +315,9 @@ article li::marker{color:var(--accent)}
 /* checkboxy v seznamu (Markdown - [ ] a - [x]), hotové body přeškrtnuté */
 article li:has(>input[type=checkbox]){list-style:none;position:relative}
 article li>input[type=checkbox]{position:absolute;left:-24px;top:3px;margin:0;width:16px;height:16px;accent-color:var(--accent)}
-article li:has(>input[type=checkbox]:checked){color:var(--muted);text-decoration:line-through;text-decoration-color:var(--muted)}
+article li:has(>input[type=checkbox]:checked){color:var(--muted);text-decoration:line-through;text-decoration-color:var(--muted);opacity:.75}
+article li:has(>input[type=checkbox]:checked) a{color:inherit}
+article li.hotovo-oddel{list-style:none;margin:22px 0 10px -24px;padding-top:10px;border-top:1px solid var(--line);font-family:var(--display);font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--accent);text-decoration:none;opacity:1}
 /* rozbalovací bloky: řádky oddělené linkou místo karet */
 article details.more{border:0;border-bottom:1px solid var(--line);border-radius:0;background:none;margin:0;padding:0}
 article details.more:not(details.more+details.more){border-top:1px solid var(--line);margin-top:12px}
@@ -428,7 +430,7 @@ body.na-dnes header.top .odpocet{display:none}
 <body>
 
 <header class="top"><div class="wrap">
-  <div class="eyebrow">Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026 · verze v108 (22. 11. 2026)</div>
+  <div class="eyebrow">Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026 · verze v109 (22. 11. 2026)</div>
   <h1>Bangkok <span class="arrow">→</span> Phuket</h1>
   <div class="odpocet" id="odpocet" hidden>
     <span class="num" id="odpocetNum"></span>
@@ -472,7 +474,7 @@ body.na-dnes header.top .odpocet{display:none}
 
 <footer><div class="wrap">Zdroj: Kompletní thajský slow-travel manuál, @Anezka. Časy a ceny jsou orientační, ověřte před cestou. Celý text: <a href="thajsko-bangkok-phuket.md">thajsko-bangkok-phuket.md</a>.</div></footer>
 
-<script>window.CFG={"id": "v108", "base": "./", "kam": {"Co se ještě dořeší": "pred", "Úvod do Thajska": "zajimavosti", "Zvířata na trase": "zajimavosti", "Záchytné body pro Google Maps": "misto", "Doprava": "misto", "Počasí, teploty a deště": "pred", "Jídlo, pití a bezpečné stravování": "misto", "Seznam povinného vybavení": "pred", "Etiketa": "misto", "Praktické travel hacky": "misto", "Předodletový checklist": "pred", "Šnorchlování a noční safari": "zajimavosti", "Zdraví, bezpečnost a nouzová čísla": "pred", "Orientační rozpočet": "pred", "Mini-slovníček thajských frází": "misto", "Etihad Airways": "pred", "Do kdy zrušit ubytování zdarma": "terminy", "Místa na trase: Bangkok": "zajimavosti", "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti", "Místa na trase: Prachuap Khiri Khan": "zajimavosti", "Místa na trase: Ranong a Koh Phayam": "zajimavosti", "Místa na trase: Khao Sok": "zajimavosti", "Místa na trase: Krabi": "zajimavosti", "Místa na trase: Koh Yao Noi": "zajimavosti", "Místa na trase: Phuket a Nai Yang": "zajimavosti"}};</script>
+<script>window.CFG={"id": "v109", "base": "./", "kam": {"Co se ještě dořeší": "pred", "Úvod do Thajska": "zajimavosti", "Zvířata na trase": "zajimavosti", "Záchytné body pro Google Maps": "misto", "Doprava": "misto", "Počasí, teploty a deště": "pred", "Jídlo, pití a bezpečné stravování": "misto", "Seznam povinného vybavení": "pred", "Etiketa": "misto", "Praktické travel hacky": "misto", "Předodletový checklist": "pred", "Šnorchlování a noční safari": "zajimavosti", "Zdraví, bezpečnost a nouzová čísla": "pred", "Orientační rozpočet": "pred", "Mini-slovníček thajských frází": "misto", "Etihad Airways": "pred", "Do kdy zrušit ubytování zdarma": "terminy", "Místa na trase: Bangkok": "zajimavosti", "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti", "Místa na trase: Prachuap Khiri Khan": "zajimavosti", "Místa na trase: Ranong a Koh Phayam": "zajimavosti", "Místa na trase: Khao Sok": "zajimavosti", "Místa na trase: Krabi": "zajimavosti", "Místa na trase: Koh Yao Noi": "zajimavosti", "Místa na trase: Phuket a Nai Yang": "zajimavosti"}};</script>
 <script>
 // Offline režim (od 12. 11. 2026): service worker sw.js z kořene webu uloží aktuální verzi při první návštěvě. Pás dole hlásí, když chybí připojení.
 (function(){
@@ -501,10 +503,10 @@ body.na-dnes header.top .odpocet{display:none}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="./verze.js?v=1370a141"></script>
-<script src="./varianty.js?v=1370a141"></script>
+<script src="./verze.js?v=143bc186"></script>
+<script src="./varianty.js?v=143bc186"></script>
 <script src="./vendor/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=1370a141"></script>
+<script src="thajsko-obsah.js?v=143bc186"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -1295,6 +1297,16 @@ body.na-dnes header.top .odpocet{display:none}
     kam.querySelectorAll('table').forEach(function(t){
       if(t.parentNode.classList.contains('tw')) return;
       var w=document.createElement('div');w.className='tw';t.parentNode.insertBefore(w,t);w.appendChild(t);
+    });
+    // seznam s checkboxy: hotové body dolů pod oddělovač Hotovo (od v109)
+    kam.querySelectorAll('ul').forEach(function(ul){
+      if(ul.querySelector(':scope>li.hotovo-oddel')) return;
+      var li=[].slice.call(ul.children).filter(function(x){return x.querySelector(':scope>input[type=checkbox]')});
+      if(!li.length) return;
+      var hot=li.filter(function(x){return x.querySelector(':scope>input[type=checkbox]').checked});
+      if(!hot.length) return;
+      var o=document.createElement('li');o.className='hotovo-oddel';o.textContent='Hotovo ('+hot.length+')';
+      ul.appendChild(o); hot.forEach(function(x){ul.appendChild(x)});
     });
     // řádek tabulky, ve kterém je napsáno NEBRAT, se zbarví červeně (třída nebrat, od v71)
     kam.querySelectorAll('tbody tr').forEach(function(r){

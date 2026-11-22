@@ -1361,5 +1361,18 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "5b2d11c",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v109",
+    "datum": "22. 11. 2026",
+    "nazev": "Hotové úkoly odškrtnuté a dole",
+    "zmeny": [
+      "Co se ještě dořeší: odškrtnutý bod Vstupní pravidla, hotové body jsou na konci seznamu.",
+      "Předodletový checklist: body jsou checkboxy, odškrtnuté jsou Cestovní pas, Řidičský průkaz a auto, Letenky a Vlak č. 43 a auto, hotové jsou na konci seznamu.",
+      "Web: v seznamu s checkboxy jsou hotové body pod oddělovačem Hotovo s počtem, šedé, přeškrtnuté a slabší.",
+      "Počet fází, nocí i data jsou beze změny proti v108."
+    ],
+    "commit": "39d4e4b",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];
