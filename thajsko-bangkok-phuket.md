@@ -10,7 +10,7 @@ Co se mezi verzemi změnilo, najdete v záložce Verze. Termíny, do kdy jde uby
 
 Nejdřív úkoly před odletem, pak body podle fází.
 
-- **Vlak a auto na začátku trasy (fáze 1 a 2):** do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1). Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené (fáze 2), před odletem je vytiskněte. Auto v Hua Hin na 4 dny, 30. 11. až 4. 12., není zamluvené.
+- **Vlak a auto na začátku trasy (fáze 1 a 2):** do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1). Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené (fáze 2), před odletem je vytiskněte. Auto v Hua Hin na 30. 11. až 4. 12. je zarezervované a zaplacené (fáze 2), připojištění PLDW se kupuje až na pobočce.
 - **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
 - **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
 - **Překrývající se rezervace v Khao Sok (fáze 4):** noci 8.–11. 12. jsou zarezervované dvakrát, v Bingo Hostel Khao Sok (2 lůžka v hostelu, aspoň jedno ve společném pokoji pro 8 lidí) a v Little wild house Khaosok (soukromý pokoj se sdílenou koupelnou). Jedno je potřeba zrušit. Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59). Rozhodnout tedy nejpozději 4. 12.
@@ -105,7 +105,7 @@ Každý řádek má odkaz, který bod otevře v Google Maps, a body si před ces
 | 1 | Bangkok, Wat Paknam Phasi Charoen (metro Bang Phai, východ 1) | [Wat Paknam Phasi Charoen](https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen%20Bangkok) | Obří Buddha a skleněná stupa, nejlépe hned po otevření v 8:00 |
 | 2 | Sam Roi Yot, ubytování Driftwood and Jolie Cottages | [Driftwood and Jolie Cottages](https://www.google.com/maps/search/?api=1&query=Driftwood%20%26%20Jolie%20Cottages%20Sam%20Roi%20Yot) | Potvrzeno 30. 11.–4. 12., check-in 14:00 až 18:00 (30. 11. domluvený příjezd kdykoli), check-out 7:00 až 12:00, k pláži asi 2 km |
 | 2 | Hua Hin, Clock Tower | [12.5706, 99.9572](https://www.google.com/maps/search/?api=1&query=12.5706%2C99.9572) | Sem přijede dodávka z Bangkoku 30. 11. ve 12:10 |
-| 2 | Hua Hin, autopůjčovna Thai Rent A Car / Enterprise (Aquana Resort, 17/49 Soi Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
+| 2 | Hua Hin, autopůjčovna Thai Rent A Car, pobočka Hua Hin Downtown (Aquna Resort, kancelář B301, 17/49 Nong Kae) | [Thai Rent A Car Hua Hin](https://www.google.com/maps/search/?api=1&query=Thai%20Rent%20A%20Car%20Hua%20Hin%20Soi%20Nong%20Kae) | Vyzvednutí a vrácení auta, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00 (ověřte) |
 | 2 | Pranburi, Forest Park (cestou z Hua Hin) | [12.4133, 99.9856](https://www.google.com/maps/search/?api=1&query=12.4133%2C99.9856) | Volitelně (30. 11. cestou, když bude čas, jinak 3. 12.): kilometrová lávka mangrovovým lesem, vstup zdarma, v Mapách jako Pran Buri Forest Park |
 | 2 | Bueng Bua, dřevěná lávka (Thung Sam Roi Yot) | [Bueng Bua Thung Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bueng%20Bua%20Thung%20Sam%20Roi%20Yot) | Lávka přes mokřad s lotosy a ptáky, otevřeno 8:00–17:00 |
 | 2 | Bang Pu (Sam Roi Yot), pláž a molo | [Bang Pu Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Bang%20Pu%20Village%20Sam%20Roi%20Yot%20Prachuap%20Khiri%20Khan) | Výchozí bod k pláži Laem Sala a jeskyni Phraya Nakhon |
@@ -298,7 +298,7 @@ Národní park mezi vápencovými horami a mořem a odpoledne divocí sloni v Ku
 
 #### Program po dnech
 
-- **Po 30. 11.:** Dodávkou do Hua Hin (příjezd 12:10, fáze 1), vyzvednout auto a jet rovnou na mokřad Bueng Bua, asi hodinu (odhad). Lávka asi 1 km, 8:00–17:00, asi 400 THB na osobu (park plus lávka, podle jednoho blogu), 1,5–2 hodiny. Lotosy se otevírají ráno, odpoledne jich kvete méně. Volitelně potom plavba lodí vesnice Ban Na Thung Sam Roi Yot mezi lotosy, asi 16:30–18:00, kdy se ptáci vracejí do hnízd (podle článku v Thairath). Objednat předem telefonem +66 83 317 5319, kde se nastupuje, zjistit při objednání, cena podle jednoho blogu asi 600 THB za loď (neověřeno). Do Driftwood asi 40 minut autem, příjezd je s hostiteli domluvený kdykoli. Forest Park v Pranburi cestou, jen když bude čas (podrobnosti níže).
+- **Po 30. 11.:** Dodávkou do Hua Hin (příjezd 12:10, fáze 1), Grabem nebo taxi na pobočku Thai Rent A Car, auto je zarezervované na 12:30 (podrobnosti níže), a jet rovnou na mokřad Bueng Bua, asi hodinu (odhad). Lávka asi 1 km, 8:00–17:00, asi 400 THB na osobu (park plus lávka, podle jednoho blogu), 1,5–2 hodiny. Lotosy se otevírají ráno, odpoledne jich kvete méně. Volitelně potom plavba lodí vesnice Ban Na Thung Sam Roi Yot mezi lotosy, asi 16:30–18:00, kdy se ptáci vracejí do hnízd (podle článku v Thairath). Objednat předem telefonem +66 83 317 5319, kde se nastupuje, zjistit při objednání, cena podle jednoho blogu asi 600 THB za loď (neověřeno). Do Driftwood asi 40 minut autem, příjezd je s hostiteli domluvený kdykoli. Forest Park v Pranburi cestou, jen když bude čas (podrobnosti níže).
 - **Út 1. 12.:** Ráno jeskyně Phraya Nakhon. Z Bang Pu (od ubytování autem) pěšky přes kopec na pláž Laem Sala asi 30 minut, loď je zbytečná (asi 400 THB). Cestou přes kopec, na pláži i na stezce k jeskyni sledujte stromy, žijí tu hulmani (nekrmte je). Pak strmé schody asi 30 minut nahoru. Buďte tam před desátou, světlo na pavilonu je nejlepší zhruba 9–13 hodin. Pavilon nechal postavit Rama V. po návštěvě v roce 1890. Kolem 15:00 vesnický chrám u mola Khao Daeng (zdarma, jídlo mějte v batohu kvůli opicím) a od mola u chrámu plavba lodí po kanálu Khao Daeng (podrobnosti níže).
 - **St 2. 12.:** Ráno vyhlídka Khao Daeng (157 m, 40–45 minut do kopce po kamenité stezce), když budete unavení, vynechte ji. Pak lávka v mangrovech za ředitelstvím parku (podrobnosti níže). Volitelně jeskyně Phra Prathun s netopýry (vede mnich, tel. +66 95 943 3832). Od 14:00 Kui Buri. Zpátky se jede za tmy, jinak se v plánu za tmy nejezdí (kromě volitelného výletu do Prachuap).
 - **Čt 3. 12.:** Volný den na odpočinek u moře, nebo volitelně výlet autem do Prachuap Khiri Khan za hulmany a makaky (podrobnosti níže). Kdyby ve středu sloni nepřišli, jde Kui Buri zkusit znovu, odpoledne od 14:00. Volitelně Forest Park v Pranburi, pokud se v pondělí nestihl (podrobnosti níže).
@@ -332,7 +332,20 @@ Sloni jsou nejaktivnější od zhruba 15:00, po 17:00 už do areálu nevjedete. 
 
 #### Auto z Hua Hin
 
-Thai Rent A Car / Enterprise u Aquana Resort (17/49 Soi Nong Kae, asi 2,5 km od nádraží, otevřeno zhruba 8:00–17:00). Auto potřebujete na 4 dny, 30. 11.–4. 12. Malé auto od asi 800–900 THB na den. Vezměte pasy, řidičské průkazy skupiny B, mezinárodní řidičský průkaz (vyřízený) a kartu na kauci. Jezdí se vlevo.
+Zarezervováno 22. 11. 2026 přes web Thai Rent A Car, potvrzení s číslem rezervace je v e-mailu. Pobočka Hua Hin Downtown v areálu Aquna Resort, kancelář B301, 17/49 Nong Kae (u hlavní silnice Phetkasem Road před vjezdem do resortu), asi 2,5 km od nádraží, otevřeno denně 8:00–17:00. Ve stejné kanceláři je i Enterprise.
+
+- **Auto:** Toyota Yaris Ativ nebo podobné, sedan, 4 dveře, 5 míst.
+- **Vyzvednutí:** pondělí 30. 11. ve 12:30. Z Clock Tower, kde končí dodávka, Grabem nebo taxi (asi 2,5 km). Auto k Clock Tower ani na nádraží nepřistavují, v sezóně na to nemají lidi (e-mail půjčovny z 22. 11.).
+- **Vrácení:** pátek 4. 12. v 9:30 na stejné pobočce, pak Grabem na nádraží (viz Přesun dál).
+- **Cena:** 2 996 THB za 4 dny včetně DPH, zaplaceno předem kartou. Podle podmínek půjčovny se platba předem nevrací a datum, čas ani místo nejde změnit.
+- **Pojištění v ceně (LDW):** při nehodě platíte spoluúčast 5 000 THB.
+- **Připojištění PLDW:** koupit na pobočce při vyzvednutí, 321 THB na den včetně DPH, za 4 dny 1 284 THB, kartou Visa nebo Mastercard (e-mail půjčovny z 22. 11.). Při nehodě pak neplatíte nic a kryje i sklo a pneumatiky (podle tabulky na webu půjčovny asi do 5 000 THB). Levnější SLDW (200 THB na den bez DPH) sklo a pneumatiky nekryje.
+- **Kauce:** 5 000 THB, zablokuje se na kreditní kartě řidiče, který je v rezervaci (e-mail půjčovny z 22. 11.). Debetní karty neberou. Uvolnění po vrácení auta může trvat až 14 dní.
+- **S sebou:** pas, český řidičský průkaz, mezinárodní řidičský průkaz (vyřízený), kreditní karta na jméno řidiče z rezervace a potvrzení rezervace. Jestli smí řídit i druhý z vás, zeptejte se na pobočce (neověřeno).
+- **Benzín:** auto vraťte se stejným množstvím paliva, jaké mělo při převzetí (obvyklé pravidlo, u této půjčovny neověřené). Při převzetí auto nafoťte ze všech stran, i stav paliva.
+- **Placení kartou:** když terminál nabídne platbu v korunách, zvolte baht.
+
+Jezdí se vlevo.
 
 #### Vstupy
 
@@ -368,9 +381,9 @@ Z této tabulky se kreslí mapa nahoře na stránce fáze. Typ určuje barvu bod
 | Bang Pu, odtud se jde pěšky k jeskyni | doprava | přibl. 12.2067, 100.0095 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.2067%2C100.0095) |
 | Clock Tower v Hua Hin (konec dodávky z Bangkoku) | doprava | 12.5706, 99.9572 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5706%2C99.9572) |
 | Nádraží Hua Hin | doprava | přibl. 12.5673, 99.9547 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5673%2C99.9547) |
-| Půjčovna aut Thai Rent A Car (Aquana Resort, Hua Hin) | doprava | přibl. 12.5491, 99.9628 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5491%2C99.9628) |
+| Půjčovna aut Thai Rent A Car (Aquna Resort, Hua Hin) | doprava | přibl. 12.5491, 99.9628 | [Google Maps](https://www.google.com/maps/search/?api=1&query=12.5491%2C99.9628) |
 
-Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Chrám Wat Khao Daeng, molo na plavbu po kanálu a začátek stezky na vyhlídku jsou jeden bod, vyhlídka je od něj kus do kopce. Ubytování je umístěné podle polohy v rezervačním portálu, přesné místo otevře odkaz do Map. Jeskyně Phra Prathun je podle kódu místa z Google Maps (4WV6+MC) u vesnice Don Yai Nu, asi 5 km od chrámu Wat Khao Daeng, a telefon ve výpisu sedí s číslem v textu, z jiného zdroje ověřená není. Půjčovna aut Thai Rent A Car je podle kódu místa z Google Maps (GXX7+J4) u Aquana Resort, asi 2,2 km od nádraží Hua Hin, což sedí s údajem asi 2,5 km v textu, z jiného zdroje ověřená není. Promenáda v Prachuap Khiri Khan je dlouhý pás podél zálivu, bod je jen u středu města. Forest Park v Pranburi je na mapě podle kódu místa z Google Maps (CX7P+86), z jiného zdroje ověřený není. Lávka v mangrovech u ředitelství na mapě není, přesnou polohu se nepodařilo ověřit, odkaz: [ředitelství parku Khao Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Khao%20Sam%20Roi%20Yot%20National%20Park%20Headquarters) (lávka je za ním).
+Souřadnice s předponou přibl. jsou dohledané z veřejných zdrojů a jen orientační, bod na mapě tedy může stát stovky metrů vedle. Chrám Wat Khao Daeng, molo na plavbu po kanálu a začátek stezky na vyhlídku jsou jeden bod, vyhlídka je od něj kus do kopce. Ubytování je umístěné podle polohy v rezervačním portálu, přesné místo otevře odkaz do Map. Jeskyně Phra Prathun je podle kódu místa z Google Maps (4WV6+MC) u vesnice Don Yai Nu, asi 5 km od chrámu Wat Khao Daeng, a telefon ve výpisu sedí s číslem v textu, z jiného zdroje ověřená není. Půjčovna aut Thai Rent A Car je podle kódu místa z Google Maps (GXX7+J4) u Aquna Resort, asi 2,2 km od nádraží Hua Hin, což sedí s údajem asi 2,5 km v textu, z jiného zdroje ověřená není. Promenáda v Prachuap Khiri Khan je dlouhý pás podél zálivu, bod je jen u středu města. Forest Park v Pranburi je na mapě podle kódu místa z Google Maps (CX7P+86), z jiného zdroje ověřený není. Lávka v mangrovech u ředitelství na mapě není, přesnou polohu se nepodařilo ověřit, odkaz: [ředitelství parku Khao Sam Roi Yot](https://www.google.com/maps/search/?api=1&query=Khao%20Sam%20Roi%20Yot%20National%20Park%20Headquarters) (lávka je za ním).
 
 ### Fáze 3: Ranong a Koh Phayam (1 noc v Ranongu a 3 noci na ostrově, 4.–8. 12.)
 
@@ -950,7 +963,7 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 - **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026). Vezměte ho s sebou spolu s českým řidičským průkazem, auto v Hua Hin přebíráte 30. 11.
 - **Letenky:** Praha–Bangkok 26. 11. a Phuket–Praha 19. 12., oba lety s Etihad Airways přes Abu Dhabi (sekce Etihad Airways). Zkontrolujte, že jména v e-ticketu přesně odpovídají pasu, a uložte si e-ticket i potvrzení rezervace offline.
 - **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
-- **Vlak č. 43 a auto:** Do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1), vlak už byl plný. Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené, před odletem obě vytiskněte (fáze 2). Auto v Hua Hin zamluvte online na 4 dny, 30. 11. až 4. 12. a přečtěte si podmínky (kauce, spoluúčast, co je v ceně).
+- **Vlak č. 43 a auto:** Do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1), vlak už byl plný. Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené, před odletem obě vytiskněte (fáze 2). Auto v Hua Hin na 30. 11. až 4. 12. je zarezervované a zaplacené u Thai Rent A Car. Na pobočku vezměte kreditní kartu na jméno řidiče kvůli kauci a připojištění PLDW (podrobnosti ve fázi 2).
 - **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12. Sjednejte ho nejpozději den před odletem. Storno (zrušení cesty) už sjednat nejde, pojišťovny ho dávají jen krátce po zaplacení cesty a letenky i ubytování jsou zaplacené. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky (fáze 4) a skútry (fáze 3, 5 a 6). Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění a pro skútr se bere oprávnění na motocykl, ne skupina B (v konkrétních podmínkách neověřeno).
 - **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
 - **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce Praktické travel hacky). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
@@ -960,7 +973,6 @@ Pravidla vstupu se v září 2026 změnila, proto tuto sekci projděte pozorně.
 
 | Kdy | Co |
 |---|---|
-| Hned teď | Auto v Hua Hin na 4 dny, 30. 11. až 4. 12. |
 | Před odletem | Vytisknout obě jízdenky na vlak 4. 12. (Hua Hin → Chumphon) |
 | Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), lodě na Koh Yao Noi aspoň den až 2 dny předem, jízdní řád lodí z Ranongu na Koh Phayam a eSIM nainstalovaná doma na Wi-Fi |
@@ -1068,7 +1080,7 @@ Pro srovnání: podle jednoho cestovního průvodce vychází úsporné cestová
 | Zážitek | Cena | Poznámka |
 |---|---|---|
 | Bangkok: vstupy a plavba po klongech | Wat Pho 200 THB, Wat Arun 200 THB (volitelně), Zlatá hora 100 THB na osobu, plavba 1 672 Kč za dva (asi 2 570 THB) | zrušení plavby zdarma do 27. 11. |
-| Auto v Hua Hin (Sam Roi Yot) | od asi 800–900 THB na den, 4 dny asi 3 600 THB plus benzín odhadem 1 300 THB | Thai Rent A Car / Enterprise, kauce a spoluúčast se liší (sekce Předodletový checklist) |
+| Auto v Hua Hin (Sam Roi Yot) | 4 dny 2 996 THB (zaplaceno), připojištění PLDW 1 284 THB, benzín odhadem 1 300 THB | Thai Rent A Car, kauce 5 000 THB na kreditní kartě, součty výše zatím počítají s odhadem 3 600 THB za auto |
 | Forest Park v Pranburi (volitelně) | zdarma | cestou z Hua Hin 30. 11., když bude čas, jinak 3. 12., projížďka lodí za příplatek (cena neznámá) |
 | Mokřady Bueng Bua (Sam Roi Yot) | asi 400 THB na osobu (park plus lávka) | podle jednoho blogu, místní loď volitelně asi 600 THB za loď pro 4 lidi |
 | Jeskyně Phraya Nakhon (Sam Roi Yot) | vstup do parku 200 THB na osobu (platí jen ten den) | loď z Bang Pu asi 400 THB za loď je volitelná |

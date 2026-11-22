@@ -2,6 +2,17 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v106: Auto v Hua Hin zarezervované (22. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v106/) · [Markdown](verze/v106/thajsko-bangkok-phuket.md) · [rozdíl proti v105](https://github.com/polachp/dovolena-thajsko-2026/compare/9cf6e09...dfa1cec)
+
+- Fáze 2, blok Auto z Hua Hin: rezervace u Thai Rent A Car, pobočka Hua Hin Downtown (Aquna Resort, kancelář B301), vyzvednutí 30. 11. ve 12:30 a vrácení 4. 12. v 9:30, Toyota Yaris Ativ nebo podobné, 2 996 THB zaplaceno předem (nevratné), v ceně LDW se spoluúčastí 5 000 THB, na pobočce dokoupit PLDW za 321 THB na den s DPH (kryje i sklo a pneumatiky), kauce 5 000 THB na kreditní kartě řidiče, auto nepřistavují.
+- Fáze 2, program pondělí 30. 11.: z Clock Tower Grabem nebo taxi na pobočku, auto na 12:30.
+- Co se ještě dořeší a Předodletový checklist: auto už není nedořešené, z tabulky Co zařídit a kdy je pryč řádek Hned teď.
+- Záchytné body pro Google Maps a mapa fáze 2: název pobočky Hua Hin Downtown a oprava názvu resortu na Aquna Resort.
+- Orientační rozpočet: řádek Auto v Hua Hin podle skutečné ceny (2 996 THB a PLDW 1 284 THB), součty zatím nepřepočítané.
+- Počet fází, nocí i data jsou beze změny proti v105.
+
 ## v105: Časy lodí z Ranongu na Koh Phayam (21. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v105/) · [Markdown](verze/v105/thajsko-bangkok-phuket.md) · [rozdíl proti v104](https://github.com/polachp/dovolena-thajsko-2026/compare/1880615...9cf6e09)
