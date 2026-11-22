@@ -10687,5 +10687,111 @@
       }
     },
     "commit": "9cf6e09"
+  },
+  {
+    "id": "v106",
+    "datum": "22. 11. 2026",
+    "nazev": "Auto v Hua Hin zarezervované",
+    "md": "thajsko-bangkok-phuket.md",
+    "smer": [
+      "Bangkok",
+      "Phuket"
+    ],
+    "lede": "",
+    "zmeny": [
+      "Fáze 2, blok Auto z Hua Hin: rezervace u Thai Rent A Car, pobočka Hua Hin Downtown (Aquna Resort, kancelář B301), vyzvednutí 30. 11. ve 12:30 a vrácení 4. 12. v 9:30, Toyota Yaris Ativ nebo podobné, 2 996 THB zaplaceno předem (nevratné), v ceně LDW se spoluúčastí 5 000 THB, na pobočce dokoupit PLDW za 321 THB na den s DPH (kryje i sklo a pneumatiky), kauce 5 000 THB na kreditní kartě řidiče, auto nepřistavují.",
+      "Fáze 2, program pondělí 30. 11.: z Clock Tower Grabem nebo taxi na pobočku, auto na 12:30.",
+      "Co se ještě dořeší a Předodletový checklist: auto už není nedořešené, z tabulky Co zařídit a kdy je pryč řádek Hned teď.",
+      "Záchytné body pro Google Maps a mapa fáze 2: název pobočky Hua Hin Downtown a oprava názvu resortu na Aquna Resort.",
+      "Orientační rozpočet: řádek Auto v Hua Hin podle skutečné ceny (2 996 THB a PLDW 1 284 THB), součty zatím nepřepočítané.",
+      "Počet fází, nocí i data jsou beze změny proti v105."
+    ],
+    "hlavicka": {
+      "eyebrow": "Slow travel · jižní Thajsko · 26. 11.–19. 12. 2026",
+      "facts": [
+        [
+          "Fáze",
+          "7"
+        ],
+        [
+          "Nocí v Thajsku",
+          "22"
+        ],
+        [
+          "Termín",
+          "27. 11.–19. 12."
+        ],
+        [
+          "Bezvízový pobyt",
+          "23 z 30 dní"
+        ]
+      ],
+      "route": [
+        "27.–30. 11.",
+        "30. 11.–4. 12.",
+        "4.–8. 12.",
+        "8.–12. 12.",
+        "12.–14. 12.",
+        "14.–18. 12.",
+        "18.–19. 12."
+      ],
+      "mista": [
+        [
+          "Město",
+          "Bangkok"
+        ],
+        [
+          null,
+          "Sam Roi Yot"
+        ],
+        [
+          null,
+          "Ranong, Koh Phayam"
+        ],
+        [
+          "Prales",
+          "Khao Sok, Cheow Lan"
+        ],
+        [
+          "Andaman",
+          "Krabi"
+        ],
+        [
+          null,
+          "Koh Yao Noi"
+        ],
+        [
+          null,
+          "Phuket, Nai Yang"
+        ]
+      ],
+      "kam": {
+        "Co se ještě dořeší": "pred",
+        "Úvod do Thajska": "zajimavosti",
+        "Zvířata na trase": "zajimavosti",
+        "Záchytné body pro Google Maps": "misto",
+        "Doprava": "misto",
+        "Počasí, teploty a deště": "pred",
+        "Jídlo, pití a bezpečné stravování": "misto",
+        "Seznam povinného vybavení": "pred",
+        "Etiketa": "misto",
+        "Praktické travel hacky": "misto",
+        "Předodletový checklist": "pred",
+        "Šnorchlování a noční safari": "zajimavosti",
+        "Zdraví, bezpečnost a nouzová čísla": "pred",
+        "Orientační rozpočet": "pred",
+        "Mini-slovníček thajských frází": "misto",
+        "Etihad Airways": "pred",
+        "Do kdy zrušit ubytování zdarma": "terminy",
+        "Místa na trase: Bangkok": "zajimavosti",
+        "Místa na trase: Sam Roi Yot a Kui Buri": "zajimavosti",
+        "Místa na trase: Prachuap Khiri Khan": "zajimavosti",
+        "Místa na trase: Ranong a Koh Phayam": "zajimavosti",
+        "Místa na trase: Khao Sok": "zajimavosti",
+        "Místa na trase: Krabi": "zajimavosti",
+        "Místa na trase: Koh Yao Noi": "zajimavosti",
+        "Místa na trase: Phuket a Nai Yang": "zajimavosti"
+      }
+    }
   }
 ]
