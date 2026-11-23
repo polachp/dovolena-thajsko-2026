@@ -360,8 +360,6 @@ article details.more[open]>.tw{margin-left:0}
 body.podstranka header.top{padding-block:10px 6px}
 body.podstranka header.top h1{font-size:1.15rem;margin:0}
 body.podstranka header.top .eyebrow,body.podstranka header.top .lede,body.podstranka header.top .odpocet,body.podstranka header.top details.hdr{display:none}
-/* fakta (fáze, noci, termín, bezvízový pobyt) jsou od 24. 11. 2026 mimo rozbalovací blok Verze a vidět i na podstránkách, tam drobněji */
-body.podstranka header.top .facts{margin-top:4px;font-size:12px;gap:2px 14px}
 .eyebrow,.lbl-m{font-family:var(--mono);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
 h1{font-family:var(--display);font-weight:800;letter-spacing:-.02em}
 #main>div>h2,article h2{font-weight:800;letter-spacing:-.015em}
@@ -469,14 +467,14 @@ body.na-dnes header.top .odpocet{display:none}
     <span class="num" id="odpocetNum"></span>
     <span class="det" id="odpocetDet"></span>
   </div>
-  <div class="facts">
+  <details class="hdr">
+    <summary>Fakta a verze</summary>
+    <div class="facts">
     <div><span>Fáze </span><b>9</b></div>
     <div><span>Nocí v Thajsku </span><b>22</b></div>
     <div><span>Termín </span><b>27. 11.–19. 12.</b></div>
     <div><span>Bezvízový pobyt </span><b>23 z 30 dní</b></div>
-  </div>
-  <details class="hdr">
-    <summary>Verze</summary>
+    </div>
     <div class="verbar" id="verbar"></div>
   </details>
 </div></header>
