@@ -425,6 +425,31 @@ body.na-dnes header.top .odpocet{display:none}
 .offline-stav p{margin:0;font-size:14px;color:var(--muted);line-height:1.5}
 .offline-stav b{color:var(--ink)}
 @media (min-width:900px){body.na-dnes .layout{grid-template-columns:minmax(0,1fr)}body.na-dnes nav.rail{display:none}}
+/* kalkulačka tarifů Revolutu (od v112, záložka Revolut) */
+.rk{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.6fr);gap:16px 28px;margin:1em 0 1.4em;align-items:start}
+.rk>.tw{grid-column:1/-1;margin:0}
+.rk-ovl{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px}
+.rk-pole{margin-bottom:12px}
+.rk-pole label,.rk-kurz{display:block;font-weight:600;font-size:15px}
+.rk-pole output{display:block;font-family:var(--display);font-size:24px;font-weight:700;line-height:1.2;font-variant-numeric:tabular-nums;white-space:nowrap}
+.rk input[type=range]{width:100%;height:40px;margin:0;accent-color:var(--accent)}
+.rk-kurz input{display:block;margin-top:4px;font:inherit;font-size:16px;width:7em;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)}
+.rk-pozn{color:var(--muted);font-size:14px;margin:.6em 0 0}
+.rk-zaver{font-family:var(--display);font-size:20px;font-weight:700;line-height:1.25;margin:0 0 6px;text-wrap:balance}
+.rk-r{display:grid;grid-template-columns:6.5em minmax(0,1fr) auto;gap:2px 12px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line)}
+.rk-n{font-weight:700}
+.rk-n small{display:block;font-weight:400;color:var(--muted);font-size:13px}
+.rk-bar{height:22px;background:var(--rest);border-radius:4px;overflow:hidden}
+.rk-bar i{display:block;height:100%;background:var(--accent-mid);transition:width .3s ease}
+.rk-r.nej .rk-bar i{background:var(--accent)}
+.rk-r.nej .rk-n,.rk-r.nej .rk-kc{color:var(--accent)}
+.rk-kc{font-family:var(--display);font-size:22px;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
+.rk-roz{grid-column:2/4;color:var(--muted);font-size:13px}
+.rk-tab td,.rk-tab th{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.rk-tab td:first-child,.rk-tab th:first-child{text-align:left}
+.rk-tab td.nej{color:var(--accent);font-weight:700}
+@media(max-width:700px){.rk{grid-template-columns:minmax(0,1fr)}.rk-vys{order:-1}}
+@media(prefers-reduced-motion:reduce){.rk-bar i{transition:none}}
 </style>
 </head>
 <body>
@@ -503,10 +528,10 @@ body.na-dnes header.top .odpocet{display:none}
   tik(); el.hidden=false; setInterval(tik,10000);
 })();
 </script>
-<script src="../../verze.js?v=c98f879d"></script>
-<script src="../../varianty.js?v=c98f879d"></script>
+<script src="../../verze.js?v=b5468c83"></script>
+<script src="../../varianty.js?v=b5468c83"></script>
 <script src="../../vendor/marked.min.js"></script>
-<script src="thajsko-obsah.js?v=c98f879d"></script>
+<script src="thajsko-obsah.js?v=b5468c83"></script>
 <script>
 (function(){
   var main=document.getElementById('main');
@@ -521,6 +546,7 @@ body.na-dnes header.top .odpocet{display:none}
     {id:'terminy', nazev:'Ubytování: termíny', radky:['Ubytování','termíny'], popis:'Do kdy jde které ubytování zrušit zdarma.', primo:true, volitelna:true},
     {id:'zajimavosti', nazev:'Zajímavosti', popis:'Kultura a historie, zvířata na trase, šnorchlování a noční safari.', volitelna:true},
     {id:'misto', nazev:'Na místě',    radkyUzke:['Na','místě'], popis:'Doprava, jídlo, zvířata, etiketa a praktické tipy pro cestu.', popisSZajimavostmi:'Mapy, doprava, jídlo, etiketa, praktické tipy a slovníček.'},
+    {id:'revolut', nazev:'Revolut', popis:'Který tarif Revolutu se vyplatí na výběry z bankomatu a platby kartou v Thajsku.', primo:true, volitelna:true},
     {id:'varianty', nazev:'Varianty', popis:'Odložené části itineráře: co jsme vyřadili, ale může se hodit, když se plán změní.', volitelna:true},
     {id:'verze', nazev:'Verze',       popis:'Co se v jednotlivých verzích itineráře změnilo.', primo:true}
   ];
@@ -941,7 +967,7 @@ body.na-dnes header.top .odpocet{display:none}
     return seraz(out);
   }
   function cileZalozek(){
-    var jm={'Před cestou':'pred','Itinerář':'itin','Ubytování, termíny':'terminy','Ubytování: termíny':'terminy','Ubytování':'terminy','Zajímavosti':'zajimavosti','Na místě':'misto','Verze':'verze'};
+    var jm={'Před cestou':'pred','Itinerář':'itin','Ubytování, termíny':'terminy','Ubytování: termíny':'terminy','Ubytování':'terminy','Zajímavosti':'zajimavosti','Na místě':'misto','Revolut':'revolut','Verze':'verze'};
     var out=[]; Object.keys(jm).forEach(function(k){if(vSekci(jm[k]).length) out.push({jm:k,href:'#/'+jm[k]})});
     return seraz(out);
   }
@@ -1037,7 +1063,7 @@ body.na-dnes header.top .odpocet{display:none}
     {id:'trasa', nazev:'Trasa', sekce:['itin'], ikona:'<circle cx="6" cy="18" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M8.5 18H15a3 3 0 0 0 0-6H9a3 3 0 0 1 0-6h6.5"/>'},
     {id:'pruvodce', nazev:'Průvodce', sekce:['zajimavosti','misto'], popis:'Místa na trase, kultura a zvířata, doprava, jídlo, etiketa a slovníček.',
      ikona:'<path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/>'},
-    {id:'vice', nazev:'Více', sekce:['pred','terminy','varianty','verze'], popis:'Příprava před cestou, termíny zrušení ubytování, odložené varianty, verze itineráře a režim zobrazení.',
+    {id:'vice', nazev:'Více', sekce:['pred','terminy','revolut','varianty','verze'], popis:'Příprava před cestou, termíny zrušení ubytování, kalkulačka Revolutu, odložené varianty, verze itineráře a režim zobrazení.',
      ikona:'<path d="M4 6h16M4 12h16M4 18h10"/>'}
   ];
   function skupinaSekce(top){
@@ -1134,6 +1160,61 @@ body.na-dnes header.top .odpocet{display:none}
     vylepsi(art);
     terminy(art);
     razeni(art);
+    kalkulacka(art);
+  }
+  // ---- kalkulačka tarifů Revolutu (od v112): odstavec [kalkulačka] se nahradí ovládáním ----
+  // Počítá poplatky za jeden klouzavý měsíc: 2 % z výběrů nad limit zdarma, poplatek za směnu nad limit (Standard, Plus) a předplatné.
+  // Stránka se při návratu vykresluje ze stejných uzlů, takže se kalkulačka sestaví jen jednou. Hodnoty se ukládají v prohlížeči (klíč revolutKalk).
+  var RK_TARIFY=[
+    {n:'Standard',sub:0,free:4500,lim:25000,fu:.01},
+    {n:'Plus',sub:115,free:4500,lim:75000,fu:.005},
+    {n:'Premium',sub:245,free:9000,lim:Infinity,fu:0},
+    {n:'Metal',sub:395,free:20000,lim:Infinity,fu:0}];
+  function kalkulacka(art){
+    var p=[].filter.call(art.querySelectorAll('p'),function(x){return x.textContent.trim()==='[kalkulačka]'})[0];
+    if(!p) return;
+    var st={vyber:30000,karta:20000,eur:1700,kurz:24.5};
+    try{var u=JSON.parse(localStorage.getItem('revolutKalk')||'null'); if(u) Object.keys(st).forEach(function(k){if(typeof u[k]==='number'&&isFinite(u[k])) st[k]=u[k]})}catch(e){}
+    function fmt(v){return Math.round(v).toLocaleString('cs-CZ')}
+    function cena(t,vyber,karta,pred){
+      var atm=.02*Math.max(0,vyber-t.free), nad=Math.max(0,pred+vyber+karta-t.lim)-Math.max(0,pred-t.lim), fx=t.fu*nad;
+      return {atm:atm,fx:fx,sub:t.sub,tot:atm+fx+t.sub};
+    }
+    function nej(vyber,karta,pred){var b=0,bv=1e12;RK_TARIFY.forEach(function(t,i){var c=cena(t,vyber,karta,pred).tot;if(c<bv-.01){bv=c;b=i}});return b}
+    function pasma(karta,pred){
+      var out=[],cur=-1;
+      for(var x=0;x<=150000;x+=100){var b=nej(x,karta,pred);if(b!==cur){out.push({i:b,od:x});cur=b}}
+      if(out.length===1) return RK_TARIFY[out[0].i].n+' je nejlevnější při jakékoli výši výběrů.';
+      return 'Podle výše výběrů: '+out.map(function(s,k){return k<out.length-1?RK_TARIFY[s.i].n+' do '+fmt(out[k+1].od)+' Kč':'nad tím '+RK_TARIFY[s.i].n}).join(', ')+'.';
+    }
+    function pole(id,lbl,min,max,step,j){return '<div class="rk-pole"><label for="rk-'+id+'">'+lbl+'</label><output id="rk-'+id+'-v" for="rk-'+id+'"></output><input type="range" id="rk-'+id+'" min="'+min+'" max="'+max+'" step="'+step+'" data-j="'+j+'"></div>'}
+    var box=document.createElement('div'); box.className='rk';
+    box.innerHTML='<div class="rk-ovl">'+
+      pole('vyber','Vyberu z bankomatu celkem',0,150000,1000,'Kč')+
+      pole('karta','Zaplatím kartou v bahtech',0,150000,5000,'Kč')+
+      pole('eur','Už směněno v posledním měsíci',0,4000,50,'EUR')+
+      '<label class="rk-kurz" for="rk-kurz">Kurz Kč za 1 EUR<input type="number" id="rk-kurz" min="15" max="40" step="0.1" inputmode="decimal"></label>'+
+      '<p class="rk-pozn" id="rk-limity"></p></div>'+
+      '<div class="rk-vys" aria-live="polite"><p class="rk-zaver" id="rk-zaver"></p><div id="rk-radky"></div><p class="rk-pozn" id="rk-pasma"></p></div>'+
+      '<div class="tw"><table class="rk-tab" id="rk-tab"></table></div>';
+    p.parentNode.replaceChild(box,p);
+    function q(id){return box.querySelector('#rk-'+id)}
+    function vykresli(){
+      var pred=st.eur*st.kurz;
+      ['vyber','karta','eur'].forEach(function(id){var i=q(id); i.value=st[id]; q(id+'-v').textContent=fmt(st[id])+' '+i.dataset.j});
+      if(document.activeElement!==q('kurz')) q('kurz').value=st.kurz;
+      q('limity').textContent=st.eur?'Asi '+fmt(pred)+' Kč. '+(pred>=25000?'Limit na směnu u Standardu je vyčerpaný.':'Z limitu Standardu zbývá '+fmt(25000-pred)+' Kč.')+(pred>=75000?' Limit u Plus je vyčerpaný.':' U Plus zbývá '+fmt(75000-pred)+' Kč.'):'Žádná směna v posledním měsíci.';
+      var cs=RK_TARIFY.map(function(t){return cena(t,st.vyber,st.karta,pred)}), mx=Math.max.apply(null,cs.map(function(c){return c.tot}).concat([1])), b=nej(st.vyber,st.karta,pred);
+      q('zaver').textContent='Nejlevnější je '+RK_TARIFY[b].n+' ('+fmt(cs[b].tot)+' Kč), nejdražší vyjde o '+fmt(mx-cs[b].tot)+' Kč víc.';
+      q('radky').innerHTML=RK_TARIFY.map(function(t,i){var c=cs[i];return '<div class="rk-r'+(i===b?' nej':'')+'"><span class="rk-n">'+t.n+'<small>'+(t.sub?t.sub+' Kč měsíčně':'zdarma')+'</small></span><span class="rk-bar"><i style="width:'+(c.tot/mx*100).toFixed(1)+'%"></i></span><b class="rk-kc">'+fmt(c.tot)+' Kč</b><span class="rk-roz">výběry '+fmt(c.atm)+' + směna '+fmt(c.fx)+' + předplatné '+fmt(c.sub)+'</span></div>'}).join('');
+      q('pasma').textContent=pasma(st.karta,pred);
+      var xs=[10000,20000,30000,40000,50000,60000,80000,100000];
+      q('tab').innerHTML='<thead><tr><th>Výběr</th>'+RK_TARIFY.map(function(t){return '<th>'+t.n+'</th>'}).join('')+'</tr></thead><tbody>'+xs.map(function(x){var bb=nej(x,st.karta,pred);return '<tr><td>'+fmt(x)+' Kč</td>'+RK_TARIFY.map(function(t,i){return '<td'+(i===bb?' class="nej"':'')+'>'+fmt(cena(t,x,st.karta,pred).tot)+'</td>'}).join('')+'</tr>'}).join('')+'</tbody>';
+      try{localStorage.setItem('revolutKalk',JSON.stringify(st))}catch(e){}
+    }
+    ['vyber','karta','eur'].forEach(function(id){q(id).addEventListener('input',function(e){st[id]=+e.target.value;vykresli()})});
+    q('kurz').addEventListener('input',function(e){var v=parseFloat(String(e.target.value).replace(',','.'));if(v>=15&&v<=40){st.kurz=v;vykresli()}});
+    vykresli();
   }
   // ---- „(volitelně)“ kdekoli v textu a v nadpisech bloků jako šafránový popisek, stejně jako v seznamu co uvidíte (od 12. 11. 2026) ----
   // Dvojtečka hned za závorkou (- **Vodopád (volitelně):** text) zůstane za popiskem.

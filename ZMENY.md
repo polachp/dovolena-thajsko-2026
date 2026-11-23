@@ -2,6 +2,14 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v112: Kalkulačka tarifů Revolutu (23. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v112/) · [Markdown](verze/v112/thajsko-bangkok-phuket.md) · [rozdíl proti v111](https://github.com/polachp/dovolena-thajsko-2026/compare/4614962...edbb031)
+
+- Nová sekce Revolut: který tarif na výběry v Thajsku, na webu jako záložka Revolut ve skupině Více, s kalkulačkou poplatků za výběry z bankomatu a platby kartou v bahtech (Standard, Plus, Premium, Metal).
+- Praktické travel hacky, bod Bankomaty a poplatky: odkaz na kalkulačku v záložce Revolut.
+- Počet fází, nocí i data jsou beze změny proti v111.
+
 ## v111: eSIM hotová (22. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v111/) · [Markdown](verze/v111/thajsko-bangkok-phuket.md) · [rozdíl proti v110](https://github.com/polachp/dovolena-thajsko-2026/compare/993c682...4614962)

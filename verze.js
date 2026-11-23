@@ -1397,5 +1397,17 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "4614962",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v112",
+    "datum": "23. 11. 2026",
+    "nazev": "Kalkulačka tarifů Revolutu",
+    "zmeny": [
+      "Nová sekce Revolut: který tarif na výběry v Thajsku, na webu jako záložka Revolut ve skupině Více, s kalkulačkou poplatků za výběry z bankomatu a platby kartou v bahtech (Standard, Plus, Premium, Metal).",
+      "Praktické travel hacky, bod Bankomaty a poplatky: odkaz na kalkulačku v záložce Revolut.",
+      "Počet fází, nocí i data jsou beze změny proti v111."
+    ],
+    "commit": "edbb031",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

@@ -187,7 +187,7 @@ def zkontroluj_mapy_fazi(v: dict, md: str) -> None:
                 raise SystemExit(f"{v['id']}: mapa fáze {m.group(1)} nesedí: " + "; ".join(chyby))
 
 
-TABY = ["Před cestou", "Itinerář", "Ubytování, termíny", "Ubytování: termíny", "Ubytování", "Zajímavosti", "Na místě", "Verze"]  # musí sedět na SEKCE v src/sablona.html
+TABY = ["Před cestou", "Itinerář", "Ubytování, termíny", "Ubytování: termíny", "Ubytování", "Zajímavosti", "Na místě", "Revolut", "Verze"]  # musí sedět na SEKCE v src/sablona.html
 
 
 def _bez_zavorky(t: str) -> str:

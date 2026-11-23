@@ -938,7 +938,7 @@ Jen pár věcí, většinu dalších koupíte v thajské lékárně. Názvy jsou
 
 ## Praktické travel hacky
 
-- **Bankomaty a poplatky:** Thajské bankomaty účtují fixní poplatek za každý výběr, obvykle 220–250 THB (zhruba 145–165 Kč), některé až 350 THB. Výši poplatku ukáže displej ještě před potvrzením, takže ji zkontrolujte. Vybírejte vždy co nejvíc najednou, limit bývá 20 000–30 000 THB na jeden výběr. Podle jednoho zdroje má nejnižší poplatek síť AEON (asi 150 THB). Zeptejte se také své banky, jestli si za výběr v zahraničí něco neúčtuje. Orientační kurz je 1 THB = 0,65 Kč.
+- **Bankomaty a poplatky:** Thajské bankomaty účtují fixní poplatek za každý výběr, obvykle 220–250 THB (zhruba 145–165 Kč), některé až 350 THB. Výši poplatku ukáže displej ještě před potvrzením, takže ji zkontrolujte. Vybírejte vždy co nejvíc najednou, limit bývá 20 000–30 000 THB na jeden výběr. Podle jednoho zdroje má nejnižší poplatek síť AEON (asi 150 THB). Zeptejte se také své banky, jestli si za výběr v zahraničí něco neúčtuje. Orientační kurz je 1 THB = 0,65 Kč. Který tarif Revolutu se na výběry a platby vyplatí, spočítá kalkulačka v záložce Revolut.
 - **Zvolte „Local Currency“ (odmítněte DCC):** Když se na terminálu nebo v bankomatu objeví nabídka přepočtu na koruny, vždy zvolte účtování v thajských bahtech. Vyhnete se nevýhodnému kurzu provozovatele terminálu.
 - **7-Eleven je záchrana:** Obchody 7-Eleven jsou doslova na každém rohu. Koupíte v nich levnou balenou vodu, sendviče, repelent a náplasti a v klimatizaci si odpočinete od horka. Lékárnu ale nenahradí.
 - **Zásuvky:** V Thajsku je 230 V jako u nás. Většina zásuvek přijme naši dvoukolíkovou eurovidlici, uzemněné vidlice ale mohou potřebovat redukci, proto si vezměte lehkou univerzální.
@@ -1230,6 +1230,35 @@ Etihad výraz partial refund na svých stránkách nepoužívá. U tarifu Comfor
 - **Od 24. 11.:** Vyplňte TDAC (sekce Předodletový checklist).
 - **Zhruba 25. 11. (30 hodin před odletem):** Online odbavení a palubní vstupenky do telefonu.
 - **Doma:** Zvažte zavazadla (30 kg na osobu, jeden kus nejvýš 32 kg), příruční zavazadlo do 7 kg a powerbanky dejte do příručního zavazadla.
+
+## Revolut: který tarif na výběry v Thajsku
+
+Kolik zaplatíte Revolutu podle toho, kolik vyberete z bankomatu a kolik zaplatíte kartou v bahtech. Počítá se jeden klouzavý měsíc, celá cesta (26. 11.–19. 12.) se do něj vejde. Posuvníky začínají na našem odhadu: výběry 30 000 Kč, kartou 20 000 Kč a 1 700 EUR už směněných před cestou. Hodnoty si web pamatuje jen v tomto prohlížeči.
+
+[kalkulačka]
+
+Shrnutí pro náš odhad: Metal vyjde nejlevněji (asi 595 Kč), Premium asi 665 Kč, Plus asi 708 Kč a Standard asi 1 010 Kč. Premium bez pojištění nevychází nejlépe při žádné částce, Plus jen v úzkém pásmu malých výběrů. Když utratíme méně, než čekáme, prodělá Metal proti Standardu nejvýš cenu předplatného.
+
+#### Jak se počítá
+
+- **Výběry zdarma za klouzavý měsíc:** Standard a Plus 4 500 Kč, Premium 9 000 Kč, Metal 20 000 Kč. Nad limit 2 % z výběru, nejméně 30 Kč za výběr (při velkých výběrech se minimum neuplatní).
+- **Limit na směnu:** výběr v bahtech i platba kartou v bahtech je směna. Standard 25 000 Kč za měsíc, nad ním 1 %. Plus 75 000 Kč, nad ním 0,5 %. Premium a Metal limit nemají. Směna, kterou jste udělali v posledním měsíci (například koruny na eura), se do limitu počítá taky.
+- **Předplatné na jeden měsíc:** Plus 115 Kč, Premium 245 Kč, Metal 395 Kč (zaokrouhleno, ceník k 23. 11. 2026).
+- **Thajský poplatek bankomatu:** 220 až 250 THB za výběr v kalkulačce není, platí se u všech tarifů stejně (sekce Praktické travel hacky). Vybírejte proto co nejvíc najednou.
+
+#### Neověřené
+
+- **Limit u Metalu:** 20 000 Kč je z přehledu poplatků Revolutu, podmínky placených plánů ale píšou o čtyřnásobku limitu Standardu, to by bylo 18 000 Kč. S 18 000 Kč by bez předchozí směny vycházel o pár desítek korun lépe Plus, s naší směnou 1 700 EUR pořád Metal. Přesný limit ukáže aplikace při výběru tarifu.
+- **Už provedená směna po změně tarifu:** předpoklad je, že se do limitu dál počítá.
+- **Víkendová přirážka ke kurzu** v kalkulačce není.
+- **Zrušení předplatného před koncem měsíce:** podmínky zkontrolovat v aplikaci před přechodem.
+- **Zdroje:** [Porovnání plánů Revolut](https://revolut.com/cs-CZ/our-pricing-plans), [Přehled poplatků (PDF)](https://cdn.revolut.com/terms_and_conditions/pdf/p_ehled_poplatk_7616acd6_1.5.2_1778170819_cs.pdf), [Poplatky plánu Premium](https://www.revolut.com/en-CZ/legal/premium-fees/).
+
+#### Jak na to
+
+- **Kdy přejít:** těsně před cestou, nejpozději před prvním výběrem. Celá cesta se vejde do prvního měsíce předplatného.
+- **Platba:** zvolit měsíční, ne roční, a po návratu tarif zrušit.
+- **Karta:** kovovou kartu neobjednávat. Při zrušení do 14 dnů od objednání karty se může doplácet doručení, výhody tarifu platí i pro stávající kartu.
 
 ## Do kdy zrušit ubytování zdarma
 
