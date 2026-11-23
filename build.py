@@ -16,6 +16,8 @@ VERZE = json.loads((ROOT / "src/verze.json").read_text(encoding="utf-8"))
 
 # Odlet z Prahy pro odpocet v hlavicce (ISO 8601 vcetne posunu, CET = +01:00).
 ODLET = "2026-11-26T00:00:00+01:00"
+# Odlet domů (let EY 413 z Phuketu, thajský čas UTC+7). Po odletu z Prahy běží odpočet v hlavičce k tomuto okamžiku.
+NAVRAT = "2026-12-19T21:00:00+07:00"
 
 MD_VYCHOZI = "thajsko-phuket-bangkok.md"
 SMER_VYCHOZI = ["Phuket", "Bangkok"]
@@ -70,7 +72,7 @@ def stranka(v: dict, base: str) -> str:
     return (sablona.replace("{{TITLE}}", f"Thajsko {a}–{z}").replace("{{H1}}", f'{a} <span class="arrow">→</span> {z}')
             .replace("{{LEDE}}", lede).replace("{{MD}}", md_soubor(v))
             .replace("{{EYEBROW}}", h["eyebrow"] + f' · verze {v["id"]} ({v["datum"]})').replace("{{FACTS}}", facts)
-            .replace("{{ROUTE}}", "\n".join(route)).replace("{{CFG}}", cfg).replace("{{BASE}}", base).replace("{{ODLET}}", ODLET).replace("{{BUST}}", bust(v)))
+            .replace("{{ROUTE}}", "\n".join(route)).replace("{{CFG}}", cfg).replace("{{BASE}}", base).replace("{{ODLET}}", ODLET).replace("{{NAVRAT}}", NAVRAT).replace("{{BUST}}", bust(v)))
 
 
 def bust(v):

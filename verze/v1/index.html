@@ -521,21 +521,28 @@ body.na-dnes header.top .odpocet{display:none}
 })();
 </script>
 <script>
-// Odpocet do odletu. Datum se nastavuje v build.py (konstanta ODLET).
+// Odpocet v hlavicce. Data se nastavuji v build.py: ODLET (odlet z Prahy) a NAVRAT (odlet domu z Phuketu).
+// Pred odletem odpocitava do ODLET, behem cesty do NAVRAT, po odletu domu se schova.
 (function(){
-  var odlet=new Date('2026-11-26T00:00:00+01:00'), el=document.getElementById('odpocet');
+  var odlet=new Date('2026-11-26T00:00:00+01:00'), navrat=new Date('2026-12-19T21:00:00+07:00'), el=document.getElementById('odpocet');
   if(!el||isNaN(odlet)) return;
   var num=document.getElementById('odpocetNum'), det=document.getElementById('odpocetDet');
-  var datum=odlet.toLocaleDateString('cs-CZ',{day:'numeric',month:'numeric',year:'numeric'});
+  function datum(d){return d.toLocaleDateString('cs-CZ',{day:'numeric',month:'numeric',year:'numeric'})}
   function sklon(n){return n===1?'den':(n>=2&&n<=4?'dny':'dní')}
+  var timer;
   function tik(){
-    var zbyva=odlet-new Date();
-    if(zbyva<=0){num.textContent='Letíme!';det.textContent='odlet '+datum;return}
+    var ted=new Date(), cil=odlet, popis='do odletu';
+    if(ted>=odlet){
+      if(isNaN(navrat)||ted>=navrat){el.hidden=true;clearInterval(timer);return}
+      cil=navrat; popis='do odletu z dovolené (Phuket, 21:00 thajského času)';
+    }
+    var zbyva=cil-ted;
     var dny=Math.floor(zbyva/864e5), hod=Math.floor(zbyva/36e5)%24, min=Math.floor(zbyva/6e4)%60;
     num.textContent=dny+' '+sklon(dny);
-    det.textContent='a '+hod+' h '+min+' min do odletu · '+datum;
+    det.textContent='a '+hod+' h '+min+' min '+popis+' · '+datum(cil);
+    el.hidden=false;
   }
-  tik(); el.hidden=false; setInterval(tik,10000);
+  tik(); timer=setInterval(tik,10000);
 })();
 </script>
 <script src="../../verze.js?v=c5cedb1c"></script>
