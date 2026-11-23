@@ -441,8 +441,13 @@ body.na-dnes header.top .odpocet{display:none}
 .rk-n small{display:block;font-weight:400;color:var(--muted);font-size:13px}
 .rk-bar{height:22px;background:var(--rest);border-radius:4px;overflow:hidden}
 .rk-bar i{display:block;height:100%;background:var(--accent-mid);transition:width .3s ease}
+.rk-r{padding:10px 12px}
+.rk-r.nej{border-radius:10px;background:var(--accent-soft);box-shadow:inset 4px 0 0 var(--accent);border-bottom-color:transparent}
 .rk-r.nej .rk-bar i{background:var(--accent)}
 .rk-r.nej .rk-n,.rk-r.nej .rk-kc{color:var(--accent)}
+.rk-r.nej .rk-kc{font-size:28px;font-weight:700}
+.rk-r:not(.nej) .rk-kc{color:var(--muted)}
+.rk-odz{display:inline-block;margin-top:4px;padding:3px 8px;border-radius:999px;background:var(--accent);color:var(--surface);font-size:11px;font-weight:700;font-style:normal;letter-spacing:.04em;text-transform:uppercase}
 .rk-kc{font-family:var(--display);font-size:22px;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
 .rk-roz{grid-column:2/4;color:var(--muted);font-size:13px}
 .rk-tab td,.rk-tab th{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
@@ -1208,7 +1213,7 @@ body.na-dnes header.top .odpocet{display:none}
       q('limity').textContent=st.eur?'Asi '+fmt(pred)+' Kč. '+(pred>=25000?'Limit na směnu u Standardu je vyčerpaný.':'Z limitu Standardu zbývá '+fmt(25000-pred)+' Kč.')+(pred>=75000?' Limit u Plus je vyčerpaný.':' U Plus zbývá '+fmt(75000-pred)+' Kč.'):'Žádná směna v posledním měsíci.';
       var cs=RK_TARIFY.map(function(t){return cena(t,st.vyber,st.karta,pred)}), mx=Math.max.apply(null,cs.map(function(c){return c.tot}).concat([1])), b=nej(st.vyber,st.karta,pred);
       q('zaver').textContent='Nejlevnější je '+RK_TARIFY[b].n+' ('+fmt(cs[b].tot)+' Kč), nejdražší vyjde o '+fmt(mx-cs[b].tot)+' Kč víc.';
-      q('radky').innerHTML=RK_TARIFY.map(function(t,i){var c=cs[i];return '<div class="rk-r'+(i===b?' nej':'')+'"><span class="rk-n">'+t.n+'<small>'+(t.sub?t.sub+' Kč měsíčně':'zdarma')+'</small></span><span class="rk-bar"><i style="width:'+(c.tot/mx*100).toFixed(1)+'%"></i></span><b class="rk-kc">'+fmt(c.tot)+' Kč</b><span class="rk-roz">výběry '+fmt(c.atm)+' + směna '+fmt(c.fx)+' + předplatné '+fmt(c.sub)+'</span></div>'}).join('');
+      q('radky').innerHTML=RK_TARIFY.map(function(t,i){var c=cs[i];return '<div class="rk-r'+(i===b?' nej':'')+'"><span class="rk-n">'+t.n+'<small>'+(t.sub?t.sub+' Kč měsíčně':'zdarma')+'</small>'+(i===b?'<em class="rk-odz">nejlevnější</em>':'')+'</span><span class="rk-bar"><i style="width:'+(c.tot/mx*100).toFixed(1)+'%"></i></span><b class="rk-kc">'+fmt(c.tot)+' Kč</b><span class="rk-roz">výběry '+fmt(c.atm)+' + směna '+fmt(c.fx)+' + předplatné '+fmt(c.sub)+'</span></div>'}).join('');
       q('pasma').textContent=pasma(st.karta,pred);
       var xs=[10000,20000,30000,40000,50000,60000,80000,100000];
       q('tab').innerHTML='<thead><tr><th>Výběr</th>'+RK_TARIFY.map(function(t){return '<th>'+t.n+'</th>'}).join('')+'</tr></thead><tbody>'+xs.map(function(x){var bb=nej(x,st.karta,pred);return '<tr><td>'+fmt(x)+' Kč</td>'+RK_TARIFY.map(function(t,i){return '<td'+(i===bb?' class="nej"':'')+'>'+fmt(cena(t,x,st.karta,pred).tot)+'</td>'}).join('')+'</tr>'}).join('')+'</tbody>';
