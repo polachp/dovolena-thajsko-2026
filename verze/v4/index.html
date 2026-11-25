@@ -1479,6 +1479,7 @@ body.na-dnes header.top .odpocet{display:none}
   function lhuty(){
     var out=[];
     STRANKY.forEach(function(s){
+      if(s.top==='varianty') return; // vyřazené varianty (např. zrušené ubytování) do termínů nepatří
       s.uzly.forEach(function(n){
         if(n.nodeType!==1) return;
         var tbl=n.tagName==='TABLE'?[n]:Array.prototype.slice.call(n.querySelectorAll('table'));
