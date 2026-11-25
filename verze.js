@@ -1409,5 +1409,19 @@ window.THAJSKO_VERZE = [
     ],
     "commit": "edbb031",
     "md": "thajsko-bangkok-phuket.md"
+  },
+  {
+    "id": "v113",
+    "datum": "25. 11. 2026",
+    "nazev": "Předodletový checklist hotový, jednodušší kalkulačka Revolutu",
+    "zmeny": [
+      "Předodletový checklist: odškrtnuté TDAC, cestovní pojištění, finanční záloha, doklady a ubytování, přibyl hotový bod Online odbavení u Etihadu (let z Prahy). Všechny body jsou hotové.",
+      "Předodletový checklist, tabulka Co zařídit a kdy: pryč řádky s pojištěním a TDAC, odbavení se týká už jen zpátečního letu z Phuketu (asi 18. 12. odpoledne).",
+      "Co se ještě dořeší: cestovní pojištění je sjednané a odškrtnuté.",
+      "Revolut: kalkulačka má jen dvě pole, výběr z bankomatu a převod na bahty (směna v aplikaci nebo platba kartou). Pole s eury už směněnými v posledním měsíci a kurz jsou pryč, shrnutí a pásma tarifů jsou přepočtené bez předchozí směny.",
+      "Počet fází, nocí i data jsou beze změny proti v112."
+    ],
+    "commit": "507cb42",
+    "md": "thajsko-bangkok-phuket.md"
   }
 ];

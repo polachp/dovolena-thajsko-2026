@@ -10,7 +10,6 @@ Co se mezi verzemi změnilo, najdete v záložce Verze. Termíny, do kdy jde uby
 
 Nejdřív úkoly před odletem, pak body podle fází. Hotové body jsou odškrtnuté a seřazené dole.
 
-- [ ] **Cestovní pojištění:** není sjednané, sjednejte ho nejpozději den před odletem. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky v Khao Sok a skútry (sekce Předodletový checklist).
 - [ ] **Překrývající se rezervace v Khao Sok (fáze 4):** noci 8.–11. 12. jsou zarezervované dvakrát, v Bingo Hostel Khao Sok (2 lůžka v hostelu, aspoň jedno ve společném pokoji pro 8 lidí) a v Little wild house Khaosok (soukromý pokoj se sdílenou koupelnou). Jedno je potřeba zrušit. Termíny zrušení zdarma: Little wild house do 4. 12. 23:59 thajského času (v Česku v 17:59), Bingo do 6. 12. 23:59 thajského času (v Česku v 17:59). Rozhodnout tedy nejpozději 4. 12.
 - [ ] **Sloní útočiště v Khao Sok (fáze 4, volitelně):** Khao Sok Elephant Sanctuary ve vesnici Khlong Sok. Zdroje si odporují v tom, jestli program zahrnuje koupání a dotyky, cena není známá. Před rezervací se zeptat přímo (koupání a dotyky, velikost skupiny, cena, volný termín 9.–10. 12.).
 - [ ] **Krabi (fáze 5):** jak se 13. 12. dostat na Dragon Crest (skútr z Ao Nang, nebo taxi), se domluví s hostitelem Vacation House.
@@ -20,6 +19,7 @@ Nejdřív úkoly před odletem, pak body podle fází. Hotové body jsou odškrt
 - [ ] **Fáze 7 (Nai Yang):** program je nabídka možností (jen trh je povinný bod), nic z něj není rezervované. Nedořešené: sloní lávka Observe v Sakhu (cena, délka, časy a storno jsou neznámé, rezervace přes web provozovatele), hodiny trhu Nai Yang Fresh Market (Google Maps uvádí denně 16:00–19:00, jiné zdroje jen vybrané dny), vzdálenost Wattana Bungalow od pláže a od trhu po cestě (vzdušnou čarou podle bodů na mapě asi 750 m a asi 1 km) a jestli hostitel po odhlášení do 12:00 uschová zavazadla (odlet je ve 21:00). Wattana Bungalow jde zrušit zdarma do 16. 12. 23:59 thajského času (v Česku v 17:59), tedy ve stejné době, kdy se podle předpovědi moře kupuje lístek na loď.
 - [ ] **Ubytování:** Všechny noci jsou rezervované, noc 11.–12. 12. je na jezeře Cheow Lan se Smiley (fáze 4). Do kdy jde které ubytování zrušit zdarma, je seřazené v tabulce v záložce Ubytování, termíny.
 - [ ] **Rozpočet:** sekce Orientační rozpočet zatím nepřepočítává změny trasy od verze 21 a obsahuje položky, které už v plánu nejsou. Berte ho jako horní odhad.
+- [x] **Cestovní pojištění:** sjednané (sekce Předodletový checklist).
 - [x] **Vlak a auto na začátku trasy (fáze 1 a 2):** do Hua Hin 30. 11. je koupená dodávka Vivatrip (fáze 1). Jízdenky na vlak 4. 12. (Hua Hin → Chumphon) jsou koupené (fáze 2), před odletem je vytiskněte. Auto v Hua Hin na 30. 11. až 4. 12. je zarezervované a zaplacené (fáze 2), připojištění PLDW se kupuje až na pobočce.
 - [x] **Vstupní pravidla** se v září 2026 změnila, před odletem projděte sekci Předodletový checklist.
 
@@ -948,13 +948,14 @@ Jen pár věcí, většinu dalších koupíte v thajské lékárně. Názvy jsou
 
 ## Předodletový checklist
 
-Hotové body jsou odškrtnuté a seřazené dole.
+Všechny body jsou hotové. Zbývá jen to, co je v tabulce níže.
 
-- [ ] **Digitální příjezdová karta (TDAC):** Je povinná pro všechny cizince. Vyplňte ji online nejdříve 3 dny před příletem (včetně dne příletu) na oficiálním webu https://tdac.immigration.go.th. Formulář je zdarma, používejte jen tuto stránku a nikomu za něj neplaťte.
-- [ ] **Ubytování:** Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
-- [ ] **Cestovní pojištění:** Musí výslovně pokrývat aktivní dovolenou, turistiku v přírodě a vodní aktivity (kajaking, šnorchlování), léčebné výlohy i převoz domů. Uložte si číslo asistenční služby. Pojištění musí pokrýt celou cestu 26. 11.–19. 12. Sjednejte ho nejpozději den před odletem. Storno (zrušení cesty) už sjednat nejde, pojišťovny ho dávají jen krátce po zaplacení cesty a letenky i ubytování jsou zaplacené. Před koupí zkontrolujte v pojistných podmínkách, jestli kryje čtyřkolky (fáze 4) a skútry (fáze 3, 5 a 6). Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění a pro skútr se bere oprávnění na motocykl, ne skupina B (v konkrétních podmínkách neověřeno).
-- [ ] **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce Praktické travel hacky). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
-- [ ] **Doklady:** Kopie pasu, pojistky a rezervací uložte offline v telefonu a jednu sadu mějte i na papíře.
+- [x] **Digitální příjezdová karta (TDAC):** Vyplněná. Je povinná pro všechny cizince, vyplňuje se jen na oficiálním webu https://tdac.immigration.go.th a je zdarma.
+- [x] **Cestovní pojištění:** Sjednané na celou cestu 26. 11.–19. 12. Číslo asistenční služby mějte uložené v telefonu. Pojišťovny podle rad cestovatelů běžně vylučují nehody při řízení bez příslušného oprávnění, pro skútr (fáze 3, 5 a 6) se bere oprávnění na motocykl, ne skupina B. Co přesně kryje vaše pojistka u čtyřkolek (fáze 4) a skútrů, je v jejích podmínkách.
+- [x] **Finanční záloha:** Platební karty s nastavenými limity pro zahraniční platby, drobná hotovost v USD nebo EUR jako rezerva a po příletu thajské bahty z bankomatu (sekce Praktické travel hacky). Na jezeře Cheow Lan se platí jen hotově. Každý z vás potřebuje vlastní bezkontaktní kartu Visa nebo Mastercard, platí se jí v bangkokském metru (fáze 1).
+- [x] **Doklady:** Kopie pasu, pojistky a rezervací uložte offline v telefonu a jednu sadu mějte i na papíře.
+- [x] **Ubytování:** Všechny noci jsou zarezervované. Do kdy jde které ubytování zrušit zdarma, je v tabulce v záložce Ubytování, termíny. Dvě noci jsou zarezervované dvakrát (v Khao Sok a na Koh Yao Noi), co s tím, je v sekci Co se ještě dořeší.
+- [x] **Online odbavení u Etihadu:** Hotové na let z Prahy 26. 11. Na zpáteční let z Phuketu se odbavuje zvlášť, 30 hodin před odletem, tedy asi 18. 12. odpoledne (fáze 7).
 - [x] **Mobilní data (eSIM):** Data koupená a nainstalovaná před odletem přes Airalo nebo Nomad, případně turistická SIM na letišti.
 - [x] **Cestovní pas:** Musí být platný aspoň 6 měsíců od plánovaného data vstupu do Thajska. Digitální kopii si uložte do telefonu.
 - [x] **Řidičský průkaz a auto:** Na auto v Hua Hin (fáze 2) potřebujete platný řidičský průkaz skupiny B a mezinárodní řidičský průkaz (IDP). Půjčovny ho běžně vyžadují a bez něj nemusí platit pojištění. Řidič musí být starší než 21 let (u některých firem 23). Mezinárodní řidičský průkaz je vyřízený (16. 11. 2026). Vezměte ho s sebou spolu s českým řidičským průkazem, auto v Hua Hin přebíráte 30. 11.
@@ -966,10 +967,8 @@ Hotové body jsou odškrtnuté a seřazené dole.
 | Kdy | Co |
 |---|---|
 | Před odletem | Vytisknout obě jízdenky na vlak 4. 12. (Hua Hin → Chumphon) |
-| Nejpozději den před odletem (25. 11.) | Cestovní pojištění na celou cestu (storno už sjednat nejde), před koupí zkontrolovat čtyřkolky a skútry |
 | Týden až den předem | telefonát do parku Kui Buri přes ubytování, přesun z Ranongu do Khao Sok 8. 12. (objednat v přístavu 1 až 2 dny předem), lodě na Koh Yao Noi aspoň den až 2 dny předem a jízdní řád lodí z Ranongu na Koh Phayam |
-| 30 hodin před odletem | Online odbavení u Etihadu a palubní vstupenky do telefonu (sekce Etihad Airways) |
-| Nejdříve 3 dny před příletem (při příletu 27. 11. tedy od 24. 11.) | TDAC na https://tdac.immigration.go.th |
+| Asi 18. 12. odpoledne (30 hodin před odletem z Phuketu) | Online odbavení na zpáteční let a palubní vstupenky do telefonu (sekce Etihad Airways) |
 
 ## Šnorchlování a noční safari: pro úplné začátečníky
 
@@ -1233,23 +1232,22 @@ Etihad výraz partial refund na svých stránkách nepoužívá. U tarifu Comfor
 
 ## Revolut: který tarif na výběry v Thajsku
 
-Kolik zaplatíte Revolutu podle toho, kolik vyberete z bankomatu a kolik zaplatíte kartou v bahtech. Počítá se jeden klouzavý měsíc, celá cesta (26. 11.–19. 12.) se do něj vejde. Posuvníky začínají na našem odhadu: výběry 30 000 Kč, kartou 20 000 Kč a 1 700 EUR už směněných před cestou. Hodnoty si web pamatuje jen v tomto prohlížeči.
+Kolik zaplatíte Revolutu podle toho, kolik vyberete z bankomatu a kolik převedete na bahty (směna korun na bahty v aplikaci nebo platba kartou v bahtech, obojí se počítá stejně). Počítá se jeden klouzavý měsíc, celá cesta (26. 11.–19. 12.) se do něj vejde. Posuvníky začínají na našem odhadu: výběry 30 000 Kč a převod 20 000 Kč. Hodnoty si web pamatuje jen v tomto prohlížeči.
 
 [kalkulačka]
 
-Shrnutí pro náš odhad: Metal vyjde nejlevněji (asi 595 Kč), Premium asi 665 Kč, Plus asi 708 Kč a Standard asi 1 010 Kč. Premium bez pojištění nevychází nejlépe při žádné částce, Plus jen v úzkém pásmu malých výběrů. Když utratíme méně, než čekáme, prodělá Metal proti Standardu nejvýš cenu předplatného.
+Shrnutí pro náš odhad: Metal vyjde nejlevněji (asi 595 Kč), Plus asi 625 Kč, Premium asi 665 Kč a Standard asi 760 Kč. Při převodu 20 000 Kč vychází do výběrů asi 16 600 Kč nejlevněji Standard, do 18 600 Kč Plus a nad tím Metal. Premium nevychází nejlépe při žádné částce. Když utratíme méně, než čekáme, prodělá Metal proti Standardu nejvýš cenu předplatného.
 
 #### Jak se počítá
 
 - **Výběry zdarma za klouzavý měsíc:** Standard a Plus 4 500 Kč, Premium 9 000 Kč, Metal 20 000 Kč. Nad limit 2 % z výběru, nejméně 30 Kč za výběr (při velkých výběrech se minimum neuplatní).
-- **Limit na směnu:** výběr v bahtech i platba kartou v bahtech je směna. Standard 25 000 Kč za měsíc, nad ním 1 %. Plus 75 000 Kč, nad ním 0,5 %. Premium a Metal limit nemají. Směna, kterou jste udělali v posledním měsíci (například koruny na eura), se do limitu počítá taky.
+- **Limit na směnu:** výběr v bahtech, převod korun na bahty v aplikaci i platba kartou v bahtech je směna. Standard 25 000 Kč za měsíc, nad ním 1 %. Plus 75 000 Kč, nad ním 0,5 %. Premium a Metal limit nemají.
 - **Předplatné na jeden měsíc:** Plus 115 Kč, Premium 245 Kč, Metal 395 Kč (zaokrouhleno, ceník k 23. 11. 2026).
 - **Thajský poplatek bankomatu:** 220 až 250 THB za výběr v kalkulačce není, platí se u všech tarifů stejně (sekce Praktické travel hacky). Vybírejte proto co nejvíc najednou.
 
 #### Neověřené
 
-- **Limit u Metalu:** 20 000 Kč je z přehledu poplatků Revolutu, podmínky placených plánů ale píšou o čtyřnásobku limitu Standardu, to by bylo 18 000 Kč. S 18 000 Kč by bez předchozí směny vycházel o pár desítek korun lépe Plus, s naší směnou 1 700 EUR pořád Metal. Přesný limit ukáže aplikace při výběru tarifu.
-- **Už provedená směna po změně tarifu:** předpoklad je, že se do limitu dál počítá.
+- **Limit u Metalu:** 20 000 Kč je z přehledu poplatků Revolutu, podmínky placených plánů ale píšou o čtyřnásobku limitu Standardu, to by bylo 18 000 Kč. S 18 000 Kč by při našem odhadu vyšel o asi 10 Kč lépe Plus (625 proti 635 Kč). Přesný limit ukáže aplikace při výběru tarifu.
 - **Víkendová přirážka ke kurzu** v kalkulačce není.
 - **Zrušení předplatného před koncem měsíce:** podmínky zkontrolovat v aplikaci před přechodem.
 - **Zdroje:** [Porovnání plánů Revolut](https://revolut.com/cs-CZ/our-pricing-plans), [Přehled poplatků (PDF)](https://cdn.revolut.com/terms_and_conditions/pdf/p_ehled_poplatk_7616acd6_1.5.2_1778170819_cs.pdf), [Poplatky plánu Premium](https://www.revolut.com/en-CZ/legal/premium-fees/).

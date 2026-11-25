@@ -2,6 +2,16 @@
 
 Itinerář Thajsko, aktuálně směr Bangkok → Phuket. Nejnovější verze nahoře.
 
+## v113: Předodletový checklist hotový, jednodušší kalkulačka Revolutu (25. 11. 2026)
+
+[web](https://polachp.github.io/dovolena-thajsko-2026/verze/v113/) · [Markdown](verze/v113/thajsko-bangkok-phuket.md) · [rozdíl proti v112](https://github.com/polachp/dovolena-thajsko-2026/compare/edbb031...507cb42)
+
+- Předodletový checklist: odškrtnuté TDAC, cestovní pojištění, finanční záloha, doklady a ubytování, přibyl hotový bod Online odbavení u Etihadu (let z Prahy). Všechny body jsou hotové.
+- Předodletový checklist, tabulka Co zařídit a kdy: pryč řádky s pojištěním a TDAC, odbavení se týká už jen zpátečního letu z Phuketu (asi 18. 12. odpoledne).
+- Co se ještě dořeší: cestovní pojištění je sjednané a odškrtnuté.
+- Revolut: kalkulačka má jen dvě pole, výběr z bankomatu a převod na bahty (směna v aplikaci nebo platba kartou). Pole s eury už směněnými v posledním měsíci a kurz jsou pryč, shrnutí a pásma tarifů jsou přepočtené bez předchozí směny.
+- Počet fází, nocí i data jsou beze změny proti v112.
+
 ## v112: Kalkulačka tarifů Revolutu (23. 11. 2026)
 
 [web](https://polachp.github.io/dovolena-thajsko-2026/verze/v112/) · [Markdown](verze/v112/thajsko-bangkok-phuket.md) · [rozdíl proti v111](https://github.com/polachp/dovolena-thajsko-2026/compare/4614962...edbb031)
