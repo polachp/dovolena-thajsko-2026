@@ -14,8 +14,8 @@ ROOT = Path(__file__).parent
 SABLONA = (ROOT / "src/sablona.html").read_text(encoding="utf-8")
 VERZE = json.loads((ROOT / "src/verze.json").read_text(encoding="utf-8"))
 
-# Odlet z Prahy pro odpocet v hlavicce (ISO 8601 vcetne posunu, CET = +01:00).
-ODLET = "2026-11-26T00:00:00+01:00"
+# Odlet z Prahy pro odpocet v hlavicce a na strance Dnes (ISO 8601 vcetne posunu, CET = +01:00), 26. 11. v 10:20.
+ODLET = "2026-11-26T10:20:00+01:00"
 # Odlet domů (let EY 413 z Phuketu, thajský čas UTC+7). Po odletu z Prahy běží odpočet v hlavičce k tomuto okamžiku.
 NAVRAT = "2026-12-19T21:00:00+07:00"
 

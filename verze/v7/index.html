@@ -520,7 +520,7 @@ body.na-dnes header.top .odpocet{display:none}
 // Odpocet v hlavicce. Data se nastavuji v build.py: ODLET (odlet z Prahy) a NAVRAT (odlet domu z Phuketu).
 // Pred odletem odpocitava do ODLET, behem cesty do NAVRAT, po odletu domu se schova.
 (function(){
-  var odlet=new Date('2026-11-26T00:00:00+01:00'), navrat=new Date('2026-12-19T21:00:00+07:00'), el=document.getElementById('odpocet');
+  var odlet=new Date('2026-11-26T10:20:00+01:00'), navrat=new Date('2026-12-19T21:00:00+07:00'), el=document.getElementById('odpocet');
   if(!el||isNaN(odlet)) return;
   var num=document.getElementById('odpocetNum'), det=document.getElementById('odpocetDet');
   function datum(d){return d.toLocaleDateString('cs-CZ',{day:'numeric',month:'numeric',year:'numeric'})}
@@ -1270,7 +1270,7 @@ body.na-dnes header.top .odpocet{display:none}
   // ---- termíny zrušení zdarma: přepínač thajský/český čas a sloupec Zbývá (od v65) ----
   // Tabulka se pozná podle sloupců Thajsko a Česko. Okamžik termínu se počítá z thajského sloupce (UTC+7),
   // rok podle data odletu. Výchozí je thajský čas, volba se neukládá.
-  var ROK_TERMINU=new Date('2026-11-26T00:00:00+01:00').getFullYear()||2026, terminyTik=null;
+  var ROK_TERMINU=new Date('2026-11-26T10:20:00+01:00').getFullYear()||2026, terminyTik=null;
   function zbyvaText(ms){
     if(ms<=0) return 'vypršelo';
     var dny=Math.floor(ms/864e5), hod=Math.floor(ms/36e5)%24, min=Math.floor(ms/6e4)%60;
@@ -1562,7 +1562,7 @@ body.na-dnes header.top .odpocet{display:none}
     function stranka1(re){return STRANKY.filter(function(s){return re.test(s.kratky||'')})[0]}
     if(n&&i<0&&den0<fz[0].r.od){
       // před cestou
-      var odlet=new Date('2026-11-26T00:00:00+01:00'), zb=odlet-ted, dny=Math.floor(zb/DEN), hod=Math.floor(zb/36e5)%24;
+      var odlet=new Date('2026-11-26T10:20:00+01:00'), zb=odlet-ted, dny=Math.floor(zb/DEN), hod=Math.floor(zb/36e5)%24;
       h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+'</span>';
       h+=zb>0?'<span class="odpocet-velky">'+dny+' '+(dny===1?'den':(dny>=2&&dny<=4?'dny':'dní'))+'</span><p>a '+hod+' h do odletu, '+esc(odlet.toLocaleDateString('cs-CZ',{weekday:'long',day:'numeric',month:'numeric'}))+'</p>':'<h2>Letíte</h2><p>Přílet do první fáze '+esc(fz[0].s.sub)+'</p>';
       h+='</div>';
