@@ -524,8 +524,9 @@ body.na-dnes header.top .odpocet{display:none}
     }
     var zbyva=cil-ted;
     var dny=Math.floor(zbyva/864e5), hod=Math.floor(zbyva/36e5)%24, min=Math.floor(zbyva/6e4)%60;
-    num.textContent=dny+' '+sklon(dny);
-    det.textContent='a '+hod+' h '+min+' min '+popis+' · '+datum(cil);
+    // pod 24 hodin hodiny a minuty místo dnů (od 25. 11. 2026)
+    num.textContent=dny<1?hod+' h':dny+' '+sklon(dny);
+    det.textContent=(dny<1?'a '+min+' min ':'a '+hod+' h '+min+' min ')+popis+' · '+datum(cil);
     el.hidden=false;
   }
   tik(); timer=setInterval(tik,10000);
@@ -1527,6 +1528,11 @@ body.na-dnes header.top .odpocet{display:none}
       return '<li><span>'+esc(r.stitek)+'<span class="z" style="display:block;margin-top:2px">'+esc(r.b.kde)+'</span></span><a class="btn" href="'+meteoblue(r.b)+'" target="_blank" rel="noopener">Týden</a></li>';
     }).join('')+'</ul><span class="p">Otevře se web meteoblue, potřebuje připojení.</span></div>';
   }
+  // Odpočet na stránce Dnes: dny a hodiny, pod 24 hodin hodiny a minuty (od 25. 11. 2026).
+  function odpocetDnes(zb){
+    var dny=Math.floor(zb/DEN), hod=Math.floor(zb/36e5)%24, min=Math.floor(zb/6e4)%60;
+    return dny<1?{velky:hod+' h',maly:'a '+min+' min'}:{velky:dny+' '+(dny===1?'den':(dny>=2&&dny<=4?'dny':'dní')),maly:'a '+hod+' h'};
+  }
   function dnesStranka(){
     zrusMapu();
     main.innerHTML='';
@@ -1552,9 +1558,9 @@ body.na-dnes header.top .odpocet{display:none}
     function stranka1(re){return STRANKY.filter(function(s){return re.test(s.kratky||'')})[0]}
     if(n&&i<0&&den0<fz[0].r.od){
       // před cestou
-      var odlet=new Date('{{ODLET}}'), zb=odlet-ted, dny=Math.floor(zb/DEN), hod=Math.floor(zb/36e5)%24;
+      var odlet=new Date('{{ODLET}}'), zb=odlet-ted, oz=odpocetDnes(zb);
       h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+'</span>';
-      h+=zb>0?'<span class="odpocet-velky">'+dny+' '+(dny===1?'den':(dny>=2&&dny<=4?'dny':'dní'))+'</span><p>a '+hod+' h do odletu, '+esc(odlet.toLocaleDateString('cs-CZ',{weekday:'long',day:'numeric',month:'numeric'}))+'</p>':'<h2>Letíte</h2><p>Přílet do první fáze '+esc(fz[0].s.sub)+'</p>';
+      h+=zb>0?'<span class="odpocet-velky">'+oz.velky+'</span><p>'+oz.maly+' do odletu, '+esc(odlet.toLocaleDateString('cs-CZ',{weekday:'long',day:'numeric',month:'numeric'}))+'</p>':'<h2>Letíte</h2><p>Přílet do první fáze '+esc(fz[0].s.sub)+'</p>';
       h+='</div>';
       h+=lhutyKarta();
       h+=pocasiKarta([{stitek:'První místo, od '+odData(fz[0].r),b:bodFaze(fz[0].s.faze)},
@@ -1567,7 +1573,9 @@ body.na-dnes header.top .odpocet{display:none}
       // během cesty
       var x=fz[i], noci=Math.round((x.r.do-x.r.od)/DEN), noc=Math.floor((den0-x.r.od)/DEN)+1;
       var celkem=Math.round((fz[n-1].r.do-fz[0].r.od)/DEN)+1, denC=Math.floor((den0-fz[0].r.od)/DEN)+1;
-      h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+' · den '+denC+' z '+celkem+'</span><h2>'+esc(x.s.kratky)+'</h2><p>Fáze '+x.s.faze+' z '+n+' · '+(denOdletu?'den odletu':'noc '+noc+' z '+noci)+'</p></div>';
+      var zbN=new Date('{{NAVRAT}}')-ted, ozN=odpocetDnes(zbN);
+      h+='<div class="kde"><span class="lbl-m">'+esc(datumTxt)+' · den '+denC+' z '+celkem+'</span><h2>'+esc(x.s.kratky)+'</h2><p>Fáze '+x.s.faze+' z '+n+' · '+(denOdletu?'den odletu':'noc '+noc+' z '+noci)+'</p>'+
+         (zbN>0?'<p>Do odletu domů <b>'+ozN.velky+'</b> '+ozN.maly+' (Phuket, 21:00 thajského času)</p>':'')+'</div>';
       if(denOdletu) noc=noci;
       var pas=''; for(var k=0;k<n;k++) pas+='<i class="'+(k<i?'hotovo':(k===i?'ted':''))+'"'+(k===i?' style="--p:'+Math.round((noc-.5)/noci*100)+'%"':'')+'></i>';
       h+='<div><div class="pas" style="--n:'+n+'" role="img" aria-label="Postup po trase: fáze '+x.s.faze+' z '+n+'">'+pas+'</div><div class="pas-po"><span>'+esc(fz[0].s.kratky.split(',')[0])+'</span><span>'+esc(fz[n-1].s.kratky.split(',')[0])+'</span></div></div>';
